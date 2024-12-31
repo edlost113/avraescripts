@@ -1,0 +1,4442 @@
+[
+    {
+      "page": "119",
+      "book": "TCE",
+      "name": "Alchemical Compendium",
+      "price": "2000"
+    },
+    {
+      "name": "All-Purpose Tool +1",
+      "page": "119",
+      "book": "TCE",
+      "price": "1500"
+    },
+    {
+      "name": "All-Purpose Tool +2",
+      "page": "119",
+      "price": "5000",
+      "book": "TCE"
+    },
+    {
+      "name": "All-Purpose Tool +3",
+      "book": "TCE",
+      "price": "20000",
+      "page": "119"
+    },
+    {
+      "name": "Amulet of the Devout +1",
+      "price": "1500",
+      "page": "119",
+      "book": "TCE"
+    },
+    {
+      "page": "119",
+      "price": "5000",
+      "book": "TCE",
+      "name": "Amulet of the Devout +2"
+    },
+    {
+      "name": "Amulet of the Devout +3",
+      "price": "20000",
+      "page": "119",
+      "book": "TCE"
+    },
+    {
+      "book": "TCE",
+      "name": "Arcane Grimoire +1",
+      "page": "120",
+      "price": "1500"
+    },
+    {
+      "name": "Arcane Grimoire +2",
+      "book": "TCE",
+      "page": "120",
+      "price": "5000"
+    },
+    {
+      "name": "Arcane Grimoire +3",
+      "page": "120",
+      "book": "TCE",
+      "price": "20000"
+    },
+    {
+      "page": "120",
+      "price": "4000",
+      "book": "TCE",
+      "name": "Astral Shard"
+    },
+    {
+      "page": "120",
+      "book": "TCE",
+      "name": "Astromancy Archive",
+      "price": "2000"
+    },
+    {
+      "book": "TCE",
+      "name": "Atlas of Endless Horizons",
+      "price": "2000",
+      "page": "120"
+    },
+    {
+      "name": "Bell Branch",
+      "page": "122",
+      "book": "TCE",
+      "price": "2000"
+    },
+    {
+      "price": "1500",
+      "page": "122",
+      "name": "Bloodwell Vial +1",
+      "book": "TCE"
+    },
+    {
+      "name": "Bloodwell Vial +2",
+      "price": "5000",
+      "page": "122",
+      "book": "TCE"
+    },
+    {
+      "name": "Bloodwell Vial +3",
+      "page": "122",
+      "book": "TCE",
+      "price": "20000"
+    },
+    {
+      "book": "TCE",
+      "price": "100000",
+      "page": "122",
+      "name": "Cauldron of Rebirth"
+    },
+    {
+      "price": "25000",
+      "name": "Crystalline Chronicle",
+      "book": "TCE",
+      "page": "124"
+    },
+    {
+      "name": "Demonomicon of Iggwilv",
+      "price": "50000",
+      "book": "TCE",
+      "page": "125"
+    },
+    {
+      "price": "4000",
+      "book": "TCE",
+      "page": "126",
+      "name": "Devotee's Censer"
+    },
+    {
+      "page": "127",
+      "book": "TCE",
+      "price": "4000",
+      "name": "Elementale Essence Shard"
+    },
+    {
+      "page": "127",
+      "name": "Feywild Shard",
+      "price": "4000",
+      "book": "TCE"
+    },
+    {
+      "book": "TCE",
+      "price": "4000",
+      "page": "128",
+      "name": "Fulminating Treatise"
+    },
+    {
+      "name": "Guardian Emblem",
+      "page": "128",
+      "book": "TCE",
+      "price": "2000"
+    },
+    {
+      "book": "TCE",
+      "price": "2000",
+      "name": "Heart Weaver's Primer",
+      "page": "128"
+    },
+    {
+      "book": "TCE",
+      "name": "Libram of Lost Souls",
+      "page": "129",
+      "price": "2000"
+    },
+    {
+      "page": "119",
+      "book": "TCE",
+      "name": "Magic Tattoo - Absorbing",
+      "price": "24000"
+    },
+    {
+      "book": "TCE",
+      "name": "Magic Tattoo - Barrier - Rare",
+      "price": "12000",
+      "page": "122"
+    },
+    {
+      "name": "Magic Tattoo - Barrier - Uncommon",
+      "page": "122",
+      "book": "TCE",
+      "price": "6000"
+    },
+    {
+      "book": "TCE",
+      "price": "24000",
+      "name": "Magic Tattoo - Barrier - Very Rare",
+      "page": "122"
+    },
+    {
+      "book": "TCE",
+      "page": "122",
+      "name": "Magic Tattoo - Blood Fury",
+      "price": "3000"
+    },
+    {
+      "name": "Magic Tattoo - Coiling Grasp",
+      "price": "3000",
+      "page": "123",
+      "book": "TCE"
+    },
+    {
+      "book": "TCE",
+      "page": "126",
+      "name": "Magic Tattoo - Eldritch Claw",
+      "price": "500"
+    },
+    {
+      "book": "TCE",
+      "price": "3000",
+      "page": "128",
+      "name": "Magic Tattoo - Ghost Step"
+    },
+    {
+      "page": "129",
+      "book": "TCE",
+      "price": "500",
+      "name": "Magic Tattoo - Illuminator's"
+    },
+    {
+      "book": "TCE",
+      "name": "Magic Tattoo - Lifewell",
+      "page": "129",
+      "price": "2000"
+    },
+    {
+      "name": "Magic Tattoo - Masquerade",
+      "book": "TCE",
+      "price": "500",
+      "page": "131"
+    },
+    {
+      "name": "Magic Tattoo - Shadowfell Brand",
+      "book": "TCE",
+      "page": "134",
+      "price": "2000"
+    },
+    {
+      "price": "300",
+      "book": "TCE",
+      "name": "Magic Tattoo - Spellwrought - 1st Level",
+      "page": "135"
+    },
+    {
+      "book": "TCE",
+      "price": "600",
+      "name": "Magic Tattoo - Spellwrought - 2nd Level",
+      "page": "135"
+    },
+    {
+      "page": "135",
+      "book": "TCE",
+      "price": "1000",
+      "name": "Magic Tattoo - Spellwrought - 3rd Level"
+    },
+    {
+      "price": "1600",
+      "name": "Magic Tattoo - Spellwrought - 4th Level",
+      "book": "TCE",
+      "page": "135"
+    },
+    {
+      "price": "3200",
+      "book": "TCE",
+      "name": "Magic Tattoo - Spellwrought - 5th Level",
+      "page": "135"
+    },
+    {
+      "name": "Magic Tattoo - Spellwrought - Cantrip",
+      "price": "50",
+      "book": "TCE",
+      "page": "135"
+    },
+    {
+      "page": "131",
+      "name": "Mighty Servant of Leuk-0",
+      "book": "TCE",
+      "price": "80000"
+    },
+    {
+      "book": "TCE",
+      "price": "1500",
+      "page": "133",
+      "name": "Moon Sickle + 1"
+    },
+    {
+      "price": "5000",
+      "name": "Moon Sickle + 2",
+      "page": "133",
+      "book": "TCE"
+    },
+    {
+      "book": "TCE",
+      "page": "133",
+      "price": "20000",
+      "name": "Moon Sickle + 3"
+    },
+    {
+      "book": "TCE",
+      "name": "Nature's Mantle",
+      "price": "2000",
+      "page": "133"
+    },
+    {
+      "name": "Outer Essence Shard",
+      "book": "TCE",
+      "page": "133",
+      "price": "4000"
+    },
+    {
+      "book": "TCE",
+      "name": "Planecaller's Codex",
+      "price": "2000",
+      "page": "134"
+    },
+    {
+      "book": "TCE",
+      "price": "100",
+      "page": "134",
+      "name": "Prosthetic Limb"
+    },
+    {
+      "price": "1500",
+      "book": "TCE",
+      "name": "Rhythm-Maker's Drum +1",
+      "page": "134"
+    },
+    {
+      "name": "Rhythm-Maker's Drum +2",
+      "price": "5000",
+      "book": "TCE",
+      "page": "134"
+    },
+    {
+      "book": "TCE",
+      "price": "20000",
+      "name": "Rhythm-Maker's Drum +3",
+      "page": "134"
+    },
+    {
+      "price": "4000",
+      "book": "TCE",
+      "name": "Shadowfell Shard",
+      "page": "135"
+    },
+    {
+      "name": "Keyrune - Azorius",
+      "book": "GGR",
+      "price": "5000",
+      "page": "177"
+    },
+    {
+      "book": "GGR",
+      "name": "Keyrune - Boros",
+      "price": "6000",
+      "page": "177"
+    },
+    {
+      "name": "Keyrune - Dimir",
+      "book": "GGR",
+      "price": "10000",
+      "page": "177"
+    },
+    {
+      "book": "GGR",
+      "page": "177",
+      "price": "6000",
+      "name": "Keyrune - Golgari"
+    },
+    {
+      "price": "4000",
+      "page": "177",
+      "name": "Keyrune - Gruul",
+      "book": "GGR"
+    },
+    {
+      "name": "Keyrune - Izzet",
+      "price": "4000",
+      "book": "GGR",
+      "page": "177"
+    },
+    {
+      "name": "Keyrune - Orzhov",
+      "book": "GGR",
+      "page": "178",
+      "price": "2000"
+    },
+    {
+      "page": "178",
+      "book": "GGR",
+      "name": "Keyrune - Rakdos",
+      "price": "2000"
+    },
+    {
+      "page": "178",
+      "book": "GGR",
+      "name": "Keyrune - Selesnya",
+      "price": "2000"
+    },
+    {
+      "page": "178",
+      "book": "GGR",
+      "price": "2000",
+      "name": "Keyrune - Simic"
+    },
+    {
+      "price": "1500",
+      "book": "GGR",
+      "name": "Guild Signet",
+      "page": "178"
+    },
+    {
+      "book": "GGR",
+      "page": "178",
+      "name": "Illusionist's Bracers",
+      "price": "15000"
+    },
+    {
+      "page": "179",
+      "price": "1300",
+      "book": "GGR",
+      "name": "Mizzium Apparatus"
+    },
+    {
+      "name": "Mizzium Armor",
+      "book": "GGR",
+      "price": "1500",
+      "page": "179"
+    },
+    {
+      "name": "Mizium Mortar",
+      "price": "5000",
+      "page": "179",
+      "book": "GGR"
+    },
+    {
+      "page": "180",
+      "price": "5",
+      "book": "GGR",
+      "name": "Moodmark Paint"
+    },
+    {
+      "name": "Pariah's Shield",
+      "book": "GGR",
+      "page": "180",
+      "price": "10000"
+    },
+    {
+      "page": "180",
+      "name": "Peregrine's Mask",
+      "book": "GGR",
+      "price": "12000"
+    },
+    {
+      "book": "GGR",
+      "name": "Pyroconverger",
+      "price": "50",
+      "page": "180"
+    },
+    {
+      "name": "Rakdos Riteknife",
+      "page": "180",
+      "book": "GGR",
+      "price": "18000"
+    },
+    {
+      "page": "181",
+      "book": "GGR",
+      "name": "Skyblinder Staff",
+      "price": "100"
+    },
+    {
+      "name": "Spies' Murmur",
+      "page": "181",
+      "book": "GGR",
+      "price": "2000"
+    },
+    {
+      "book": "GGR",
+      "price": "3000",
+      "name": "Sunforger",
+      "page": "181"
+    },
+    {
+      "page": "181",
+      "name": "Sword of the Paruns",
+      "price": "6000",
+      "book": "GGR"
+    },
+    {
+      "page": "181",
+      "book": "GGR",
+      "name": "Voyager Staff",
+      "price": "90000"
+    },
+    {
+      "book": "XGE",
+      "page": "136",
+      "name": "Armor of Gleaming",
+      "price": "200"
+    },
+    {
+      "name": "Bead of Nourishment",
+      "book": "XGE",
+      "page": "136",
+      "price": "1"
+    },
+    {
+      "page": "136",
+      "price": "1",
+      "name": "Bead of Refreshment",
+      "book": "XGE"
+    },
+    {
+      "book": "XGE",
+      "page": "136",
+      "price": "200",
+      "name": "Boots of False Tracks"
+    },
+    {
+      "name": "Candle of the Deep",
+      "price": "200",
+      "book": "XGE",
+      "page": "136"
+    },
+    {
+      "book": "XGE",
+      "price": "200",
+      "page": "136",
+      "name": "Cast-Off Armor"
+    },
+    {
+      "price": "1000",
+      "book": "XGE",
+      "name": "Charlatan's Die",
+      "page": "136"
+    },
+    {
+      "book": "XGE",
+      "name": "Cloak of Billowing",
+      "price": "100",
+      "page": "136"
+    },
+    {
+      "page": "136",
+      "book": "XGE",
+      "price": "100",
+      "name": "Cloak of Many Fashions"
+    },
+    {
+      "page": "137",
+      "book": "XGE",
+      "name": "Clockwork Amulet",
+      "price": "500"
+    },
+    {
+      "book": "XGE",
+      "name": "Clothes of Mending",
+      "price": "100",
+      "page": "137"
+    },
+    {
+      "page": "137",
+      "book": "XGE",
+      "name": "Dark Shard Amulet",
+      "price": "300"
+    },
+    {
+      "book": "XGE",
+      "name": "Dread Helm",
+      "price": "100",
+      "page": "137"
+    },
+    {
+      "book": "XGE",
+      "name": "Ear Horn of Hearing",
+      "page": "137",
+      "price": "200"
+    },
+    {
+      "page": "137",
+      "book": "XGE",
+      "price": "100",
+      "name": "Enduring Spellbook"
+    },
+    {
+      "price": "100",
+      "book": "XGE",
+      "page": "137",
+      "name": "Ersatz Eye"
+    },
+    {
+      "book": "XGE",
+      "page": "137",
+      "price": "150",
+      "name": "Hat of Vermin"
+    },
+    {
+      "page": "137",
+      "name": "Hat of Wizardry",
+      "book": "XGE",
+      "price": "300"
+    },
+    {
+      "page": "137",
+      "name": "Heward's Handy Spice Pouch",
+      "price": "50",
+      "book": "XGE"
+    },
+    {
+      "book": "XGE",
+      "price": "100",
+      "page": "137",
+      "name": "Horn of Silent Alarm"
+    },
+    {
+      "book": "XGE",
+      "price": "100",
+      "page": "137",
+      "name": "Instrument of Illusions"
+    },
+    {
+      "page": "138",
+      "name": "Instrument of Scribing",
+      "price": "100",
+      "book": "XGE"
+    },
+    {
+      "book": "XGE",
+      "name": "Lock of Trickery",
+      "price": "50",
+      "page": "138"
+    },
+    {
+      "price": "50",
+      "page": "138",
+      "name": "Moon-Touched Sword",
+      "book": "XGE"
+    },
+    {
+      "page": "138",
+      "book": "XGE",
+      "name": "Mystery Key",
+      "price": "5"
+    },
+    {
+      "book": "XGE",
+      "name": "Orb of Direction",
+      "page": "138",
+      "price": "20"
+    },
+    {
+      "book": "XGE",
+      "name": "Orb of Time",
+      "price": "20",
+      "page": "138"
+    },
+    {
+      "price": "10",
+      "name": "Perfume of Bewitching",
+      "book": "XGE",
+      "page": "138"
+    },
+    {
+      "page": "138",
+      "price": "50",
+      "book": "XGE",
+      "name": "Pipe of Smoke Monsters"
+    },
+    {
+      "book": "XGE",
+      "page": "138",
+      "price": "20",
+      "name": "Pole of Angling"
+    },
+    {
+      "price": "10",
+      "book": "XGE",
+      "page": "138",
+      "name": "Pole of Collapsing"
+    },
+    {
+      "book": "XGE",
+      "price": "30",
+      "page": "138",
+      "name": "Pot of Awakening"
+    },
+    {
+      "price": "15",
+      "page": "138",
+      "book": "XGE",
+      "name": "Rope of Mending"
+    },
+    {
+      "book": "XGE",
+      "price": "50",
+      "name": "Ruby of the War Mage",
+      "page": "138"
+    },
+    {
+      "name": "Shield of Expression",
+      "book": "XGE",
+      "price": "100",
+      "page": "139"
+    },
+    {
+      "name": "Smoldering Armor",
+      "book": "XGE",
+      "price": "100",
+      "page": "139"
+    },
+    {
+      "name": "Staff of Adornment",
+      "page": "139",
+      "book": "XGE",
+      "price": "20"
+    },
+    {
+      "name": "Staff of Birdcalls",
+      "book": "XGE",
+      "price": "20",
+      "page": "139"
+    },
+    {
+      "book": "XGE",
+      "name": "Staff of Flowers",
+      "price": "20",
+      "page": "139"
+    },
+    {
+      "book": "XGE",
+      "price": "30",
+      "page": "139",
+      "name": "Talking Doll"
+    },
+    {
+      "book": "XGE",
+      "name": "Tankard of Sobriety",
+      "page": "139",
+      "price": "10"
+    },
+    {
+      "page": "139",
+      "book": "XGE",
+      "price": "1",
+      "name": "Unbreakable Arrow"
+    },
+    {
+      "book": "XGE",
+      "name": "Veteran's Cane",
+      "page": "139",
+      "price": "45"
+    },
+    {
+      "price": "5",
+      "name": "Walloping Ammunition",
+      "book": "XGE",
+      "page": "139"
+    },
+    {
+      "price": "25",
+      "book": "XGE",
+      "page": "140",
+      "name": "Wand of Conducting"
+    },
+    {
+      "book": "XGE",
+      "name": "Wand of Pyrotechnics",
+      "page": "140",
+      "price": "25"
+    },
+    {
+      "book": "XGE",
+      "name": "Wand of Scowls",
+      "page": "140",
+      "price": "25"
+    },
+    {
+      "page": "140",
+      "name": "Wand of Smiles",
+      "price": "25",
+      "book": "XGE"
+    },
+    {
+      "name": "Akmon, Hammer of Purphoros",
+      "book": "MOT",
+      "page": "198",
+      "price": "80000"
+    },
+    {
+      "page": "199",
+      "book": "MOT",
+      "price": "80000",
+      "name": "Dekella, Bident of Thassa"
+    },
+    {
+      "page": "200",
+      "name": "Ephixis, Bow of Nylea",
+      "book": "MOT",
+      "price": "80000"
+    },
+    {
+      "name": "Flying Chariot",
+      "book": "MOT",
+      "price": "12000",
+      "page": "196"
+    },
+    {
+      "name": "Helm of the Gods",
+      "page": "196",
+      "book": "MOT",
+      "price": "7500"
+    },
+    {
+      "price": "80000",
+      "name": "Khrusor, Spear of Heliod",
+      "book": "MOT",
+      "page": "200"
+    },
+    {
+      "name": "Mastix, Whip of Erebos",
+      "price": "80000",
+      "page": "201",
+      "book": "MOT"
+    },
+    {
+      "name": "Molten Bronze Skin (Breastplate)",
+      "price": "7000",
+      "page": "197",
+      "book": "MOT"
+    },
+    {
+      "name": "Molten Bronze Skin (Half Plate)",
+      "page": "197",
+      "book": "MOT",
+      "price": "7350"
+    },
+    {
+      "book": "MOT",
+      "page": "197",
+      "price": "8100",
+      "name": "Molten Bronze Skin (Plate)"
+    },
+    {
+      "price": "300",
+      "page": "197",
+      "book": "MOT",
+      "name": "Potion of Aqueous Form"
+    },
+    {
+      "name": "Pyxis of Pandemonium",
+      "price": "10000",
+      "book": "MOT",
+      "page": "197"
+    },
+    {
+      "price": "1000",
+      "name": "Siren Song Lyre",
+      "page": "198",
+      "book": "MOT"
+    },
+    {
+      "page": "198",
+      "book": "MOT",
+      "price": "15000",
+      "name": "Sling Bullets of Althemone"
+    },
+    {
+      "price": "1500",
+      "page": "198",
+      "name": "Two-Birds Sling",
+      "book": "MOT"
+    },
+    {
+      "price": "100",
+      "name": "Piety 1",
+      "page": "36",
+      "book": "MOT"
+    },
+    {
+      "name": "Piety 3",
+      "price": "5000",
+      "page": "36",
+      "book": "MOT"
+    },
+    {
+      "book": "MOT",
+      "name": "Piety 10",
+      "price": "15000",
+      "page": "36"
+    },
+    {
+      "book": "MOT",
+      "price": "50000",
+      "page": "36",
+      "name": "Piety 25"
+    },
+    {
+      "name": "Piety 50",
+      "book": "MOT",
+      "page": "36",
+      "price": "200000"
+    },
+    {
+      "page": "208",
+      "name": "Bobbing Lily Pad",
+      "price": "6000",
+      "book": "WDW"
+    },
+    {
+      "price": "100",
+      "name": "Chromatic Rose",
+      "page": "208",
+      "book": "WDW"
+    },
+    {
+      "price": "500",
+      "name": "Dust of Corrosion",
+      "book": "WDW",
+      "page": "209"
+    },
+    {
+      "name": "Eldritch Staff",
+      "price": "20000",
+      "page": "209",
+      "book": "WDW"
+    },
+    {
+      "name": "Iggwilv's Cauldron",
+      "price": "100000",
+      "book": "WDW",
+      "page": "209"
+    },
+    {
+      "page": "211",
+      "book": "WDW",
+      "name": "Instrument of Scribing",
+      "price": "100"
+    },
+    {
+      "price": "50",
+      "page": "212",
+      "book": "WDW",
+      "name": "Orb of Direction"
+    },
+    {
+      "name": "Ornithopter of Flying",
+      "price": "7000",
+      "page": "212",
+      "book": "WDW"
+    },
+    {
+      "book": "WDW",
+      "name": "Pixie Dust",
+      "page": "212",
+      "price": "250"
+    },
+    {
+      "book": "WDW",
+      "name": "Pole of Collapsing",
+      "price": "10",
+      "page": "212"
+    },
+    {
+      "name": "Potion of Advantage",
+      "book": "WDW",
+      "page": "212",
+      "price": "100"
+    },
+    {
+      "book": "WDW",
+      "page": "213",
+      "name": "Scissors of Shadow Snipping",
+      "price": "2000"
+    },
+    {
+      "page": "213",
+      "book": "WDW",
+      "price": "24000",
+      "name": "Snicker-Snack"
+    },
+    {
+      "price": "6000",
+      "page": "214",
+      "book": "WDW",
+      "name": "Steel"
+    },
+    {
+      "price": "18000",
+      "page": "27",
+      "book": "WDW",
+      "name": "Witchlight Vane"
+    },
+    {
+      "price": "18000",
+      "page": "25",
+      "book": "WDW",
+      "name": "Witchlight Watch"
+    },
+    {
+      "page": "214",
+      "name": "Woodcutters Axe",
+      "price": "2000",
+      "book": "WDW"
+    },
+    {
+      "name": "+1 Dragonhide Belt",
+      "page": "23",
+      "price": "1500",
+      "book": "FTD"
+    },
+    {
+      "price": "5000",
+      "page": "23",
+      "book": "FTD",
+      "name": "+2 Dragonhide Belt"
+    },
+    {
+      "price": "20000",
+      "name": "+3 Dragonhide Belt",
+      "page": "23",
+      "book": "FTD"
+    },
+    {
+      "price": "10000",
+      "page": "22",
+      "book": "FTD",
+      "name": "Amethyst Lodestone"
+    },
+    {
+      "book": "FTD",
+      "name": "Slumbering Dragon Vessel",
+      "price": "800",
+      "page": "29"
+    },
+    {
+      "price": "2000",
+      "name": "Dragon Wing Bow",
+      "book": "FTD",
+      "page": "23"
+    },
+    {
+      "price": "250",
+      "page": "26",
+      "book": "FTD",
+      "name": "Slumbering Dragon Touched Focus"
+    },
+    {
+      "price": "1250",
+      "book": "FTD",
+      "page": "26",
+      "name": "Stirring Dragon Touched Focus"
+    },
+    {
+      "price": "5000",
+      "name": "Wakened Dragon Touched Focus",
+      "book": "FTD",
+      "page": "26"
+    },
+    {
+      "name": "Ascendant Dragon Touched Focus",
+      "page": "26",
+      "price": "20000",
+      "book": "FTD"
+    },
+    {
+      "page": "23",
+      "book": "FTD",
+      "name": "Dragonlance",
+      "price": "18000"
+    },
+    {
+      "name": "Emerald Pen",
+      "price": "50",
+      "page": "23",
+      "book": "FTD"
+    },
+    {
+      "price": "40000",
+      "book": "FTD",
+      "page": "23",
+      "name": "Flail of Tiamat"
+    },
+    {
+      "book": "FTD",
+      "name": "Gold Canary Figurine",
+      "price": "13000",
+      "page": "23"
+    },
+    {
+      "page": "24",
+      "name": "Platinum Scarf",
+      "price": "30000",
+      "book": "FTD"
+    },
+    {
+      "page": "24",
+      "price": "50000",
+      "name": "Ruby Weave Gem",
+      "book": "FTD"
+    },
+    {
+      "price": "24000",
+      "name": "Sapphire Buckler",
+      "page": "24",
+      "book": "FTD"
+    },
+    {
+      "price": "250",
+      "page": "27",
+      "name": "Slumbering Scaled Oranment",
+      "book": "FTD"
+    },
+    {
+      "name": "Stirring Scaled Ornament",
+      "book": "FTD",
+      "price": "2000",
+      "page": "27"
+    },
+    {
+      "page": "27",
+      "book": "FTD",
+      "price": "6000",
+      "name": "Wakened Scaled Ornament"
+    },
+    {
+      "book": "FTD",
+      "page": "27",
+      "price": "12000",
+      "name": "Ascendant Scaled Ornament"
+    },
+    {
+      "price": "10000",
+      "book": "FTD",
+      "page": "24",
+      "name": "Topaz Annihilator"
+    },
+    {
+      "name": "Stirring Dragon Vessel",
+      "page": "29",
+      "book": "FTD",
+      "price": "2500"
+    },
+    {
+      "book": "FTD",
+      "name": "Wakened Dragon Vessel",
+      "page": "29",
+      "price": "7500"
+    },
+    {
+      "book": "FTD",
+      "page": "29",
+      "name": "Ascendant Dragon Vessel",
+      "price": "23000"
+    },
+    {
+      "name": "Potion of Dragon's Majesty",
+      "book": "FTD",
+      "price": "10000",
+      "page": "24"
+    },
+    {
+      "page": "25",
+      "book": "FTD",
+      "name": "Slumbering Dragon's Wrath Weapon",
+      "price": "1500"
+    },
+    {
+      "name": "Stirring Dragon's Wrath Weapon",
+      "page": "25",
+      "book": "FTD",
+      "price": "30000"
+    },
+    {
+      "book": "FTD",
+      "name": "Wakened Dragon's Wrath Weapon",
+      "price": "12000",
+      "page": "25"
+    },
+    {
+      "book": "FTD",
+      "price": "40000",
+      "name": "Ascendant Dragon's Wrath Weapon",
+      "page": "25"
+    },
+    {
+      "book": "CM",
+      "name": "Alchemy Jug (Blue)",
+      "price": "6000",
+      "page": "144"
+    },
+    {
+      "name": "Alchemy Jug (Orange)",
+      "book": "CM",
+      "price": "6000",
+      "page": "144"
+    },
+    {
+      "book": "CM",
+      "price": "10",
+      "name": "Cracked Driftglobe",
+      "page": "110"
+    },
+    {
+      "book": "CM",
+      "price": "25000",
+      "page": "169",
+      "name": "Gloves of Soul Catching"
+    },
+    {
+      "book": "CM",
+      "name": "Nether Scroll of Azumar",
+      "price": "200000",
+      "page": "210"
+    },
+    {
+      "price": "1000",
+      "page": "44",
+      "book": "CM",
+      "name": "Orcus Figurine"
+    },
+    {
+      "name": "Radiance",
+      "book": "CM",
+      "page": "87",
+      "price": "2000"
+    },
+    {
+      "page": "98",
+      "book": "CM",
+      "name": "Serpent Scale Armor",
+      "price": "10000"
+    },
+    {
+      "price": "4500",
+      "name": "Serpent's Fang",
+      "book": "CM",
+      "page": "98"
+    },
+    {
+      "book": "CM",
+      "page": "183",
+      "name": "Staff of Fate",
+      "price": "17000"
+    },
+    {
+      "page": "132",
+      "book": "CM",
+      "name": "Stonky's Ring",
+      "price": "2000"
+    },
+    {
+      "name": "Watchful Helm",
+      "page": "183",
+      "book": "CM",
+      "price": "2500"
+    },
+    {
+      "price": "18000",
+      "book": "DSDQ",
+      "page": "189",
+      "name": "Dragonlance"
+    },
+    {
+      "name": "Fargab",
+      "price": "1000",
+      "book": "DSDQ",
+      "page": "188"
+    },
+    {
+      "book": "DSDQ",
+      "page": "190",
+      "price": "6000",
+      "name": "Flying Citadel Helm"
+    },
+    {
+      "book": "DSDQ",
+      "price": "1",
+      "name": "Hoopak",
+      "page": "188"
+    },
+    {
+      "book": "DSDQ",
+      "name": "Kagonesti Forest Shroud",
+      "price": "50000",
+      "page": "190"
+    },
+    {
+      "book": "DSDQ",
+      "name": "Mirror of Reflected Pasts",
+      "page": "190",
+      "price": "4000"
+    },
+    {
+      "name": "Narycrash",
+      "book": "DSDQ",
+      "price": "1500",
+      "page": "188"
+    },
+    {
+      "page": "265",
+      "price": "500",
+      "book": "EGW",
+      "name": "Acheron Blade"
+    },
+    {
+      "book": "EGW",
+      "name": "Amulet of the Drunkard",
+      "price": "3000",
+      "page": "265"
+    },
+    {
+      "book": "EGW",
+      "name": "Arcane Cannon",
+      "price": "5000",
+      "page": "265"
+    },
+    {
+      "name": "Battering Shield",
+      "price": "2000",
+      "book": "EGW",
+      "page": "266"
+    },
+    {
+      "book": "EGW",
+      "price": "2000",
+      "name": "Blade of Broken Mirrors (Dormant)",
+      "page": "275"
+    },
+    {
+      "book": "EGW",
+      "page": "275",
+      "price": "8000",
+      "name": "Blade of Broken Mirrors (Awakened)"
+    },
+    {
+      "page": "275",
+      "price": "30000",
+      "name": "Blade of Broken Mirrors (Exalted)",
+      "book": "EGW"
+    },
+    {
+      "name": "Blasting Powder",
+      "page": "225",
+      "price": "1",
+      "book": "EGW"
+    },
+    {
+      "name": "Explosive Seed",
+      "price": "1",
+      "page": "225",
+      "book": "EGW"
+    },
+    {
+      "name": "Bloodaxe",
+      "book": "EGW",
+      "price": "5000",
+      "page": "266"
+    },
+    {
+      "page": "266",
+      "book": "EGW",
+      "name": "Breathing Bubble",
+      "price": "500"
+    },
+    {
+      "book": "EGW",
+      "name": "Brooch of Living Essence",
+      "price": "50",
+      "page": "266"
+    },
+    {
+      "page": "266",
+      "book": "EGW",
+      "price": "1500",
+      "name": "Butcher's Bib"
+    },
+    {
+      "page": "266",
+      "book": "EGW",
+      "price": "5",
+      "name": "Coin of Delving"
+    },
+    {
+      "name": "Corpse Slayer",
+      "book": "EGW",
+      "page": "266",
+      "price": "5000"
+    },
+    {
+      "price": "2000",
+      "book": "EGW",
+      "page": "270",
+      "name": "Danoth's Visor (Dormant)"
+    },
+    {
+      "price": "5000",
+      "page": "270",
+      "name": "Danoth's Visor (Awakened)",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "name": "Danoth's Visor (Exalted)",
+      "price": "10000",
+      "page": "270"
+    },
+    {
+      "page": "266",
+      "name": "Dispelling Stone",
+      "book": "EGW",
+      "price": "1000"
+    },
+    {
+      "name": "Duskcrusher",
+      "price": "10000",
+      "page": "266",
+      "book": "EGW"
+    },
+    {
+      "page": "267",
+      "book": "EGW",
+      "price": "10",
+      "name": "Dust of Deliciousness"
+    },
+    {
+      "name": "Goggles of Object Reading",
+      "book": "EGW",
+      "price": "100",
+      "page": "267"
+    },
+    {
+      "page": "271",
+      "book": "EGW",
+      "name": "Grimoire Infinitus (Dormant)",
+      "price": "500"
+    },
+    {
+      "name": "Grimoire Infinitus (Awakened)",
+      "page": "271",
+      "book": "EGW",
+      "price": "2000"
+    },
+    {
+      "price": "5000",
+      "book": "EGW",
+      "name": "Grimoire Infinitus (Exalted)",
+      "page": "271"
+    },
+    {
+      "name": "Grovelthrash (Dormant)",
+      "price": "2000",
+      "page": "275",
+      "book": "EGW"
+    },
+    {
+      "name": "Grovelthrash (Awakened)",
+      "page": "275",
+      "price": "8000",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "price": "30000",
+      "page": "275",
+      "name": "Grovelthrash (Exalted)"
+    },
+    {
+      "book": "EGW",
+      "name": "Hide of the Feral Guardian (Dormant)",
+      "page": "271",
+      "price": "3000"
+    },
+    {
+      "price": "10000",
+      "book": "EGW",
+      "page": "271",
+      "name": "Hide of the Feral Guardian (Awakened)"
+    },
+    {
+      "name": "Hide of the Feral Guardian (Exalted)",
+      "book": "EGW",
+      "price": "40000",
+      "page": "271"
+    },
+    {
+      "book": "EGW",
+      "name": "Hunter's Coat",
+      "page": "267",
+      "price": "3000"
+    },
+    {
+      "book": "EGW",
+      "name": "Infiltrator's Key (Dormant)",
+      "price": "500",
+      "page": "272"
+    },
+    {
+      "name": "Infiltrator's Key (Awakened)",
+      "book": "EGW",
+      "price": "3000",
+      "page": "272"
+    },
+    {
+      "book": "EGW",
+      "page": "272",
+      "name": "Infiltrator's Key (Exalted)",
+      "price": "15000"
+    },
+    {
+      "name": "Lash of Shadows (Dormant)",
+      "price": "2000",
+      "book": "EGW",
+      "page": "276"
+    },
+    {
+      "book": "EGW",
+      "price": "8000",
+      "page": "276",
+      "name": "Lash of Shadows (Awakened)"
+    },
+    {
+      "page": "276",
+      "book": "EGW",
+      "name": "Lash of Shadows (Exalted)",
+      "price": "30000"
+    },
+    {
+      "name": "Last Stand Armor",
+      "book": "EGW",
+      "price": "2500",
+      "page": "267"
+    },
+    {
+      "name": "Luxon Beacon",
+      "price": "2000",
+      "book": "EGW",
+      "page": "268"
+    },
+    {
+      "price": "2000",
+      "page": "276",
+      "book": "EGW",
+      "name": "Mace of the Black Crown (Dormant)"
+    },
+    {
+      "name": "Mace of the Black Crown (Awakened)",
+      "page": "276",
+      "book": "EGW",
+      "price": "8000"
+    },
+    {
+      "book": "EGW",
+      "name": "Mace of the Black Crown (Exalted)",
+      "price": "30000",
+      "page": "276"
+    },
+    {
+      "book": "EGW",
+      "name": "Needle of Mending",
+      "page": "268",
+      "price": "1500"
+    },
+    {
+      "name": "Orb of the Veil",
+      "page": "268",
+      "price": "4000",
+      "book": "EGW"
+    },
+    {
+      "page": "268",
+      "name": "Potion of Maximum Power",
+      "price": "100",
+      "book": "EGW"
+    },
+    {
+      "price": "200",
+      "book": "EGW",
+      "name": "Potion of Possibility",
+      "page": "268"
+    },
+    {
+      "price": "1000",
+      "book": "EGW",
+      "name": "Reincarnation Dust",
+      "page": "268"
+    },
+    {
+      "name": "Ring of Obscuring",
+      "book": "EGW",
+      "price": "1800",
+      "page": "269"
+    },
+    {
+      "name": "Ring of Temporal Salvation",
+      "book": "EGW",
+      "price": "2000",
+      "page": "269"
+    },
+    {
+      "price": "500",
+      "page": "269",
+      "name": "Rod of Retribution",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "name": "Ruin's Wake (Dormant)",
+      "price": "2000",
+      "page": "277"
+    },
+    {
+      "price": "8000",
+      "page": "277",
+      "book": "EGW",
+      "name": "Ruin's Wake (Awakened)"
+    },
+    {
+      "book": "EGW",
+      "name": "Ruin's Wake (Exalted)",
+      "price": "30000",
+      "page": "277"
+    },
+    {
+      "price": "2000",
+      "page": "277",
+      "book": "EGW",
+      "name": "Silken Spite (Dormant)"
+    },
+    {
+      "name": "Silken Spite (Awakened)",
+      "book": "EGW",
+      "page": "277",
+      "price": "8000"
+    },
+    {
+      "book": "EGW",
+      "price": "30000",
+      "page": "277",
+      "name": "Silken Spite (Exalted)"
+    },
+    {
+      "price": "10000",
+      "book": "EGW",
+      "page": "269",
+      "name": "Spell Bottle"
+    },
+    {
+      "page": "270",
+      "book": "EGW",
+      "name": "Staff of Dunamancy",
+      "price": "10000"
+    },
+    {
+      "name": "Staff of the Ivory Claw",
+      "page": "270",
+      "price": "2000",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "price": "2000",
+      "name": "Stormgirdle (Dormant)",
+      "page": "273"
+    },
+    {
+      "book": "EGW",
+      "price": "8000",
+      "name": "Stormgirdle (Awakened)",
+      "page": "273"
+    },
+    {
+      "price": "30000",
+      "page": "273",
+      "book": "EGW",
+      "name": "Stormgirdle (Exalted)"
+    },
+    {
+      "price": "2000",
+      "name": "The Bloody End (Dormant)",
+      "page": "278",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "price": "8000",
+      "page": "278",
+      "name": "The Bloody End (Awakened)"
+    },
+    {
+      "book": "EGW",
+      "price": "30000",
+      "name": "The Bloody End (Exalted)",
+      "page": "278"
+    },
+    {
+      "book": "EGW",
+      "price": "2000",
+      "page": "273",
+      "name": "Verminshroud (Dormant)"
+    },
+    {
+      "name": "Verminshroud (Awakened)",
+      "page": "273",
+      "price": "5000",
+      "book": "EGW"
+    },
+    {
+      "price": "10000",
+      "book": "EGW",
+      "name": "Verminshroud (Exalted)",
+      "page": "273"
+    },
+    {
+      "page": "270",
+      "name": "Vox Seeker",
+      "book": "EGW",
+      "price": "500"
+    },
+    {
+      "name": "Weapon of Certain Death",
+      "page": "270",
+      "price": "500",
+      "book": "EGW"
+    },
+    {
+      "book": "EGW",
+      "page": "279",
+      "name": "Will of the Talon (Dormant)",
+      "price": "2000"
+    },
+    {
+      "name": "Will of the Talon (Awakened)",
+      "page": "279",
+      "book": "EGW",
+      "price": "5000"
+    },
+    {
+      "price": "30000",
+      "book": "EGW",
+      "name": "Will of the Talon (Exalted)",
+      "page": "279"
+    },
+    {
+      "page": "71",
+      "book": "JttRC",
+      "price": "150",
+      "name": "Biza's Breath"
+    },
+    {
+      "page": "212",
+      "book": "JttRC",
+      "price": "300",
+      "name": "Black Ghost Orchid Seed"
+    },
+    {
+      "name": "White Ghost Orchid Seed",
+      "book": "JttRC",
+      "price": "1000",
+      "page": "212"
+    },
+    {
+      "name": "Hammock of Worlds",
+      "page": "214",
+      "price": "10000",
+      "book": "JttRC"
+    },
+    {
+      "price": "75000",
+      "name": "Lesser Hammock of Worlds",
+      "page": "214",
+      "book": "JttRC"
+    },
+    {
+      "name": "Alchemist's Doom",
+      "book": "SCC",
+      "price": "150",
+      "page": "179"
+    },
+    {
+      "price": "10",
+      "page": "174",
+      "book": "SCC",
+      "name": "Catapult Munition"
+    },
+    {
+      "price": "50",
+      "page": "179",
+      "name": "Murgaxor's Elixir of Life",
+      "book": "SCC"
+    },
+    {
+      "book": "SCC",
+      "page": "38",
+      "name": "Bottle of Boundless Coffee",
+      "price": "10"
+    },
+    {
+      "name": "Cuddly Strixhaven Mascot",
+      "page": "38",
+      "book": "SCC",
+      "price": "5"
+    },
+    {
+      "price": "500",
+      "name": "Lorehold Primer",
+      "book": "SCC",
+      "page": "39"
+    },
+    {
+      "price": "200",
+      "book": "SCC",
+      "page": "127",
+      "name": "Masque Charm"
+    },
+    {
+      "price": "500",
+      "page": "126",
+      "book": "SCC",
+      "name": "Murgaxor's Orb"
+    },
+    {
+      "name": "Prismari Primer",
+      "page": "39",
+      "book": "SCC",
+      "price": "500"
+    },
+    {
+      "book": "SCC",
+      "price": "500",
+      "name": "Quandrix Primer",
+      "page": "39"
+    },
+    {
+      "price": "500",
+      "book": "SCC",
+      "name": "Silverquill Primer",
+      "page": "39"
+    },
+    {
+      "book": "SCC",
+      "price": "500",
+      "name": "Strixhaven Primer",
+      "page": "39"
+    },
+    {
+      "price": "500",
+      "name": "Witherbloom Primer",
+      "page": "39",
+      "book": "SCC"
+    },
+    {
+      "book": "KGV",
+      "name": "Book of Vile Darkness (Preset Properties)",
+      "page": "207",
+      "price": "100000"
+    },
+    {
+      "price": "15000",
+      "name": "Shard of Xeluan",
+      "page": "134",
+      "book": "KGV"
+    },
+    {
+      "book": "KGV",
+      "name": "Shard Solitaire - Black Sapphire",
+      "price": "6000",
+      "page": "193"
+    },
+    {
+      "book": "KGV",
+      "price": "6000",
+      "name": "Shard Solitaire - Diamond",
+      "page": "193"
+    },
+    {
+      "price": "5500",
+      "page": "193",
+      "name": "Shard Solitaire - Jacinth",
+      "book": "KGV"
+    },
+    {
+      "name": "Shard Solitaire - Rainbow Pearl",
+      "book": "KGV",
+      "price": "5000",
+      "page": "193"
+    },
+    {
+      "page": "193",
+      "book": "KGV",
+      "name": "Shard Solitaire - Ruby",
+      "price": "5500"
+    },
+    {
+      "price": "50",
+      "book": "WDMM",
+      "name": "Tangler Grenade",
+      "page": "244"
+    },
+    {
+      "price": "700",
+      "book": "WDMM",
+      "name": "Vial of Stardust",
+      "page": "251"
+    },
+    {
+      "page": "284",
+      "price": "2500",
+      "name": "Black Crystal Tablet",
+      "book": "WDMM"
+    },
+    {
+      "price": "5000",
+      "page": "310",
+      "name": "Blast Scepter",
+      "book": "WDMM"
+    },
+    {
+      "book": "WDMM",
+      "name": "Chest of Preserving",
+      "page": "139",
+      "price": "100"
+    },
+    {
+      "price": "50",
+      "name": "Circlet of Human Perfection",
+      "page": "30",
+      "book": "WDMM"
+    },
+    {
+      "name": "Dagger of Blind Sight",
+      "price": "250",
+      "book": "WDMM",
+      "page": "86"
+    },
+    {
+      "page": "228",
+      "name": "Dagger of Guitar Solos",
+      "book": "WDMM",
+      "price": "50"
+    },
+    {
+      "page": "284",
+      "book": "WDMM",
+      "name": "Dodecahedron of Doom",
+      "price": "1000"
+    },
+    {
+      "page": "141",
+      "name": "Falkir's Helm of Pigheadedness",
+      "price": "1",
+      "book": "WDMM"
+    },
+    {
+      "price": "5000",
+      "book": "WDMM",
+      "name": "Helm of the Scavenger",
+      "page": "297"
+    },
+    {
+      "page": "163",
+      "book": "WDMM",
+      "name": "Horn of the Endless Maze",
+      "price": "4000"
+    },
+    {
+      "price": "50",
+      "book": "WDMM",
+      "name": "Horned Ring",
+      "page": "108"
+    },
+    {
+      "price": "200",
+      "page": "92",
+      "name": "Jade Serpent Staff",
+      "book": "WDMM"
+    },
+    {
+      "name": "Maddgoth's Helm",
+      "price": "1",
+      "book": "WDMM",
+      "page": "103"
+    },
+    {
+      "page": "197",
+      "price": "100",
+      "name": "Mind Flayer Skull",
+      "book": "WDMM"
+    },
+    {
+      "book": "WDMM",
+      "name": "Orb of Gonging",
+      "price": "50",
+      "page": "174"
+    },
+    {
+      "name": "Pearl of Undead Detection",
+      "book": "WDMM",
+      "page": "76",
+      "price": "50"
+    },
+    {
+      "price": "70",
+      "book": "WDMM",
+      "page": "62",
+      "name": "Potion of Comprehension"
+    },
+    {
+      "page": "62",
+      "book": "WDMM",
+      "name": "Potion of Watchful Rest",
+      "price": "50"
+    },
+    {
+      "book": "WDMM",
+      "price": "50",
+      "name": "Professor Orb",
+      "page": "284"
+    },
+    {
+      "book": "WDMM",
+      "page": "251",
+      "name": "Propeller Helm",
+      "price": "750"
+    },
+    {
+      "page": "299",
+      "price": "6000",
+      "book": "WDMM",
+      "name": "Shield of the Uven Rune"
+    },
+    {
+      "name": "Tearulai",
+      "book": "WDMM",
+      "price": "2000",
+      "page": "70"
+    },
+    {
+      "page": "237",
+      "name": "Vanrak's Mithril Shirt",
+      "price": "1000",
+      "book": "WDMM"
+    },
+    {
+      "name": "Wyllow's Staff of Flowers",
+      "price": "50",
+      "page": "75",
+      "book": "WDMM"
+    },
+    {
+      "name": "Earring of Message",
+      "book": "CRCotN",
+      "price": "100",
+      "page": "212"
+    },
+    {
+      "page": "213",
+      "name": "Jewel of Three Prayers (Dormant)",
+      "book": "CRCotN",
+      "price": "2000"
+    },
+    {
+      "book": "CRCotN",
+      "price": "8000",
+      "name": "Jewel of Three Prayers (Awakened)",
+      "page": "214"
+    },
+    {
+      "name": "Jewel of Three Prayers (Exalted)",
+      "book": "CRCotN",
+      "page": "214",
+      "price": "30000"
+    },
+    {
+      "price": "50",
+      "name": "Medal of Muscle",
+      "book": "CRCotN",
+      "page": "214"
+    },
+    {
+      "name": "Medal of the Conch",
+      "price": "20",
+      "book": "CRCotN",
+      "page": "214"
+    },
+    {
+      "name": "Medal of the Horizonback",
+      "book": "CRCotN",
+      "price": "50",
+      "page": "214"
+    },
+    {
+      "book": "CRCotN",
+      "price": "50",
+      "name": "Medal of the Maze",
+      "page": "214"
+    },
+    {
+      "price": "40",
+      "book": "CRCotN",
+      "name": "Medal of the Meat Pie",
+      "page": "214"
+    },
+    {
+      "name": "Medal of the Wetlands",
+      "page": "214",
+      "price": "20",
+      "book": "CRCotN"
+    },
+    {
+      "page": "214",
+      "book": "CRCotN",
+      "name": "Medal of Wit",
+      "price": "50"
+    },
+    {
+      "book": "CRCotN",
+      "price": "15000",
+      "name": "Ring of Red Fury",
+      "page": "214"
+    },
+    {
+      "name": "Ruidium Armor",
+      "price": "5000",
+      "page": "215",
+      "book": "CRCotN"
+    },
+    {
+      "name": "Ruidium Shield",
+      "page": "216",
+      "book": "CRCotN",
+      "price": "5000"
+    },
+    {
+      "name": "Riudium Weapon",
+      "price": "4000",
+      "book": "CRCotN",
+      "page": "217"
+    },
+    {
+      "page": "217",
+      "book": "CRCotN",
+      "name": "Teleportation Tablet",
+      "price": "500"
+    },
+    {
+      "book": "D&D Beyond",
+      "name": "Helm of Disjunction",
+      "price": "100000",
+      "page": "DnD:HAT"
+    },
+    {
+      "price": "2500",
+      "book": "D&D Beyond",
+      "name": "Hither-Tither Staff",
+      "page": "DnD:HAT"
+    },
+    {
+      "book": "D&D Beyond",
+      "name": "Horn of Beckoning Death",
+      "price": "500",
+      "page": "DnD:HAT"
+    },
+    {
+      "name": "Red Wizard Blade",
+      "price": "5000",
+      "book": "D&D Beyond",
+      "page": "DnD:HAT"
+    },
+    {
+      "price": "10240",
+      "page": "DnD:HAT",
+      "book": "D&D Beyond",
+      "name": "Tablet of Reawakening"
+    },
+    {
+      "name": "Hooked Shortspear",
+      "price": "1",
+      "book": "OoTA",
+      "page": "224"
+    },
+    {
+      "book": "OoTA",
+      "name": "Light Repeating Crossbow",
+      "page": "224",
+      "price": "50"
+    },
+    {
+      "page": "222",
+      "book": "OoTA",
+      "price": "10000",
+      "name": "Dawnbringer"
+    },
+    {
+      "page": "141",
+      "name": "Gravenhollow Compas Ring",
+      "book": "OoTA",
+      "price": "50"
+    },
+    {
+      "price": "3500",
+      "name": "Piwafwi",
+      "book": "OoTA",
+      "page": "222"
+    },
+    {
+      "page": "222",
+      "name": "Piwafwi of Fire Resistance",
+      "price": "6000",
+      "book": "OoTA"
+    },
+    {
+      "book": "OoTA",
+      "name": "Spell Gem (Amber)",
+      "price": "3200",
+      "page": "223"
+    },
+    {
+      "book": "OoTA",
+      "price": "2000",
+      "page": "223",
+      "name": "Spell Gem (Bloodstone)"
+    },
+    {
+      "page": "223",
+      "name": "Spell Gem (Diamond)",
+      "book": "OoTA",
+      "price": "102400"
+    },
+    {
+      "name": "Spell Gem (Jade)",
+      "book": "OoTA",
+      "price": "6400",
+      "page": "223"
+    },
+    {
+      "page": "223",
+      "book": "OoTA",
+      "price": "600",
+      "name": "Spell Gem (Lapis Lazuli)"
+    },
+    {
+      "name": "Spell Gem (Obsidian)",
+      "page": "223",
+      "book": "OoTA",
+      "price": "100"
+    },
+    {
+      "name": "Spell Gem (Quartz)",
+      "book": "OoTA",
+      "page": "223",
+      "price": "1200"
+    },
+    {
+      "name": "Spell Gem (Ruby)",
+      "page": "223",
+      "book": "OoTA",
+      "price": "51200"
+    },
+    {
+      "name": "Spell Gem (Star Ruby)",
+      "page": "223",
+      "price": "25600",
+      "book": "OoTA"
+    },
+    {
+      "name": "Spell Gem (Topaz)",
+      "page": "223",
+      "book": "OoTA",
+      "price": "12800"
+    },
+    {
+      "page": "94",
+      "book": "HotDQ",
+      "price": "100000",
+      "name": "Black Dragon Mask"
+    },
+    {
+      "page": "4",
+      "name": "Blue Dragon Mask",
+      "book": "RoTOS",
+      "price": "100000"
+    },
+    {
+      "page": "93",
+      "name": "Draakhorn",
+      "book": "RoT",
+      "price": "20000"
+    },
+    {
+      "book": "HotDQ",
+      "price": "500",
+      "name": "Dragongleam",
+      "page": "69"
+    },
+    {
+      "book": "RoT",
+      "price": "8000",
+      "name": "Dragontooth Dagger",
+      "page": "94"
+    },
+    {
+      "book": "RoTOS",
+      "name": "Green Dragon Mask",
+      "price": "100000",
+      "page": "4"
+    },
+    {
+      "book": "HotDQ",
+      "price": "10000",
+      "page": "94",
+      "name": "Hazirawn"
+    },
+    {
+      "name": "Insignia of Claws",
+      "page": "94",
+      "price": "1000",
+      "book": "HotDQ"
+    },
+    {
+      "price": "175000",
+      "book": "RoT",
+      "page": "94",
+      "name": "Mask of the Dragon Queen"
+    },
+    {
+      "name": "Red Dragon Mask",
+      "price": "100000",
+      "page": "4",
+      "book": "RoTOS"
+    },
+    {
+      "name": "Tankard of Plenty",
+      "book": "HotDQ",
+      "price": "10",
+      "page": "74"
+    },
+    {
+      "book": "HotDQ",
+      "name": "Wand of Winter",
+      "price": "2000",
+      "page": "94"
+    },
+    {
+      "price": "100000",
+      "page": "4",
+      "book": "RoTOS",
+      "name": "White Dragon Mask"
+    },
+    {
+      "name": "Battle Standard of Infernal Power",
+      "page": "223",
+      "book": "BGDIA",
+      "price": "4000"
+    },
+    {
+      "name": "Blade of Avernus",
+      "book": "BGDIA",
+      "price": "50000",
+      "page": "150"
+    },
+    {
+      "name": "Candle Mace",
+      "page": "39",
+      "price": "1100",
+      "book": "BGDIA"
+    },
+    {
+      "page": "223",
+      "price": "40000",
+      "book": "BGDIA",
+      "name": "Fane-Eater"
+    },
+    {
+      "price": "20000",
+      "page": "223",
+      "book": "BGDIA",
+      "name": "Gauntlets of Flaming Fury"
+    },
+    {
+      "name": "Hellfire Weapon",
+      "book": "BGDIA",
+      "price": "50",
+      "page": "223"
+    },
+    {
+      "book": "BGDIA",
+      "page": "223",
+      "name": "Helm of Devil Command",
+      "price": "5000"
+    },
+    {
+      "name": "Infernal Puzzle Box",
+      "price": "500",
+      "book": "BGDIA",
+      "page": "224"
+    },
+    {
+      "price": "30000",
+      "name": "Matalotok",
+      "page": "224",
+      "book": "BGDIA"
+    },
+    {
+      "price": "8000",
+      "page": "224",
+      "name": "Obsidian Flint Dragon Plate",
+      "book": "BGDIA"
+    },
+    {
+      "price": "50",
+      "book": "BGDIA",
+      "name": "Shatterstick",
+      "page": "99"
+    },
+    {
+      "page": "225",
+      "book": "BGDIA",
+      "name": "Shield of the Hidden Lord",
+      "price": "23000"
+    },
+    {
+      "book": "BGDIA",
+      "name": "Soul Coin",
+      "page": "225",
+      "price": "2000"
+    },
+    {
+      "book": "BGDIA",
+      "name": "Sword of Zariel",
+      "page": "226",
+      "price": "200000"
+    },
+    {
+      "price": "450",
+      "name": "Gnomengarde Grenade",
+      "page": "-",
+      "book": "DC"
+    },
+    {
+      "name": "Ruinstone",
+      "page": "-",
+      "book": "DC",
+      "price": "5000 (Banned)"
+    },
+    {
+      "book": "HftT",
+      "page": "4",
+      "price": "2000",
+      "name": "Winter's Dark Bit"
+    },
+    {
+      "name": "Abracadabrus",
+      "book": "IDRotF",
+      "price": "100",
+      "page": "314"
+    },
+    {
+      "book": "IDRotF",
+      "price": "50",
+      "name": "Cauldron of Plenty",
+      "page": "314"
+    },
+    {
+      "page": "314",
+      "name": "Hook of Fisher's Delight",
+      "price": "500",
+      "book": "IDRotF"
+    },
+    {
+      "book": "IDRotF",
+      "name": "Iron Ball",
+      "page": "238",
+      "price": "1"
+    },
+    {
+      "page": "314",
+      "name": "Lantern of Tracking",
+      "book": "IDRotF",
+      "price": "25"
+    },
+    {
+      "price": "1000",
+      "page": "264",
+      "name": "Orc Stone",
+      "book": "IDRotF"
+    },
+    {
+      "book": "IDRotF",
+      "name": "Professor Skant",
+      "price": "50",
+      "page": "315"
+    },
+    {
+      "page": "315",
+      "price": "800",
+      "book": "IDRotF",
+      "name": "Psi Crystal"
+    },
+    {
+      "book": "IDRotF",
+      "page": "315",
+      "name": "Scroll of Tarrasque Summoning",
+      "price": "20000"
+    },
+    {
+      "book": "IDRotF",
+      "price": "50000",
+      "page": "315",
+      "name": "Scroll of the Comet"
+    },
+    {
+      "book": "IDRotF",
+      "page": "149",
+      "price": "500",
+      "name": "Shield Guardian Amulet"
+    },
+    {
+      "page": "317",
+      "book": "IDRotF",
+      "name": "The Codicil of White",
+      "price": "500"
+    },
+    {
+      "book": "IDRotF",
+      "price": "500",
+      "page": "317",
+      "name": "The Incantations of Iriolarthas"
+    },
+    {
+      "price": "100",
+      "name": "Thermal Cube",
+      "page": "316",
+      "book": "IDRotF"
+    },
+    {
+      "book": "IDRotF",
+      "page": "316",
+      "price": "20000",
+      "name": "Ythryn Mythallar"
+    },
+    {
+      "book": "LMoP",
+      "price": "2000",
+      "page": "48",
+      "name": "Dragonguard"
+    },
+    {
+      "page": "33",
+      "book": "LMoP",
+      "price": "2000",
+      "name": "Hew"
+    },
+    {
+      "price": "2000",
+      "book": "LMoP",
+      "name": "Lightbringer",
+      "page": "48"
+    },
+    {
+      "book": "LMoP",
+      "name": "Spider Staff",
+      "page": "53",
+      "price": "4000"
+    },
+    {
+      "price": "2000",
+      "page": "53",
+      "book": "LMoP",
+      "name": "Staff of Defense"
+    },
+    {
+      "name": "Amulet of the Black Skull",
+      "price": "500",
+      "page": "206",
+      "book": "ToA"
+    },
+    {
+      "page": "188",
+      "name": "Arcanaloth's Music Box",
+      "book": "ToA",
+      "price": "100"
+    },
+    {
+      "price": "1500",
+      "name": "Bob",
+      "page": "89",
+      "book": "ToA"
+    },
+    {
+      "book": "ToA",
+      "price": "20000",
+      "page": "206",
+      "name": "Bookmark"
+    },
+    {
+      "name": "Dancing Monkey Fruit",
+      "book": "ToA",
+      "price": "750",
+      "page": "205"
+    },
+    {
+      "book": "ToA",
+      "name": "Devlin's Staff of Striking",
+      "price": "21000",
+      "page": "141"
+    },
+    {
+      "name": "Draconic Long Sword",
+      "book": "ToA",
+      "price": "100",
+      "page": "173"
+    },
+    {
+      "book": "ToA",
+      "price": "1000",
+      "name": "Ghost Lantern",
+      "page": "206"
+    },
+    {
+      "price": "800",
+      "book": "ToA",
+      "name": "Mask of the Beast",
+      "page": "207"
+    },
+    {
+      "page": "144",
+      "book": "ToA",
+      "name": "Petrified Grung Egg",
+      "price": "1000"
+    },
+    {
+      "book": "ToA",
+      "price": "15000",
+      "name": "Ring of Winter",
+      "page": "207"
+    },
+    {
+      "name": "Scorpion Armor",
+      "price": "3000",
+      "book": "ToA",
+      "page": "208"
+    },
+    {
+      "price": "100",
+      "name": "Shield of Shouting",
+      "page": "116",
+      "book": "ToA"
+    },
+    {
+      "book": "ToA",
+      "page": "208",
+      "price": "75000",
+      "name": "Staff of the Forgotten One"
+    },
+    {
+      "book": "VRGR",
+      "page": "83",
+      "name": "Ivana's Whisper",
+      "price": "100"
+    },
+    {
+      "book": "VRGR",
+      "page": "137",
+      "name": "Harkon's Bite",
+      "price": "2000"
+    },
+    {
+      "book": "VRGR",
+      "name": "Nepenthe",
+      "price": "22000",
+      "page": "86"
+    },
+    {
+      "name": "Blood Spear",
+      "book": "CoS",
+      "page": "221",
+      "price": "8000"
+    },
+    {
+      "name": "Green Copper Ewer",
+      "book": "CoS",
+      "price": "100",
+      "page": "188"
+    },
+    {
+      "book": "CoS",
+      "name": "Gulthias Staff",
+      "price": "1000",
+      "page": "221"
+    },
+    {
+      "price": "2000",
+      "book": "CoS",
+      "page": "222",
+      "name": "Holy Symbol of Ravenkind"
+    },
+    {
+      "name": "Icon of Ravenloft",
+      "book": "CoS",
+      "price": "10000",
+      "page": "222"
+    },
+    {
+      "price": "5000",
+      "book": "CoS",
+      "name": "Jakarion's Staff of Frost",
+      "page": "187"
+    },
+    {
+      "name": "Lost Sword",
+      "book": "CoS",
+      "price": "3000",
+      "page": "81"
+    },
+    {
+      "book": "CoS",
+      "name": "Order of the Silver Dragon +2 Shield",
+      "price": "6500",
+      "page": "68"
+    },
+    {
+      "book": "CoS",
+      "name": "Saint Markovia's Thighbone",
+      "price": "6000",
+      "page": "222"
+    },
+    {
+      "price": "500",
+      "book": "CoS",
+      "name": "Statuette of Saint Markovia",
+      "page": "152"
+    },
+    {
+      "book": "CoS",
+      "name": "Sunsword",
+      "price": "12000",
+      "page": "223"
+    },
+    {
+      "page": "198",
+      "book": "CoS",
+      "name": "Treebane",
+      "price": "400"
+    },
+    {
+      "page": "47",
+      "book": "WDH",
+      "price": "5",
+      "name": "Adjustable Stilts"
+    },
+    {
+      "price": "10",
+      "book": "WDH",
+      "name": "Backpack Parachute",
+      "page": "47"
+    },
+    {
+      "name": "Matchless Pipe",
+      "book": "WDH",
+      "price": "5",
+      "page": "47"
+    },
+    {
+      "name": "Nimblewright Detector",
+      "price": "10",
+      "book": "WDH",
+      "page": "47"
+    },
+    {
+      "page": "201",
+      "price": "100",
+      "book": "WDH",
+      "name": "Overzied Longbow"
+    },
+    {
+      "page": "189",
+      "book": "WDH",
+      "price": "50000",
+      "name": "Azuredge"
+    },
+    {
+      "name": "Badge of the Watch",
+      "book": "WDH",
+      "price": "6000",
+      "page": "189"
+    },
+    {
+      "price": "95500",
+      "book": "WDH",
+      "name": "Blackstaff",
+      "page": "190"
+    },
+    {
+      "name": "Bracer of Flying Daggers",
+      "price": "500",
+      "page": "190",
+      "book": "WDH"
+    },
+    {
+      "name": "Charred Wand of Magic Missiles",
+      "price": "3000",
+      "book": "WDH",
+      "page": "77"
+    },
+    {
+      "price": "2000",
+      "book": "WDH",
+      "name": "Dragonstaff of Ahghairon",
+      "page": "191"
+    },
+    {
+      "page": "191",
+      "book": "WDH",
+      "price": "500",
+      "name": "Feather of Diatryma Summoning"
+    },
+    {
+      "price": "500",
+      "page": "191",
+      "name": "Knave's Eye Patch",
+      "book": "WDH"
+    },
+    {
+      "page": "191",
+      "price": "3000",
+      "book": "WDH",
+      "name": "Lord's Ensemble"
+    },
+    {
+      "page": "191",
+      "book": "WDH",
+      "name": "Paper Bird",
+      "price": "25"
+    },
+    {
+      "book": "WDH",
+      "price": "100",
+      "name": "Ring of Truth Telling",
+      "page": "192"
+    },
+    {
+      "book": "WDH",
+      "page": "192",
+      "name": "Smokepowder",
+      "price": "10"
+    },
+    {
+      "book": "WDH",
+      "price": "5000",
+      "name": "Stone of Golorr",
+      "page": "192"
+    },
+    {
+      "price": "1000",
+      "name": "Teleporter Ring",
+      "book": "WDH",
+      "page": "157"
+    },
+    {
+      "book": "WDH",
+      "price": "5",
+      "page": "47",
+      "name": "Barking Box"
+    },
+    {
+      "price": "50",
+      "name": "Elder Cartograher's Glossography",
+      "page": "20",
+      "book": "AI"
+    },
+    {
+      "name": "Cartographer's Map Case",
+      "price": "50",
+      "page": "20",
+      "book": "AI"
+    },
+    {
+      "name": "Chronolometer",
+      "price": "1000",
+      "page": "220",
+      "book": "AI"
+    },
+    {
+      "name": "Coin of Decisionry",
+      "book": "AI",
+      "price": "50",
+      "page": "22"
+    },
+    {
+      "name": "Dimensional Loop",
+      "page": "220",
+      "price": "7000",
+      "book": "AI"
+    },
+    {
+      "page": "24",
+      "name": "Documancy Satchel",
+      "price": "50",
+      "book": "AI"
+    },
+    {
+      "page": "162",
+      "book": "AI",
+      "name": "Failed Experiment Wand",
+      "price": "2000"
+    },
+    {
+      "book": "AI",
+      "price": "25600",
+      "page": "221",
+      "name": "Far Gear"
+    },
+    {
+      "name": "Living Loot Satchel",
+      "book": "AI",
+      "price": "10",
+      "page": "25"
+    },
+    {
+      "name": "Mithral +1 Armor",
+      "price": "2000",
+      "page": "156",
+      "book": "AI"
+    },
+    {
+      "page": "30",
+      "price": "50",
+      "name": "Obviator's Lense",
+      "book": "AI"
+    },
+    {
+      "page": "31",
+      "name": "Occultant Abacus",
+      "price": "50",
+      "book": "AI"
+    },
+    {
+      "name": "Orrery of the Wanderer",
+      "book": "AI",
+      "price": "",
+      "page": "220"
+    },
+    {
+      "price": "1500",
+      "name": "Piercer",
+      "book": "AI",
+      "page": "121"
+    },
+    {
+      "name": "Portfolio Keeper",
+      "price": "50",
+      "page": "33",
+      "book": "AI"
+    },
+    {
+      "price": "5000",
+      "page": "221",
+      "book": "AI",
+      "name": "Rotor of Return"
+    },
+    {
+      "price": "1000",
+      "name": "Sending Stone",
+      "book": "AI",
+      "page": "33"
+    },
+    {
+      "book": "AI",
+      "page": "19",
+      "price": "50",
+      "name": "Spyglass of Clairvoyance"
+    },
+    {
+      "page": "221",
+      "book": "AI",
+      "price": "10000",
+      "name": "Timepiece of Travel"
+    },
+    {
+      "name": "Travel Alchemical Kit",
+      "price": "50",
+      "page": "30",
+      "book": "AI"
+    },
+    {
+      "price": "1500",
+      "page": "149",
+      "book": "AI",
+      "name": "Vicious +1 Weapon"
+    },
+    {
+      "name": "Voting Kit",
+      "price": "50",
+      "book": "AI",
+      "page": "22"
+    },
+    {
+      "page": "222",
+      "book": "AI",
+      "name": "Wheel of Stars",
+      "price": "5000"
+    },
+    {
+      "name": "Whipser Jar",
+      "price": "50",
+      "page": "27",
+      "book": "AI"
+    },
+    {
+      "book": "DSC",
+      "name": "Acquisitions Incorporated Franchisee Rank 1",
+      "price": "100",
+      "page": "-"
+    },
+    {
+      "price": "500",
+      "page": "-",
+      "book": "DSC",
+      "name": "Acquisitions Incorporated Franchisee Rank 2"
+    },
+    {
+      "name": "Acquisitions Incorporated Franchisee Rank 3",
+      "book": "DSC",
+      "price": "1000",
+      "page": "-"
+    },
+    {
+      "book": "DSC",
+      "price": "2000",
+      "name": "Acquisitions Incorporated Franchisee Rank 4",
+      "page": "-"
+    },
+    {
+      "name": "Adze of Annam",
+      "price": "150000",
+      "book": "BP:GotG",
+      "page": "TBD"
+    },
+    {
+      "price": "3000",
+      "page": "TBD",
+      "book": "BP:GotG",
+      "name": "Armor of Safeguarding"
+    },
+    {
+      "price": "125000",
+      "book": "BP:GotG",
+      "page": "TBD",
+      "name": "Bigby's Benificent Bracelent"
+    },
+    {
+      "name": "Bloodshed Blade",
+      "book": "BP:GotG",
+      "price": "2000",
+      "page": "TBD"
+    },
+    {
+      "name": "Crown of the Wrath Bringer",
+      "book": "BP:GotG",
+      "page": "TBD",
+      "price": "5000"
+    },
+    {
+      "book": "BP:GotG",
+      "page": "TBD",
+      "name": "Delver's Claws",
+      "price": "4000"
+    },
+    {
+      "page": "TBD",
+      "name": "Glowrune Pigment",
+      "book": "BP:GotG",
+      "price": "2000"
+    },
+    {
+      "name": "Harp of Gilded Plenty",
+      "book": "BP:GotG",
+      "page": "TBD",
+      "price": "100000"
+    },
+    {
+      "page": "TBD",
+      "name": "Helm of Perfect Potential",
+      "book": "BP:GotG",
+      "price": "125"
+    },
+    {
+      "page": "TBD",
+      "book": "BP:GotG",
+      "name": "Lash Immolation",
+      "price": "10000"
+    },
+    {
+      "book": "BP:GotG",
+      "name": "Longbow of the Healing Hearth",
+      "price": "50000",
+      "page": "TBD"
+    },
+    {
+      "name": "Lucent Destroyer",
+      "price": "10000",
+      "book": "BP:GotG",
+      "page": "TBD"
+    },
+    {
+      "name": "Mistral Mantle",
+      "price": "10000",
+      "page": "TBD",
+      "book": "BP:GotG"
+    },
+    {
+      "book": "BP:GotG",
+      "name": "Nimbus Coronet",
+      "price": "15000",
+      "page": "TBD"
+    },
+    {
+      "page": "TBD",
+      "price": "10000",
+      "book": "BP:GotG",
+      "name": "Orb of Skoraeus"
+    },
+    {
+      "name": "Carnelian Triceratops",
+      "page": "TBD",
+      "price": "15000",
+      "book": "BP:GotG"
+    },
+    {
+      "price": "20000",
+      "page": "TBD",
+      "name": "Jasper Tyrranosaurus Rex",
+      "book": "BP:GotG"
+    },
+    {
+      "name": "Kyanite Pteranodon",
+      "price": "14000",
+      "page": "TBD",
+      "book": "BP:GotG"
+    },
+    {
+      "price": "12000",
+      "name": "Pyrite Plesiosaur",
+      "page": "TBD",
+      "book": "BP:GotG"
+    },
+    {
+      "book": "BP:GotG",
+      "page": "TBD",
+      "name": "Reaper's Scream",
+      "price": "30000"
+    },
+    {
+      "price": "4000",
+      "book": "BP:GotG",
+      "page": "TBD",
+      "name": "Ring of Amity"
+    },
+    {
+      "book": "BP:GotG",
+      "price": "5000",
+      "name": "Sanctum Amulet",
+      "page": "TBD"
+    },
+    {
+      "book": "BP:GotG",
+      "price": "20000",
+      "page": "TBD",
+      "name": "Shield of the Blazing Dreadnought"
+    },
+    {
+      "page": "TBD",
+      "name": "Staff of the Rooted Hills",
+      "book": "BP:GotG",
+      "price": "4000"
+    },
+    {
+      "name": "Stonebreaker's Breastplate",
+      "page": "TBD",
+      "price": "20000",
+      "book": "BP:GotG"
+    },
+    {
+      "book": "BP:GotG",
+      "page": "TBD",
+      "name": "Thunderbuss",
+      "price": "7000"
+    },
+    {
+      "price": "5000",
+      "page": "TBD",
+      "book": "BP:GotG",
+      "name": "War Horn of Valor"
+    },
+    {
+      "name": "Wayfarer's Boots",
+      "page": "TBD",
+      "book": "BP:GotG",
+      "price": "6000"
+    },
+    {
+      "price": "10000",
+      "name": "Wyrmreaver's Gauntlets",
+      "page": "TBD",
+      "book": "BP:GotG"
+    },
+    {
+      "book": "BP:GotG",
+      "page": "TBD",
+      "price": "4000",
+      "name": "Zephyr Armor"
+    },
+    {
+      "page": "217",
+      "book": "PaBTSO",
+      "name": "Bracers of Celerity",
+      "price": "1000"
+    },
+    {
+      "name": "Cape of Enlargement",
+      "book": "PaBTSO",
+      "price": "1500",
+      "page": "217"
+    },
+    {
+      "price": "2000",
+      "book": "PaBTSO",
+      "name": "Dragonguard",
+      "page": "72"
+    },
+    {
+      "name": "Flayer Slayer",
+      "price": "2500",
+      "page": "217",
+      "book": "PaBTSO"
+    },
+    {
+      "book": "PaBTSO",
+      "page": "54",
+      "price": "2000",
+      "name": "Hew"
+    },
+    {
+      "name": "Lightbringer",
+      "page": "72",
+      "price": "2000",
+      "book": "PaBTSO"
+    },
+    {
+      "book": "PaBTSO",
+      "price": "2000",
+      "name": "Luminous War Pick",
+      "page": "217"
+    },
+    {
+      "page": "218",
+      "book": "PaBTSO",
+      "name": "Mind Crystal (Careful)",
+      "price": "100"
+    },
+    {
+      "price": "100",
+      "book": "PaBTSO",
+      "page": "218",
+      "name": "Mind Crystal (Distant)"
+    },
+    {
+      "book": "PaBTSO",
+      "name": "Mind Crystal (Empowered)",
+      "page": "218",
+      "price": "100"
+    },
+    {
+      "page": "218",
+      "name": "Mind Crystal (Extended)",
+      "book": "PaBTSO",
+      "price": "100"
+    },
+    {
+      "price": "150",
+      "name": "Mind Crystal (Heightened)",
+      "page": "218",
+      "book": "PaBTSO"
+    },
+    {
+      "book": "PaBTSO",
+      "page": "218",
+      "price": "150",
+      "name": "Mind Crystal (Quickened)"
+    },
+    {
+      "price": "50",
+      "page": "218",
+      "name": "Mind Crystal (Subtle)",
+      "book": "PaBTSO"
+    },
+    {
+      "book": "PaBTSO",
+      "page": "218",
+      "name": "Mindblasting Cap",
+      "price": "5000"
+    },
+    {
+      "price": "5000",
+      "book": "PaBTSO",
+      "page": "218",
+      "name": "Mindguard Crown"
+    },
+    {
+      "price": "",
+      "page": "219",
+      "name": "Mudslick Tower",
+      "book": "PaBTSO"
+    },
+    {
+      "book": "PaBTSO",
+      "price": "4500",
+      "name": "Netherese Ring of Protection",
+      "page": "50"
+    },
+    {
+      "name": "Potion of Psionic Fortitude",
+      "page": "219",
+      "book": "PaBTSO",
+      "price": "100"
+    },
+    {
+      "name": "Ring of the Orator",
+      "book": "PaBTSO",
+      "page": "219",
+      "price": "150"
+    },
+    {
+      "name": "Spider Staff",
+      "book": "PaBTSO",
+      "price": "4000",
+      "page": "220"
+    },
+    {
+      "price": "2000",
+      "page": "220",
+      "book": "PaBTSO",
+      "name": "Staff of Defense"
+    },
+    {
+      "book": "PaBTSO",
+      "name": "Statuette of Augury",
+      "page": "62",
+      "price": "100"
+    },
+    {
+      "book": "PAitM",
+      "page": "TBD",
+      "price": "6000",
+      "name": "Mimir"
+    },
+    {
+      "book": "PAitM",
+      "name": "Portal Compass",
+      "price": "100",
+      "page": "TBD"
+    },
+    {
+      "name": "Sensory Stone",
+      "book": "PAitM",
+      "price": "100",
+      "page": "TBD"
+    },
+    {
+      "book": "BMT",
+      "price": "50000",
+      "page": "65",
+      "name": "Antimagic Armor"
+    },
+    {
+      "book": "BMT",
+      "page": "65",
+      "name": "Armor of Fungal Spores",
+      "price": "500"
+    },
+    {
+      "page": "65",
+      "price": "3000",
+      "name": "Armor of The Fallen",
+      "book": "BMT"
+    },
+    {
+      "price": "2000",
+      "page": "65",
+      "book": "BMT",
+      "name": "Armor of Weightlessness"
+    },
+    {
+      "book": "BMT",
+      "price": "3000",
+      "page": "34",
+      "name": "Baleful Talon"
+    },
+    {
+      "price": "500",
+      "page": "174",
+      "book": "BMT",
+      "name": "Blasted Goggles"
+    },
+    {
+      "book": "BMT",
+      "page": "66",
+      "name": "Bloodrage Greataxe",
+      "price": "2000"
+    },
+    {
+      "name": "Bloodseeker Ammunition",
+      "price": "10",
+      "page": "66",
+      "book": "BMT"
+    },
+    {
+      "price": "50",
+      "book": "BMT",
+      "name": "Boomerang Shield",
+      "page": "66"
+    },
+    {
+      "price": "1000",
+      "book": "BMT",
+      "page": "66",
+      "name": "Bow of Conflagration"
+    },
+    {
+      "book": "BMT",
+      "price": "10000",
+      "name": "Bow of Melodies",
+      "page": "66"
+    },
+    {
+      "book": "BMT",
+      "name": "Breastplate of Balance",
+      "price": "1200",
+      "page": "34"
+    },
+    {
+      "book": "BMT",
+      "page": "40",
+      "price": "1500",
+      "name": "Card Sharp's Deck"
+    },
+    {
+      "name": "Clockwork Armor",
+      "book": "BMT",
+      "price": "2000",
+      "page": "67"
+    },
+    {
+      "page": "35",
+      "price": "7500",
+      "name": "Crown of Whirling Comets",
+      "book": "BMT"
+    },
+    {
+      "price": "8000",
+      "page": "40",
+      "name": "Deck of Dimensions",
+      "book": "BMT"
+    },
+    {
+      "price": "N/A",
+      "page": "51",
+      "name": "Deck of Many More Things",
+      "book": "BMT"
+    },
+    {
+      "price": "100",
+      "book": "BMT",
+      "name": "Deck of Miscellany",
+      "page": "41"
+    },
+    {
+      "price": "4000",
+      "name": "Deck of Oracles",
+      "book": "BMT",
+      "page": "61"
+    },
+    {
+      "price": "2000",
+      "page": "41",
+      "book": "BMT",
+      "name": "Deck of Wild Cards"
+    },
+    {
+      "book": "BMT",
+      "price": "500",
+      "page": "55",
+      "name": "Deck of Wonders"
+    },
+    {
+      "book": "BMT",
+      "price": "1000",
+      "page": "35",
+      "name": "Donjon's Sundering Sphere"
+    },
+    {
+      "page": "67",
+      "name": "Dried Leech",
+      "price": "5",
+      "book": "BMT"
+    },
+    {
+      "name": "Euryale's Aegis",
+      "book": "BMT",
+      "page": "35",
+      "price": "15000"
+    },
+    {
+      "price": "50",
+      "book": "BMT",
+      "page": "36",
+      "name": "Fabulist Gem"
+    },
+    {
+      "page": "61",
+      "book": "BMT",
+      "name": "Fate Cutter Shears",
+      "price": "2000"
+    },
+    {
+      "book": "BMT",
+      "name": "Feywrought Armor",
+      "price": "4000",
+      "page": "67"
+    },
+    {
+      "book": "BMT",
+      "price": "5000",
+      "page": "36",
+      "name": "Fool's Blade"
+    },
+    {
+      "name": "Forcebreaker Weapon",
+      "price": "5000",
+      "page": "67",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "price": "6000",
+      "name": "Glimmering Moonbow",
+      "page": "36"
+    },
+    {
+      "page": "67",
+      "price": "2000",
+      "name": "Gloomwrought Armor",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "price": "2000",
+      "page": "67",
+      "name": "Grasping Whip"
+    },
+    {
+      "price": "1500",
+      "book": "BMT",
+      "name": "Fate Dealer's Deck +1",
+      "page": "61"
+    },
+    {
+      "page": "61",
+      "price": "5000",
+      "name": "Fate Dealer's Deck +2",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "name": "Fate Dealer's Deck +3",
+      "page": "61",
+      "price": "20000"
+    },
+    {
+      "book": "BMT",
+      "page": "61",
+      "price": "1000",
+      "name": "House of Cards"
+    },
+    {
+      "price": "50000",
+      "name": "Sword of the Planes",
+      "book": "BMT",
+      "page": "68"
+    },
+    {
+      "page": "69",
+      "name": "Wraps of Unarmed Prowess +1",
+      "price": "1000",
+      "book": "BMT"
+    },
+    {
+      "price": "4000",
+      "book": "BMT",
+      "name": "Wraps of Unarmed Prowess +2",
+      "page": "69"
+    },
+    {
+      "price": "16000",
+      "name": "Wraps of Unarmed Prowess +2",
+      "book": "BMT",
+      "page": "69"
+    },
+    {
+      "book": "BMT",
+      "page": "37",
+      "name": "Plate of Knight's Fellowship",
+      "price": "2000"
+    },
+    {
+      "page": "36",
+      "price": "20000",
+      "book": "BMT",
+      "name": "Jester's Mask"
+    },
+    {
+      "book": "BMT",
+      "name": "Ring of Puzzler's Wit",
+      "price": "100",
+      "page": "37"
+    },
+    {
+      "book": "BMT",
+      "name": "Rod of Hellish Flames",
+      "price": "5000",
+      "page": "37"
+    },
+    {
+      "price": "5000",
+      "name": "Rogue's Mantle",
+      "page": "37",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "name": "Ruinous Flail",
+      "page": "37",
+      "price": "750"
+    },
+    {
+      "price": "4400",
+      "name": "Sage's Signet (Bear)",
+      "book": "BMT",
+      "page": "37"
+    },
+    {
+      "book": "BMT",
+      "price": "8000",
+      "name": "Sage's Signet (Hart)",
+      "page": "37"
+    },
+    {
+      "name": "Sage's Signet (Lion)",
+      "book": "BMT",
+      "price": "4000",
+      "page": "37"
+    },
+    {
+      "name": "Sage's Signet (Serpent)",
+      "page": "37",
+      "book": "BMT",
+      "price": "2600"
+    },
+    {
+      "name": "Sage's Signet (Songbird)",
+      "price": "2600",
+      "book": "BMT",
+      "page": "37"
+    },
+    {
+      "book": "BMT",
+      "price": "4000",
+      "page": "37",
+      "name": "Sage's Signet (Wolf)"
+    },
+    {
+      "name": "Shield of the Tortoise",
+      "price": "50",
+      "page": "67",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "name": "Shrieking Greaves",
+      "price": "5000",
+      "page": "174"
+    },
+    {
+      "book": "BMT",
+      "price": "6000",
+      "page": "38",
+      "name": "Skull Helm"
+    },
+    {
+      "name": "Sling of Giant Felling",
+      "page": "68",
+      "price": "75",
+      "book": "BMT"
+    },
+    {
+      "name": "Spindle of Fate",
+      "price": "4000",
+      "book": "BMT",
+      "page": "38"
+    },
+    {
+      "page": "38",
+      "price": "6000",
+      "book": "BMT",
+      "name": "Starshot Crossbow"
+    },
+    {
+      "name": "Stonemaker War Pick",
+      "page": "68",
+      "price": "7000",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "price": "4000",
+      "page": "39",
+      "name": "Sun Staff"
+    },
+    {
+      "page": "105",
+      "price": "",
+      "name": "Telescopic Transporter",
+      "book": "BMT"
+    },
+    {
+      "book": "BMT",
+      "name": "Voidwalker Armor",
+      "page": "39",
+      "price": "50"
+    },
+    {
+      "price": "3000",
+      "page": "39",
+      "book": "BMT",
+      "name": "Warrior's Passkey"
+    },
+    {
+      "price": "8000",
+      "book": "BMT",
+      "name": "Weapon of Throne's Command",
+      "page": "39"
+    },
+    {
+      "book": "BMT",
+      "page": "69",
+      "name": "Winged Ammunition",
+      "price": "5"
+    },
+    {
+      "book": "BMT",
+      "price": "8000",
+      "page": "67",
+      "name": "Hammer of Runic Focus"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "page": "111",
+      "price": "1000",
+      "name": "Arcane Oil"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "price": "3000",
+      "name": "Brazen Armor",
+      "page": "111"
+    },
+    {
+      "price": "2000",
+      "page": "111",
+      "name": "Coat of Lies",
+      "book": "Lairs of Etharis"
+    },
+    {
+      "name": "Glass-Studded Armor",
+      "price": "200",
+      "book": "Lairs of Etharis",
+      "page": "111"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "name": "Knifewing Cape",
+      "page": "111",
+      "price": "4000"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "page": "111",
+      "name": "Lindwyrm Venom",
+      "price": "750"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "page": "111",
+      "name": "Lycan Weapon",
+      "price": "4500"
+    },
+    {
+      "book": "Lairs of Etharis",
+      "price": "100",
+      "page": "111",
+      "name": "Lycanthropy Antidote"
+    },
+    {
+      "price": "300",
+      "page": "111",
+      "book": "Lairs of Etharis",
+      "name": "Ready Gunk"
+    },
+    {
+      "price": "12000",
+      "book": "Lairs of Etharis",
+      "page": "111",
+      "name": "Wand of Silence"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "page": "",
+      "price": "500",
+      "name": "Aqua Delerium"
+    },
+    {
+      "page": "",
+      "name": "Aqua Expurgo",
+      "book": "Dungesons of Drakkenheim",
+      "price": "50"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "price": "600",
+      "page": "",
+      "name": "Bottled Comet"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "price": "24000",
+      "page": "",
+      "name": "Comet Smasher"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "page": "",
+      "price": "15000",
+      "name": "Delerium Crystal Focus"
+    },
+    {
+      "name": "Delerium-Forged Blade",
+      "price": "15000",
+      "page": "",
+      "book": "Dungesons of Drakkenheim"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "price": "3000",
+      "name": "Flame Lance",
+      "page": ""
+    },
+    {
+      "book": "Dungeons of Drakkenheim",
+      "price": "20",
+      "page": "",
+      "name": "Hardened Delerium-tipped Arrows"
+    },
+    {
+      "name": "Hazewalker Plate",
+      "price": "10000",
+      "book": "Dungesons of Drakkenheim",
+      "page": ""
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "name": "Purging Rod",
+      "price": "50",
+      "page": ""
+    },
+    {
+      "page": "",
+      "name": "Refined Delerium Dust",
+      "price": "500",
+      "book": "Dungesons of Drakkenheim"
+    },
+    {
+      "price": "2000",
+      "book": "Dungesons of Drakkenheim",
+      "name": "Skymetal Shield",
+      "page": ""
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "price": "10000",
+      "name": "Skymetal Staff",
+      "page": ""
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "price": "100",
+      "name": "Spellpiercing Wand",
+      "page": ""
+    },
+    {
+      "name": "Staff of Contaminated Power",
+      "book": "Dungesons of Drakkenheim",
+      "price": "26000",
+      "page": ""
+    },
+    {
+      "price": "7500",
+      "page": "",
+      "book": "Dungesons of Drakkenheim",
+      "name": "Starcrossed Bow"
+    },
+    {
+      "name": "Chancellor's Crest",
+      "page": "",
+      "book": "Dungesons of Drakkenheim",
+      "price": "7000"
+    },
+    {
+      "page": "",
+      "name": "Inscrutable Staff",
+      "book": "Dungesons of Drakkenheim",
+      "price": "55000"
+    },
+    {
+      "name": "Lord Commander's Badge",
+      "book": "Dungesons of Drakkenheim",
+      "price": "500",
+      "page": ""
+    },
+    {
+      "page": "",
+      "book": "Dungesons of Drakkenheim",
+      "name": "Spymaster's Signet",
+      "price": "1000"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "name": "Steward's Seal",
+      "page": "",
+      "price": "6500"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "name": "Crown of Westemär",
+      "page": "",
+      "price": "100000"
+    },
+    {
+      "name": "Ignacious, Sword of Burning Truth",
+      "page": "",
+      "book": "Dungesons of Drakkenheim",
+      "price": "60000"
+    },
+    {
+      "page": "",
+      "price": "6500",
+      "name": "Sceptre of Saint Vitruvio",
+      "book": "Dungesons of Drakkenheim"
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "page": "",
+      "name": "Helm of Patron Saints",
+      "price": "5000"
+    },
+    {
+      "price": "10000",
+      "book": "Dungesons of Drakkenheim",
+      "name": "The Shield of Sacred Flame",
+      "page": ""
+    },
+    {
+      "book": "Dungesons of Drakkenheim",
+      "name": "Saint Vitruvio's Phylactery",
+      "price": "6500",
+      "page": ""
+    },
+    {
+      "page": "N/A",
+      "book": "Humblewood Campaign Setting",
+      "name": "Blade of the Wood",
+      "price": "1500"
+    },
+    {
+      "book": "Humblewood Campaign Setting",
+      "name": "Borealus",
+      "page": "N/A",
+      "price": "5000"
+    },
+    {
+      "price": "500",
+      "book": "Humblewood Campaign Setting",
+      "name": "Feathered Helm",
+      "page": "N/A"
+    },
+    {
+      "price": "150000",
+      "name": "Necronomicon Ex Corvus",
+      "page": "N/A",
+      "book": "Humblewood Campaign Setting"
+    },
+    {
+      "price": "50",
+      "page": "N/A",
+      "name": "Nest Charm",
+      "book": "Humblewood Campaign Setting"
+    },
+    {
+      "name": "Red-Feather Bow",
+      "price": "1500",
+      "page": "N/A",
+      "book": "Humblewood Campaign Setting"
+    },
+    {
+      "book": "Humblewood Campaign Setting",
+      "name": "Wing Crest Shield",
+      "price": "16000",
+      "page": "N/A"
+    },
+    {
+      "page": "272",
+      "book": "Chains of Asmodeus",
+      "name": "Accounting and the Valuation of All Things",
+      "price": "25000"
+    },
+    {
+      "page": "267",
+      "name": "Amulet of Appearance",
+      "price": "7500",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "name": "Amulet of Betrayal",
+      "book": "Chains of Asmodeus",
+      "price": "5000",
+      "page": "267"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "price": "10000",
+      "page": "267",
+      "name": "Amulet of Duplicity"
+    },
+    {
+      "price": "40000",
+      "book": "Chains of Asmodeus",
+      "name": "Amulet of the Inferno",
+      "page": "267"
+    },
+    {
+      "page": "267",
+      "book": "Chains of Asmodeus",
+      "name": "Bracers of Asmodeus",
+      "price": "5000"
+    },
+    {
+      "price": "4000",
+      "page": "267",
+      "name": "Canian Fork",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "page": "267",
+      "name": "Condensed Order",
+      "price": "200",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "page": "268",
+      "book": "Chains of Asmodeus",
+      "name": "Demonbone Polarm",
+      "price": "2000"
+    },
+    {
+      "page": "268",
+      "book": "Chains of Asmodeus",
+      "price": "3000",
+      "name": "Gauntlets of Rage"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "name": "Infernal Amulet",
+      "price": "3000",
+      "page": "268"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "name": "Infernal Plate Armor",
+      "price": "4200",
+      "page": "268"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "name": "Knife of Stolen Resistance",
+      "page": "268",
+      "price": "2500"
+    },
+    {
+      "name": "Ranseur of Torture",
+      "page": "273",
+      "price": "40000",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "price": "2000",
+      "page": "268",
+      "name": "Ring of Collection",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "name": "Ring of the Copycat",
+      "book": "Chains of Asmodeus",
+      "price": "6500",
+      "page": "268"
+    },
+    {
+      "page": "269",
+      "book": "Chains of Asmodeus",
+      "price": "4000",
+      "name": "Ring of Treachery"
+    },
+    {
+      "price": "50000",
+      "page": "273",
+      "name": "Ruby Rod of Asmodeus",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "price": "32000",
+      "name": "Scourge of Shadow",
+      "book": "Chains of Asmodeus",
+      "page": "275"
+    },
+    {
+      "name": "Sage's Mirror",
+      "book": "Chains of Asmodeus",
+      "price": "13000",
+      "page": "269"
+    },
+    {
+      "price": "500",
+      "name": "Skull of Selfish Knowledg",
+      "page": "269",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "name": "Soul Coins",
+      "price": "100",
+      "page": "269"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "page": "270",
+      "price": "4000",
+      "name": "Stygian Spear"
+    },
+    {
+      "page": "270",
+      "name": "Sword of Retribution",
+      "price": "16000",
+      "book": "Chains of Asmodeus"
+    },
+    {
+      "name": "True-Ice Shards",
+      "book": "Chains of Asmodeus",
+      "page": "275",
+      "price": "50000"
+    },
+    {
+      "price": "500",
+      "page": "270",
+      "book": "Chains of Asmodeus",
+      "name": "Vial of Greed"
+    },
+    {
+      "page": "271",
+      "book": "Chains of Asmodeus",
+      "name": "Weapon of Agonizing Paralysis",
+      "price": "20000"
+    },
+    {
+      "book": "Chains of Asmodeus",
+      "name": "Wrought-Iron Tower",
+      "price": "35000",
+      "page": "276"
+    },
+    {
+      "book": "DILCT",
+      "price": "8100",
+      "page": "N/A",
+      "name": "Demon Skin"
+    },
+    {
+      "name": "Iggwilv's Horn",
+      "page": "N/A",
+      "book": "DILCT",
+      "price": "1200"
+    },
+    {
+      "page": "N/A",
+      "book": "DILCT",
+      "name": "Potion of Polychromy",
+      "price": "200"
+    },
+    {
+      "book": "DILCT",
+      "name": "Tasha's Creeping Keelboat",
+      "price": "15000",
+      "page": "N/A"
+    },
+    {
+      "book": "Vecna: Eve of Ruin",
+      "price": "7500",
+      "page": "46",
+      "name": "Chime of Exile"
+    },
+    {
+      "price": "15000",
+      "name": "Crown of Lies",
+      "page": "6",
+      "book": "Vecna: Eve of Ruin"
+    },
+    {
+      "page": "8",
+      "name": "Rod of Seven Parts",
+      "book": "Vecna: Eve of Ruin",
+      "price": "70000"
+    },
+    {
+      "name": "Antigravity Belt",
+      "price": "50",
+      "page": "TBD",
+      "book": "QftIS"
+    },
+    {
+      "price": "200",
+      "page": "TBD",
+      "book": "QftIS",
+      "name": "Concussion Grenade"
+    },
+    {
+      "price": "500",
+      "page": "TBD",
+      "name": "Needler Pistol",
+      "book": "QftIS"
+    },
+    {
+      "book": "QftIS",
+      "page": "TBD",
+      "name": "Paralysis Pistol",
+      "price": "1000"
+    },
+    {
+      "name": "Powered Armor",
+      "price": "10000",
+      "book": "QftIS",
+      "page": "TBD"
+    },
+    {
+      "price": "500",
+      "name": "Robot Controller",
+      "book": "QftIS",
+      "page": "TBD"
+    },
+    {
+      "page": "TBD",
+      "price": "500",
+      "book": "QftIS",
+      "name": "Sleep Grenade"
+    },
+    {
+      "page": "TBD",
+      "book": "QftIS",
+      "name": "Spaceship Trinket",
+      "price": "10"
+    },
+    {
+      "price": "10000",
+      "name": "Daoud's Wondrous Lanthorn",
+      "book": "QftIS",
+      "page": "TBD"
+    },
+    {
+      "name": "Heretic",
+      "book": "QftIS",
+      "price": "40000",
+      "page": "TBD"
+    },
+    {
+      "page": "TBD",
+      "name": "Staff of Ruling",
+      "book": "QftIS",
+      "price": "2000"
+    },
+    {
+      "book": "DMG",
+      "price": "150",
+      "page": "268",
+      "name": "Bomb"
+    },
+    {
+      "name": "Gunpowder, keg",
+      "page": "268",
+      "price": "250",
+      "book": "DMG"
+    },
+    {
+      "page": "268",
+      "book": "DMG",
+      "price": "35",
+      "name": "Gunpowder, horn"
+    },
+    {
+      "price": "60",
+      "book": "DMG",
+      "name": "Dynamite (stick)",
+      "page": "268"
+    },
+    {
+      "book": "DMG",
+      "name": "Grenade, fragmentation",
+      "price": "100",
+      "page": "268"
+    },
+    {
+      "price": "20",
+      "name": "Grenade, smoke",
+      "book": "DMG",
+      "page": "268"
+    },
+    {
+      "price": "300",
+      "book": "DMG",
+      "page": "268",
+      "name": "Grenade launcher"
+    },
+    {
+      "name": "Pistol, smoothbore",
+      "price": "200",
+      "page": "268",
+      "book": "DMG"
+    },
+    {
+      "name": "Musket, smoothbore",
+      "book": "DMG",
+      "price": "500",
+      "page": "268"
+    },
+    {
+      "name": "Rennaisance Bullets",
+      "page": "268",
+      "book": "DMG",
+      "price": "3"
+    },
+    {
+      "page": "268",
+      "price": "1000",
+      "name": "Pistol, automatic",
+      "book": "DMG"
+    },
+    {
+      "page": "268",
+      "price": "750",
+      "name": "Revolver",
+      "book": "DMG"
+    },
+    {
+      "price": "2000",
+      "page": "268",
+      "name": "Rifle, hunting",
+      "book": "DMG"
+    },
+    {
+      "name": "Rifle, Automatic",
+      "book": "DMG",
+      "page": "268",
+      "price": "3000"
+    },
+    {
+      "book": "DMG",
+      "name": "Shotgun",
+      "price": "1500",
+      "page": "268"
+    },
+    {
+      "name": "Laser Pistol",
+      "book": "DMG",
+      "price": "6000",
+      "page": "268"
+    },
+    {
+      "page": "268",
+      "book": "DMG",
+      "name": "Antimatter Rifle",
+      "price": "20000"
+    },
+    {
+      "name": "Laser Rifle",
+      "page": "268",
+      "price": "10000",
+      "book": "DMG"
+    },
+    {
+      "book": "DMG",
+      "name": "Energy Cell (1)",
+      "price": "500",
+      "page": "268"
+    },
+    {
+      "page": "268",
+      "book": "DMG",
+      "name": "Modern Bullets (10)",
+      "price": "10"
+    },
+    {
+      "book": "AAG",
+      "name": "Fish Suit",
+      "page": "22",
+      "price": "5000"
+    },
+    {
+      "price": "6000",
+      "book": "AAG",
+      "name": "Spelljamming Helm",
+      "page": "23"
+    },
+    {
+      "book": "AAG",
+      "name": "Wildspace Orrery",
+      "price": "100",
+      "page": "23"
+    }
+  ]
