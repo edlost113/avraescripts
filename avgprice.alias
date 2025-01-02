@@ -1,4 +1,4 @@
-!alias avgprice embed
+!alias avg2 embed
 {{sanePriceArray,sanePriceArrayCopy='\n',load_json(get_gvar('febc5f27-56fe-4f01-afe2-7604d7e3b288'))}}
 {{merchantPriceArray,merchantPriceArrayCopy='\n',load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))}}
 {{dungeonSportsPriceArray,dungeonSportsPriceArrayCopy='\n',load_json(get_gvar('3a22f7c0-a1f9-4229-b08c-4334aa0b8df6'))}}
@@ -14,6 +14,6 @@
 {{raw2=merchantPriceArray.join(s2)}}{{raw2=raw2[:1020]+'`...' if len(raw2)>1024 else raw2}}
 {{raw3=dungeonSportsPriceArray.join(s3)}}{{raw3=raw3[:1020]+'`...' if len(raw3)>1024 else raw3}}
 -title "Puns Magical Prices"
-{{((f' -title "{s2.name}" -desc "*{s2.rarity}*" -f "Sane Price|{int(s.price):,} gp" -f "Discerning Merchants  Price|{int(s2.price):,} gp" -f "average price|{(int(s2.price)+int(s.price))/2} gp" -footer "{s2.page}"') if 'name' in s2 else f'-f "List of Items containing `{n}`|{raw if s2 else "No Matches Found"}"' if n else '-desc "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."')if 'price' in s else ((f' -title "{s2.name}" -desc "*{s2.rarity}*" -f "Sane Price|unknown" -f "Discerning Merchants  Price|{int(s2.price):,} gp" -f "average price|{int(s2.price):,} gp" -footer "{s2.page}"') if 'name' in s2 else f'-f "List of Items containing `{n}`|{raw if s2 else "No Matches Found"}"' if n else '-desc "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."')}}
+{{((f' -title "{s2.name}" -desc "*{s2.rarity}*" -f "Sane Price|{int(s.price):,} gp" -f "Discerning Merchants  Price|{int(s2.price):,} gp" -f "average price|{(int(s2.price)+int(s.price))/2} gp" -footer "{s2.page}"') if 'name' in s2 else f'-f "List of Items containing `{n}`|{raw if s2 else "No Matches Found"}"' if lookupItem else '-desc "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."')if 'price' in s else ((f' -title "{s2.name}" -desc "*{s2.rarity}*" -f "Sane Price|unknown" -f "Discerning Merchants  Price|{int(s2.price):,} gp" -f "average price|{int(s2.price):,} gp" -footer "{s2.page}"') if 'name' in s2 else f'-f "List of Items containing `{n}`|{raw if s2 else "No Matches Found"}"' if lookupItem else '-desc "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."')}}
 -f "[View item on dndbeyond](https://www.dndbeyond.com/magic-items?filter-search={{lookupItem}}&filter-partnered-content=t)"
 -f "__{{" "*200}}__|[View Sane list](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)  |  [View Discerning Merchant list](https://drive.google.com/file/d/1NYX9I5C0YOtpEW0_hd-vJzJkhxBevGpa/view)"
