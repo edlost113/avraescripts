@@ -1,26 +1,35 @@
-!alias gatcha embed <drac2>
-cc1="Gatcha Pity"
-ch=character()
+    !alias gatcha embed <drac2>
+    cc1="Gatcha Pity"
+    ch=character()
+    id = ch.owner
+    val = 0
+    if not (ch.cc_exists(cc1)): 
+        ch.create_cc_nx(cc1, 0, 10000, "none", "none", initial_value=0) 
 
-val = 0
-if not (ch.cc_exists(cc1)): 
-    ch.create_cc_nx(cc1, 0, 10000, "none", "none", initial_value=0) 
+    des=load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
+    x=len(des)
+    randItem=randint(0,x)
+    item = des[randItem]
 
-des=load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
-x=len(des)
-randItem=randint(0,x)
-item = des[randItem]
+    if item.rarity == "Legendary" or item.rarity == "Artifact":
+        ch.mod_cc( cc1, 0)
+    else:
+        ch.set_cc(cc1, ch.get_cc(cc1) + 1)
+        if id == "184364008353169409" or id == "184364008353169409":
+            while True:
+                randItem=randint(0,x)
+                item = des[randItem]
+                if item.rarity == "Legendary" or item.rarity == "Artifact":
+                    break
+                else:
+                    continue
 
-if item.rarity == "Legendary":
-    ch.mod_cc( cc1, 0)
-elif item.rarity == "Artifact":
-    ch.mod_cc( cc1, 0)
-else:
-    ch.set_cc(cc1, ch.get_cc(cc1) + 1)
-if ch.get_cc(cc1) == 10000:
-    ch.mod_cc( cc1, 0)
-</drac2>
 
--title "Puns Magical Gatcha"
--f "You open a magical chest that contains \"{{item.name}}\""
--footer "!gatcha - made by edlost"
+
+    if ch.get_cc(cc1) == 10000:
+        ch.mod_cc( cc1, 0)
+    </drac2>
+
+    -title "Puns Magical Gatcha"
+    -f "You open a magical chest that contains \"{{item.name}}\""
+    -footer "!gatcha - made by edlost"
