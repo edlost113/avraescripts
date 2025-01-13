@@ -1,9 +1,24 @@
 !alias gatcha embed <drac2>
+cc1="Gatcha Pity"
+ch=character()
+
+val = 0
+if not (ch.cc_exists(cc1)): 
+    ch.create_cc_nx(cc1, 0, 10000, "none", "none", initial_value=0) 
 
 des=load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
 x=len(des)
 randItem=randint(0,x)
 item = des[randItem]
+
+if item.rarity == "Legendary":
+    ch.mod_cc( cc1, 0)
+elif item.rarity == "Artifact":
+    ch.mod_cc( cc1, 0)
+else:
+    ch.set_cc(cc1, ch.get_cc(cc1) + 1)
+if ch.get_cc(cc1) == 10000:
+    ch.mod_cc( cc1, 0)
 </drac2>
 
 -title "Puns Magical Gatcha"
