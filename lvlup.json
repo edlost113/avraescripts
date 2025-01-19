@@ -1,0 +1,17 @@
+[
+    {"class":"barbarian","die":"1d12mi7"},
+    {"class":"bard","die":"1d8mi5"},
+    {"class":"cleric","die":"1d8mi5"},
+    {"class":"druid","die":"1d8mi5"},
+    {"class":"fighter","die":"1d10mi6"},
+    {"class":"monk","die":"1d8mi5"},
+    {"class":"paladin","die":"1d10mi6"},
+    {"class":"ranger","die":"1d10mi6"},
+    {"class":"rogue","die":"1d8mi5"},
+    {"class":"warlock","die":"1d8mi5"},
+    {"class":"artificer","die":"1d8mi5"},
+    {"class":"blood hunter","die":"1d10mi6"},
+    {"class":"illrigger","die":"1d10mi6"},
+    {"class":"wizard","die":"1d6mi4"},
+    {"class":"sorcerer","die":"1d6mi4"}
+]

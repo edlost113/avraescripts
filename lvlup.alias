@@ -1,28 +1,29 @@
 !servalias lvlup embed <drac2>
-lvlclass = "".join(&ARGS&).lower()
-dietoroll = ''
-if lvlclass == 'barbarian':
-    dietoroll = "1d12mi7"
-elif lvlclass == 'wizard' or lvlclass == 'sorcerer':
-    dietoroll = "1d6mi4"
-elif lvlclass == 'rogue' or lvlclass == 'bard' or lvlclass == 'ranger' or lvlclass == 'warlock':
-    dietoroll = "1d8mi5"
-elif lvlclass == 'cleric' or lvlclass == 'druid' or lvlclass == 'monk' or lvlclass == 'artificer':
-    dietoroll = "1d8mi5"
-elif lvlclass == 'fighter' or lvlclass == 'paladin' or lvlclass == 'ranger' or lvlclass == 'blood hunter' or lvlclass == 'illrigger':
-    dietoroll = "1d10mi6"
+gvar = load_json(get_gvar('aecef265-6a9c-43de-853a-3b257ca1590b'))
+input = "&1&".lower() 
+
+perfectMatch = [item for item in gvar if input == item['class'].lower()]
+match = [item for item in gvar if input in item['class'].lower()]
+desc = ""
+fline = ""
+if not &ARGS&:
+    desc = "Please provide a class to level up"
+elif not match:
+    desc = "No class found"
+elif not perfectMatch and len(match) > 1:
+    desc = "No class found"
 else:
-    dietoroll = "1d8mi5"
-
-dieRollResult=vroll(f"{dietoroll}")
+    match = (perfectMatch+match)[0]
+    dieRollResult=vroll(f"{match.get('die')}")
+    desc = f"{match.get('die')}= {dieRollResult.total}"
+    fline = f"**{match.get('class')}** - {dieRollResult.total} HP"
 char = character()
-
 </drac2>
 
 
 
 -title "On Level Up for {{char.name}}"
--desc "{{dietoroll}}= {{dieRollResult.total}}"
--f "for your next level in {{lvlclass}} you rolled a {{dieRollResult.total}} for your hit points"
+-desc "{{desc}}"
+-f "{{fline}}"
 -footer "!lvlup  class     - made by edlost"
 -thumb "{{char.image}}"
