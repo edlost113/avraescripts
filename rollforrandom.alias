@@ -1,14 +1,21 @@
 !alias rfr embed <drac2>
 input = "&1&".lower() 
-dieroll=vroll(f"50d{input}")
-total = ceil((dieroll.total / 50) % int(input))
+arr=[]
+val = f"1000d{input}"
+for i in range(1000):
+    d=roll(f"1d{input}") 
+    arr.append(d)
 
+mode = max(set(arr), key=arr.count)
+
+counts = {i: arr.count(i) for i in set(arr)}
 char = character()
 </drac2>
 
 
 -title "of the random options pick"
--desc "{{dieroll}} "
--f "picking {{total}}"
+-desc "Rolled {{val}} got {{arr}}"
+-f "dist: {{counts}}"
+-f "picking {{mode}}"
 -footer "!rfr - made by edlost"
 -thumb "{{char.image}}"
