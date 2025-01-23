@@ -1,4 +1,10 @@
 !alias rfr embed <drac2>
+DICE_UVAR = 'diceDisplayWidth'
+try:
+    display_width = max(2, int(get_uvar(DICE_UVAR, '15') or '15'))
+except:
+    display_width = 15
+
 input = "&1&".lower() 
 arr=[]
 val = f"2000d{input}"
@@ -7,8 +13,50 @@ for i in range(2000):
     arr.append(d)
 
 mode = max(set(arr), key=arr.count)
-
+minval = 1
+maxval = int(input)
+maxlen = len(str(int(input)))
 counts = {i: arr.count(i) for i in set(arr)}
+dist = counts
+maxn = 0
+modeidx = 0
+for i in enumerate(dist):
+    if dist[i[1]] > maxn:
+        maxn = dist[i[1]]
+        modeidx = i[1]
+start_idx = max(0, modeidx-20)
+end_idx = min(int(input), modeidx+20+1)
+
+total = 0
+count = 0
+avg = 0
+dist_s = []
+cumsum = 0
+for i in enumerate(dist):
+    cumsum += dist[i[1]]
+    p = 100*dist[i[1]]/2000
+    divisor = 100 / display_width
+    divisor = 100 / display_width
+    fill = min(3*display_width, int(round((300*dist[i[1]]/maxn)/divisor)))
+    half = fill % 3
+    half_c = ' ▒▓'[half]
+    half = int(bool(half))
+    fill = fill // 3
+    empty = display_width - fill - half
+    fill_c = '█'
+    empty_c = ' '
+    bar = f'`|{fill_c*fill}{half_c*half}{empty_c*empty}|` {p:.2f}% {dist[i[1]]}'
+    dist_s.append(f'`{int(round(i[0]))+1:>{maxlen}d}`: {bar}')
+if start_idx != 0 or end_idx != len(dist_s):
+    dist_title = f'Distribution (truncated around mode):'
+else:
+    dist_title = f'Distribution:'
+dist_s = dist_s[start_idx:end_idx]
+if start_idx != 0:
+    dist_s.insert(0, '`...`')
+if end_idx != len(dist):
+    dist_s.append('`...`')
+dist_s = '\n'.join(dist_s)
 char = character()
 </drac2>
 
@@ -16,5 +64,6 @@ char = character()
 -title "of the random options pick"
 -desc "Rolled {{val}} Dist: {{counts}}"
 -f "picking {{mode}}"
+-f "{{dist_title}} | {{dist_s}}"
 -footer "!rfr - made by edlost"
 -thumb "{{char.image}}"
