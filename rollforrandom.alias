@@ -1,8 +1,8 @@
 !alias rfr embed <drac2>
 input = "&1&".lower() 
 arr=[]
-val = f"1000d{input}"
-for i in range(1000):
+val = f"2000d{input}"
+for i in range(2000):
     d=roll(f"1d{input}") 
     arr.append(d)
 
@@ -14,8 +14,7 @@ char = character()
 
 
 -title "of the random options pick"
--desc "Rolled {{val}} got {{arr}}"
--f "dist: {{counts}}"
+-desc "Rolled {{val}} Dist: {{counts}}"
 -f "picking {{mode}}"
 -footer "!rfr - made by edlost"
 -thumb "{{char.image}}"
