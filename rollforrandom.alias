@@ -1,0 +1,14 @@
+!alias rfr embed <drac2>
+input = "&1&".lower() 
+dieroll=vroll(f"50d{input}")
+total = ceil((dieroll.total / 50) % int(input))
+
+char = character()
+</drac2>
+
+
+-title "of the random options pick"
+-desc "{{dieroll}} "
+-f "picking {{total}}"
+-footer "!rfr - made by edlost"
+-thumb "{{char.image}}"
