@@ -6,6 +6,9 @@ except:
     display_width = 15
 
 input = "&1&".lower() 
+if not &ARGS&:
+    input = 20
+    
 arr=[]
 val = f"2000d{input}"
 for i in range(2000):
@@ -65,5 +68,5 @@ char = character()
 -desc "Rolled {{val}} Dist: {{counts}}"
 -f "picking {{mode}}"
 -f "{{dist_title}} | {{dist_s}}"
--footer "!rfr - made by edlost"
+-footer "!rfr num - made by edlost"
 -thumb "{{char.image}}"
