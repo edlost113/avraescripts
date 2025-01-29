@@ -76,11 +76,13 @@ ch=character()
 args=argparse(&ARGS&)
 extracurriculars = ch.get_cvar("extracurriculars")
 extracurriculars2 = ch.get_cvar("extracurriculars2")
+if not extracurriculars:
+    extracurriculars = "none"
+if not extracurriculars2:
+    extracurriculars2 = "none"
 gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
 perfectMatch = [item for item in gvar if extracurriculars == item['extracurricular']]
 match = [item for item in gvar if extracurriculars in item['extracurricular']]
-if not extracurriculars2:
-    extracurriculars2 = "none"
 perfectMatch2 = [item for item in gvar if extracurriculars2 == item['extracurricular']]
 match2 = [item for item in gvar if extracurriculars2 in item['extracurricular']]
 input = "&1&".lower()
