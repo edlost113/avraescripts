@@ -1,0 +1,82 @@
+[
+    {
+      "extracurricular": "Dead Languages Society",
+      "skill1": "Athletics",
+      "skill2": "History"
+    },
+    {
+      "extracurricular": "Distinguished Society of Fine Artists",
+      "skill1": "Performance",
+      "skill2": "Sleight of Hand"
+    },
+    {
+      "extracurricular": "Dragonsguard Historical Society",
+      "skill1": "Arcana",
+      "skill2": "History"
+    },
+    {
+      "extracurricular": "Fantastical Horticulture Club",
+      "skill1": "Nature",
+      "skill2": "Survival"
+    },
+    {
+      "extracurricular": "Dragonchess Club",
+      "skill1": "Deception",
+      "skill2": "Investigation"
+    },
+    {
+      "extracurricular": "Future Entrepreneurs of Strixhaven",
+      "skill1": "Insight",
+      "skill2": "Persuasion"
+    },
+    {
+      "extracurricular": "Intramural Gymnastics Club",
+      "skill1": "Acrobatics",
+      "skill2": "Performance"
+    },
+    {
+      "extracurricular": "Intramural Silkball Club",
+      "skill1": "Athletics",
+      "skill2": "Intimidation"
+    },
+    {
+      "extracurricular": "Intramural Water-Dancing Club",
+      "skill1": "Athletics",
+      "skill2": "Performance"
+    },
+    {
+      "extracurricular": "Live-Action Roleplaying Guild",
+      "skill1": "Animal Handling",
+      "skill2": "Performance"
+    },
+    {
+      "extracurricular": "Mage Tower Cheer Squad",
+      "skill1": "Perception",
+      "skill2": "Persuasion"
+    },
+    {
+      "extracurricular": "Playactors Drama Guild",
+      "skill1": "Deception",
+      "skill2": "Arcana"
+    },
+    {
+      "extracurricular": "Strixhaven Iron-Lifters Society",
+      "skill1": "Athletics",
+      "skill2": "Medicine"
+    },
+    {
+      "extracurricular": "Strixhaven Show Band Association",
+      "skill1": "Sleight of Hand",
+      "skill2": "Performance"
+    },
+    {
+      "extracurricular": "Strixhaven Star",
+      "skill1": "Insight",
+      "skill2": "Investigation"
+    },
+    {
+      "extracurricular": "Student-Mages of Faith",
+      "skill1": "Insight",
+      "skill2": "Religion"
+    }
+  ]

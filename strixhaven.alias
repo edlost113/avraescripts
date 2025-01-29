@@ -1,0 +1,103 @@
+!servalias makestrix embed
+<drac2>
+cc1="Rerolls"
+ch=character()
+D= "you can earn rerolls from studying"
+if (ch.cc_exists(cc1)):
+    T=f"You Already have the Counters ya goof!!"
+if not (ch.cc_exists(cc1)) :
+    ch.create_cc_nx(cc1, 0, 5, "none", "bubble", initial_value=0)
+    T=f"{cc1} created!"
+</drac2>
+
+-title "{{T}}"
+-desc "{{D}}"
+-color <color>
+-thumb <image>
+
+
+!servalias extrac embed
+<drac2>
+ch=character()
+desc = ""
+fline = ""
+input = "&1&".lower()
+position = "&3&".lower()
+activity = "&2&".lower()
+gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
+perfectMatch = [item for item in gvar if activity == item['extracurricular'].lower()]
+match = [item for item in gvar if activity in item['extracurricular'].lower()]
+
+if not &ARGS&:
+    desc="no args provided, can be add, remove or lookup followed by the extracurricular activity"
+elif not match:
+    desc = "No extracurricular found"
+elif not perfectMatch and len(match) > 1:
+    if input == "lookup":
+        s=[i for i in gvar if i.extracurricular.lower==activity or all([x in i.extracurricular.lower() for x in activity.split(' ')])]
+        s=s[0] if s and (len(s)==1 or s[0].extracurricular.lower()==activity) else [x.extracurricular for x in gvar] if not activity else [x.extracurricular for x in s]
+        sanePriceArray = "\n"
+        raw=sanePriceArray.join(s)
+        raw=raw[:1020]+'`...' if len(raw)>1024 else raw
+        desc = f"These are the extracurricular activities that are available that contain {activity}"
+        fline = raw
+else:
+    if input == "add":
+        ch.set_cvar("extracurriculars", match[0]['extracurricular'])
+        desc = f"{ch.name} has enrolled in \"{match[0]['extracurricular']}\""
+        fline= f"enrolling in an extracurricular activity will add bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+    elif input == "remove":
+        ch.set_cvar("extracurriculars", "")
+        desc = f"{ch.name} has unenrolled from \"{match[0]['extracurricular']}\""
+        fline= f"cancelling an extracurricular activity will remove the bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+    elif input == "lookup":
+        desc = f"**{match[0]['extracurricular']}** gives a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
+    else:
+        desc = "Please provide add remove or lookup"
+</drac2>
+
+-title "{{ch.name}} is changing their extracurricular activities"
+-desc "{{desc}}"
+-f "{{fline}}"
+-footer "!extrac add/remove/lookup \"activity\" 1or2 - made by edlost"
+-thumb "{{ch.image}}"
+
+
+!servalias exam embed
+<drac2>
+ch=character()
+args=argparse(&ARGS&)
+extracurriculars = ch.get_cvar("extracurriculars")
+
+gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
+perfectMatch = [item for item in gvar if extracurriculars == item['extracurricular']]
+match = [item for item in gvar if extracurriculars in item['extracurricular']]
+input = "&1&".lower()
+fline = f""
+if not &ARGS&:
+    desc="no args provided"
+elif not extracurriculars:
+    desc = f"{ch.name} is not taking part in any extracurricular activities"
+else:
+    desc = f"{ch.name} is taking part in **{extracurriculars}** which gives them a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
+    skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['perception'])[0]
+    adv = args.adv(boolwise=True)
+    bonus = ""
+    if skill == match[0]['skill1'].lower().replace(' ',''):
+        bonus = bonus = "+1d4"
+    elif skill == match[0]['skill2'].lower().replace(' ',''):
+        bonus = "+1d4"
+    # grab the reroll number if the character has the csetting reroll or default to None
+    reroll_number = ch.csettings.get("reroll", None)
+    # grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
+    minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
+    r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+bonus)
+
+
+    fline = f"you got {r.result}"
+</drac2>
+-title "{{ch.name}} is taking a test in {{skill}}"
+-desc "{{desc}}"
+-f "{{fline}}"
+-footer "!exam skill - made by edlost"
+-thumb "{{ch.image}}"
