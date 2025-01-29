@@ -96,7 +96,14 @@ else:
         match = [{'extracurriculars':'' , 'skill1': '', 'skill2': '' }]
     if not match2:
         match2 = [{'extracurriculars':'' , 'skill1': '', 'skill2': '' }]
-    desc = f"{ch.name} is taking part in **{extracurriculars}** and **{extracurriculars2}** which gives them a bonus to **{match[0]['skill1']}**, **{match[0]['skill2']}**, **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
+    if extracurriculars2=='none' and extracurriculars=='none':
+        desc = f"{ch.name} is not taking part in any extracurricular activities so they will not get any bonuses"
+    elif extracurriculars2=='none':
+        desc = f"{ch.name} is taking part in **{extracurriculars}** which gives them a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
+    elif extracurriculars=='none':
+        desc = f"{ch.name} is taking part in **{extracurriculars2}** which gives them a bonus to **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
+    else:
+        desc = f"{ch.name} is taking part in **{extracurriculars}** and **{extracurriculars2}** which gives them a bonus to **{match[0]['skill1']}**, **{match[0]['skill2']}**, **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
     skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['perception'])[0]
     adv = args.adv(boolwise=True)
     bonus = ""
