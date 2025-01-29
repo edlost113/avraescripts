@@ -22,7 +22,6 @@ ch=character()
 desc = ""
 fline = ""
 input = "&1&".lower()
-position = "&3&".lower()
 activity = "&2&".lower()
 gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
 perfectMatch = [item for item in gvar if activity == item['extracurricular'].lower()]
@@ -46,8 +45,16 @@ else:
         ch.set_cvar("extracurriculars", match[0]['extracurricular'])
         desc = f"{ch.name} has enrolled in \"{match[0]['extracurricular']}\""
         fline= f"enrolling in an extracurricular activity will add bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+    elif input == "add2":
+        ch.set_cvar("extracurriculars2", match[0]['extracurricular'])
+        desc = f"{ch.name} has enrolled in \"{match[0]['extracurricular']}\""
+        fline= f"enrolling in an extracurricular activity will add bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
     elif input == "remove":
         ch.set_cvar("extracurriculars", "")
+        desc = f"{ch.name} has unenrolled from \"{match[0]['extracurricular']}\""
+        fline= f"cancelling an extracurricular activity will remove the bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+    elif input == "remove2":
+        ch.set_cvar("extracurriculars2", "")
         desc = f"{ch.name} has unenrolled from \"{match[0]['extracurricular']}\""
         fline= f"cancelling an extracurricular activity will remove the bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
     elif input == "lookup":
@@ -68,10 +75,14 @@ else:
 ch=character()
 args=argparse(&ARGS&)
 extracurriculars = ch.get_cvar("extracurriculars")
-
+extracurriculars2 = ch.get_cvar("extracurriculars2")
 gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
 perfectMatch = [item for item in gvar if extracurriculars == item['extracurricular']]
 match = [item for item in gvar if extracurriculars in item['extracurricular']]
+if not extracurriculars2:
+    extracurriculars2 = "none"
+perfectMatch2 = [item for item in gvar if extracurriculars2 == item['extracurricular']]
+match2 = [item for item in gvar if extracurriculars2 in item['extracurricular']]
 input = "&1&".lower()
 fline = f""
 if not &ARGS&:
@@ -79,13 +90,21 @@ if not &ARGS&:
 elif not extracurriculars:
     desc = f"{ch.name} is not taking part in any extracurricular activities"
 else:
-    desc = f"{ch.name} is taking part in **{extracurriculars}** which gives them a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
+    if not match:
+        match = [{'extracurriculars':'' , 'skill1': '', 'skill2': '' }]
+    if not match2:
+        match2 = [{'extracurriculars':'' , 'skill1': '', 'skill2': '' }]
+    desc = f"{ch.name} is taking part in **{extracurriculars}** and **{extracurriculars2}** which gives them a bonus to **{match[0]['skill1']}**, **{match[0]['skill2']}**, **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
     skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['perception'])[0]
     adv = args.adv(boolwise=True)
     bonus = ""
     if skill == match[0]['skill1'].lower().replace(' ',''):
         bonus = bonus = "+1d4"
     elif skill == match[0]['skill2'].lower().replace(' ',''):
+        bonus = "+1d4"
+    elif skill == match2[0]['skill1'].lower().replace(' ',''):
+        bonus = "+1d4"
+    elif skill == match2[0]['skill2'].lower().replace(' ',''):
         bonus = "+1d4"
     # grab the reroll number if the character has the csetting reroll or default to None
     reroll_number = ch.csettings.get("reroll", None)
