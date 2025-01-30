@@ -1,4 +1,3 @@
-!servalias makestrix embed
 <drac2>
 cc1="Rerolls"
 ch=character()
@@ -8,15 +7,10 @@ if (ch.cc_exists(cc1)):
 if not (ch.cc_exists(cc1)) :
     ch.create_cc_nx(cc1, 0, 5, "none", "bubble", initial_value=0)
     T=f"{cc1} created!"
+
+return (f'embed -title "{T}" -desc "{D}" -color <color> -thumb <image>')
 </drac2>
 
--title "{{T}}"
--desc "{{D}}"
--color <color>
--thumb <image>
-
-
-!servalias extrac embed
 <drac2>
 ch=character()
 desc = ""
@@ -61,16 +55,12 @@ else:
         desc = f"**{match[0]['extracurricular']}** gives a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     else:
         desc = "Please provide add remove or lookup"
+return (f'embed -title "{ch.name} is changing their extracurricular activities" -desc "{desc}" -f "{fline}" -footer "!extrac add/remove/lookup \"activity\" 1or2 - made by edlost" -thumb "{ch.image}"')
 </drac2>
 
--title "{{ch.name}} is changing their extracurricular activities"
--desc "{{desc}}"
--f "{{fline}}"
--footer "!extrac add/remove/lookup \"activity\" 1or2 - made by edlost"
--thumb "{{ch.image}}"
 
 
-!servalias exam embed
+
 <drac2>
 ch=character()
 args=argparse(&ARGS&)
@@ -123,9 +113,5 @@ else:
 
 
     fline = f"you got {r.result}"
+return (f'embed -title "{ch.name} is taking a test in {skill}" -desc "{desc}" -f "{fline}" -footer "!exam skill - made by edlost" -thumb "{ch.image}"')
 </drac2>
--title "{{ch.name}} is taking a test in {{skill}}"
--desc "{{desc}}"
--f "{{fline}}"
--footer "!exam skill - made by edlost"
--thumb "{{ch.image}}"
