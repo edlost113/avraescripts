@@ -115,3 +115,38 @@ else:
     fline = f"you got {r.result}"
 return (f'embed -title "{ch.name} is taking a test in {skill}" -desc "{desc}" -f "{fline}" -footer "!exam skill - made by edlost" -thumb "{ch.image}"')
 </drac2>
+
+<drac2>
+ch=character()
+args=argparse(&ARGS&)
+person = "&1&".lower()
+values = args.get('b')
+if not values:
+    value = 0
+else:
+    value = values[0]
+value = int(value)
+relationships = ch.get_cvar("relationships")
+if not relationships:
+    relationships = [{"name":f"{person}","relationship":value}]
+    relationships = dump_json(relationships)
+cvar_relationships = load_json(relationships)
+perfectMatch = [item for item in cvar_relationships if person == item['name'].lower()]
+match = [item for item in cvar_relationships if person in item['name'].lower()]
+if not &ARGS&:
+    desc="no args provided"
+elif not perfectMatch and len(match) > 1:
+    desc = f"Multiple people found with the name {person}"
+elif not match:
+    desc = "person not found"
+    cvar_relationships.append({"name":f"{person}","relationship":value})
+else:
+    match[0]['relationship'] += value
+    cvar_relationships.remove(match[0])
+    desc = f"{ch.name} has a relationship status value with {match[0]['name']} of {match[0]['relationship']}"
+    cvar_relationships.append(match[0])
+
+jsonOut = dump_json(cvar_relationships)
+ch.set_cvar("relationships", jsonOut)
+return (f'embed -title "Starhold relationships" -desc "{desc}" -footer "!rln name - made by edlost" -thumb "{ch.image}"')
+</drac2>
