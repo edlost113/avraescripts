@@ -145,9 +145,9 @@ else:
     cvar_relationships.remove(match[0])
     if (match[0]['relationship'] == 0):
         desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
-    elif (match[0]['relationship'] > 2):
+    elif (match[0]['relationship'] >= 2):
         desc = f"{ch.name} has a friendly relationship with {match[0]['name']}  ({match[0]['relationship']})"
-    elif (match[0]['relationship'] < -2)::
+    elif (match[0]['relationship'] <= -2):
         desc = f"{ch.name} has a rival relationship with {match[0]['name']}  ({match[0]['relationship']})"
     else:
         desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
