@@ -138,12 +138,19 @@ if not &ARGS&:
 elif not perfectMatch and len(match) > 1:
     desc = f"Multiple people found with the name {person}"
 elif not match:
-    desc = "person not found"
+    desc = f"{ch.name} has started a neutral relationship with {match[0]['name']}"
     cvar_relationships.append({"name":f"{person}","relationship":value})
 else:
     match[0]['relationship'] += value
     cvar_relationships.remove(match[0])
-    desc = f"{ch.name} has a relationship status value with {match[0]['name']} of {match[0]['relationship']}"
+    if (match[0]['relationship'] == 0):
+        desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
+    elif (match[0]['relationship'] > 2):
+        desc = f"{ch.name} has a friendly relationship with {match[0]['name']}  ({match[0]['relationship']})"
+    elif (match[0]['relationship'] < -2)::
+        desc = f"{ch.name} has a rival relationship with {match[0]['name']}  ({match[0]['relationship']})"
+    else:
+        desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
     cvar_relationships.append(match[0])
 
 jsonOut = dump_json(cvar_relationships)
