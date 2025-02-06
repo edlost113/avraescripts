@@ -7,8 +7,12 @@ bonus = args.last('b',default="0")
 extratext = args.last('f',default="idk")
 rerolls = args.last('rr', default=8)
 dc = get_svar('skill_dc',default=0)
+showdc = False
 if dc == 0:
     dc = args.last('dc', default=0)
+    if dc != 0:
+        showdc = True
+
 # grab the reroll number if the character has the csetting reroll or default to None
 reroll_number = ch.csettings.get("reroll", None)
 # grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
@@ -16,6 +20,8 @@ minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", 
 arr=[]
 success = 0
 fline = f"they spent this time doing **{extratext}**"
+if showdc:
+    fline = fline + f" with a DC of {dc}"
 for i in range(rerolls):
     r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
     resultline = f"you rolled {r.result}"
