@@ -1,0 +1,33 @@
+<drac2>
+ch=character()
+args=argparse(&ARGS&)
+skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['perception'])[0]
+adv = args.adv(boolwise=True)
+bonus = args.last('b',default="0")
+rerolls = args.last('rr', default=8)
+dc = get_svar('skill_dc',default=17)
+# grab the reroll number if the character has the csetting reroll or default to None
+reroll_number = ch.csettings.get("reroll", None)
+# grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
+minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
+arr=[]
+success = 0
+fline = f""
+for i in range(rerolls):
+    r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
+    resultline = f"you rolled {r.result}"
+    if r.total >= int(dc) or r.result.crit == 1:
+        success = success + 1
+    if r.result.crit == 1:
+        success = success + 1
+        resultline = f"you rolled {r.result} YAY! CRIT!"
+    elif r.result.crit == 2:
+        success = success - 1
+        resultline = f"you rolled {r.result} OH NO! CRIT FAIL!"
+    arr.append(resultline)
+arr = arr[0:len(arr)]
+arr = '\n'.join(arr)
+desc = f"{ch.name} performed {skill} for {rerolls} hours and got **{success} successes**"
+footer = "!skillc skill [adv/dis] -mc # -rr # -b # - made by edlost"
+return (f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -footer "{footer}" -thumb "{ch.image}"')
+</drac2>
