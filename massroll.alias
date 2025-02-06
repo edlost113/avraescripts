@@ -30,5 +30,5 @@ arr = arr[0:len(arr)]
 arr = '\n'.join(arr)
 desc = f"{ch.name} performed {skill} for {rerolls} hours and got **{success} successes**"
 footer = "!skillc skill [adv/dis] -mc # -rr # -b # - made by edlost"
-return (f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}"-footer "{footer}" -thumb "{ch.image}"')
+return (f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -footer "{footer}" -thumb "{ch.image}"')
 </drac2>
