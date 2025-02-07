@@ -23,14 +23,17 @@ fline = f"they spent this time doing **{extratext}**"
 if showdc:
     fline = fline + f" with a DC of {dc}"
 for i in range(rerolls):
-    r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
+    if bonus == "0":
+        r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check))
+    else:
+        r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
     resultline = f"you rolled {r.result}"
-    if r.total >= int(dc) or r.result.crit == 1:
+    if r.total >= int(dc):
         success = success + 1
-    if r.result.crit == 1:
-        success = success + 1
-        resultline = f"you rolled {r.result} YAY! CRIT!"
-    elif r.result.crit == 2:
+        if r.result.crit == 1:
+            success = success + 1
+            resultline = f"you rolled {r.result} YAY! CRIT!"
+    if r.result.crit == 2:
         success = success - 1
         resultline = f"you rolled {r.result} OH NO! CRIT FAIL!"
     arr.append(resultline)
