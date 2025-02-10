@@ -110,9 +110,19 @@ else:
     # grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
     minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
     r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+bonus)
-
-
-    fline = f"you got {r.result}"
+    dc = get_svar('exam_dc',default=0)
+    showdc = False
+    if dc == 0:
+        dc = args.last('dc', default=0)
+        if dc != 0:
+            showdc = True
+    if dc != 0:
+        if int(r.total) >= int(dc):
+            fline = f"you got {r.result} and **PASSED** this portion of the exam"
+        else:
+            desc = f"you got {r.result} and **FAILED** this portion of the exam"
+    else:
+        fline = f"you got {r.result}"
 return (f'embed -title "{ch.name} is taking a test in {skill}" -desc "{desc}" -f "{fline}" -footer "!exam skill - made by edlost" -thumb "{ch.image}"')
 </drac2>
 
@@ -138,19 +148,20 @@ if not &ARGS&:
 elif not perfectMatch and len(match) > 1:
     desc = f"Multiple people found with the name {person}"
 elif not match:
-    desc = f"{ch.name} has started a neutral relationship with {match[0]['name']}"
+    match = [{"name":f"{person}","relationship":0}]
+    desc = f"{ch.name} has started a neutral relationship with **{match[0]['name']}**"
     cvar_relationships.append({"name":f"{person}","relationship":value})
 else:
     match[0]['relationship'] += value
     cvar_relationships.remove(match[0])
     if (match[0]['relationship'] == 0):
-        desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
+        desc = f"{ch.name} has a neutral relationship with **{match[0]['name']}**  ({match[0]['relationship']})"
     elif (match[0]['relationship'] >= 2):
-        desc = f"{ch.name} has a friendly relationship with {match[0]['name']}  ({match[0]['relationship']})"
+        desc = f"{ch.name} has a friendly relationship with **{match[0]['name']}**  ({match[0]['relationship']})"
     elif (match[0]['relationship'] <= -2):
-        desc = f"{ch.name} has a rival relationship with {match[0]['name']}  ({match[0]['relationship']})"
+        desc = f"{ch.name} has a rival relationship with **{match[0]['name']}**  ({match[0]['relationship']})"
     else:
-        desc = f"{ch.name} has a neutral relationship with {match[0]['name']}  ({match[0]['relationship']})"
+        desc = f"{ch.name} has a neutral relationship with **{match[0]['name']}**  ({match[0]['relationship']})"
     cvar_relationships.append(match[0])
 
 jsonOut = dump_json(cvar_relationships)
