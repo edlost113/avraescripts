@@ -34,23 +34,27 @@ else:
     else:
         desc = f"{ch.name} is taking part in **{extracurriculars}** and **{extracurriculars2}** which gives them a bonus to **{match[0]['skill1']}**, **{match[0]['skill2']}**, **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
     numPasses = 0
+    bonus = argsP.last('b',default="0")
     for i in range(1,int(numargs)+1):
         skill = ([x for x,y in ch.skills if args[i].lower().replace(' ','') in x.lower()]+['perception'])[0]
         adv = argsP.adv(boolwise=True)
-        bonus = ""
+        hasSkill = False
         if skill == match[0]['skill1'].lower().replace(' ',''):
-            bonus = bonus = "+1d4"
+            hasSkill = True
         elif skill == match[0]['skill2'].lower().replace(' ',''):
-            bonus = "+1d4"
+            hasSkill = True
         elif skill == match2[0]['skill1'].lower().replace(' ',''):
-            bonus = "+1d4"
+            hasSkill = True
         elif skill == match2[0]['skill2'].lower().replace(' ',''):
-            bonus = "+1d4"
+            hasSkill = True
         # grab the reroll number if the character has the csetting reroll or default to None
         reroll_number = ch.csettings.get("reroll", None)
         # grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
         minimum_check = argsP.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
-        r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+bonus)
+        if bonus == "0":
+            r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check))
+        else:
+            r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
         dc = get_svar('exam_dc',default=0)
         showdc = False
         if dc == 0:
@@ -59,12 +63,15 @@ else:
                 showdc = True
         if dc != 0:
             if int(r.total) >= int(dc):
-                fline = f"you used **{skill}** and got {r.result} on the test which **PASSED** this portion of the exam"
+                fline = f"you used **{skill.upper()}** and got {r.result} on the test which **PASSED** this portion of the exam"
                 numPasses += 1
             else:
-                fline = f"you used **{skill}** and got {r.result} on the test which **FAILED** this portion of the exam"
+                if hasSkill:
+                    fline = f"you used **{skill.upper()}** and got {r.result} on the test which **FAILED** this portion of the exam, maybe roll one of your Student dice to add a bonus"
+                else:
+                    fline = f"you used **{skill.upper()}** and got {r.result} on the test which **FAILED** this portion of the exam"
         else:
-            fline = f"you used **{skill}** and got {r.result} on the test"
+            fline = f"you used **{skill.upper()}** and got {r.result} on the test"
         arr.append(fline)
     arr = arr[0:len(arr)]
     arr = '\n'.join(arr)
