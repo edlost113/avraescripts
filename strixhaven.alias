@@ -37,20 +37,20 @@ elif not perfectMatch and len(match) > 1:
 else:
     if input == "add":
         ch.set_cvar("extracurriculars", match[0]['extracurricular'])
-        desc = f"{ch.name} has enrolled in \"{match[0]['extracurricular']}\""
-        fline= f"enrolling in an extracurricular activity will add bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+        desc = f"{ch.name} has enrolled in **{match[0]['extracurricular']}**"
+        fline= f"enrolling in an extracurricular activity will add bonuses to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     elif input == "add2":
         ch.set_cvar("extracurriculars2", match[0]['extracurricular'])
-        desc = f"{ch.name} has enrolled in \"{match[0]['extracurricular']}\""
-        fline= f"enrolling in an extracurricular activity will add bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+        desc = f"{ch.name} has enrolled in **{match[0]['extracurricular']}**"
+        fline= f"enrolling in an extracurricular activity will add bonuses to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     elif input == "remove":
         ch.set_cvar("extracurriculars", "")
-        desc = f"{ch.name} has unenrolled from \"{match[0]['extracurricular']}\""
+        desc = f"{ch.name} has unenrolled from **{match[0]['extracurricular']}**"
         fline= f"cancelling an extracurricular activity will remove the bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
     elif input == "remove2":
         ch.set_cvar("extracurriculars2", "")
-        desc = f"{ch.name} has unenrolled from \"{match[0]['extracurricular']}\""
-        fline= f"cancelling an extracurricular activity will remove the bonuses to {match[0]['skill1']} and {match[0]['skill2']}"
+        desc = f"{ch.name} has unenrolled from **{match[0]['extracurricular']}**"
+        fline= f"cancelling an extracurricular activity will remove the bonuses to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     elif input == "lookup":
         desc = f"**{match[0]['extracurricular']}** gives a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     else:
