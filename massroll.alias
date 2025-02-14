@@ -22,7 +22,7 @@ success = 0
 fline = f"they spent this time doing **{extratext}**"
 if showdc:
     fline = fline + f" with a DC of {dc}"
-for i in range(rerolls):
+for i in range(int(rerolls)):
     if bonus == "0":
         r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check))
     else:
