@@ -1,4 +1,79 @@
 !alias avgprice embed
+<drac2>
+sanePriceArray,sanePriceArrayCopy='\n',load_json(get_gvar('febc5f27-56fe-4f01-afe2-7604d7e3b288'))
+merchantPriceArray,merchantPriceArrayCopy='\n',load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
+dungeonSportsPriceArray,dungeonSportsPriceArrayCopy='\n',load_json(get_gvar('3a22f7c0-a1f9-4229-b08c-4334aa0b8df6'))
+itemName=" ".join(&ARGS&).lower() if &ARGS& else ''
+lookupItem="+".join(&ARGS&).lower() if &ARGS& else ''
+s=[i for i in sanePriceArrayCopy if i.name.lower==itemName or all([x in i.name.lower() for x in itemName.split(' ')])]
+s2=[i for i in merchantPriceArrayCopy if i.name.lower==itemName or all([x in i.name.lower() for x in itemName.split(' ')])]
+s3=[i for i in dungeonSportsPriceArrayCopy if i.name.lower==itemName or all([x in i.name.lower() for x in itemName.split(' ')])]
+s=s[0] if s and (len(s)==1 or s[0].name.lower()==itemName) else [x.name for x in sanePriceArrayCopy] if not itemName else [x.name for x in s]
+s2=s2[0] if s2 and (len(s2)==1 or s2[0].name.lower()==itemName) else [x.name for x in merchantPriceArrayCopy] if not itemName else [x.name for x in s2]
+s3=s3[0] if s3 and (len(s3)==1 or s3[0].name.lower()==itemName) else [x.name for x in dungeonSportsPriceArrayCopy] if not itemName else [x.name for x in s3]
+raw=sanePriceArray.join(s)
+raw=raw[:1020]+'`...' if len(raw)>1024 else raw
+raw2=merchantPriceArray.join(s2)
+raw2=raw2[:1020]+'`...' if len(raw2)>1024 else raw2
+raw3=dungeonSportsPriceArray.join(s3)
+raw3=raw3[:1020]+'`...' if len(raw3)>1024 else raw3
+
+raw4 = ""
+if len(s3) >1:
+    raw4 = raw4 + raw3 +"\n"
+elif len(s3) == 1:
+    raw4 = raw4 + s3[0].name + "\n"
+if len(s2) >1:
+    raw4 = raw4 + raw2 +"\n"
+elif len(s2) == 1:
+    raw4 = raw4 + s2[0].name + "\n"
+title = "Puns Magical Prices"
+desc = ""
+fline1 = ""
+fline2 = ""
+fline3 = ""
+footer = ""
+if 'name' in s2 and 'price' in s and 'price' in s2:
+    title = s2.name
+    desc = f"*{s2.rarity}*"
+    fline1 = f"Sane Price|{int(s.price):,} gp"
+    fline2 = f"Discerning Merchants  Price|{int(s2.price):,} gp"
+    fline3 = f"average price|{(int(s2.price)+int(s.price))/2} gp"
+    footer = s2.page
+elif 'name' in s2 and 'price' in s2 and not 'price' in s:
+    title = s2.name
+    desc = f"*{s2.rarity}*"
+    fline1 = f"Sane Price|unknown"
+    fline2 = f"Discerning Merchants Price|{int(s2.price):,}"
+    fline3 = f"average price|{int(s2.price):,} gp"
+    footer = s2.page
+elif 'price' in s3:
+    title = s3.name
+    desc = f"*{s3.r}*"
+    fline1 = f"Sane Price|unknown"
+    fline2 = f"Dungeon Sports Price|{int(s3.p):,} gp"
+    fline3 = f"average price|{int(s3.p):,} gp"
+    footer = s3.b
+elif lookupItem:
+    if raw4:
+        fline1 = f"List of Items containing `{itemName}`|{raw4}"
+    else:
+        fline1 = f"List of Items containing `{itemName}`|No Matches Found"
+else:
+    desc = "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."
+</drac2>
+-title "{{title}}"
+-desc "{{desc}}"
+-f "{{fline1}}"
+-f "{{fline2}}"
+-f "{{fline3}}"
+-footer "{{footer}}"
+-f "[View item on dndbeyond](https://www.dndbeyond.com/magic-items?filter-search={{lookupItem}}&filter-partnered-content=t)"
+-f "__{{" "*200}}__|[View Sane list](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)  |  [View Discerning Merchant list](https://drive.google.com/file/d/1NYX9I5C0YOtpEW0_hd-vJzJkhxBevGpa/view)  | [View Dungeon Sports list](https://www.dungeonsports.com/pricing-by-book/)"
+
+
+
+!alias avgprice embed
 {{sanePriceArray,sanePriceArrayCopy='\n',load_json(get_gvar('febc5f27-56fe-4f01-afe2-7604d7e3b288'))}}
 {{merchantPriceArray,merchantPriceArrayCopy='\n',load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))}}
 {{dungeonSportsPriceArray,dungeonSportsPriceArrayCopy='\n',load_json(get_gvar('3a22f7c0-a1f9-4229-b08c-4334aa0b8df6'))}}
