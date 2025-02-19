@@ -23,6 +23,8 @@ if len(s) >1:
     raw4 = raw4 + raw +"\n"
 elif len(s) == 1:
     raw4 = raw4 + s[0].name + "\n"
+
+raw4=raw4[:1020]+'`...' if len(raw4)>1024 else raw4
 title = "Puns Magical Prices"
 desc = ""
 fline1 = ""
