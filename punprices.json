@@ -1,0 +1,25 @@
+[{
+    "rarity" : "Uncommon",
+    "price" : " 600",
+    "name" : "Ring of Mind Shielding",
+    "page" : "PUN"
+  },
+  {
+    "rarity" : "Rare",
+    "price" : " 300",
+    "page" : "PUN",
+    "name" : "Potion of Maximum Power"
+  },
+  {
+    "rarity" : "Very Rare",
+    "name" : "Potion of possibility",
+    "page" : "PUN",
+    "price" : " 1900"
+  },
+  {
+    "price" : "7550",
+    "name" : "Boots of Haste",
+    "page" : "PUN",
+    "rarity" : "Very Rare"
+  }
+]

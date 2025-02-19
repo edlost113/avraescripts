@@ -4025,11 +4025,11 @@
     "bp" : "DMG 191"
   },
   {
-    "ps" : "16000",
+    "ps" : "0",
     "bp" : "PUN",
     "name" : "Ring of Mind Shielding",
     "pm" : "600",
-    "pa" : "8300"
+    "pa" : "600"
   },
   {
     "bp" : "DMG 191",
