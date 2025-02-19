@@ -21,5 +21,11 @@
     "name" : "Boots of Haste",
     "page" : "PUN",
     "rarity" : "Very Rare"
+  },
+  {
+    "price" : "8000",
+    "name" : "Armor of White Rose",
+    "page" : "PUN",
+    "rarity" : "Very Rare"
   }
 ]
