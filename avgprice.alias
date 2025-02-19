@@ -1,4 +1,3 @@
-!servalias avgprice embed
 <drac2>
 #dc4000a0-e103-4bcb-a4b3-0d730f15ab19	combined merchant and sane
 #3a22f7c0-a1f9-4229-b08c-4334aa0b8df6    dungeon sports
@@ -30,6 +29,7 @@ desc = ""
 fline1 = ""
 fline2 = ""
 fline3 = ""
+fline4 = f"[View item on dndbeyond](https://www.dndbeyond.com/magic-items?filter-search={lookupItem}&filter-partnered-content=t)"
 footer = ""
 if 'name' in s and 'pa' in s:
     desc = f"*{s.name}*"
@@ -50,15 +50,11 @@ elif lookupItem:
         fline1 = f"List of Items containing `{itemName}`|No Matches Found"
 else:
     desc = "`!avgprice [search]` to look up an item.\nIf multiple similar, aim for an exact match."
+
+fline5 = f"|[View Sane list](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)  |  [View Discerning Merchant list](https://drive.google.com/file/d/1NYX9I5C0YOtpEW0_hd-vJzJkhxBevGpa/view)  | [View Dungeon Sports list](https://www.dungeonsports.com/pricing-by-book/)"
+return (f'embed -title "{title}" -desc "{desc}" -f "{fline1}" -f "{fline2}" -f "{fline3}" -f "{fline4}" -f "{fline5}" -footer "{footer}"')
 </drac2>
--title "{{title}}"
--desc "{{desc}}"
--f "{{fline1}}"
--f "{{fline2}}"
--f "{{fline3}}"
--footer "{{footer}}"
--f "[View item on dndbeyond](https://www.dndbeyond.com/magic-items?filter-search={{lookupItem}}&filter-partnered-content=t)"
--f "__{{" "*200}}__|[View Sane list](https://drive.google.com/file/d/0B8XAiXpOfz9cMWt1RTBicmpmUDg/view)  |  [View Discerning Merchant list](https://drive.google.com/file/d/1NYX9I5C0YOtpEW0_hd-vJzJkhxBevGpa/view)  | [View Dungeon Sports list](https://www.dungeonsports.com/pricing-by-book/)"
+
 
 
 
