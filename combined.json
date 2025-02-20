@@ -1,2838 +1,2859 @@
 [
   {
     "bp" : "TCE 119",
-    "pm" : "1500",
     "name" : "+1 All-Purpose Tool",
-    "ps" : "0",
-    "pa" : "1500"
+    "pa" : "1500",
+    "pm" : "1500",
+    "ps" : "0"
   },
   {
-    "name" : "+1 Ammunition (any) ",
-    "pm" : "50",
-    "pa" : "50",
     "bp" : "DMG 150",
+    "name" : "+1 Ammunition (any) ",
+    "pa" : "50",
+    "pm" : "50",
     "ps" : "0"
   },
   {
     "bp" : "TCE 119",
-    "pm" : "425",
-    "ps" : "0",
+    "name" : "+1 Amulet of the Devout",
     "pa" : "425",
-    "name" : "+1 Amulet of the Devout"
-  },
-  {
     "pm" : "425",
-    "bp" : "TCE 120",
-    "name" : "+1 Arcane Grimoire",
-    "pa" : "425",
     "ps" : "0"
   },
   {
-    "ps" : "1500",
-    "name" : "+1 Armor (light medium or heavy)",
-    "bp" : "DMG 152",
-    "pm" : "3500",
-    "pa" : "2500"
-  },
-  {
-    "ps" : "0",
-    "name" : "+1 Bloodwell Vial",
+    "bp" : "TCE 120",
+    "name" : "+1 Arcane Grimoire",
+    "pa" : "425",
     "pm" : "425",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 152",
+    "name" : "+1 Armor (light medium or heavy)",
+    "pa" : "2500",
+    "pm" : "3500",
+    "ps" : "1500"
+  },
+  {
     "bp" : "TCE 122",
-    "pa" : "425"
+    "name" : "+1 Bloodwell Vial",
+    "pa" : "425",
+    "pm" : "425",
+    "ps" : "0"
   },
   {
-    "name" : "+1 Dragonhide Belt",
-    "pm" : "400",
     "bp" : "400",
-    "ps" : "0",
-    "pa" : "400"
+    "name" : "+1 Dragonhide Belt",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "1500",
+    "bp" : "TCE 133",
     "name" : "+1 Moon Sickle",
     "pa" : "1500",
-    "bp" : "TCE 133"
+    "pm" : "1500",
+    "ps" : "0"
   },
   {
-    "pa" : "425",
     "bp" : "TCE 134",
     "name" : "+1 Rhythm-Maker's Drum",
-    "ps" : "0",
-    "pm" : "425"
+    "pa" : "425",
+    "pm" : "425",
+    "ps" : "0"
   },
   {
-    "name" : "+1 Shield",
-    "pm" : "450",
     "bp" : "DMG 200",
+    "name" : "+1 Shield",
     "pa" : "975",
+    "pm" : "450",
     "ps" : "1500"
   },
   {
     "bp" : "DMG 212",
     "name" : "+1 Wand of the War Mage",
+    "pa" : "800",
     "pm" : "400",
-    "ps" : "0",
-    "pa" : "400"
+    "ps" : "1200"
   },
   {
-    "ps" : "1000",
+    "bp" : "DMG 213",
+    "name" : "+1 Weapon (any)",
     "pa" : "750",
     "pm" : "500",
-    "bp" : "DMG 213",
-    "name" : "+1 Weapon (any)"
+    "ps" : "1000"
   },
   {
+    "bp" : "TCE 119",
+    "name" : "+2 All-Purpose Tool",
     "pa" : "4500",
-    "ps" : "0",
-    "bp" : "TCE 119",
     "pm" : "4500",
-    "name" : "+2 All-Purpose Tool"
+    "ps" : "0"
   },
   {
-    "pa" : "250",
+    "bp" : "DMG 150",
     "name" : "+2 Ammunition (any) ",
-    "ps" : "0",
+    "pa" : "250",
     "pm" : "250",
-    "bp" : "DMG 150"
+    "ps" : "0"
   },
   {
-    "pa" : "4250",
     "bp" : "TCE 119",
-    "ps" : "0",
+    "name" : "+2 Amulet of the Devout",
+    "pa" : "4250",
     "pm" : "4250",
-    "name" : "+2 Amulet of the Devout"
+    "ps" : "0"
   },
   {
+    "bp" : "TCE 120",
     "name" : "+2 Arcane Grimoire",
+    "pa" : "4250",
     "pm" : "4250",
-    "pa" : "4250",
-    "ps" : "0",
-    "bp" : "TCE 120"
+    "ps" : "0"
   },
   {
-    "pa" : "13000",
-    "ps" : "6000",
     "bp" : "DMG 152",
+    "name" : "+2 Armor (light medium or heavy)",
+    "pa" : "13000",
     "pm" : "20000",
-    "name" : "+2 Armor (light medium or heavy)"
+    "ps" : "6000"
   },
   {
-    "ps" : "0",
-    "pa" : "4250",
-    "name" : "+2 Bloodwell Vial",
     "bp" : "TCE 122",
-    "pm" : "4250"
+    "name" : "+2 Bloodwell Vial",
+    "pa" : "4250",
+    "pm" : "4250",
+    "ps" : "0"
   },
   {
+    "bp" : "FTD 23",
     "name" : "+2 Dragonhide Belt",
     "pa" : "4000",
-    "ps" : "0",
-    "bp" : "FTD 23",
-    "pm" : "4000"
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
-    "pa" : "4000",
-    "ps" : "0",
-    "pm" : "4000",
     "bp" : "TCE 133",
-    "name" : "+2 Moon Sickle"
-  },
-  {
-    "name" : "+2 Rhythm-Maker's Drum",
-    "ps" : "0",
-    "bp" : "TCE 134",
-    "pa" : "4250",
-    "pm" : "4250"
-  },
-  {
-    "name" : "+2 Shield",
+    "name" : "+2 Moon Sickle",
+    "pa" : "4000",
     "pm" : "4000",
-    "pa" : "5000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 134",
+    "name" : "+2 Rhythm-Maker's Drum",
+    "pa" : "4250",
+    "pm" : "4250",
+    "ps" : "0"
+  },
+  {
     "bp" : "DMG 200",
+    "name" : "+2 Shield",
+    "pa" : "5000",
+    "pm" : "4000",
     "ps" : "6000"
   },
   {
     "bp" : "DMG 212",
-    "ps" : "0",
-    "pa" : "4000",
+    "name" : "+2 Wand of the War Mage",
+    "pa" : "4400",
     "pm" : "4000",
-    "name" : "+2 Wand of the War Mage"
+    "ps" : "4800"
   },
   {
-    "pa" : "3250",
-    "ps" : "4000",
-    "pm" : "2500",
+    "bp" : "DMG 213",
     "name" : "+2 Weapon (any)",
-    "bp" : "DMG 213"
+    "pa" : "3250",
+    "pm" : "2500",
+    "ps" : "4000"
   },
   {
-    "pa" : "16000",
-    "pm" : "16000",
     "bp" : "TCE 119",
     "name" : "+3 All-Purpose Tool",
+    "pa" : "16000",
+    "pm" : "16000",
     "ps" : "0"
   },
   {
     "bp" : "DMG 150",
-    "pa" : "1250",
     "name" : "+3 Ammunition (any) ",
+    "pa" : "1250",
     "pm" : "1250",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "14500",
-    "name" : "+3 Amulet of the Devout",
     "bp" : "TCE 119",
-    "pm" : "14500"
-  },
-  {
+    "name" : "+3 Amulet of the Devout",
     "pa" : "14500",
-    "bp" : "TCE 120",
-    "ps" : "0",
-    "name" : "+3 Arcane Grimoire",
-    "pm" : "14500"
-  },
-  {
-    "ps" : "24000",
-    "pa" : "37500",
-    "name" : "+3 Armor (light medium or heavy)",
-    "bp" : "DMG 152",
-    "pm" : "51000"
-  },
-  {
-    "ps" : "0",
-    "name" : "+3 Bloodwell Vial",
     "pm" : "14500",
-    "bp" : "TCE 122",
-    "pa" : "14500"
-  },
-  {
-    "ps" : "0",
-    "name" : "+3 Dragonhide Belt",
-    "pa" : "14000",
-    "pm" : "14000",
-    "bp" : "FTD 23"
-  },
-  {
-    "bp" : "TCE 133",
-    "pa" : "16500",
-    "ps" : "0",
-    "pm" : "16500",
-    "name" : "+3 Moon Sickle"
-  },
-  {
-    "ps" : "0",
-    "name" : "+3 Rhythm-Maker's Drum",
-    "bp" : "TCE 134",
-    "pm" : "14500",
-    "pa" : "14500"
-  },
-  {
-    "ps" : "24000",
-    "name" : "+3 Shield",
-    "bp" : "DMG 200",
-    "pa" : "23000",
-    "pm" : "22000"
-  },
-  {
-    "bp" : "DMG 212",
-    "pa" : "14000",
-    "pm" : "14000",
-    "ps" : "0",
-    "name" : "+3 Wand of the War Mage"
-  },
-  {
-    "pm" : "15000",
-    "ps" : "16000",
-    "pa" : "15500",
-    "bp" : "DMG 213",
-    "name" : "+3 Weapon (any)"
-  },
-  {
-    "name" : "Abracadadabrus",
-    "pa" : "2500",
-    "bp" : "IDRF 314",
-    "ps" : "0",
-    "pm" : "2500"
-  },
-  {
-    "pa" : "8000",
-    "ps" : "0",
-    "pm" : "8000",
-    "name" : "Absorbing Tattoo",
-    "bp" : "TCE 119"
-  },
-  {
-    "pa" : "+500",
-    "bp" : "XGE 78",
-    "ps" : "0",
-    "pm" : "+500",
-    "name" : "Adamantine Ammunition (10 pieces) "
-  },
-  {
-    "bp" : "DMG 150",
-    "pa" : "500",
-    "pm" : "500",
-    "ps" : "0",
-    "name" : "Adamantine Armor (medium or heavy but not hide)"
-  },
-  {
-    "pm" : "500",
-    "ps" : "0",
-    "bp" : "XGE 78",
-    "pa" : "500",
-    "name" : "Adamantine Weapon (any melee weapon)"
-  },
-  {
-    "pm" : "3000",
-    "name" : "Alchemical Compendium",
-    "pa" : "3000",
-    "ps" : "0",
-    "bp" : "TCE 119"
-  },
-  {
-    "pm" : "100",
-    "bp" : "DMG 150",
-    "ps" : "6000",
-    "pa" : "3050",
-    "name" : "Alchemy Jug"
-  },
-  {
-    "pa" : "20000",
-    "ps" : "0",
-    "pm" : "20000",
-    "bp" : "FTD 22",
-    "name" : "Amethyst Lodestone"
-  },
-  {
-    "name" : "Ammunition +1 (each)",
-    "pm" : "0",
-    "ps" : "25",
-    "pa" : "25",
-    "bp" : "150"
-  },
-  {
-    "bp" : "150",
-    "pm" : "0",
-    "pa" : "100",
-    "name" : "Ammunition +2 (ea)",
-    "ps" : "100"
-  },
-  {
-    "pa" : "400",
-    "bp" : "150",
-    "pm" : "0",
-    "ps" : "400",
-    "name" : "Ammunition +3 (ea)"
-  },
-  {
-    "pm" : "4000",
-    "pa" : "6000",
-    "ps" : "8000",
-    "name" : "Amulet of Health",
-    "bp" : "DMG 150"
-  },
-  {
-    "pm" : "400",
-    "ps" : "20000",
-    "pa" : "10200",
-    "bp" : "DMG 150",
-    "name" : "Amulet of Proof Against Detection and Location"
-  },
-  {
-    "pm" : "3600",
-    "ps" : "0",
-    "bp" : "TYP 228",
-    "name" : "Amulet of Protection from Turning",
-    "pa" : "3600"
-  },
-  {
-    "pa" : "6400",
-    "ps" : "0",
-    "pm" : "6400",
-    "bp" : "TA 206",
-    "name" : "Amulet of the Black Skull"
-  },
-  {
-    "name" : "Amulet of the Planes",
-    "ps" : "160000",
-    "bp" : "DMG 150",
-    "pa" : "101500",
-    "pm" : "43000"
-  },
-  {
-    "ps" : "0",
-    "pa" : "6000",
-    "bp" : "DMG 151",
-    "name" : "Animated Shield",
-    "pm" : "6000"
-  },
-  {
-    "pm" : "90000",
-    "name" : "Apparatus of Kwalish",
-    "ps" : "10000",
-    "pa" : "50000",
-    "bp" : "DMG 151"
-  },
-  {
-    "ps" : "0",
-    "name" : "Arcane Propulsion Arm",
-    "pa" : "5100",
-    "bp" : "ERLW 276",
-    "pm" : "5100"
-  },
-  {
-    "pm" : "100",
-    "pa" : "100",
-    "bp" : "ERLW 276",
-    "ps" : "0",
-    "name" : "Armblade (any one-handed melee weapon)"
-  },
-  {
-    "pm" : "75",
-    "bp" : "XGE 136",
-    "name" : "Armor of Gleaming (any medium or heavy)",
-    "pa" : "75",
     "ps" : "0"
   },
   {
-    "pm" : "70000",
-    "name" : "Armor of Invulnerability (plate)",
+    "bp" : "TCE 120",
+    "name" : "+3 Arcane Grimoire",
+    "pa" : "14500",
+    "pm" : "14500",
+    "ps" : "0"
+  },
+  {
     "bp" : "DMG 152",
+    "name" : "+3 Armor (light medium or heavy)",
+    "pa" : "37500",
+    "pm" : "51000",
+    "ps" : "24000"
+  },
+  {
+    "bp" : "TCE 122",
+    "name" : "+3 Bloodwell Vial",
+    "pa" : "14500",
+    "pm" : "14500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "FTD 23",
+    "name" : "+3 Dragonhide Belt",
+    "pa" : "14000",
+    "pm" : "14000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 133",
+    "name" : "+3 Moon Sickle",
+    "pa" : "16500",
+    "pm" : "16500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 134",
+    "name" : "+3 Rhythm-Maker's Drum",
+    "pa" : "14500",
+    "pm" : "14500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 200",
+    "name" : "+3 Shield",
+    "pa" : "23000",
+    "pm" : "22000",
+    "ps" : "24000"
+  },
+  {
+    "bp" : "DMG 212",
+    "name" : "+3 Wand of the War Mage",
+    "pa" : "16600",
+    "pm" : "14000",
+    "ps" : "19200"
+  },
+  {
+    "bp" : "DMG 213",
+    "name" : "+3 Weapon (any)",
+    "pa" : "15500",
+    "pm" : "15000",
+    "ps" : "16000"
+  },
+  {
+    "bp" : "IDRF 314",
+    "name" : "Abracadadabrus",
+    "pa" : "2500",
+    "pm" : "2500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 119",
+    "name" : "Absorbing Tattoo",
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "XGE 78",
+    "name" : "Adamantine Ammunition (10 pieces) ",
+    "pa" : "+500",
+    "pm" : "+500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Adamantine Armor (medium or heavy but not hide)",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "XGE 78",
+    "name" : "Adamantine Weapon (any melee weapon)",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 119",
+    "name" : "Alchemical Compendium",
+    "pa" : "3000",
+    "pm" : "3000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Alchemy Jug",
+    "pa" : "3050",
+    "pm" : "100",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "FTD 22",
+    "name" : "Amethyst Lodestone",
+    "pa" : "20000",
+    "pm" : "20000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Ammunition +1 (each)",
+    "pa" : "25",
+    "pm" : "0",
+    "ps" : "25"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Ammunition +2 (ea)",
+    "pa" : "100",
+    "pm" : "0",
+    "ps" : "100"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Ammunition +3 (ea)",
+    "pa" : "400",
+    "pm" : "0",
+    "ps" : "400"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Amulet of Health",
+    "pa" : "6000",
+    "pm" : "4000",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Amulet of Proof Against Detection and Location",
+    "pa" : "10200",
+    "pm" : "400",
+    "ps" : "20000"
+  },
+  {
+    "bp" : "TYP 228",
+    "name" : "Amulet of Protection from Turning",
+    "pa" : "3600",
+    "pm" : "3600",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TA 206",
+    "name" : "Amulet of the Black Skull",
+    "pa" : "6400",
+    "pm" : "6400",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 150",
+    "name" : "Amulet of the Planes",
+    "pa" : "101500",
+    "pm" : "43000",
+    "ps" : "160000"
+  },
+  {
+    "bp" : "DMG 151",
+    "name" : "Animated Shield",
+    "pa" : "6000",
+    "pm" : "6000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 151",
+    "name" : "Apparatus of Kwalish",
+    "pa" : "50000",
+    "pm" : "90000",
+    "ps" : "10000"
+  },
+  {
+    "bp" : "ERLW 276",
+    "name" : "Arcane Propulsion Arm",
+    "pa" : "5100",
+    "pm" : "5100",
+    "ps" : "0"
+  },
+  {
+    "bp" : "ERLW 276",
+    "name" : "Armblade (any one-handed melee weapon)",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
+  },
+  {
+    "bp" : "XGE 136",
+    "name" : "Armor of Gleaming (any medium or heavy)",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 152",
+    "name" : "Armor of Invulnerability (plate)",
     "pa" : "44000",
+    "pm" : "70000",
     "ps" : "18000"
   },
   {
-    "ps" : "6000",
-    "name" : "Armor of Resistance (light medium or heavy)",
-    "pm" : "3000",
     "bp" : "DMG 152",
-    "pa" : "4500"
+    "name" : "Armor of Resistance (light medium or heavy)",
+    "pa" : "4500",
+    "pm" : "3000",
+    "ps" : "6000"
   },
   {
-    "pm" : "1500",
-    "pa" : "1500",
     "bp" : "DMG 152",
     "name" : "Armor of Vulnerability (plate)",
+    "pa" : "1500",
+    "pm" : "1500",
     "ps" : "0"
   },
   {
     "bp" : "PUN",
-    "pm" : "0",
-    "ps" : "8000",
     "name" : "Armor of White Rose",
-    "pa" : "8000"
+    "pa" : "8000",
+    "pm" : "0",
+    "ps" : "8000"
   },
   {
     "bp" : "DMG 152",
-    "ps" : "0",
     "name" : "Arrow of Slaying (any) ",
     "pa" : "1000",
-    "pm" : "1000"
+    "pm" : "1000",
+    "ps" : "0"
   },
   {
-    "bp" : "152",
+    "bp" : "DMG 152",
     "name" : "Arrow of Slaying (ea)",
-    "pm" : "0",
     "pa" : "600",
+    "pm" : "0",
     "ps" : "600"
   },
   {
+    "bp" : "DMG 152",
     "name" : "Arrow-Catching Shield",
     "pa" : "5250",
-    "ps" : "6000",
     "pm" : "4500",
-    "bp" : "DMG 152"
+    "ps" : "6000"
   },
   {
-    "pa" : "3300",
-    "ps" : "0",
-    "pm" : "3300",
-    "name" : "Astromancy Archive",
-    "bp" : "TCE 120"
-  },
-  {
-    "ps" : "0",
-    "pm" : "3750",
     "bp" : "TCE 120",
-    "pa" : "3750",
-    "name" : "Atlas of Endless Horizons"
-  },
-  {
-    "ps" : "0",
-    "name" : "Azuredge (battleaxe)",
-    "pm" : "53000",
-    "bp" : "WDH 189",
-    "pa" : "53000"
-  },
-  {
-    "pm" : "4200",
+    "name" : "Astral Shard",
     "pa" : "4200",
-    "ps" : "0",
+    "pm" : "4200",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 120",
+    "name" : "Astromancy Archive",
+    "pa" : "3300",
+    "pm" : "3300",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 120",
+    "name" : "Atlas of Endless Horizons",
+    "pa" : "3750",
+    "pm" : "3750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 177",
+    "name" : "Azorius Keyrune",
+    "pa" : "1000",
+    "pm" : "1000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "WDH 189",
+    "name" : "Azuredge (battleaxe)",
+    "pa" : "53000",
+    "pm" : "53000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "WDH 189",
+    "name" : "Badge of the Watch",
+    "pa" : "3250",
+    "pm" : "3250",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 152",
     "name" : "Bag of Beans",
-    "bp" : "DMG 152"
+    "pa" : "4200",
+    "pm" : "4200",
+    "ps" : "0"
   },
   {
-    "pm" : "12000",
-    "name" : "Bag of Devouring",
     "bp" : "DMG 153",
-    "ps" : "0",
-    "pa" : "12000"
+    "name" : "Bag of Devouring",
+    "pa" : "12000",
+    "pm" : "12000",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 153-154",
+    "name" : "Bag of Holding",
     "pa" : "2250",
     "pm" : "500",
-    "bp" : "DMG 153-154",
-    "ps" : "4000",
-    "name" : "Bag of Holding"
+    "ps" : "4000"
   },
   {
-    "ps" : "0",
+    "bp" : "DMG 154",
     "name" : "Bag of Tricks",
-    "pm" : "350",
     "pa" : "350",
-    "bp" : "DMG 154"
+    "pm" : "350",
+    "ps" : "0"
   },
   {
-    "pa" : "200",
-    "pm" : "200",
     "bp" : "TYP 228",
     "name" : "Balance of Harmony",
+    "pa" : "200",
+    "pm" : "200",
     "ps" : "0"
   },
   {
     "bp" : "PA 222",
     "name" : "Balloon Pack",
+    "pa" : "275",
     "pm" : "275",
-    "ps" : "0",
-    "pa" : "275"
+    "ps" : "0"
   },
   {
-    "pm" : "4400",
-    "ps" : "0",
-    "pa" : "4400",
     "bp" : "SKT 233",
-    "name" : "Banner of the Krig Rune"
+    "name" : "Banner of the Krig Rune",
+    "pa" : "4400",
+    "pm" : "4400",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "",
     "name" : "Barrier Tattoo",
     "pa" : "200",
     "pm" : "200",
-    "bp" : ""
+    "ps" : "0"
   },
   {
+    "bp" : "BGDA 223",
+    "name" : "Battle Standard of Infernal Power",
     "pa" : "6000",
     "pm" : "6000",
-    "name" : "Battle Standard of Infernal Power",
-    "ps" : "0",
-    "bp" : "BGDA 223"
+    "ps" : "0"
   },
   {
-    "pm" : "3000",
     "bp" : "DMG 154",
     "name" : "Bead of Force",
     "pa" : "1980",
+    "pm" : "3000",
     "ps" : "960"
   },
   {
-    "ps" : "0",
-    "pa" : "25",
-    "name" : "Bead of Nourishment",
     "bp" : "XGE 136",
-    "pm" : "25"
+    "name" : "Bead of Nourishment",
+    "pa" : "25",
+    "pm" : "25",
+    "ps" : "0"
   },
   {
     "bp" : "XGE 136",
-    "pm" : "25",
-    "ps" : "0",
+    "name" : "Bead of Refreshment",
     "pa" : "25",
-    "name" : "Bead of Refreshment"
+    "pm" : "25",
+    "ps" : "0"
   },
   {
     "bp" : "ERLW 276",
     "name" : "Belashyrra's Beholder Crown",
     "pa" : "51000",
-    "ps" : "0",
-    "pm" : "51000"
-  },
-  {
-    "pa" : "750",
-    "pm" : "750",
-    "name" : "Bell Branch",
-    "ps" : "0",
-    "bp" : "TCE 122"
-  },
-  {
-    "pa" : "5500",
-    "name" : "Belt of Dwarvenkind",
-    "bp" : "DMG 155",
-    "ps" : "6000",
-    "pm" : "5000"
-  },
-  {
-    "pm" : "66000",
-    "pa" : "66000",
-    "name" : "Belt of Giant Strength (Cloud)",
-    "ps" : "0",
-    "bp" : "DMG 155"
-  },
-  {
-    "bp" : "DMG 155",
-    "pa" : "36000",
-    "pm" : "36000",
-    "name" : "Belt of Giant Strength (Fire)",
+    "pm" : "51000",
     "ps" : "0"
   },
   {
+    "bp" : "TCE 122",
+    "name" : "Bell Branch",
+    "pa" : "750",
+    "pm" : "750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 155",
+    "name" : "Belt of Dwarvenkind",
+    "pa" : "5500",
+    "pm" : "5000",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "DMG 155",
+    "name" : "Belt of Giant Strength (Cloud)",
+    "pa" : "66000",
+    "pm" : "66000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 155",
+    "name" : "Belt of Giant Strength (Fire)",
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 155",
     "name" : "Belt of Giant Strength (Hill)",
     "pa" : "4000",
     "pm" : "4000",
-    "bp" : "DMG 155",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "12000",
+    "bp" : "DMG 155",
     "name" : "Belt of Giant Strength (Stone\/Frost)",
     "pa" : "12000",
-    "bp" : "DMG 155"
+    "pm" : "12000",
+    "ps" : "0"
   },
   {
-    "pa" : "100000",
-    "ps" : "0",
-    "name" : "Belt of Giant Strength (Storm)",
     "bp" : "DMG 155",
-    "pm" : "100000"
+    "name" : "Belt of Giant Strength (Storm)",
+    "pa" : "100000",
+    "pm" : "100000",
+    "ps" : "0"
   },
   {
-    "pa" : "2000",
-    "ps" : "0",
     "bp" : "DMG 155",
     "name" : "Berserker Axe (cursed)",
-    "pm" : "2000"
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
   },
   {
+    "bp" : "WDMM 284",
     "name" : "Black Crystal Tablet",
     "pa" : "90000",
     "pm" : "90000",
-    "ps" : "0",
-    "bp" : "WDMM 284"
+    "ps" : "0"
   },
   {
-    "name" : "Black Dragon Mask",
     "bp" : "HDQ 94",
+    "name" : "Black Dragon Mask",
+    "pa" : "95000",
     "pm" : "95000",
-    "ps" : "0",
-    "pa" : "95000"
+    "ps" : "0"
   },
   {
-    "name" : "Blackstaff",
     "bp" : "WDH 190",
+    "name" : "Blackstaff",
     "pa" : "72000",
-    "ps" : "0",
-    "pm" : "72000"
+    "pm" : "72000",
+    "ps" : "0"
   },
   {
-    "pm" : "5500",
-    "pa" : "5500",
-    "ps" : "0",
+    "bp" : "LLK 53",
     "name" : "Blade of the Medusa (any sword)",
-    "bp" : "LLK 53"
+    "pa" : "5500",
+    "pm" : "5500",
+    "ps" : "0"
   },
   {
-    "pa" : "9500",
+    "bp" : "WDMM 310",
     "name" : "Blast Scepter",
+    "pa" : "9500",
     "pm" : "9500",
-    "ps" : "0",
-    "bp" : "WDMM 310"
+    "ps" : "0"
   },
   {
+    "bp" : "SKT 233",
     "name" : "Blod Stone",
-    "pm" : "6500",
-    "ps" : "0",
     "pa" : "6500",
-    "bp" : "SKT 233"
+    "pm" : "6500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "32000",
+    "bp" : "TCE 122",
     "name" : "Blood Fury Tattoo",
     "pa" : "32000",
-    "bp" : "TCE 122"
+    "pm" : "32000",
+    "ps" : "0"
   },
   {
     "bp" : "CS 221",
-    "pm" : "375",
     "name" : "Blood Spear",
-    "ps" : "0",
-    "pa" : "375"
+    "pa" : "375",
+    "pm" : "375",
+    "ps" : "0"
   },
   {
-    "pm" : "500",
-    "pa" : "500",
+    "bp" : "IMR 94",
     "name" : "Blood of the Lycanthrope Antidote",
-    "ps" : "0",
-    "bp" : "IMR 94"
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "WBW 208",
+    "name" : "Bobbing Lily Pad",
     "pa" : "4000",
     "pm" : "4000",
-    "name" : "Bobbing Lily Pad",
-    "bp" : "WBW 208"
+    "ps" : "0"
   },
   {
     "bp" : "TA 206",
+    "name" : "Bookmark (dagger)",
     "pa" : "30000",
     "pm" : "30000",
-    "name" : "Bookmark (dagger)",
     "ps" : "0"
   },
   {
-    "name" : "Boots of Elvenkind",
     "bp" : "DMG 155",
+    "name" : "Boots of Elvenkind",
     "pa" : "1450",
-    "ps" : "2500",
-    "pm" : "400"
+    "pm" : "400",
+    "ps" : "2500"
   },
   {
-    "pm" : "60",
-    "ps" : "0",
     "bp" : "XGE 136",
+    "name" : "Boots of False Tracks",
     "pa" : "60",
-    "name" : "Boots of False Tracks"
+    "pm" : "60",
+    "ps" : "0"
   },
   {
-    "pm" : "7550",
+    "bp" : "PUN",
     "name" : "Boots of Haste",
     "pa" : "7550",
-    "bp" : "PUN",
+    "pm" : "7550",
     "ps" : "0"
   },
   {
-    "ps" : "4000",
+    "bp" : "DMG 155",
+    "name" : "Boots of Levitation",
     "pa" : "4250",
     "pm" : "4500",
-    "bp" : "DMG 155",
-    "name" : "Boots of Levitation"
+    "ps" : "4000"
   },
   {
     "bp" : "DMG 155",
-    "pa" : "3500",
     "name" : "Boots of Speed",
+    "pa" : "3500",
     "pm" : "3000",
     "ps" : "4000"
   },
   {
-    "ps" : "5000",
+    "bp" : "DMG 156",
+    "name" : "Boots of Striding and Springing",
     "pa" : "2600",
     "pm" : "200",
-    "bp" : "DMG 156",
-    "name" : "Boots of Striding and Springing"
+    "ps" : "5000"
   },
   {
-    "ps" : "10000",
-    "pa" : "5150",
     "bp" : "DMG 156",
     "name" : "Boots of the Winterlands",
-    "pm" : "300"
+    "pa" : "5150",
+    "pm" : "300",
+    "ps" : "10000"
   },
   {
-    "ps" : "0",
+    "bp" : "GGR 177",
     "name" : "Boros Keyrune",
     "pa" : "3500",
-    "bp" : "GGR 177",
-    "pm" : "3500"
+    "pm" : "3500",
+    "ps" : "0"
   },
   {
-    "name" : "Bottle of Boundless Coffee",
     "bp" : "SCC 38",
+    "name" : "Bottle of Boundless Coffee",
+    "pa" : "50",
     "pm" : "50",
-    "ps" : "0",
-    "pa" : "50"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "350",
     "bp" : "PA 222",
     "name" : "Bottled Breath",
-    "pm" : "350"
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
   },
   {
-    "pa" : "6350",
-    "name" : "Bowl of Commanding Water Elementals",
     "bp" : "DMG 156",
+    "name" : "Bowl of Commanding Water Elementals",
+    "pa" : "6350",
     "pm" : "4700",
     "ps" : "8000"
   },
   {
-    "pa" : "9000",
-    "name" : "Bracelet of Rock Magic",
     "bp" : "TYP 228",
+    "name" : "Bracelet of Rock Magic",
+    "pa" : "9000",
     "pm" : "9000",
     "ps" : "0"
   },
   {
-    "pm" : "1000",
-    "pa" : "1000",
     "bp" : "WDH 190",
-    "ps" : "0",
-    "name" : "Bracer of Flying Daggers"
+    "name" : "Bracer of Flying Daggers",
+    "pa" : "1000",
+    "pm" : "1000",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 156",
-    "pa" : "925",
     "name" : "Bracers of Archery",
+    "pa" : "925",
     "pm" : "350",
     "ps" : "1500"
   },
   {
-    "pm" : "4000",
-    "ps" : "6000",
+    "bp" : "DMG 156",
     "name" : "Bracers of Defense",
     "pa" : "5000",
-    "bp" : "DMG 156"
+    "pm" : "4000",
+    "ps" : "6000"
   },
   {
+    "bp" : "DMG 175",
     "name" : "Brass Horn of Valhalla",
-    "bp" : "175",
-    "ps" : "8400",
     "pa" : "8400",
-    "pm" : "0"
-  },
-  {
-    "bp" : "DMG 156",
-    "pm" : "4700",
-    "ps" : "8000",
-    "pa" : "6350",
-    "name" : "Brazier of Commanding Fire Elementals"
-  },
-  {
-    "pa" : "4500",
-    "ps" : "0",
-    "bp" : "IMR 94",
-    "name" : "Bridle of Capturing",
-    "pm" : "4500"
-  },
-  {
-    "name" : "Bronze Griffon",
-    "bp" : "169",
     "pm" : "0",
-    "ps" : "8000",
-    "pa" : "8000"
-  },
-  {
-    "ps" : "11200",
-    "name" : "Bronze Horn of Valhalla",
-    "bp" : "175",
-    "pa" : "11200",
-    "pm" : "0"
+    "ps" : "8400"
   },
   {
     "bp" : "DMG 156",
-    "ps" : "7500",
-    "pa" : "3938",
-    "name" : "Brooch of Shielding",
-    "pm" : "375"
-  },
-  {
-    "pm" : "7500",
-    "ps" : "8000",
-    "pa" : "7750",
-    "name" : "Broom of Flying",
-    "bp" : "DMG 156"
-  },
-  {
-    "pa" : "8400",
-    "bp" : "DMG 157",
-    "pm" : "8400",
-    "ps" : "0",
-    "name" : "Candle of Invocation"
-  },
-  {
-    "pa" : "50",
-    "name" : "Candle of the Deep",
-    "pm" : "50",
-    "bp" : "XGE 136",
-    "ps" : "0"
-  },
-  {
-    "ps" : "1000",
-    "name" : "Cap of Water Breathing",
-    "bp" : "DMG 157",
-    "pa" : "725",
-    "pm" : "450"
-  },
-  {
-    "ps" : "8000",
-    "name" : "Cape of the Mountebank",
-    "pa" : "5950",
-    "pm" : "3900",
-    "bp" : "DMG 157"
-  },
-  {
-    "ps" : "12000",
-    "bp" : "DMG 157",
-    "pa" : "28000",
-    "pm" : "44000",
-    "name" : "Carpet of Flying"
-  },
-  {
-    "pm" : "50",
-    "name" : "Cast-Off Armor (light medium or heavy)",
-    "bp" : "XGE 136",
-    "pa" : "50",
-    "ps" : "0"
-  },
-  {
-    "name" : "Cauldron of Plenty",
-    "ps" : "0",
-    "bp" : "IDRF 314",
-    "pa" : "3500",
-    "pm" : "3500"
-  },
-  {
-    "name" : "Cauldron of Rebirth",
-    "pa" : "10000",
-    "bp" : "TCE 122-123",
-    "pm" : "10000",
-    "ps" : "0"
-  },
-  {
-    "name" : "Censer of Controlling Air Elementals",
+    "name" : "Brazier of Commanding Fire Elementals",
     "pa" : "6350",
-    "bp" : "DMG 158",
     "pm" : "4700",
     "ps" : "8000"
   },
   {
-    "pa" : "80",
-    "ps" : "0",
-    "pm" : "80",
+    "bp" : "IMR 94",
+    "name" : "Bridle of Capturing",
+    "pa" : "4500",
+    "pm" : "4500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 169",
+    "name" : "Bronze Griffon",
+    "pa" : "8000",
+    "pm" : "0",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 175",
+    "name" : "Bronze Horn of Valhalla",
+    "pa" : "11200",
+    "pm" : "0",
+    "ps" : "11200"
+  },
+  {
+    "bp" : "DMG 156",
+    "name" : "Brooch of Shielding",
+    "pa" : "3938",
+    "pm" : "375",
+    "ps" : "7500"
+  },
+  {
+    "bp" : "DMG 156",
+    "name" : "Broom of Flying",
+    "pa" : "7750",
+    "pm" : "7500",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 157",
+    "name" : "Candle of Invocation",
+    "pa" : "8400",
+    "pm" : "8400",
+    "ps" : "0"
+  },
+  {
+    "bp" : "XGE 136",
+    "name" : "Candle of the Deep",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 157",
+    "name" : "Cap of Water Breathing",
+    "pa" : "725",
+    "pm" : "450",
+    "ps" : "1000"
+  },
+  {
+    "bp" : "DMG 157",
+    "name" : "Cape of the Mountebank",
+    "pa" : "5950",
+    "pm" : "3900",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 157",
+    "name" : "Carpet of Flying",
+    "pa" : "28000",
+    "pm" : "44000",
+    "ps" : "12000"
+  },
+  {
+    "bp" : "XGE 136",
+    "name" : "Cast-Off Armor (light medium or heavy)",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "IDRF 314",
+    "name" : "Cauldron of Plenty",
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 122-123",
+    "name" : "Cauldron of Rebirth",
+    "pa" : "10000",
+    "pm" : "10000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 158",
+    "name" : "Censer of Controlling Air Elementals",
+    "pa" : "6350",
+    "pm" : "4700",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "XGE 136",
     "name" : "Charlatan's Die",
-    "bp" : "XGE 136"
+    "pa" : "80",
+    "pm" : "80",
+    "ps" : "0"
   },
   {
+    "bp" : "GS 229",
     "name" : "Charm of Plant Command",
-    "pm" : "1500",
-    "ps" : "0",
     "pa" : "1500",
-    "bp" : "GS 229"
+    "pm" : "1500",
+    "ps" : "0"
   },
   {
-    "name" : "Chest of Preserving",
-    "pm" : "100",
-    "pa" : "100",
     "bp" : "WDMM 139",
+    "name" : "Chest of Preserving",
+    "pa" : "100",
+    "pm" : "100",
     "ps" : "0"
   },
   {
     "bp" : "DMG 158",
     "name" : "Chime of Opening",
+    "pa" : "2250",
     "pm" : "3000",
-    "ps" : "1500",
-    "pa" : "2250"
+    "ps" : "1500"
   },
   {
-    "pm" : "500",
-    "name" : "Chromatic Rose",
     "bp" : "WBW 208",
-    "ps" : "0",
-    "pa" : "500"
+    "name" : "Chromatic Rose",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 158",
     "name" : "Circlet of Blasting",
     "pa" : "925",
-    "ps" : "1500",
-    "pm" : "350"
+    "pm" : "350",
+    "ps" : "1500"
   },
   {
+    "bp" : "WDMM 30",
     "name" : "Circlet of Human Perfection",
     "pa" : "200",
-    "ps" : "0",
     "pm" : "200",
-    "bp" : "WDMM 30"
+    "ps" : "0"
   },
   {
+    "bp" : "SKT 233",
+    "name" : "Claw of the Wyrm Rune",
     "pa" : "4400",
     "pm" : "4400",
-    "name" : "Claw of the Wyrm Rune",
-    "bp" : "SKT 233",
     "ps" : "0"
   },
   {
-    "pa" : "4300",
-    "ps" : "0",
     "bp" : "PA 222; IMR 94",
     "name" : "Claws of the Umber Hulk",
-    "pm" : "4300"
-  },
-  {
-    "pm" : "50",
-    "name" : "Cleansing Stone",
-    "bp" : "ERLW 276",
-    "pa" : "50",
+    "pa" : "4300",
+    "pm" : "4300",
     "ps" : "0"
   },
   {
+    "bp" : "ERLW 276",
+    "name" : "Cleansing Stone",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 158",
     "name" : "Cloak of Arachnida",
-    "bp" : "DMG 158",
-    "ps" : "5000",
     "pa" : "9500",
-    "pm" : "14000"
+    "pm" : "14000",
+    "ps" : "5000"
   },
   {
-    "pm" : "100",
-    "name" : "Cloak of Billowing",
     "bp" : "XGE 136",
-    "ps" : "0",
-    "pa" : "100"
+    "name" : "Cloak of Billowing",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 158",
+    "name" : "Cloak of Displacement",
     "pa" : "31800",
     "pm" : "3600",
-    "name" : "Cloak of Displacement",
     "ps" : "60000"
   },
   {
-    "ps" : "5000",
+    "bp" : "DMG 158",
     "name" : "Cloak of Elvenkind",
     "pa" : "2625",
-    "bp" : "DMG 158",
-    "pm" : "250"
+    "pm" : "250",
+    "ps" : "5000"
   },
   {
+    "bp" : "DMG 158-159",
+    "name" : "Cloak of Invisibility",
     "pa" : "67000",
     "pm" : "54000",
-    "name" : "Cloak of Invisibility",
-    "ps" : "80000",
-    "bp" : "DMG 158-159"
+    "ps" : "80000"
   },
   {
-    "pm" : "90",
+    "bp" : "XGE 136; WBW 208",
     "name" : "Cloak of Many Fashions",
     "pa" : "90",
-    "ps" : "0",
-    "bp" : "XGE 136; WBW 208"
-  },
-  {
-    "name" : "Cloak of Protection",
-    "pa" : "1950",
-    "bp" : "DMG 159",
-    "ps" : "3500",
-    "pm" : "400"
-  },
-  {
-    "pm" : "4600",
-    "name" : "Cloak of the Bat",
-    "pa" : "5300",
-    "bp" : "DMG 159",
-    "ps" : "6000"
-  },
-  {
-    "pm" : "350",
-    "name" : "Cloak of the Manta Ray",
-    "pa" : "3175",
-    "ps" : "6000",
-    "bp" : "DMG 159"
-  },
-  {
-    "pa" : "100",
-    "bp" : "XGE 137",
-    "pm" : "100",
-    "ps" : "0",
-    "name" : "Clockwork Amulet"
-  },
-  {
-    "ps" : "0",
-    "pm" : "50",
-    "name" : "Clothes of Mending",
-    "bp" : "XGE 137",
-    "pa" : "50"
-  },
-  {
-    "bp" : "TCE 123",
-    "pa" : "500",
-    "pm" : "500",
-    "name" : "Coiling Grasp Tattoo",
+    "pm" : "90",
     "ps" : "0"
   },
   {
-    "name" : "Conch of Teleportation",
+    "bp" : "DMG 159",
+    "name" : "Cloak of Protection",
+    "pa" : "1950",
+    "pm" : "400",
+    "ps" : "3500"
+  },
+  {
+    "bp" : "DMG 159",
+    "name" : "Cloak of the Bat",
+    "pa" : "5300",
+    "pm" : "4600",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "DMG 159",
+    "name" : "Cloak of the Manta Ray",
+    "pa" : "3175",
+    "pm" : "350",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "XGE 137",
+    "name" : "Clockwork Amulet",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
+  },
+  {
+    "bp" : "XGE 137",
+    "name" : "Clothes of Mending",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 123",
+    "name" : "Coiling Grasp Tattoo",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
     "bp" : "SKT 234",
+    "name" : "Conch of Teleportation",
+    "pa" : "1850",
     "pm" : "1850",
-    "ps" : "0",
-    "pa" : "1850"
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 159",
     "name" : "Crystal Ball",
-    "bp" : "DMG 159",
-    "ps" : "50000",
+    "pa" : "46000",
     "pm" : "42000",
-    "pa" : "46000"
+    "ps" : "50000"
   },
   {
     "bp" : "DMG 159",
-    "pm" : "51000",
     "name" : "Crystal Ball of Mind Reading",
-    "ps" : "50000",
-    "pa" : "50500"
+    "pa" : "50500",
+    "pm" : "51000",
+    "ps" : "50000"
   },
   {
-    "pa" : "60000",
-    "ps" : "50000",
-    "name" : "Crystal Ball of Telepathy",
     "bp" : "DMG 159",
-    "pm" : "70000"
+    "name" : "Crystal Ball of Telepathy",
+    "pa" : "60000",
+    "pm" : "70000",
+    "ps" : "50000"
   },
   {
-    "ps" : "50000",
+    "bp" : "DMG 159",
+    "name" : "Crystal Ball of True Seeing",
     "pa" : "65000",
     "pm" : "80000",
-    "name" : "Crystal Ball of True Seeing",
-    "bp" : "DMG 159"
+    "ps" : "50000"
   },
   {
-    "name" : "Crystal Blade (any sword)",
-    "ps" : "0",
-    "pa" : "6000",
     "bp" : "FTD 22",
-    "pm" : "6000"
+    "name" : "Crystal Blade (any sword)",
+    "pa" : "6000",
+    "pm" : "6000",
+    "ps" : "0"
   },
   {
+    "bp" : "TCE 124-125",
     "name" : "Crystalline Chronicle",
-    "pm" : "6500",
-    "ps" : "0",
     "pa" : "6500",
-    "bp" : "TCE 124-125"
+    "pm" : "6500",
+    "ps" : "0"
   },
   {
-    "pa" : "10500",
     "bp" : "DMG 159-160",
-    "ps" : "16000",
+    "name" : "Cube of Force",
+    "pa" : "10500",
     "pm" : "5000",
-    "name" : "Cube of Force"
+    "ps" : "16000"
   },
   {
-    "pm" : "164000",
-    "pa" : "102000",
+    "bp" : "DMG 160",
     "name" : "Cubic Gate",
-    "ps" : "40000",
-    "bp" : "DMG 160"
+    "pa" : "102000",
+    "pm" : "164000",
+    "ps" : "40000"
   },
   {
-    "pm" : "100",
-    "ps" : "0",
-    "name" : "Cuddly Strixhaven Mascot",
     "bp" : "SCC 38",
-    "pa" : "100"
+    "name" : "Cuddly Strixhaven Mascot",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "250",
+    "bp" : "GS 229",
     "name" : "Cursed Luckstone",
     "pa" : "250",
-    "bp" : "GS 229"
+    "pm" : "250",
+    "ps" : "0"
   },
   {
-    "pm" : "5000",
-    "ps" : "75000",
-    "pa" : "40000",
+    "bp" : "DMG 160-161",
     "name" : "Daern's Instant Fortress",
-    "bp" : "DMG 160-161"
+    "pa" : "40000",
+    "pm" : "5000",
+    "ps" : "75000"
   },
   {
     "bp" : "WDMM 86",
     "name" : "Dagger of Blindsight",
+    "pa" : "1000",
     "pm" : "1000",
-    "ps" : "0",
-    "pa" : "1000"
+    "ps" : "0"
   },
   {
-    "ps" : "2500",
-    "pm" : "1500",
+    "bp" : "DMG 161",
     "name" : "Dagger of Venom",
     "pa" : "2000",
-    "bp" : "DMG 161"
+    "pm" : "1500",
+    "ps" : "2500"
   },
   {
     "bp" : "DMG 161",
     "name" : "Dancing Sword (any sword)",
-    "ps" : "2000",
+    "pa" : "6000",
     "pm" : "10000",
-    "pa" : "6000"
+    "ps" : "2000"
   },
   {
     "bp" : "XGE 137",
-    "ps" : "0",
     "name" : "Dark Shard Amulet",
+    "pa" : "75",
     "pm" : "75",
-    "pa" : "75"
+    "ps" : "0"
   },
   {
-    "name" : "Dawnbringer (longsword)",
-    "ps" : "0",
-    "pa" : "57000",
     "bp" : "OA 222",
-    "pm" : "57000"
+    "name" : "Dawnbringer (longsword)",
+    "pa" : "57000",
+    "pm" : "57000",
+    "ps" : "0"
   },
   {
-    "pa" : "67650",
     "bp" : "DMG 161",
-    "ps" : "135000",
+    "name" : "Decanter of Endless Water",
+    "pa" : "67650",
     "pm" : "300",
-    "name" : "Decanter of Endless Water"
+    "ps" : "135000"
   },
   {
+    "bp" : "DMG 161-162",
     "name" : "Deck of Illusions",
     "pa" : "3285",
-    "bp" : "DMG 161-162",
-    "ps" : "6120",
-    "pm" : "450"
+    "pm" : "450",
+    "ps" : "6120"
   },
   {
-    "name" : "Deck of Many Things",
-    "ps" : "0",
     "bp" : "DMG 162-164",
+    "name" : "Deck of Many Things",
+    "pa" : "250000",
     "pm" : "250000",
-    "pa" : "250000"
+    "ps" : "0"
   },
   {
-    "pm" : "51000",
     "bp" : "LLK 53",
+    "name" : "Deck of Several Things",
     "pa" : "51000",
-    "ps" : "0",
-    "name" : "Deck of Several Things"
+    "pm" : "51000",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 164",
-    "pa" : "39500",
     "name" : "Defender (any sword)",
-    "ps" : "24000",
-    "pm" : "55000"
+    "pa" : "39500",
+    "pm" : "55000",
+    "ps" : "24000"
   },
   {
     "bp" : "DMG 165",
-    "ps" : "0",
-    "pm" : "7500",
+    "name" : "Demon Armor (plate) (cursed)",
     "pa" : "7500",
-    "name" : "Demon Armor (plate) (cursed)"
+    "pm" : "7500",
+    "ps" : "0"
   },
   {
-    "pm" : "8000",
     "bp" : "PA 222",
-    "ps" : "0",
     "name" : "Devastation Orb (Air)",
-    "pa" : "8000"
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "11000",
     "bp" : "PA 222",
     "name" : "Devastation Orb (Earth)",
-    "pm" : "11000"
+    "pa" : "11000",
+    "pm" : "11000",
+    "ps" : "0"
   },
   {
-    "pm" : "9500",
-    "pa" : "9500",
     "bp" : "PA 222",
     "name" : "Devastation Orb (Fire)",
+    "pa" : "9500",
+    "pm" : "9500",
     "ps" : "0"
   },
   {
-    "pm" : "9500",
+    "bp" : "PA 223",
     "name" : "Devastation Orb (Water)",
     "pa" : "9500",
-    "bp" : "PA 223",
+    "pm" : "9500",
     "ps" : "0"
   },
   {
-    "pa" : "4500",
     "bp" : "TCE 126",
     "name" : "Devotee's Censer (flail)",
+    "pa" : "4500",
     "pm" : "4500",
     "ps" : "0"
   },
   {
-    "name" : "Dimensional Shackles",
-    "pm" : "2800",
-    "pa" : "2900",
     "bp" : "DMG 165",
+    "name" : "Dimensional Shackles",
+    "pa" : "2900",
+    "pm" : "2800",
     "ps" : "3000"
   },
   {
-    "ps" : "0",
     "bp" : "GGR 177",
     "name" : "Dimir Keyrune",
+    "pa" : "26000",
     "pm" : "26000",
-    "pa" : "26000"
+    "ps" : "0"
   },
   {
     "bp" : "ERLW 276",
-    "pa" : "4500",
-    "ps" : "0",
     "name" : "Docent",
-    "pm" : "4500"
+    "pa" : "4500",
+    "pm" : "4500",
+    "ps" : "0"
   },
   {
-    "pm" : "750",
-    "pa" : "750",
-    "ps" : "0",
     "bp" : "WDMM 174",
-    "name" : "Dodecahedron of Doom"
+    "name" : "Dodecahedron of Doom",
+    "pa" : "750",
+    "pm" : "750",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 165",
-    "pm" : "15000",
+    "name" : "Dragon Scale Mail",
     "pa" : "9500",
-    "ps" : "4000",
-    "name" : "Dragon Scale Mail"
+    "pm" : "15000",
+    "ps" : "4000"
   },
   {
-    "pa" : "6400",
     "bp" : "DMG 166",
     "name" : "Dragon Slayer (any sword)",
+    "pa" : "6400",
     "pm" : "4800",
     "ps" : "8000"
   },
   {
-    "ps" : "0",
+    "bp" : "FTD 27",
+    "name" : "Dragon Vessel (Ascendant)",
     "pa" : "150000",
     "pm" : "150000",
-    "name" : "Dragon Vessel (Ascendant)",
-    "bp" : "FTD 27"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "FTD 27",
     "name" : "Dragon Vessel (Slumbering)",
     "pa" : "500",
-    "bp" : "FTD 27",
-    "pm" : "500"
+    "pm" : "500",
+    "ps" : "0"
   },
   {
-    "pa" : "3000",
+    "bp" : "FTD 27",
     "name" : "Dragon Vessel (Stirring)",
-    "ps" : "0",
+    "pa" : "3000",
     "pm" : "3000",
-    "bp" : "FTD 27"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "25000",
     "bp" : "FTD 27",
+    "name" : "Dragon Vessel (Wakened)",
+    "pa" : "25000",
     "pm" : "25000",
-    "name" : "Dragon Vessel (Wakened)"
+    "ps" : "0"
   },
   {
-    "pm" : "4000",
-    "ps" : "0",
+    "bp" : "FTD 23",
     "name" : "Dragon Wing Bow (any bow)",
     "pa" : "4000",
-    "bp" : "FTD 23"
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
     "bp" : "FTD 25",
-    "pm" : "65000",
-    "pa" : "65000",
     "name" : "Dragon's Wrath Weapon (Ascendant) (any)",
+    "pa" : "65000",
+    "pm" : "65000",
     "ps" : "0"
   },
   {
+    "bp" : "FTD 25",
     "name" : "Dragon's Wrath Weapon (Slumbering) (any)",
-    "pm" : "250",
     "pa" : "250",
-    "bp" : "FTD 25",
+    "pm" : "250",
     "ps" : "0"
   },
   {
+    "bp" : "FTD 25",
     "name" : "Dragon's Wrath Weapon (Stirring) (any)",
+    "pa" : "3000",
     "pm" : "3000",
-    "bp" : "FTD 25",
-    "ps" : "0",
-    "pa" : "3000"
-  },
-  {
-    "pa" : "11000",
-    "name" : "Dragon's Wrath Weapon (Wakened) (any)",
-    "pm" : "11000",
-    "bp" : "FTD 25",
     "ps" : "0"
   },
   {
+    "bp" : "FTD 25",
+    "name" : "Dragon's Wrath Weapon (Wakened) (any)",
+    "pa" : "11000",
+    "pm" : "11000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "FTD 26",
     "name" : "Dragon-Touched Focus (Ascendant)",
     "pa" : "30000",
-    "bp" : "FTD 26",
     "pm" : "30000",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "400",
+    "bp" : "FTD 26",
     "name" : "Dragon-Touched Focus (Slumbering)",
     "pa" : "400",
-    "bp" : "FTD 26"
+    "pm" : "400",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "2000",
+    "bp" : "FTD 26",
     "name" : "Dragon-Touched Focus (Stirring)",
     "pa" : "2000",
-    "bp" : "FTD 26"
+    "pm" : "2000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "FTD 26",
     "name" : "Dragon-Touched Focus (Wakened)",
     "pa" : "10000",
     "pm" : "10000",
-    "bp" : "FTD 26"
+    "ps" : "0"
   },
   {
-    "pm" : "4000",
-    "ps" : "0",
+    "bp" : "LMP 48",
     "name" : "Dragonguard (breastplate)",
     "pa" : "4000",
-    "bp" : "LMP 48"
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
+    "bp" : "FTD 23",
     "name" : "Dragonlance",
     "pa" : "25000",
-    "ps" : "0",
-    "bp" : "FTD 23",
-    "pm" : "25000"
+    "pm" : "25000",
+    "ps" : "0"
   },
   {
-    "pm" : "50500",
-    "ps" : "0",
-    "pa" : "50500",
     "bp" : "WDH 191",
-    "name" : "Dragonstaff of Anghairon"
+    "name" : "Dragonstaff of Anghairon",
+    "pa" : "50500",
+    "pm" : "50500",
+    "ps" : "0"
   },
   {
-    "pa" : "5000",
     "bp" : "RT 93",
-    "ps" : "0",
+    "name" : "Dragontooth Dagger",
+    "pa" : "5000",
     "pm" : "5000",
-    "name" : "Dragontooth Dagger"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "XGE 137; WBW 208",
     "name" : "Dread Helm",
     "pa" : "55",
     "pm" : "55",
-    "bp" : "XGE 137; WBW 208"
+    "ps" : "0"
   },
   {
-    "pm" : "100",
+    "bp" : "DMG 166",
     "name" : "Driftglobe",
     "pa" : "425",
-    "bp" : "DMG 166",
+    "pm" : "100",
     "ps" : "750"
   },
   {
-    "ps" : "0",
+    "bp" : "PA 224",
     "name" : "Drown (trident)",
     "pa" : "66000",
     "pm" : "66000",
-    "bp" : "PA 224"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "3000",
+    "bp" : "TCE 126",
     "name" : "Duplicitous Manuscript",
     "pa" : "3000",
-    "bp" : "TCE 126"
+    "pm" : "3000",
+    "ps" : "0"
   },
   {
+    "bp" : "WBW 209",
+    "name" : "Dust of Corrosion",
     "pa" : "150",
     "pm" : "150",
-    "ps" : "0",
-    "name" : "Dust of Corrosion",
-    "bp" : "WBW 209"
+    "ps" : "0"
   },
   {
-    "pa" : "250",
     "bp" : "DMG 166",
-    "pm" : "200",
     "name" : "Dust of Disappearance",
+    "pa" : "250",
+    "pm" : "200",
     "ps" : "300"
   },
   {
     "bp" : "DMG 166",
-    "pm" : "350",
     "name" : "Dust of Dryness",
     "pa" : "350",
+    "pm" : "350",
     "ps" : "0"
   },
   {
-    "pa" : "120",
-    "bp" : "166",
-    "ps" : "120",
+    "bp" : "DMG 166",
     "name" : "Dust of Dryness (1 pellet)",
-    "pm" : "0"
+    "pa" : "120",
+    "pm" : "0",
+    "ps" : "120"
   },
   {
-    "pm" : "150",
-    "name" : "Dust of Sneezing and Choking",
     "bp" : "DMG 166",
+    "name" : "Dust of Sneezing and Choking",
     "pa" : "315",
+    "pm" : "150",
     "ps" : "480"
   },
   {
-    "pm" : "25000",
-    "ps" : "9000",
-    "pa" : "17000",
+    "bp" : "DMG 167",
     "name" : "Dwarven Plate",
-    "bp" : "DMG 167"
+    "pa" : "17000",
+    "pm" : "25000",
+    "ps" : "9000"
   },
   {
-    "pm" : "25000",
     "bp" : "DMG 167",
+    "name" : "Dwarven Thrower (warhammer)",
     "pa" : "21500",
-    "ps" : "18000",
-    "name" : "Dwarven Thrower (warhammer)"
+    "pm" : "25000",
+    "ps" : "18000"
   },
   {
     "bp" : "ERLW 276",
-    "ps" : "0",
-    "pm" : "17000",
     "name" : "Dyrrn's Tentacle Whip",
-    "pa" : "17000"
+    "pa" : "17000",
+    "pm" : "17000",
+    "ps" : "0"
   },
   {
     "bp" : "TYP 228",
     "name" : "Eagle Whistle",
+    "pa" : "1600",
     "pm" : "1600",
-    "ps" : "0",
-    "pa" : "1600"
-  },
-  {
-    "ps" : "0",
-    "pm" : "75",
-    "bp" : "XGE 137",
-    "name" : "Ear Horn of Hearing",
-    "pa" : "75"
-  },
-  {
-    "bp" : "ERLW 277",
-    "pa" : "225",
-    "pm" : "225",
-    "name" : "Earworm",
     "ps" : "0"
   },
   {
-    "pm" : "0",
-    "ps" : "6000",
+    "bp" : "XGE 137",
+    "name" : "Ear Horn of Hearing",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
+  },
+  {
+    "bp" : "ERLW 277",
+    "name" : "Earworm",
+    "pa" : "225",
+    "pm" : "225",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 169",
     "name" : "Ebony Fly",
     "pa" : "6000",
-    "bp" : "169"
+    "pm" : "0",
+    "ps" : "6000"
   },
   {
+    "bp" : "DMG 167",
+    "name" : "Efreeti Bottle",
     "pa" : "45000",
     "pm" : "45000",
-    "name" : "Efreeti Bottle",
-    "ps" : "0",
-    "bp" : "DMG 167"
+    "ps" : "0"
   },
   {
-    "pm" : "80000",
-    "pa" : "50000",
     "bp" : "DMG 167",
     "name" : "Efreeti Chain (chain mail)",
+    "pa" : "50000",
+    "pm" : "80000",
     "ps" : "20000"
   },
   {
     "bp" : "TCE 126-127",
     "name" : "Eldritch Claw Tattoo",
-    "ps" : "0",
+    "pa" : "500",
     "pm" : "500",
-    "pa" : "500"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "WBW 209",
     "name" : "Eldritch Staff",
-    "pm" : "2000",
     "pa" : "2000",
-    "bp" : "WBW 209"
+    "pm" : "2000",
+    "ps" : "0"
   },
   {
     "bp" : "TCE 127",
     "name" : "Elemental Essence Shard",
+    "pa" : "3500",
     "pm" : "3500",
-    "ps" : "0",
-    "pa" : "3500"
+    "ps" : "0"
   },
   {
-    "pm" : "250",
-    "ps" : "960",
+    "bp" : "DMG 168",
     "name" : "Elemental Gem",
     "pa" : "605",
-    "bp" : "DMG 168"
+    "pm" : "250",
+    "ps" : "960"
   },
   {
-    "pm" : "2000",
-    "ps" : "120",
-    "pa" : "1060",
     "bp" : "DMG 168",
-    "name" : "Elixir of Health"
+    "name" : "Elixir of Health",
+    "pa" : "1060",
+    "pm" : "2000",
+    "ps" : "120"
   },
   {
+    "bp" : "DMG 168",
     "name" : "Elven Chain (chain shirt)",
     "pa" : "4250",
     "pm" : "4500",
-    "ps" : "4000",
-    "bp" : "DMG 168"
+    "ps" : "4000"
   },
   {
-    "name" : "Emerald Pen",
-    "pm" : "250",
     "bp" : "FTD 23",
-    "ps" : "0",
-    "pa" : "250"
+    "name" : "Emerald Pen",
+    "pa" : "250",
+    "pm" : "250",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "100",
-    "pa" : "100",
+    "bp" : "XGE 137",
     "name" : "Enduring Spellbook",
-    "bp" : "XGE 137"
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
   },
   {
+    "bp" : "XGE 137",
+    "name" : "Ersatz Eye",
     "pa" : "75",
     "pm" : "75",
-    "name" : "Ersatz Eye",
-    "ps" : "0",
-    "bp" : "XGE 137"
+    "ps" : "0"
   },
   {
     "bp" : "ERLW 277",
-    "pm" : "100",
-    "ps" : "0",
+    "name" : "Everbright Lantern",
     "pa" : "100",
-    "name" : "Everbright Lantern"
+    "pm" : "100",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 168",
     "name" : "Eversmoking Bottle",
-    "ps" : "1000",
     "pa" : "635",
-    "bp" : "DMG 168",
-    "pm" : "270"
+    "pm" : "270",
+    "ps" : "1000"
   },
   {
     "bp" : "DMG 168",
-    "ps" : "3000",
+    "name" : "Eyes of Charming",
     "pa" : "1650",
     "pm" : "300",
-    "name" : "Eyes of Charming"
+    "ps" : "3000"
   },
   {
+    "bp" : "DMG 168",
     "name" : "Eyes of Minute Seeing",
     "pa" : "1325",
-    "bp" : "DMG 168",
-    "ps" : "2500",
-    "pm" : "150"
+    "pm" : "150",
+    "ps" : "2500"
   },
   {
-    "pa" : "1450",
-    "ps" : "2500",
     "bp" : "DMG 168",
+    "name" : "Eyes of the Eagle",
+    "pa" : "1450",
     "pm" : "400",
-    "name" : "Eyes of the Eagle"
+    "ps" : "2500"
   },
   {
     "bp" : "BGDA 223",
-    "pa" : "55000",
     "name" : "Fane-Eater (battleaxe)",
-    "ps" : "0",
-    "pm" : "55000"
+    "pa" : "55000",
+    "pm" : "55000",
+    "ps" : "0"
   },
   {
-    "pm" : "2500",
+    "bp" : "TCE 127",
     "name" : "Far Realm Shard",
     "pa" : "2500",
-    "bp" : "TCE 127",
+    "pm" : "2500",
     "ps" : "0"
   },
   {
-    "pm" : "25",
+    "bp" : "ERLW 277",
     "name" : "Feather Token",
-    "ps" : "0",
     "pa" : "25",
-    "bp" : "ERLW 277"
+    "pm" : "25",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "600",
-    "name" : "Feather of Diatryma Summoning",
     "bp" : "WDH 191",
-    "pa" : "600"
+    "name" : "Feather of Diatryma Summoning",
+    "pa" : "600",
+    "pm" : "600",
+    "ps" : "0"
   },
   {
-    "name" : "Feywild Shard",
     "bp" : "TCE 127",
+    "name" : "Feywild Shard",
     "pa" : "250",
-    "ps" : "0",
-    "pm" : "250"
+    "pm" : "250",
+    "ps" : "0"
   },
   {
-    "pm" : "3600",
+    "bp" : "DMG 169",
     "name" : "Figurine of Wondrous Power (Bronze Griffon)",
     "pa" : "3600",
-    "ps" : "0",
-    "bp" : "DMG 169"
+    "pm" : "3600",
+    "ps" : "0"
   },
   {
-    "name" : "Figurine of Wondrous Power (Ebony Fly)",
     "bp" : "DMG 169",
+    "name" : "Figurine of Wondrous Power (Ebony Fly)",
     "pa" : "3600",
     "pm" : "3600",
     "ps" : "0"
   },
   {
+    "bp" : "DMG 169",
     "name" : "Figurine of Wondrous Power (Golden Lions)",
     "pa" : "5000",
     "pm" : "5000",
-    "bp" : "DMG 169",
     "ps" : "0"
   },
   {
-    "pm" : "5000",
-    "ps" : "0",
+    "bp" : "DMG 169",
     "name" : "Figurine of Wondrous Power (Ivory Goats)",
     "pa" : "5000",
-    "bp" : "DMG 169"
-  },
-  {
-    "pa" : "5000",
-    "ps" : "0",
-    "name" : "Figurine of Wondrous Power (Marble Elephant)",
     "pm" : "5000",
-    "bp" : "DMG 170"
-  },
-  {
-    "pm" : "28500",
-    "name" : "Figurine of Wondrous Power (Obsidian Steed)",
-    "bp" : "DMG 170",
-    "pa" : "28500",
     "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "DMG 170",
-    "pm" : "3200",
+    "name" : "Figurine of Wondrous Power (Marble Elephant)",
+    "pa" : "5000",
+    "pm" : "5000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 170",
+    "name" : "Figurine of Wondrous Power (Obsidian Steed)",
+    "pa" : "28500",
+    "pm" : "28500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 170",
+    "name" : "Figurine of Wondrous Power (Onyx Dog)",
     "pa" : "3200",
-    "name" : "Figurine of Wondrous Power (Onyx Dog)"
+    "pm" : "3200",
+    "ps" : "0"
   },
   {
-    "pm" : "3000",
-    "name" : "Figurine of Wondrous Power (Serpentine Owl)",
-    "ps" : "0",
-    "pa" : "3000",
-    "bp" : "DMG 170"
-  },
-  {
-    "ps" : "0",
-    "pa" : "380",
     "bp" : "DMG 170",
-    "pm" : "380",
-    "name" : "Figurine of Wondrous Power (Silver Raven)"
+    "name" : "Figurine of Wondrous Power (Serpentine Owl)",
+    "pa" : "3000",
+    "pm" : "3000",
+    "ps" : "0"
   },
   {
-    "pm" : "500",
-    "pa" : "500",
-    "ps" : "0",
+    "bp" : "DMG 170",
+    "name" : "Figurine of Wondrous Power (Silver Raven)",
+    "pa" : "380",
+    "pm" : "380",
+    "ps" : "0"
+  },
+  {
     "bp" : "ERLW 277",
-    "name" : "Finder's Goggles"
+    "name" : "Finder's Goggles",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
   },
   {
     "bp" : "FTD 23",
-    "ps" : "0",
-    "pm" : "70000",
     "name" : "Flail of Tiamat (flail)",
-    "pa" : "70000"
-  },
-  {
-    "pm" : "5000",
-    "ps" : "0",
-    "name" : "Flame Tongue (any sword)",
-    "bp" : "DMG 170",
-    "pa" : "5000"
-  },
-  {
-    "pa" : "4750",
-    "pm" : "4750",
-    "ps" : "0",
-    "name" : "Flying Chariot",
-    "bp" : "MOT 196"
-  },
-  {
-    "name" : "Folding Boat",
-    "pa" : "7375",
-    "ps" : "10000",
-    "bp" : "DMG 170-171",
-    "pm" : "4750"
-  },
-  {
-    "name" : "Frost Brand (any sword)",
-    "bp" : "DMG 171",
-    "pm" : "11000",
-    "ps" : "2200",
-    "pa" : "6600"
-  },
-  {
-    "bp" : "TCE 128",
-    "pm" : "4000",
-    "ps" : "0",
-    "name" : "Fulminating Treatise",
-    "pa" : "4000"
-  },
-  {
-    "name" : "Galder’s Bubble Pipe",
-    "ps" : "0",
-    "pa" : "2000",
-    "bp" : "LLK 55",
-    "pm" : "2000"
-  },
-  {
-    "ps" : "0",
-    "pm" : "10000",
-    "name" : "Gambler’s Blade (any sword)",
-    "pa" : "10000",
-    "bp" : "LLK 55"
-  },
-  {
-    "pa" : "2000",
-    "bp" : "BGDA 223",
-    "pm" : "2000",
-    "ps" : "0",
-    "name" : "Gauntlets of Flaming Fury"
-  },
-  {
-    "pm" : "450",
-    "pa" : "4225",
-    "ps" : "8000",
-    "name" : "Gauntlets of Ogre Power",
-    "bp" : "DMG 171"
-  },
-  {
-    "ps" : "0",
-    "pm" : "2800",
-    "name" : "Gavel of the Venn Rune",
-    "pa" : "2800",
-    "bp" : "SKT 234"
-  },
-  {
-    "pm" : "250",
-    "name" : "Gem of Brightness",
-    "pa" : "2625",
-    "bp" : "DMG 171",
-    "ps" : "5000"
-  },
-  {
-    "name" : "Gem of Seeing",
-    "bp" : "DMG 172",
-    "ps" : "32000",
-    "pa" : "18500",
-    "pm" : "5000"
-  },
-  {
-    "pa" : "1750",
-    "pm" : "1750",
-    "bp" : "TA 206",
-    "ps" : "0",
-    "name" : "Ghost Lantern"
-  },
-  {
-    "pa" : "9000",
-    "ps" : "0",
-    "pm" : "9000",
-    "bp" : "TCE 128",
-    "name" : "Ghost Step Tattoo"
-  },
-  {
-    "pm" : "4600",
-    "bp" : "DMG 172",
-    "pa" : "5800",
-    "ps" : "7000",
-    "name" : "Giant Slayer (any axe or sword)"
-  },
-  {
-    "bp" : "ERLW 277",
-    "ps" : "0",
-    "pm" : "50",
-    "name" : "Glamerweave C",
-    "pa" : "50"
-  },
-  {
-    "ps" : "0",
-    "pa" : "150",
-    "bp" : "ERLW 277",
-    "name" : "Glamerweave UC",
-    "pm" : "150"
-  },
-  {
-    "bp" : "DMG 172",
-    "ps" : "2000",
-    "pa" : "3400",
-    "name" : "Glamoured Studded Leather",
-    "pm" : "4800"
-  },
-  {
-    "ps" : "3000",
-    "pm" : "325",
-    "name" : "Gloves of Missile Snaring",
-    "bp" : "DMG 172",
-    "pa" : "1662"
-  },
-  {
-    "ps" : "2000",
-    "name" : "Gloves of Swimming and Climbing",
-    "bp" : "DMG 172",
-    "pa" : "1125",
-    "pm" : "250"
-  },
-  {
-    "name" : "Gloves of Thievery",
-    "pa" : "2650",
-    "pm" : "300",
-    "bp" : "DMG 172",
-    "ps" : "5000"
-  },
-  {
-    "bp" : "DMG 172",
-    "pm" : "300",
-    "name" : "Goggles of Night",
-    "ps" : "1500",
-    "pa" : "900"
-  },
-  {
-    "ps" : "0",
-    "pm" : "55000",
-    "pa" : "55000",
-    "name" : "Gold Canary Figurine of Wondrous Power",
-    "bp" : "FTD 23"
-  },
-  {
-    "ps" : "600",
-    "pa" : "600",
-    "pm" : "0",
-    "bp" : "169",
-    "name" : "Goldean Lion (ea)"
-  },
-  {
-    "name" : "Golgari Keyrune",
-    "ps" : "0",
-    "bp" : "GGR 177",
-    "pm" : "7500",
-    "pa" : "7500"
-  },
-  {
-    "pm" : "2800",
-    "ps" : "0",
-    "pa" : "2800",
-    "bp" : "GGR 177",
-    "name" : "Gruul Keyrune"
-  },
-  {
-    "name" : "Guardian Emblem",
-    "pa" : "300",
-    "pm" : "300",
-    "bp" : "TCE 128",
+    "pa" : "70000",
+    "pm" : "70000",
     "ps" : "0"
   },
   {
-    "pa" : "450",
+    "bp" : "DMG 170",
+    "name" : "Flame Tongue (any sword)",
+    "pa" : "5000",
+    "pm" : "5000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "MOT 196",
+    "name" : "Flying Chariot",
+    "pa" : "4750",
+    "pm" : "4750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 170-171",
+    "name" : "Folding Boat",
+    "pa" : "7375",
+    "pm" : "4750",
+    "ps" : "10000"
+  },
+  {
+    "bp" : "DMG 171",
+    "name" : "Frost Brand (any sword)",
+    "pa" : "6600",
+    "pm" : "11000",
+    "ps" : "2200"
+  },
+  {
+    "bp" : "TCE 128",
+    "name" : "Fulminating Treatise",
+    "pa" : "4000",
+    "pm" : "4000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "LLK 55",
+    "name" : "Galder’s Bubble Pipe",
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "LLK 55",
+    "name" : "Gambler’s Blade (any sword)",
+    "pa" : "10000",
+    "pm" : "10000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "BGDA 223",
+    "name" : "Gauntlets of Flaming Fury",
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 171",
+    "name" : "Gauntlets of Ogre Power",
+    "pa" : "4225",
+    "pm" : "450",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "SKT 234",
+    "name" : "Gavel of the Venn Rune",
+    "pa" : "2800",
+    "pm" : "2800",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 171",
+    "name" : "Gem of Brightness",
+    "pa" : "2625",
+    "pm" : "250",
+    "ps" : "5000"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Gem of Seeing",
+    "pa" : "18500",
+    "pm" : "5000",
+    "ps" : "32000"
+  },
+  {
+    "bp" : "TA 206",
+    "name" : "Ghost Lantern",
+    "pa" : "1750",
+    "pm" : "1750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 128",
+    "name" : "Ghost Step Tattoo",
+    "pa" : "9000",
+    "pm" : "9000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Giant Slayer (any axe or sword)",
+    "pa" : "5800",
+    "pm" : "4600",
+    "ps" : "7000"
+  },
+  {
+    "bp" : "ERLW 277",
+    "name" : "Glamerweave C",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "ERLW 277",
+    "name" : "Glamerweave UC",
+    "pa" : "150",
+    "pm" : "150",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Glamoured Studded Leather",
+    "pa" : "3400",
+    "pm" : "4800",
+    "ps" : "2000"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Gloves of Missile Snaring",
+    "pa" : "1662",
+    "pm" : "325",
+    "ps" : "3000"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Gloves of Swimming and Climbing",
+    "pa" : "1125",
+    "pm" : "250",
+    "ps" : "2000"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Gloves of Thievery",
+    "pa" : "2650",
+    "pm" : "300",
+    "ps" : "5000"
+  },
+  {
+    "bp" : "DMG 172",
+    "name" : "Goggles of Night",
+    "pa" : "900",
+    "pm" : "300",
+    "ps" : "1500"
+  },
+  {
+    "bp" : "FTD 23",
+    "name" : "Gold Canary Figurine of Wondrous Power",
+    "pa" : "55000",
+    "pm" : "55000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 169",
+    "name" : "Goldean Lion (ea)",
+    "pa" : "600",
+    "pm" : "0",
+    "ps" : "600"
+  },
+  {
+    "bp" : "GGR 177",
+    "name" : "Golgari Keyrune",
+    "pa" : "7500",
+    "pm" : "7500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 177",
+    "name" : "Gruul Keyrune",
+    "pa" : "2800",
+    "pm" : "2800",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 128",
+    "name" : "Guardian Emblem",
+    "pa" : "300",
+    "pm" : "300",
+    "ps" : "0"
+  },
+  {
     "bp" : "GGR 173",
     "name" : "Guild Charms",
-    "ps" : "0",
-    "pm" : "450"
+    "pa" : "450",
+    "pm" : "450",
+    "ps" : "0"
   },
   {
     "bp" : "GGR 178",
-    "ps" : "0",
-    "pm" : "350",
     "name" : "Guild Signet",
-    "pa" : "350"
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
   },
   {
-    "pa" : "2200",
-    "ps" : "0",
-    "pm" : "2200",
     "bp" : "CS 221",
-    "name" : "Gulthias Staff"
+    "name" : "Gulthias Staff",
+    "pa" : "2200",
+    "pm" : "2200",
+    "ps" : "0"
   },
   {
-    "pm" : "67000",
+    "bp" : "SKT 234",
     "name" : "Gurt's Greataxe",
     "pa" : "67000",
-    "ps" : "0",
-    "bp" : "SKT 234"
+    "pm" : "67000",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 173",
+    "name" : "Hammer of Thunderbolts (maul)",
     "pa" : "33500",
     "pm" : "51000",
-    "ps" : "16000",
-    "name" : "Hammer of Thunderbolts (maul)",
-    "bp" : "DMG 173"
+    "ps" : "16000"
   },
   {
-    "pa" : "2738",
     "bp" : "DMG 173",
     "name" : "Hat of Disguise",
+    "pa" : "2738",
     "pm" : "475",
     "ps" : "5000"
   },
   {
-    "pm" : "65",
+    "bp" : "XGE 137",
+    "name" : "Hat of Vermin",
     "pa" : "65",
-    "bp" : "XGE 137",
-    "ps" : "0",
-    "name" : "Hat of Vermin"
+    "pm" : "65",
+    "ps" : "0"
   },
   {
+    "bp" : "XGE 137",
     "name" : "Hat of Wizardry",
-    "ps" : "0",
     "pa" : "75",
-    "bp" : "XGE 137",
-    "pm" : "75"
+    "pm" : "75",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "HDQ 94",
     "name" : "Hazirawn (greatsword)",
     "pa" : "66000",
-    "pm" : "66000"
+    "pm" : "66000",
+    "ps" : "0"
   },
   {
-    "pa" : "4225",
+    "bp" : "DMG 173",
     "name" : "Headband of Intellect",
+    "pa" : "4225",
     "pm" : "450",
-    "ps" : "8000",
-    "bp" : "DMG 173"
+    "ps" : "8000"
   },
   {
-    "name" : "Heart Weaver's Primer",
     "bp" : "TCE 128-129",
-    "ps" : "0",
+    "name" : "Heart Weaver's Primer",
+    "pa" : "3000",
     "pm" : "3000",
-    "pa" : "3000"
+    "ps" : "0"
   },
   {
     "bp" : "TYP 228",
-    "ps" : "0",
+    "name" : "Hell Hound Cloak",
     "pa" : "1700",
     "pm" : "1700",
-    "name" : "Hell Hound Cloak"
+    "ps" : "0"
   },
   {
-    "name" : "Hellfire Weapon",
     "bp" : "BGDA 223",
+    "name" : "Hellfire Weapon",
     "pa" : "500",
     "pm" : "500",
     "ps" : "0"
   },
   {
-    "pa" : "32000",
     "bp" : "DMG 173",
-    "pm" : "32000",
     "name" : "Helm of Brilliance",
+    "pa" : "32000",
+    "pm" : "32000",
     "ps" : "0"
   },
   {
-    "bp" : "173",
+    "bp" : "DMG 173",
     "name" : "Helm of Comprehend Languages",
+    "pa" : "500",
     "pm" : "0",
-    "ps" : "500",
-    "pa" : "500"
+    "ps" : "500"
   },
   {
     "bp" : "DMG 173",
-    "ps" : "0",
     "name" : "Helm of Comprehending Languages",
     "pa" : "200",
-    "pm" : "200"
+    "pm" : "200",
+    "ps" : "0"
   },
   {
-    "pa" : "21500",
     "bp" : "BGDA 223",
-    "ps" : "0",
+    "name" : "Helm of Devil Command",
+    "pa" : "21500",
     "pm" : "21500",
-    "name" : "Helm of Devil Command"
+    "ps" : "0"
   },
   {
-    "pm" : "300",
     "bp" : "DMG 174",
-    "ps" : "12000",
     "name" : "Helm of Telepathy",
-    "pa" : "6150"
+    "pa" : "6150",
+    "pm" : "300",
+    "ps" : "12000"
   },
   {
-    "ps" : "64000",
     "bp" : "DMG 174",
     "name" : "Helm of Teleportation",
+    "pa" : "34125",
     "pm" : "4250",
-    "pa" : "34125"
+    "ps" : "64000"
   },
   {
-    "pa" : "500",
     "bp" : "GS 229; IMR 94",
+    "name" : "Helm of Underwater Action",
+    "pa" : "500",
     "pm" : "500",
-    "ps" : "0",
-    "name" : "Helm of Underwater Action"
+    "ps" : "0"
   },
   {
+    "bp" : "MOT 196",
     "name" : "Helm of the Gods",
     "pa" : "1200",
     "pm" : "1200",
-    "ps" : "0",
-    "bp" : "MOT 196"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "WDMM 297",
     "name" : "Helm of the Scavenger",
     "pa" : "175000",
-    "pm" : "175000"
+    "pm" : "175000",
+    "ps" : "0"
   },
   {
-    "pa" : "800",
+    "bp" : "LMP",
     "name" : "Hew (battleaxe)",
-    "ps" : "0",
+    "pa" : "800",
     "pm" : "800",
-    "bp" : "LMP"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "2000",
     "bp" : "DMG 174",
+    "name" : "Heward's Handy Haversack",
     "pa" : "2000",
-    "name" : "Heward's Handy Haversack"
+    "pm" : "2000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "100",
+    "bp" : "XGE 137",
     "name" : "Heward's Handy Spice Pouch",
     "pa" : "100",
-    "bp" : "XGE 137"
+    "pm" : "100",
+    "ps" : "0"
   },
   {
     "bp" : "LLK 55",
-    "ps" : "0",
     "name" : "Heward’s Hireling Armor (leather)",
     "pa" : "7000",
-    "pm" : "7000"
+    "pm" : "7000",
+    "ps" : "0"
   },
   {
-    "pm" : "65000",
-    "pa" : "115000",
     "bp" : "DMG 174",
-    "ps" : "165000",
-    "name" : "Holy Avenger (any sword)"
+    "name" : "Holy Avenger (any sword)",
+    "pa" : "115000",
+    "pm" : "65000",
+    "ps" : "165000"
   },
   {
-    "pm" : "51000",
-    "pa" : "51000",
-    "ps" : "0",
     "bp" : "CS 222",
-    "name" : "Holy Symbol of Ravenkind"
+    "name" : "Holy Symbol of Ravenkind",
+    "pa" : "51000",
+    "pm" : "51000",
+    "ps" : "0"
   },
   {
     "bp" : "IDRF 314",
     "name" : "Hook of Fisher's Delight",
+    "pa" : "550",
     "pm" : "550",
-    "ps" : "0",
-    "pa" : "550"
+    "ps" : "0"
   },
   {
-    "pm" : "2500",
-    "pa" : "1475",
-    "name" : "Horn of Blasting",
     "bp" : "DMG 174-175",
+    "name" : "Horn of Blasting",
+    "pa" : "1475",
+    "pm" : "2500",
     "ps" : "450"
   },
   {
-    "pm" : "85",
+    "bp" : "XGE 137",
     "name" : "Horn of Silent Alarm",
     "pa" : "85",
-    "bp" : "XGE 137",
+    "pm" : "85",
     "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "DMG 175",
     "name" : "Horn of Valhalla (Bronze)",
-    "pm" : "20000",
     "pa" : "20000",
-    "bp" : "DMG 175"
+    "pm" : "20000",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 175",
+    "name" : "Horn of Valhalla (Iron)",
     "pa" : "50000",
     "pm" : "50000",
-    "name" : "Horn of Valhalla (Iron)",
-    "bp" : "DMG 175",
     "ps" : "0"
   },
   {
-    "pm" : "5000",
-    "ps" : "0",
-    "pa" : "5000",
     "bp" : "DMG 175",
-    "name" : "Horn of Valhalla (Silver\/Brass)"
+    "name" : "Horn of Valhalla (Silver\/Brass)",
+    "pa" : "5000",
+    "pm" : "5000",
+    "ps" : "0"
   },
   {
+    "bp" : "WDMM 310",
     "name" : "Horned Ring",
     "pa" : "10000",
-    "ps" : "0",
     "pm" : "10000",
-    "bp" : "WDMM 310"
-  },
-  {
-    "pm" : "3000",
-    "pa" : "4000",
-    "bp" : "DMG 175",
-    "ps" : "5000",
-    "name" : "Horseshoes of Speed"
-  },
-  {
-    "pm" : "6000",
-    "bp" : "DMG 175",
-    "ps" : "0",
-    "pa" : "6000",
-    "name" : "Horseshoes of a Zephyr"
-  },
-  {
-    "ps" : "1500",
-    "pa" : "1500",
-    "bp" : "175",
-    "pm" : "0",
-    "name" : "Horseshoes of the Zephyr"
-  },
-  {
-    "pm" : "50500",
-    "ps" : "0",
-    "name" : "Icon of Ravenloft",
-    "pa" : "50500",
-    "bp" : "CS 222"
-  },
-  {
-    "name" : "Ild Rune Armor (light medium or heavy)",
-    "pa" : "3000",
-    "ps" : "0",
-    "pm" : "3000",
-    "bp" : "SKT 235"
-  },
-  {
-    "ps" : "0",
-    "pa" : "400",
-    "name" : "Ild Rune Weapon (any)",
-    "bp" : "SKT 235",
-    "pm" : "400"
-  },
-  {
-    "pm" : "65",
-    "pa" : "65",
-    "bp" : "TCE 129",
-    "name" : "Illuminator's Tattoo",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "13500",
-    "pa" : "13500",
-    "name" : "Illusionist's Bracers",
-    "bp" : "GGR 178"
+    "bp" : "DMG 175",
+    "name" : "Horseshoes of Speed",
+    "pa" : "4000",
+    "pm" : "3000",
+    "ps" : "5000"
   },
   {
-    "name" : "Imbued Wood Focus",
-    "pm" : "75",
+    "bp" : "DMG 175",
+    "name" : "Horseshoes of a Zephyr",
+    "pa" : "6000",
+    "pm" : "6000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 175",
+    "name" : "Horseshoes of the Zephyr",
+    "pa" : "1500",
+    "pm" : "0",
+    "ps" : "1500"
+  },
+  {
+    "bp" : "CS 222",
+    "name" : "Icon of Ravenloft",
+    "pa" : "50500",
+    "pm" : "50500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 235",
+    "name" : "Ild Rune Armor (light medium or heavy)",
+    "pa" : "3000",
+    "pm" : "3000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 235",
+    "name" : "Ild Rune Weapon (any)",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 129",
+    "name" : "Illuminator's Tattoo",
+    "pa" : "65",
+    "pm" : "65",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 178",
+    "name" : "Illusionist's Bracers",
+    "pa" : "13500",
+    "pm" : "13500",
+    "ps" : "0"
+  },
+  {
     "bp" : "ERLW 277",
+    "name" : "Imbued Wood Focus",
     "pa" : "75",
+    "pm" : "75",
     "ps" : "0"
   },
   {
     "bp" : "DMG 175",
     "name" : "Immovable Rod",
+    "pa" : "2750",
     "pm" : "500",
-    "ps" : "5000",
-    "pa" : "2750"
+    "ps" : "5000"
   },
   {
     "bp" : "BGDA 224",
-    "ps" : "0",
-    "pa" : "3500",
     "name" : "Infernal Puzzle Box",
-    "pm" : "3500"
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
   },
   {
-    "pa" : "8000",
     "bp" : "BGDA 224",
+    "name" : "Infernal Tack",
+    "pa" : "8000",
     "pm" : "8000",
-    "ps" : "0",
-    "name" : "Infernal Tack"
+    "ps" : "0"
   },
   {
+    "bp" : "SKT 234",
     "name" : "Ingot of the Skold Rune",
-    "pm" : "15000",
     "pa" : "15000",
-    "ps" : "0",
-    "bp" : "SKT 234"
+    "pm" : "15000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "450",
-    "name" : "Insignia of Claws",
     "bp" : "HDQ 94",
-    "pa" : "450"
+    "name" : "Insignia of Claws",
+    "pa" : "450",
+    "pm" : "450",
+    "ps" : "0"
   },
   {
-    "pa" : "100",
     "bp" : "XGE 137",
     "name" : "Instrument of Illusions",
+    "pa" : "100",
     "pm" : "100",
     "ps" : "0"
   },
   {
     "bp" : "XGE 138; WBW211",
-    "pm" : "80",
-    "ps" : "0",
+    "name" : "Instrument of Scribing",
     "pa" : "80",
-    "name" : "Instrument of Scribing"
-  },
-  {
-    "ps" : "0",
-    "name" : "Instrument of the Bards (Anstruth Harp)",
-    "pa" : "17500",
-    "pm" : "17500",
-    "bp" : "DMG 176"
-  },
-  {
-    "pm" : "3750",
-    "bp" : "DMG 176",
-    "ps" : "0",
-    "pa" : "3750",
-    "name" : "Instrument of the Bards (Canaith Mandolin)"
-  },
-  {
-    "pa" : "4250",
-    "bp" : "DMG 176",
-    "ps" : "0",
-    "pm" : "4250",
-    "name" : "Instrument of the Bards (Cli Lyre)"
-  },
-  {
-    "ps" : "0",
-    "pa" : "250",
-    "pm" : "250",
-    "name" : "Instrument of the Bards (Doss Lute)",
-    "bp" : "DMG 176"
-  },
-  {
-    "name" : "Instrument of the Bards (Fochlucan Bandore)",
-    "pa" : "350",
-    "pm" : "350",
-    "bp" : "DMG 176",
+    "pm" : "80",
     "ps" : "0"
   },
   {
-    "pa" : "450",
     "bp" : "DMG 176",
-    "name" : "Instrument of the Bards (Mac-Fuimidh Cittern)",
-    "ps" : "0",
-    "pm" : "450"
+    "name" : "Instrument of the Bards (Anstruth Harp)",
+    "pa" : "17500",
+    "pm" : "17500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards (Canaith Mandolin)",
+    "pa" : "3750",
+    "pm" : "3750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards (Cli Lyre)",
+    "pa" : "4250",
+    "pm" : "4250",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards (Doss Lute)",
+    "pa" : "250",
+    "pm" : "250",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards (Fochlucan Bandore)",
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards (Mac-Fuimidh Cittern)",
+    "pa" : "450",
+    "pm" : "450",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176",
     "name" : "Instrument of the Bards (Ollamh Harp)",
     "pa" : "51000",
     "pm" : "51000",
-    "bp" : "DMG 176"
+    "ps" : "0"
   },
   {
-    "ps" : "109000",
-    "pm" : "0",
+    "bp" : "DMG 176",
     "name" : "Instrument of the Bards - Anstruth Harp",
     "pa" : "109000",
-    "bp" : "176"
+    "pm" : "0",
+    "ps" : "109000"
   },
   {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards - Canaith Mandolin",
     "pa" : "30000",
-    "ps" : "30000",
-    "bp" : "176",
     "pm" : "0",
-    "name" : "Instrument of the Bards - Canaith Mandolin"
+    "ps" : "30000"
   },
   {
-    "pm" : "0",
-    "ps" : "35000",
+    "bp" : "DMG 176",
     "name" : "Instrument of the Bards - Cli Lyre",
     "pa" : "35000",
-    "bp" : "176"
+    "pm" : "0",
+    "ps" : "35000"
   },
   {
-    "pm" : "0",
-    "ps" : "28500",
-    "bp" : "176",
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards - Doss Lute",
     "pa" : "28500",
-    "name" : "Instrument of the Bards - Doss Lute"
-  },
-  {
-    "bp" : "176",
     "pm" : "0",
-    "pa" : "26500",
-    "ps" : "26500",
-    "name" : "Instrument of the Bards - Fochulan Bandlore"
+    "ps" : "28500"
   },
   {
+    "bp" : "DMG 176",
+    "name" : "Instrument of the Bards - Fochulan Bandlore",
+    "pa" : "26500",
+    "pm" : "0",
+    "ps" : "26500"
+  },
+  {
+    "bp" : "DMG 176",
     "name" : "Instrument of the Bards - Mac-Fuirmidh Cittern",
     "pa" : "27000",
-    "bp" : "176",
     "pm" : "0",
     "ps" : "27000"
   },
   {
-    "bp" : "176",
-    "ps" : "125000",
+    "bp" : "DMG 176",
     "name" : "Instrument of the Bards - Ollamh Harp",
     "pa" : "125000",
-    "pm" : "0"
+    "pm" : "0",
+    "ps" : "125000"
   },
   {
-    "bp" : "177",
+    "bp" : "DMG 177",
+    "name" : "Ioun Stone Absorption",
     "pa" : "2400",
     "pm" : "0",
-    "ps" : "2400",
-    "name" : "Ioun Stone Absorption"
+    "ps" : "2400"
   },
   {
-    "ps" : "3000",
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Agility",
-    "pm" : "0",
-    "bp" : "177",
-    "pa" : "3000"
-  },
-  {
-    "ps" : "12000",
-    "name" : "Ioun Stone Awareness",
-    "pm" : "0",
-    "pa" : "12000",
-    "bp" : "177"
-  },
-  {
     "pa" : "3000",
-    "name" : "Ioun Stone Fortitude",
-    "bp" : "177",
     "pm" : "0",
     "ps" : "3000"
   },
   {
-    "ps" : "31000",
+    "bp" : "DMG 177",
+    "name" : "Ioun Stone Awareness",
+    "pa" : "12000",
+    "pm" : "0",
+    "ps" : "12000"
+  },
+  {
+    "bp" : "DMG 177",
+    "name" : "Ioun Stone Fortitude",
+    "pa" : "3000",
+    "pm" : "0",
+    "ps" : "3000"
+  },
+  {
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Greater Absorption",
-    "bp" : "177",
     "pa" : "31000",
-    "pm" : "0"
+    "pm" : "0",
+    "ps" : "31000"
   },
   {
-    "ps" : "3000",
-    "bp" : "177",
-    "pa" : "3000",
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Insight",
-    "pm" : "0"
-  },
-  {
-    "pm" : "0",
-    "ps" : "3000",
     "pa" : "3000",
-    "bp" : "177",
-    "name" : "Ioun Stone Intellect"
+    "pm" : "0",
+    "ps" : "3000"
   },
   {
+    "bp" : "DMG 177",
+    "name" : "Ioun Stone Intellect",
+    "pa" : "3000",
     "pm" : "0",
+    "ps" : "3000"
+  },
+  {
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Leadership",
-    "bp" : "177",
-    "ps" : "3000",
-    "pa" : "3000"
+    "pa" : "3000",
+    "pm" : "0",
+    "ps" : "3000"
   },
   {
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Mastery",
-    "bp" : "177",
-    "pm" : "0",
     "pa" : "15000",
+    "pm" : "0",
     "ps" : "15000"
   },
   {
-    "ps" : "1200",
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Protection",
     "pa" : "1200",
-    "bp" : "177",
-    "pm" : "0"
+    "pm" : "0",
+    "ps" : "1200"
   },
   {
-    "pm" : "0",
-    "bp" : "177",
-    "ps" : "4000",
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Regeneration",
-    "pa" : "4000"
+    "pa" : "4000",
+    "pm" : "0",
+    "ps" : "4000"
   },
   {
+    "bp" : "DMG 177",
+    "name" : "Ioun Stone Reserve",
     "pa" : "6000",
-    "ps" : "6000",
-    "bp" : "177",
     "pm" : "0",
-    "name" : "Ioun Stone Reserve"
+    "ps" : "6000"
   },
   {
-    "bp" : "177",
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Strength",
-    "pm" : "0",
     "pa" : "3000",
+    "pm" : "0",
     "ps" : "3000"
   },
   {
+    "bp" : "DMG 177",
     "name" : "Ioun Stone Sustenance",
-    "ps" : "1000",
     "pa" : "1000",
-    "bp" : "177",
-    "pm" : "0"
+    "pm" : "0",
+    "ps" : "1000"
   },
   {
-    "pa" : "20000",
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Absorption",
+    "pa" : "20000",
     "pm" : "20000",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "8000",
     "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Agility",
+    "pa" : "8000",
     "pm" : "8000",
-    "name" : "Ioun Stone: Agility"
+    "ps" : "0"
   },
   {
-    "pm" : "4000",
+    "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Awareness",
-    "ps" : "0",
-    "bp" : "DMG 176-177",
-    "pa" : "4000"
+    "pa" : "4000",
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Fortitude",
-    "ps" : "0",
-    "pm" : "8000",
     "pa" : "8000",
-    "bp" : "DMG 176-177"
+    "pm" : "8000",
+    "ps" : "0"
   },
   {
-    "pm" : "60000",
-    "ps" : "0",
     "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Greater Absorption",
     "pa" : "60000",
-    "name" : "Ioun Stone: Greater Absorption"
+    "pm" : "60000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "LLK 55",
     "name" : "Ioun Stone: Historical Knowledge",
     "pa" : "500",
-    "pm" : "500"
+    "pm" : "500",
+    "ps" : "0"
   },
   {
-    "pa" : "8000",
     "bp" : "DMG 176-177",
-    "ps" : "0",
     "name" : "Ioun Stone: Insight",
-    "pm" : "8000"
-  },
-  {
-    "bp" : "DMG 176-177",
-    "pm" : "8000",
     "pa" : "8000",
-    "name" : "Ioun Stone: Intellect",
-    "ps" : "0"
-  },
-  {
-    "name" : "Ioun Stone: Language Knowledge",
-    "pm" : "500",
-    "bp" : "LLK 55",
-    "pa" : "500",
-    "ps" : "0"
-  },
-  {
     "pm" : "8000",
-    "name" : "Ioun Stone: Leadership",
-    "bp" : "DMG 176-177",
-    "ps" : "0",
-    "pa" : "8000"
-  },
-  {
-    "pm" : "60000",
-    "ps" : "0",
-    "name" : "Ioun Stone: Mastery",
-    "bp" : "DMG 176-177",
-    "pa" : "60000"
-  },
-  {
-    "pa" : "500",
-    "ps" : "0",
-    "pm" : "500",
-    "bp" : "LLK 55",
-    "name" : "Ioun Stone: Natural Knowledge"
-  },
-  {
-    "bp" : "DMG 176-177",
-    "pm" : "3600",
-    "pa" : "3600",
-    "name" : "Ioun Stone: Protection",
     "ps" : "0"
   },
   {
-    "name" : "Ioun Stone: Regeneration",
-    "ps" : "0",
-    "pa" : "55000",
     "bp" : "DMG 176-177",
-    "pm" : "55000"
+    "name" : "Ioun Stone: Intellect",
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "LLK 55",
+    "name" : "Ioun Stone: Language Knowledge",
     "pa" : "500",
     "pm" : "500",
-    "name" : "Ioun Stone: Religious Knowledge"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Leadership",
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Mastery",
+    "pa" : "60000",
+    "pm" : "60000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "LLK 55",
+    "name" : "Ioun Stone: Natural Knowledge",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Protection",
+    "pa" : "3600",
+    "pm" : "3600",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Regeneration",
+    "pa" : "55000",
+    "pm" : "55000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "LLK 55",
+    "name" : "Ioun Stone: Religious Knowledge",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Reserve",
     "pa" : "4500",
     "pm" : "4500",
-    "name" : "Ioun Stone: Reserve"
-  },
-  {
-    "pa" : "750",
-    "pm" : "750",
-    "bp" : "LLK 55",
-    "name" : "Ioun Stone: Self-Preservation",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "name" : "Ioun Stone: Strength",
-    "pa" : "8000",
-    "bp" : "DMG 176-177",
-    "pm" : "8000"
+    "bp" : "LLK 55",
+    "name" : "Ioun Stone: Self-Preservation",
+    "pa" : "750",
+    "pm" : "750",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 176-177",
+    "name" : "Ioun Stone: Strength",
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "LLK 55",
     "name" : "Ioun Stone: Supreme Intellect",
     "pa" : "600",
-    "bp" : "LLK 55",
     "pm" : "600",
     "ps" : "0"
   },
   {
+    "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Sustenance",
     "pa" : "3000",
-    "bp" : "DMG 176-177",
     "pm" : "3000",
     "ps" : "0"
   },
   {
     "bp" : "IMR 94",
-    "pm" : "1000",
-    "pa" : "1000",
     "name" : "Ioun Stone: Vitality",
+    "pa" : "1000",
+    "pm" : "1000",
     "ps" : "0"
   },
   {
-    "pm" : "2600",
-    "pa" : "3300",
     "bp" : "DMG 177",
-    "ps" : "4000",
-    "name" : "Iron Bands of Bilarro"
+    "name" : "Iron Bands of Bilarro",
+    "pa" : "3300",
+    "pm" : "2600",
+    "ps" : "4000"
   },
   {
-    "ps" : "0",
-    "pa" : "170000",
+    "bp" : "DMG 178",
     "name" : "Iron Flask",
+    "pa" : "170000",
     "pm" : "170000",
-    "bp" : "DMG 178"
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 175",
     "name" : "Iron Horn of Valhalla",
     "pa" : "14000",
-    "bp" : "175",
     "pm" : "0",
     "ps" : "14000"
   },
   {
-    "pm" : "76000",
     "bp" : "PA 224-225",
     "name" : "Ironfang (war pick)",
-    "ps" : "0",
-    "pa" : "76000"
+    "pa" : "76000",
+    "pm" : "76000",
+    "ps" : "0"
   },
   {
+    "bp" : "SKT 237",
     "name" : "Ise Rune Boots",
-    "ps" : "0",
-    "bp" : "SKT 237",
+    "pa" : "2650",
     "pm" : "2650",
-    "pa" : "2650"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "1200",
-    "name" : "Ise Rune Cloak",
     "bp" : "SKT 237",
-    "pm" : "1200"
+    "name" : "Ise Rune Cloak",
+    "pa" : "1200",
+    "pm" : "1200",
+    "ps" : "0"
   },
   {
-    "bp" : "169",
+    "bp" : "DMG 169",
+    "name" : "Ivory Goat (Terror)",
     "pa" : "20000",
     "pm" : "0",
-    "ps" : "20000",
-    "name" : "Ivory Goat (Terror)"
+    "ps" : "20000"
   },
   {
-    "bp" : "169",
-    "ps" : "400",
-    "pm" : "0",
+    "bp" : "DMG 169",
     "name" : "Ivory Goat (Travail)",
-    "pa" : "400"
+    "pa" : "400",
+    "pm" : "0",
+    "ps" : "400"
   },
   {
+    "bp" : "DMG 169",
     "name" : "Ivory Goat (Traveling)",
-    "bp" : "169",
-    "ps" : "1000",
+    "pa" : "1000",
     "pm" : "0",
-    "pa" : "1000"
+    "ps" : "1000"
   },
   {
     "bp" : "GGR 177",
-    "pm" : "1850",
+    "name" : "Izzet Keyrune",
     "pa" : "1850",
-    "ps" : "0",
-    "name" : "Izzet Keyrune"
+    "pm" : "1850",
+    "ps" : "0"
   },
   {
-    "pm" : "350",
-    "pa" : "925",
     "bp" : "DMG 178",
-    "ps" : "1500",
-    "name" : "Javelin of Lightning"
+    "name" : "Javelin of Lightning",
+    "pa" : "925",
+    "pm" : "350",
+    "ps" : "1500"
   },
   {
-    "ps" : "0",
     "bp" : "DMG 179",
     "name" : "Keoghtom's Ointment",
     "pa" : "400",
-    "pm" : "400"
-  },
-  {
-    "ps" : "120",
-    "pm" : "0",
-    "name" : "Keoghtom's Ointment (Per dose)",
-    "pa" : "120",
-    "bp" : "179"
-  },
-  {
-    "pm" : "50",
-    "name" : "Keycharm",
-    "pa" : "50",
-    "ps" : "0",
-    "bp" : "ERLW 277"
-  },
-  {
-    "ps" : "0",
-    "pa" : "2000",
-    "bp" : "WDH 191",
-    "name" : "Knave's Eye Patch",
-    "pm" : "2000"
-  },
-  {
-    "bp" : "SKT 234-235",
-    "ps" : "0",
-    "name" : "Korolnor Scepter (club)",
-    "pa" : "63000",
-    "pm" : "63000"
-  },
-  {
-    "name" : "Kyrzin's Ooze",
-    "ps" : "0",
-    "bp" : "ERLW 278",
-    "pm" : "21000",
-    "pa" : "21000"
+    "pm" : "400",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 179",
-    "ps" : "5000",
-    "pm" : "500",
-    "name" : "Lantern of Revealing",
-    "pa" : "2750"
+    "name" : "Keoghtom's Ointment (Per dose)",
+    "pa" : "120",
+    "pm" : "0",
+    "ps" : "120"
   },
   {
-    "ps" : "0",
+    "bp" : "ERLW 277",
+    "name" : "Keycharm",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "WDH 191",
+    "name" : "Knave's Eye Patch",
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 234-235",
+    "name" : "Korolnor Scepter (club)",
+    "pa" : "63000",
+    "pm" : "63000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "ERLW 278",
+    "name" : "Kyrzin's Ooze",
+    "pa" : "21000",
+    "pm" : "21000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 179",
+    "name" : "Lantern of Revealing",
+    "pa" : "2750",
+    "pm" : "500",
+    "ps" : "5000"
+  },
+  {
     "bp" : "IDRF 314-315",
     "name" : "Lantern of Tracking",
+    "pa" : "75",
     "pm" : "75",
-    "pa" : "75"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "3000",
-    "name" : "Leather Golem Armor (leather)",
     "bp" : "LLK 55",
-    "pm" : "3000"
+    "name" : "Leather Golem Armor (leather)",
+    "pa" : "3000",
+    "pm" : "3000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "4200",
     "bp" : "TCE 129",
     "name" : "Libram of Souls and Flesh",
-    "pm" : "4200"
+    "pa" : "4200",
+    "pm" : "4200",
+    "ps" : "0"
   },
   {
+    "bp" : "TCE 129",
+    "name" : "Lifewell Tattoo",
     "pa" : "5100",
     "pm" : "5100",
-    "bp" : "TCE 129",
-    "ps" : "0",
-    "name" : "Lifewell Tattoo"
+    "ps" : "0"
   },
   {
-    "name" : "Lightbringer (mace)",
-    "pm" : "1600",
-    "ps" : "0",
     "bp" : "LMP 48",
-    "pa" : "1600"
+    "name" : "Lightbringer (mace)",
+    "pa" : "1600",
+    "pm" : "1600",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "9500",
+    "bp" : "ERLW 278",
     "name" : "Living Armor",
-    "bp" : "ERLW 278",
-    "pm" : "9500"
+    "pa" : "9500",
+    "pm" : "9500",
+    "ps" : "0"
   },
   {
+    "bp" : "ERLW 278",
     "name" : "Living Gloves",
-    "bp" : "ERLW 278",
+    "pa" : "500",
     "pm" : "500",
-    "ps" : "0",
-    "pa" : "500"
+    "ps" : "0"
   },
   {
-    "pa" : "150",
     "bp" : "TYP 228",
-    "ps" : "0",
     "name" : "Loadstone",
-    "pm" : "150"
+    "pa" : "150",
+    "pm" : "150",
+    "ps" : "0"
   },
   {
-    "pm" : "50",
-    "ps" : "0",
+    "bp" : "XGE 138",
     "name" : "Lock of Trickery",
     "pa" : "50",
-    "bp" : "XGE 138"
+    "pm" : "50",
+    "ps" : "0"
   },
   {
     "bp" : "WDH 191",
@@ -2842,410 +2863,410 @@
     "ps" : "0"
   },
   {
-    "pm" : "300",
-    "name" : "Lorehold Primer",
     "bp" : "SCC 39",
-    "ps" : "0",
-    "pa" : "300"
-  },
-  {
-    "pm" : "23000",
-    "name" : "Lost Crown of Besilmer",
-    "bp" : "PA 223-224",
-    "pa" : "23000",
+    "name" : "Lorehold Primer",
+    "pa" : "300",
+    "pm" : "300",
     "ps" : "0"
   },
   {
-    "pa" : "100000",
+    "bp" : "PA 223-224",
+    "name" : "Lost Crown of Besilmer",
+    "pa" : "23000",
+    "pm" : "23000",
+    "ps" : "0"
+  },
+  {
     "bp" : "DMG 179",
     "name" : "Luck Blade (any sword)",
+    "pa" : "100000",
     "pm" : "100000",
     "ps" : "0"
   },
   {
-    "pm" : "0",
+    "bp" : "DMG 205",
+    "name" : "Luckstone",
     "pa" : "4200",
-    "bp" : "205",
-    "ps" : "4200",
-    "name" : "Luckstone"
+    "pm" : "0",
+    "ps" : "4200"
   },
   {
-    "pa" : "4750",
+    "bp" : "TCE 131",
     "name" : "Lyre of Building",
-    "ps" : "0",
+    "pa" : "4750",
     "pm" : "4750",
-    "bp" : "TCE 131"
+    "ps" : "0"
   },
   {
-    "pm" : "1750",
-    "name" : "Mace of Disruption",
-    "ps" : "8000",
     "bp" : "DMG 179",
-    "pa" : "4875"
+    "name" : "Mace of Disruption",
+    "pa" : "4875",
+    "pm" : "1750",
+    "ps" : "8000"
   },
   {
+    "bp" : "DMG 179",
+    "name" : "Mace of Smiting",
     "pa" : "4500",
     "pm" : "2000",
-    "bp" : "DMG 179",
-    "ps" : "7000",
-    "name" : "Mace of Smiting"
+    "ps" : "7000"
   },
   {
-    "ps" : "8000",
-    "pa" : "5750",
     "bp" : "DMG 180",
     "name" : "Mace of Terror",
-    "pm" : "3500"
+    "pa" : "5750",
+    "pm" : "3500",
+    "ps" : "8000"
   },
   {
-    "name" : "Mantle of Spell Resistance",
     "bp" : "DMG 180",
-    "pm" : "4200",
+    "name" : "Mantle of Spell Resistance",
     "pa" : "17100",
+    "pm" : "4200",
     "ps" : "30000"
   },
   {
-    "ps" : "0",
+    "bp" : "DMG 180",
     "name" : "Manual of Bodily Health",
-    "pm" : "36000",
-    "bp" : "DMG 180",
-    "pa" : "36000"
-  },
-  {
-    "ps" : "0",
-    "pm" : "36000",
     "pa" : "36000",
-    "bp" : "DMG 180",
-    "name" : "Manual of Gainful Exercise"
-  },
-  {
-    "ps" : "0",
-    "pm" : "22000",
-    "pa" : "22000",
-    "name" : "Manual of Golems",
-    "bp" : "DMG 180-181"
-  },
-  {
     "pm" : "36000",
-    "ps" : "0",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 180",
+    "name" : "Manual of Gainful Exercise",
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 180-181",
+    "name" : "Manual of Golems",
+    "pa" : "22000",
+    "pm" : "22000",
+    "ps" : "0"
+  },
+  {
     "bp" : "DMG 181",
     "name" : "Manual of Quickness of Action",
-    "pa" : "36000"
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
   },
   {
-    "bp" : "170",
+    "bp" : "DMG 170",
     "name" : "Marble Elephant",
-    "pm" : "0",
     "pa" : "6000",
+    "pm" : "0",
     "ps" : "6000"
   },
   {
     "bp" : "DMG 181",
-    "pm" : "400",
     "name" : "Mariner's Armor (light medium or heavy)",
     "pa" : "950",
+    "pm" : "400",
     "ps" : "1500"
   },
   {
-    "name" : "Masquerade Tattoo",
-    "pm" : "75",
-    "ps" : "0",
     "bp" : "TCE 131",
-    "pa" : "75"
+    "name" : "Masquerade Tattoo",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
   },
   {
-    "pa" : "200",
     "bp" : "TA 207",
+    "name" : "Mast of the Beast",
+    "pa" : "200",
     "pm" : "200",
-    "ps" : "0",
-    "name" : "Mast of the Beast"
+    "ps" : "0"
   },
   {
-    "pm" : "70000",
-    "ps" : "0",
+    "bp" : "BGDA 224",
     "name" : "Matalotok (warhammer)",
     "pa" : "70000",
-    "bp" : "BGDA 224"
+    "pm" : "70000",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 181",
-    "pm" : "300",
     "name" : "Medallion of Thoughts",
-    "ps" : "3000",
-    "pa" : "1650"
+    "pa" : "1650",
+    "pm" : "300",
+    "ps" : "3000"
   },
   {
-    "ps" : "0",
+    "bp" : "VGM 81",
+    "name" : "Mind Blade (any sword)",
     "pa" : "2000",
-    "bp" : "VGM 81",
     "pm" : "2000",
-    "name" : "Mind Blade (any sword)"
+    "ps" : "0"
   },
   {
+    "bp" : "VGM 81",
     "name" : "Mind Carapace Armor (any heavy armor)",
+    "pa" : "500",
     "pm" : "500",
-    "ps" : "0",
-    "bp" : "VGM 81",
-    "pa" : "500"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "750",
+    "bp" : "VGM 81",
+    "name" : "Mind Lash (whip)",
     "pa" : "750",
-    "bp" : "VGM 81",
-    "name" : "Mind Lash (whip)"
+    "pm" : "750",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 181-182",
     "name" : "Mirror of Life Trapping",
     "pa" : "34000",
-    "bp" : "DMG 181-182",
-    "ps" : "18000",
-    "pm" : "50000"
+    "pm" : "50000",
+    "ps" : "18000"
   },
   {
-    "ps" : "0",
+    "bp" : "TYP 228",
+    "name" : "Mirror of the Past",
     "pa" : "3800",
     "pm" : "3800",
-    "name" : "Mirror of the Past",
-    "bp" : "TYP 228"
+    "ps" : "0"
   },
   {
-    "pm" : "450",
+    "bp" : "DMG 182",
     "name" : "Mithral Armor (medium or heavy but not hide)",
-    "ps" : "800",
     "pa" : "625",
-    "bp" : "DMG 182"
+    "pm" : "450",
+    "ps" : "800"
   },
   {
+    "bp" : "GGR 179",
     "name" : "Mizzium Apparatus",
     "pa" : "500",
-    "bp" : "GGR 179",
     "pm" : "500",
     "ps" : "0"
   },
   {
     "bp" : "GGR 179",
-    "ps" : "0",
     "name" : "Mizzium Armor (medium or heavy but not hide)",
     "pa" : "1500",
-    "pm" : "1500"
+    "pm" : "1500",
+    "ps" : "0"
   },
   {
-    "pa" : "2100",
     "bp" : "GGR 179",
     "name" : "Mizzium Mortar",
+    "pa" : "2100",
     "pm" : "2100",
     "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "MOT 196",
     "name" : "Molten Bronze Skin (breastplate half plate or plate)",
     "pa" : "1300",
     "pm" : "1300",
-    "bp" : "MOT 196"
+    "ps" : "0"
   },
   {
     "bp" : "GGR 180",
-    "ps" : "0",
+    "name" : "Moodmark Paint",
     "pa" : "50",
     "pm" : "50",
-    "name" : "Moodmark Paint"
+    "ps" : "0"
   },
   {
-    "pm" : "+75",
-    "ps" : "0",
+    "bp" : "XGE 138",
     "name" : "Moon-Touched Sword (any sword)",
     "pa" : "+75",
-    "bp" : "XGE 138"
+    "pm" : "+75",
+    "ps" : "0"
   },
   {
-    "pa" : "150",
-    "name" : "Mummy Rot Antidote",
     "bp" : "IMR 94",
+    "name" : "Mummy Rot Antidote",
+    "pa" : "150",
     "pm" : "150",
     "ps" : "0"
   },
   {
-    "pm" : "50",
-    "ps" : "0",
     "bp" : "XGE 138",
     "name" : "Mystery Key",
-    "pa" : "50"
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
   },
   {
-    "pm" : "325",
-    "ps" : "0",
-    "name" : "Nature's Mantle",
     "bp" : "TCE 133",
-    "pa" : "325"
+    "name" : "Nature's Mantle",
+    "pa" : "325",
+    "pm" : "325",
+    "ps" : "0"
   },
   {
     "bp" : "SKT 235",
-    "pa" : "27000",
-    "ps" : "0",
     "name" : "Navigation Orb",
-    "pm" : "27000"
+    "pa" : "27000",
+    "pm" : "27000",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 182",
-    "ps" : "0",
-    "pm" : "450",
     "name" : "Necklace of Adaptation",
-    "pa" : "450"
+    "pa" : "450",
+    "pm" : "450",
+    "ps" : "0"
   },
   {
-    "pa" : "1500",
+    "bp" : "DMG 182",
     "name" : "Necklace of Adaption",
-    "bp" : "182",
+    "pa" : "1500",
     "pm" : "0",
     "ps" : "1500"
   },
   {
-    "ps" : "0",
     "bp" : "DMG 182",
-    "pm" : "4350",
     "name" : "Necklace of Fireballs",
-    "pa" : "4350"
+    "pa" : "4350",
+    "pm" : "4350",
+    "ps" : "0"
   },
   {
-    "pa" : "3840",
-    "bp" : "182",
-    "pm" : "0",
+    "bp" : "DMG 182",
     "name" : "Necklace of Fireballs (Five beads)",
+    "pa" : "3840",
+    "pm" : "0",
     "ps" : "3840"
   },
   {
+    "bp" : "DMG 182",
     "name" : "Necklace of Fireballs (Four beads)",
     "pa" : "1600",
-    "bp" : "182",
     "pm" : "0",
     "ps" : "1600"
   },
   {
-    "pm" : "0",
-    "pa" : "300",
-    "bp" : "182",
+    "bp" : "DMG 182",
     "name" : "Necklace of Fireballs (One bead)",
+    "pa" : "300",
+    "pm" : "0",
     "ps" : "300"
   },
   {
+    "bp" : "DMG 182",
+    "name" : "Necklace of Fireballs (Six beads)",
     "pa" : "7680",
-    "bp" : "182",
-    "ps" : "7680",
     "pm" : "0",
-    "name" : "Necklace of Fireballs (Six beads)"
+    "ps" : "7680"
   },
   {
-    "bp" : "182",
-    "pm" : "0",
+    "bp" : "DMG 182",
     "name" : "Necklace of Fireballs (Three beads)",
-    "ps" : "960",
-    "pa" : "960"
+    "pa" : "960",
+    "pm" : "0",
+    "ps" : "960"
   },
   {
+    "bp" : "DMG 182",
     "name" : "Necklace of Fireballs (Two beads)",
     "pa" : "480",
     "pm" : "0",
-    "ps" : "480",
-    "bp" : "182"
+    "ps" : "480"
   },
   {
-    "pa" : "5000",
     "bp" : "DMG 182",
-    "ps" : "0",
     "name" : "Necklace of Prayer Beads",
-    "pm" : "5000"
-  },
-  {
-    "bp" : "TYP 228",
-    "pm" : "350",
-    "ps" : "0",
-    "name" : "Night Caller",
-    "pa" : "350"
-  },
-  {
-    "name" : "Nine Lives Stealer (Fully Charged)",
-    "ps" : "8000",
-    "bp" : "183",
-    "pa" : "8000",
-    "pm" : "0"
-  },
-  {
-    "ps" : "0",
-    "name" : "Nine Lives Stealer (any sword)",
-    "bp" : "DMG 183",
-    "pm" : "36000",
-    "pa" : "36000"
-  },
-  {
-    "pm" : "16000",
-    "name" : "Nolzur's Marvelous Pigments",
-    "pa" : "8100",
-    "ps" : "200",
-    "bp" : "DMG 183"
-  },
-  {
-    "bp" : "DMG 183",
-    "ps" : "3500",
-    "pm" : "13000",
-    "name" : "Oathbow (longbow)",
-    "pa" : "8250"
-  },
-  {
-    "name" : "Obsidian Flint Dragon Plate",
-    "pm" : "27000",
-    "bp" : "BGDA 224",
-    "pa" : "27000",
+    "pa" : "5000",
+    "pm" : "5000",
     "ps" : "0"
   },
   {
-    "bp" : "170",
-    "pa" : "128000",
-    "pm" : "0",
-    "ps" : "128000",
-    "name" : "Obsidian Steed"
+    "bp" : "TYP 228",
+    "name" : "Night Caller",
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 183",
-    "ps" : "1920",
-    "pm" : "2000",
+    "name" : "Nine Lives Stealer (Fully Charged)",
+    "pa" : "8000",
+    "pm" : "0",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 183",
+    "name" : "Nine Lives Stealer (any sword)",
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 183",
+    "name" : "Nolzur's Marvelous Pigments",
+    "pa" : "8100",
+    "pm" : "16000",
+    "ps" : "200"
+  },
+  {
+    "bp" : "DMG 183",
+    "name" : "Oathbow (longbow)",
+    "pa" : "8250",
+    "pm" : "13000",
+    "ps" : "3500"
+  },
+  {
+    "bp" : "BGDA 224",
+    "name" : "Obsidian Flint Dragon Plate",
+    "pa" : "27000",
+    "pm" : "27000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 170",
+    "name" : "Obsidian Steed",
+    "pa" : "128000",
+    "pm" : "0",
+    "ps" : "128000"
+  },
+  {
+    "bp" : "DMG 183",
     "name" : "Oil of Etherealness",
-    "pa" : "1960"
+    "pa" : "1960",
+    "pm" : "2000",
+    "ps" : "1920"
   },
   {
     "bp" : "DMG 184",
-    "pm" : "2200",
     "name" : "Oil of Sharpness",
     "pa" : "2700",
+    "pm" : "2200",
     "ps" : "3200"
   },
   {
-    "ps" : "480",
+    "bp" : "DMG 184",
     "name" : "Oil of Slipperiness",
     "pa" : "365",
-    "bp" : "DMG 184",
-    "pm" : "250"
+    "pm" : "250",
+    "ps" : "480"
   },
   {
-    "pm" : "0",
+    "bp" : "DMG 170",
     "name" : "Onyx Dog",
     "pa" : "3000",
-    "ps" : "3000",
-    "bp" : "170"
+    "pm" : "0",
+    "ps" : "3000"
   },
   {
-    "pa" : "3500",
     "bp" : "SKT 235",
-    "ps" : "0",
+    "name" : "Opal of the Ild Rune",
+    "pa" : "3500",
     "pm" : "3500",
-    "name" : "Opal of the Ild Rune"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "XGE 138; WBW 212",
     "name" : "Orb of Direction",
     "pa" : "50",
     "pm" : "50",
-    "bp" : "XGE 138; WBW 212"
+    "ps" : "0"
   },
   {
     "bp" : "WDMM 174",
@@ -3255,2069 +3276,2048 @@
     "ps" : "0"
   },
   {
-    "pa" : "80",
-    "ps" : "0",
     "bp" : "ERLW 278",
+    "name" : "Orb of Shielding",
+    "pa" : "80",
     "pm" : "80",
-    "name" : "Orb of Shielding"
-  },
-  {
-    "ps" : "0",
-    "name" : "Orb of Time",
-    "pa" : "50",
-    "pm" : "50",
-    "bp" : "XGE 138"
-  },
-  {
-    "bp" : "SKT 235",
-    "pm" : "2700",
-    "ps" : "0",
-    "pa" : "2700",
-    "name" : "Orb of the Stein Rune"
-  },
-  {
-    "pm" : "60000",
-    "ps" : "0",
-    "name" : "Orcsplitter (greataxe)",
-    "bp" : "60000",
-    "pa" : "60000"
-  },
-  {
-    "ps" : "0",
-    "name" : "Ornithopter of Flying",
-    "bp" : "WBW 212",
-    "pm" : "3500",
-    "pa" : "3500"
-  },
-  {
-    "pm" : "1100",
-    "ps" : "0",
-    "name" : "Orzhov Keyrune",
-    "pa" : "1100",
-    "bp" : "GGR 178"
-  },
-  {
-    "pa" : "2000",
-    "pm" : "2000",
-    "ps" : "0",
-    "bp" : "TCE 133-134",
-    "name" : "Outer Essence Shard"
-  },
-  {
-    "pa" : "350",
-    "name" : "Paper Bird",
-    "ps" : "0",
-    "pm" : "350",
-    "bp" : "WDH 191; IMR 94"
-  },
-  {
-    "pm" : "1500",
-    "bp" : "GGR 180",
-    "ps" : "0",
-    "name" : "Pariah's Shield",
-    "pa" : "1500"
-  },
-  {
-    "bp" : "DMG 184",
-    "ps" : "6000",
-    "pa" : "3200",
-    "pm" : "400",
-    "name" : "Pearl of Power"
-  },
-  {
-    "pa" : "13000",
-    "pm" : "13000",
-    "name" : "Pennant of the Vind Rune",
-    "bp" : "SKT 235-236",
     "ps" : "0"
   },
   {
+    "bp" : "XGE 138",
+    "name" : "Orb of Time",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 235",
+    "name" : "Orb of the Stein Rune",
+    "pa" : "2700",
+    "pm" : "2700",
+    "ps" : "0"
+  },
+  {
+    "bp" : "60000",
+    "name" : "Orcsplitter (greataxe)",
+    "pa" : "60000",
+    "pm" : "60000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "WBW 212",
+    "name" : "Ornithopter of Flying",
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 178",
+    "name" : "Orzhov Keyrune",
+    "pa" : "1100",
+    "pm" : "1100",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 133-134",
+    "name" : "Outer Essence Shard",
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "WDH 191; IMR 94",
+    "name" : "Paper Bird",
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 180",
+    "name" : "Pariah's Shield",
+    "pa" : "1500",
+    "pm" : "1500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 184",
+    "name" : "Pearl of Power",
+    "pa" : "3200",
+    "pm" : "400",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "SKT 235-236",
+    "name" : "Pennant of the Vind Rune",
+    "pa" : "13000",
+    "pm" : "13000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "GGR 180",
+    "name" : "Peregrine Mask",
     "pa" : "6000",
     "pm" : "6000",
-    "bp" : "GGR 180",
-    "ps" : "0",
-    "name" : "Peregrine Mask"
+    "ps" : "0"
   },
   {
-    "pm" : "75",
-    "name" : "Perfume of Bewitching",
     "bp" : "XGE 138",
-    "ps" : "0",
-    "pa" : "75"
+    "name" : "Perfume of Bewitching",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
   },
   {
-    "pa" : "2625",
     "bp" : "DMG 184",
+    "name" : "Periapt of Health",
+    "pa" : "2625",
     "pm" : "250",
-    "ps" : "5000",
-    "name" : "Periapt of Health"
+    "ps" : "5000"
   },
   {
-    "ps" : "5000",
-    "pm" : "4700",
+    "bp" : "DMG 184",
     "name" : "Periapt of Proof Against Poison",
     "pa" : "4850",
-    "bp" : "DMG 184"
+    "pm" : "4700",
+    "ps" : "5000"
   },
   {
-    "pm" : "375",
-    "pa" : "2688",
-    "ps" : "5000",
-    "name" : "Periapt of Wound Closure",
-    "bp" : "DMG 184"
-  },
-  {
-    "name" : "Philter of Love",
     "bp" : "DMG 184",
+    "name" : "Periapt of Wound Closure",
+    "pa" : "2688",
+    "pm" : "375",
+    "ps" : "5000"
+  },
+  {
+    "bp" : "DMG 184",
+    "name" : "Philter of Love",
+    "pa" : "120",
     "pm" : "150",
-    "ps" : "90",
-    "pa" : "120"
+    "ps" : "90"
   },
   {
-    "pm" : "50",
-    "pa" : "50",
-    "ps" : "0",
+    "bp" : "GS 229",
     "name" : "Pipe of Remembrance",
-    "bp" : "GS 229"
-  },
-  {
-    "ps" : "0",
     "pa" : "50",
     "pm" : "50",
-    "bp" : "XGE 138; WBW 212",
-    "name" : "Pipe of Smoke Monsters"
+    "ps" : "0"
   },
   {
+    "bp" : "XGE 138; WBW 212",
+    "name" : "Pipe of Smoke Monsters",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 185",
     "name" : "Pipes of Haunting",
     "pa" : "3150",
-    "bp" : "DMG 185",
     "pm" : "300",
     "ps" : "6000"
   },
   {
+    "bp" : "DMG 185",
     "name" : "Pipes of the Sewers",
     "pa" : "1075",
-    "bp" : "DMG 185",
     "pm" : "150",
     "ps" : "2000"
   },
   {
+    "bp" : "OA 222",
+    "name" : "Piwafwi (Cloak of Elvenkind)",
     "pa" : "200",
-    "bp" : "OA 222",
     "pm" : "200",
-    "ps" : "0",
-    "name" : "Piwafwi (Cloak of Elvenkind)"
-  },
-  {
-    "name" : "Piwafwi of Fire Resistance",
-    "pa" : "1400",
-    "pm" : "1400",
-    "bp" : "OA 222",
     "ps" : "0"
   },
   {
-    "name" : "Pixie Dust",
+    "bp" : "OA 222",
+    "name" : "Piwafwi of Fire Resistance",
+    "pa" : "1400",
+    "pm" : "1400",
+    "ps" : "0"
+  },
+  {
     "bp" : "WBW 212",
+    "name" : "Pixie Dust",
     "pa" : "1000",
     "pm" : "1000",
     "ps" : "0"
   },
   {
-    "pa" : "3500",
     "bp" : "TCE 134",
     "name" : "Planecaller's Codex",
-    "ps" : "0",
-    "pm" : "3500"
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 185",
-    "pm" : "60000",
     "name" : "Plate Armor of Etherealness",
-    "ps" : "48000",
-    "pa" : "54000"
+    "pa" : "54000",
+    "pm" : "60000",
+    "ps" : "48000"
   },
   {
     "bp" : "FTD 24",
-    "pa" : "20000",
     "name" : "Platinum Scarf",
-    "ps" : "0",
-    "pm" : "20000"
+    "pa" : "20000",
+    "pm" : "20000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "XGE 138",
     "name" : "Pole of Angling",
+    "pa" : "50",
     "pm" : "50",
-    "pa" : "50"
+    "ps" : "0"
   },
   {
-    "pm" : "55",
+    "bp" : "XGE 138; WBW 212",
     "name" : "Pole of Collapsing",
-    "ps" : "0",
     "pa" : "55",
-    "bp" : "XGE 138; WBW 212"
+    "pm" : "55",
+    "ps" : "0"
   },
   {
-    "pa" : "6500",
-    "ps" : "0",
     "bp" : "LLK 56",
+    "name" : "Polymorph Blade (any sword)",
+    "pa" : "6500",
     "pm" : "6500",
-    "name" : "Polymorph Blade (any sword)"
+    "ps" : "0"
   },
   {
-    "pa" : "6500",
-    "ps" : "8000",
-    "pm" : "5000",
+    "bp" : "DMG 185-187",
     "name" : "Portable Hole",
-    "bp" : "DMG 185-187"
+    "pa" : "6500",
+    "pm" : "5000",
+    "ps" : "8000"
   },
   {
     "bp" : "XGE 138; IMR 95",
     "name" : "Pot of Awakening",
-    "ps" : "0",
     "pa" : "85",
-    "pm" : "85"
+    "pm" : "85",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "WBW 212",
     "name" : "Potion of Advantage",
-    "pm" : "125",
     "pa" : "125",
-    "bp" : "WBW 212"
+    "pm" : "125",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 187",
     "name" : "Potion of Animal Friendship",
     "pa" : "200",
-    "bp" : "DMG 187",
-    "ps" : "0",
-    "pm" : "200"
+    "pm" : "200",
+    "ps" : "0"
   },
   {
-    "pa" : "1000",
     "bp" : "MOT 197",
-    "ps" : "0",
     "name" : "Potion of Aqueous Form ",
-    "pm" : "1000"
+    "pa" : "1000",
+    "pm" : "1000",
+    "ps" : "0"
   },
   {
-    "ps" : "960",
-    "pm" : "900",
-    "name" : "Potion of Clairvoyance",
     "bp" : "DMG 187",
-    "pa" : "930"
+    "name" : "Potion of Clairvoyance",
+    "pa" : "930",
+    "pm" : "900",
+    "ps" : "960"
   },
   {
+    "bp" : "DMG 187",
+    "name" : "Potion of Climbing",
     "pa" : "105",
     "pm" : "30",
-    "bp" : "DMG 187",
-    "ps" : "180",
-    "name" : "Potion of Climbing"
+    "ps" : "180"
   },
   {
     "bp" : "WDMM 62",
-    "ps" : "0",
-    "pm" : "25",
     "name" : "Potion of Comprehension",
-    "pa" : "25"
+    "pa" : "25",
+    "pm" : "25",
+    "ps" : "0"
   },
   {
-    "pm" : "500",
     "bp" : "DMG 187",
-    "ps" : "270",
     "name" : "Potion of Diminution",
-    "pa" : "385"
+    "pa" : "385",
+    "pm" : "500",
+    "ps" : "270"
   },
   {
     "bp" : "FTD 24",
-    "pm" : "15000",
+    "name" : "Potion of Dragon’s Majesty ",
     "pa" : "15000",
-    "ps" : "0",
-    "name" : "Potion of Dragon’s Majesty "
+    "pm" : "15000",
+    "ps" : "0"
   },
   {
-    "pm" : "350",
-    "ps" : "150",
+    "bp" : "DMG 187",
     "name" : "Potion of Fire Breath",
     "pa" : "250",
-    "bp" : "DMG 187"
+    "pm" : "350",
+    "ps" : "150"
   },
   {
     "bp" : "DMG 187",
-    "pm" : "2500",
+    "name" : "Potion of Flying",
     "pa" : "1500",
-    "ps" : "500",
-    "name" : "Potion of Flying"
+    "pm" : "2500",
+    "ps" : "500"
   },
   {
-    "pm" : "1500",
-    "pa" : "900",
+    "bp" : "DMG 187",
     "name" : "Potion of Gaseous Form",
-    "ps" : "300",
-    "bp" : "DMG 187"
+    "pa" : "900",
+    "pm" : "1500",
+    "ps" : "300"
   },
   {
+    "bp" : "SKT 236",
     "name" : "Potion of Giant Size ",
-    "pm" : "11000",
-    "ps" : "0",
     "pa" : "11000",
-    "bp" : "SKT 236"
+    "pm" : "11000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "1800",
     "bp" : "DMG 187",
     "name" : "Potion of Giant Strength (Cloud) ",
-    "pm" : "1800"
+    "pa" : "1800",
+    "pm" : "1800",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "1200",
     "bp" : "DMG 187",
     "name" : "Potion of Giant Strength (Fire) ",
-    "pm" : "1200"
-  },
-  {
-    "name" : "Potion of Giant Strength (Frost\/Stone) ",
-    "bp" : "DMG 187",
-    "ps" : "0",
-    "pm" : "650",
-    "pa" : "650"
-  },
-  {
-    "pa" : "125",
-    "bp" : "DMG 187",
-    "pm" : "125",
-    "name" : "Potion of Giant Strength (Hill)",
+    "pa" : "1200",
+    "pm" : "1200",
     "ps" : "0"
   },
   {
-    "pm" : "8000",
-    "ps" : "0",
+    "bp" : "DMG 187",
+    "name" : "Potion of Giant Strength (Frost\/Stone) ",
+    "pa" : "650",
+    "pm" : "650",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 187",
+    "name" : "Potion of Giant Strength (Hill)",
+    "pa" : "125",
+    "pm" : "125",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 187",
     "name" : "Potion of Giant Strength (Storm) ",
     "pa" : "8000",
-    "bp" : "DMG 187"
-  },
-  {
-    "pm" : "0",
-    "name" : "Potion of Greater Healing",
-    "ps" : "150",
-    "pa" : "150",
-    "bp" : "187"
-  },
-  {
-    "name" : "Potion of Greater healing",
-    "bp" : "DMG 187-188",
-    "pm" : "300",
-    "ps" : "0",
-    "pa" : "300"
-  },
-  {
-    "bp" : "DMG 187",
-    "pm" : "300",
-    "ps" : "270",
-    "pa" : "285",
-    "name" : "Potion of Growth"
-  },
-  {
-    "pm" : "50",
-    "ps" : "0",
-    "pa" : "50",
-    "name" : "Potion of Healing",
-    "bp" : "DMG 187-188"
-  },
-  {
-    "pa" : "490",
-    "pm" : "800",
-    "bp" : "DMG 188",
-    "ps" : "180",
-    "name" : "Potion of Heroism"
-  },
-  {
-    "bp" : "DMG 188",
-    "pm" : "2000",
-    "name" : "Potion of Invisibility",
-    "ps" : "180",
-    "pa" : "1090"
-  },
-  {
-    "ps" : "3840",
-    "pm" : "1500",
-    "pa" : "2670",
-    "bp" : "DMG 188",
-    "name" : "Potion of Invulnerability"
-  },
-  {
-    "pa" : "6000",
-    "pm" : "3000",
-    "name" : "Potion of Longevity",
-    "ps" : "9000",
-    "bp" : "DMG 188"
-  },
-  {
-    "bp" : "PUN",
-    "ps" : "0",
-    "pm" : "300",
-    "pa" : "300",
-    "name" : "Potion of Maximum Power"
-  },
-  {
-    "pm" : "1600",
-    "name" : "Potion of Mind Control (beast) ",
-    "ps" : "0",
-    "bp" : "TYP 229",
-    "pa" : "1600"
-  },
-  {
-    "ps" : "0",
-    "pa" : "2500",
-    "pm" : "2500",
-    "name" : "Potion of Mind Control (humanoid) ",
-    "bp" : "TYP 229"
-  },
-  {
-    "pa" : "6000",
-    "bp" : "TYP 229",
-    "pm" : "6000",
-    "name" : "Potion of Mind Control (monster) ",
+    "pm" : "8000",
     "ps" : "0"
   },
   {
+    "bp" : "DMG 187",
+    "name" : "Potion of Greater Healing",
+    "pa" : "150",
+    "pm" : "0",
+    "ps" : "150"
+  },
+  {
+    "bp" : "DMG 187-188",
+    "name" : "Potion of Greater healing",
+    "pa" : "300",
+    "pm" : "300",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 187",
+    "name" : "Potion of Growth",
+    "pa" : "285",
+    "pm" : "300",
+    "ps" : "270"
+  },
+  {
+    "bp" : "DMG 187-188",
+    "name" : "Potion of Healing",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Heroism",
+    "pa" : "490",
+    "pm" : "800",
+    "ps" : "180"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Invisibility",
+    "pa" : "1090",
+    "pm" : "2000",
+    "ps" : "180"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Invulnerability",
+    "pa" : "2670",
+    "pm" : "1500",
+    "ps" : "3840"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Longevity",
+    "pa" : "6000",
+    "pm" : "3000",
+    "ps" : "9000"
+  },
+  {
+    "bp" : "PUN",
+    "name" : "Potion of Maximum Power",
+    "pa" : "300",
+    "pm" : "300",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
+    "name" : "Potion of Mind Control (beast) ",
+    "pa" : "1600",
+    "pm" : "1600",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
+    "name" : "Potion of Mind Control (humanoid) ",
+    "pa" : "2500",
+    "pm" : "2500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
+    "name" : "Potion of Mind Control (monster) ",
+    "pa" : "6000",
+    "pm" : "6000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Mind Reading",
     "pa" : "640",
     "pm" : "1100",
-    "name" : "Potion of Mind Reading",
-    "ps" : "180",
-    "bp" : "DMG 188"
+    "ps" : "180"
   },
   {
     "bp" : "DMG 188",
-    "pm" : "500",
-    "ps" : "100",
     "name" : "Potion of Poison",
-    "pa" : "300"
+    "pa" : "300",
+    "pm" : "500",
+    "ps" : "100"
   },
   {
-    "pm" : "500",
-    "ps" : "300",
     "bp" : "DMG 188",
     "name" : "Potion of Resistance",
-    "pa" : "400"
+    "pa" : "400",
+    "pm" : "500",
+    "ps" : "300"
   },
   {
-    "ps" : "400",
+    "bp" : "DMG 188",
+    "name" : "Potion of Speed",
     "pa" : "1200",
-    "bp" : "DMG 188",
     "pm" : "2000",
-    "name" : "Potion of Speed"
+    "ps" : "400"
   },
   {
-    "bp" : "187",
-    "pm" : "0",
+    "bp" : "DMG 187",
+    "name" : "Potion of Superior Healing",
     "pa" : "450",
-    "ps" : "450",
-    "name" : "Potion of Superior Healing"
-  },
-  {
-    "name" : "Potion of Superior healing ",
-    "ps" : "0",
-    "pm" : "750",
-    "pa" : "750",
-    "bp" : "DMG 187-188"
-  },
-  {
-    "name" : "Potion of Supreme Healing",
-    "ps" : "1350",
-    "bp" : "DMG 187-188",
-    "pm" : "1500",
-    "pa" : "1425"
-  },
-  {
-    "name" : "Potion of Vitality",
-    "ps" : "960",
-    "bp" : "DMG 188",
-    "pm" : "1800",
-    "pa" : "1380"
-  },
-  {
-    "pa" : "35",
-    "ps" : "0",
-    "pm" : "35",
-    "bp" : "WDMM 62",
-    "name" : "Potion of Watchful Rest"
-  },
-  {
-    "bp" : "188",
     "pm" : "0",
-    "ps" : "180",
-    "name" : "Potion of Water Breathing",
-    "pa" : "180"
+    "ps" : "450"
+  },
+  {
+    "bp" : "DMG 187-188",
+    "name" : "Potion of Superior healing ",
+    "pa" : "750",
+    "pm" : "750",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 187-188",
+    "name" : "Potion of Supreme Healing",
+    "pa" : "1425",
+    "pm" : "1500",
+    "ps" : "1350"
   },
   {
     "bp" : "DMG 188",
-    "pm" : "400",
-    "ps" : "0",
-    "name" : "Potion of Waterbreathing",
-    "pa" : "400"
+    "name" : "Potion of Vitality",
+    "pa" : "1380",
+    "pm" : "1800",
+    "ps" : "960"
   },
   {
-    "pm" : "1900",
-    "pa" : "1900",
-    "name" : "Potion of possibility",
+    "bp" : "WDMM 62",
+    "name" : "Potion of Watchful Rest",
+    "pa" : "35",
+    "pm" : "35",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Water Breathing",
+    "pa" : "180",
+    "pm" : "0",
+    "ps" : "180"
+  },
+  {
+    "bp" : "DMG 188",
+    "name" : "Potion of Waterbreathing",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
+  },
+  {
     "bp" : "PUN",
+    "name" : "Potion of possibility",
+    "pa" : "1900",
+    "pm" : "1900",
     "ps" : "0"
   },
   {
     "bp" : "LLK 56",
+    "name" : "Powered Armor (plate)",
     "pa" : "30000",
-    "ps" : "0",
     "pm" : "30000",
-    "name" : "Powered Armor (plate)"
+    "ps" : "0"
   },
   {
-    "bp" : "182",
-    "pm" : "0",
-    "ps" : "2000",
+    "bp" : "DMG 182",
+    "name" : "Prayer Bead - Bless",
     "pa" : "2000",
-    "name" : "Prayer Bead - Bless"
+    "pm" : "0",
+    "ps" : "2000"
   },
   {
-    "ps" : "4000",
+    "bp" : "DMG 182",
     "name" : "Prayer Bead - Curing",
+    "pa" : "4000",
     "pm" : "0",
-    "bp" : "182",
-    "pa" : "4000"
+    "ps" : "4000"
   },
   {
-    "ps" : "32000",
+    "bp" : "DMG 182",
+    "name" : "Prayer Bead - Favor",
     "pa" : "32000",
-    "bp" : "182",
     "pm" : "0",
-    "name" : "Prayer Bead - Favor"
+    "ps" : "32000"
   },
   {
-    "ps" : "1500",
-    "pm" : "0",
+    "bp" : "DMG 182",
     "name" : "Prayer Bead - Smiting",
-    "bp" : "182",
-    "pa" : "1500"
+    "pa" : "1500",
+    "pm" : "0",
+    "ps" : "1500"
   },
   {
-    "pa" : "128000",
-    "bp" : "182",
-    "pm" : "0",
+    "bp" : "DMG 182",
     "name" : "Prayer Bead - Summons",
+    "pa" : "128000",
+    "pm" : "0",
     "ps" : "128000"
   },
   {
-    "pm" : "0",
-    "bp" : "182",
+    "bp" : "DMG 182",
     "name" : "Prayer Bead - Wind Walking",
     "pa" : "96000",
+    "pm" : "0",
     "ps" : "96000"
   },
   {
     "bp" : "GS 229",
+    "name" : "Pressure Capsule",
     "pa" : "25",
     "pm" : "25",
-    "ps" : "0",
-    "name" : "Pressure Capsule"
+    "ps" : "0"
   },
   {
+    "bp" : "SCC 39",
+    "name" : "Prismari Primer",
     "pa" : "300",
     "pm" : "300",
-    "ps" : "0",
-    "bp" : "SCC 39",
-    "name" : "Prismari Primer"
+    "ps" : "0"
   },
   {
-    "name" : "Professor Orb",
     "bp" : "IDRF 315",
+    "name" : "Professor Orb",
+    "pa" : "4000",
     "pm" : "4000",
-    "ps" : "0",
-    "pa" : "4000"
+    "ps" : "0"
   },
   {
-    "pm" : "250",
-    "ps" : "0",
-    "pa" : "250",
     "bp" : "WDMM 251",
-    "name" : "Propeller Helm"
+    "name" : "Propeller Helm",
+    "pa" : "250",
+    "pm" : "250",
+    "ps" : "0"
   },
   {
-    "pm" : "100",
-    "name" : "Prosthetic Limb",
     "bp" : "ERLW 278; TCE 134",
-    "ps" : "0",
-    "pa" : "100"
+    "name" : "Prosthetic Limb",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
   },
   {
     "bp" : "TCE 134",
-    "pm" : "3500",
-    "ps" : "0",
     "name" : "Protective Verses",
-    "pa" : "3500"
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "IDRF 315",
     "name" : "Psi Crystal",
     "pa" : "500",
-    "pm" : "500"
+    "pm" : "500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "GGR 180",
     "name" : "Pyroconverger",
+    "pa" : "250",
     "pm" : "250",
-    "pa" : "250"
+    "ps" : "0"
   },
   {
-    "pm" : "25000",
-    "ps" : "0",
     "bp" : "MOT 197",
     "name" : "Pyxis of Pandemonium",
-    "pa" : "25000"
+    "pa" : "25000",
+    "pm" : "25000",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 188-189",
     "name" : "Quaal's Feather Token",
     "pa" : "1000",
-    "bp" : "DMG 188-189",
-    "ps" : "0",
-    "pm" : "1000"
+    "pm" : "1000",
+    "ps" : "0"
   },
   {
-    "ps" : "50",
-    "pm" : "0",
+    "bp" : "DMG 188",
     "name" : "Quaal's Feather Token Anchor",
-    "bp" : "188",
-    "pa" : "50"
+    "pa" : "50",
+    "pm" : "0",
+    "ps" : "50"
   },
   {
+    "bp" : "DMG 188",
     "name" : "Quaal's Feather Token Bird",
     "pa" : "3000",
-    "ps" : "3000",
     "pm" : "0",
-    "bp" : "188"
+    "ps" : "3000"
   },
   {
-    "ps" : "250",
-    "pm" : "0",
+    "bp" : "DMG 188",
+    "name" : "Quaal's Feather Token Fan",
     "pa" : "250",
-    "bp" : "188",
-    "name" : "Quaal's Feather Token Fan"
+    "pm" : "0",
+    "ps" : "250"
   },
   {
+    "bp" : "DMG 188",
+    "name" : "Quaal's Feather Token Swan Boat",
     "pa" : "3000",
     "pm" : "0",
-    "name" : "Quaal's Feather Token Swan Boat",
-    "ps" : "3000",
-    "bp" : "188"
+    "ps" : "3000"
   },
   {
-    "ps" : "250",
+    "bp" : "DMG 188",
     "name" : "Quaal's Feather Token Whip",
+    "pa" : "250",
     "pm" : "0",
-    "bp" : "188",
-    "pa" : "250"
+    "ps" : "250"
   },
   {
-    "pm" : "300",
-    "ps" : "0",
     "bp" : "SCC 39",
+    "name" : "Quandrix Primer",
     "pa" : "300",
-    "name" : "Quandrix Primer"
+    "pm" : "300",
+    "ps" : "0"
   },
   {
-    "pm" : "250",
-    "ps" : "1000",
+    "bp" : "DMG 189",
     "name" : "Quiver of Ehlonna",
     "pa" : "625",
-    "bp" : "DMG 189"
+    "pm" : "250",
+    "ps" : "1000"
   },
   {
+    "bp" : "GGR 178",
     "name" : "Rakdos Keyrune",
     "pa" : "400",
-    "ps" : "0",
     "pm" : "400",
-    "bp" : "GGR 178"
+    "ps" : "0"
   },
   {
     "bp" : "GGR 180",
-    "pm" : "60000",
-    "ps" : "0",
+    "name" : "Rakdos Riteknife (dagger)",
     "pa" : "60000",
-    "name" : "Rakdos Riteknife (dagger)"
+    "pm" : "60000",
+    "ps" : "0"
   },
   {
-    "pm" : "4250",
+    "bp" : "TCE 134",
     "name" : "Reveler's Concertina",
     "pa" : "4250",
-    "ps" : "0",
-    "bp" : "TCE 134"
+    "pm" : "4250",
+    "ps" : "0"
   },
   {
-    "ps" : "35000",
-    "bp" : "190",
-    "pm" : "0",
+    "bp" : "DMG 190",
     "name" : "Ring of Air Elemental Command",
-    "pa" : "35000"
+    "pa" : "35000",
+    "pm" : "0",
+    "ps" : "35000"
   },
   {
     "bp" : "DMG 189",
     "name" : "Ring of Animal Influence",
-    "ps" : "4000",
+    "pa" : "2500",
     "pm" : "1000",
-    "pa" : "2500"
+    "ps" : "4000"
   },
   {
-    "pa" : "125000",
+    "bp" : "DMG 190",
     "name" : "Ring of Djinni Summoning",
-    "ps" : "0",
+    "pa" : "125000",
     "pm" : "125000",
-    "bp" : "DMG 190"
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 190",
     "name" : "Ring of Earth Elemental Command",
-    "pm" : "0",
-    "ps" : "31000",
     "pa" : "31000",
-    "bp" : "190"
+    "pm" : "0",
+    "ps" : "31000"
   },
   {
-    "ps" : "0",
-    "pm" : "200000",
+    "bp" : "DMG 190",
     "name" : "Ring of Elemental Command",
     "pa" : "200000",
-    "bp" : "DMG 190"
+    "pm" : "200000",
+    "ps" : "0"
   },
   {
-    "ps" : "5000",
-    "pm" : "4900",
     "bp" : "DMG 191",
     "name" : "Ring of Evasion",
-    "pa" : "4950"
+    "pa" : "4950",
+    "pm" : "4900",
+    "ps" : "5000"
   },
   {
     "bp" : "DMG 191",
-    "pm" : "2200",
-    "ps" : "2000",
     "name" : "Ring of Feather Falling",
-    "pa" : "2100"
+    "pa" : "2100",
+    "pm" : "2200",
+    "ps" : "2000"
   },
   {
+    "bp" : "DMG 190",
     "name" : "Ring of Fire Elemental Command",
-    "pm" : "0",
-    "ps" : "17000",
     "pa" : "17000",
-    "bp" : "190"
+    "pm" : "0",
+    "ps" : "17000"
   },
   {
     "bp" : "DMG 191",
-    "pm" : "4500",
-    "ps" : "20000",
+    "name" : "Ring of Free Action",
     "pa" : "12250",
-    "name" : "Ring of Free Action"
+    "pm" : "4500",
+    "ps" : "20000"
   },
   {
-    "ps" : "10000",
-    "pa" : "42500",
-    "name" : "Ring of Invisibility",
     "bp" : "DMG 191",
-    "pm" : "75000"
+    "name" : "Ring of Invisibility",
+    "pa" : "42500",
+    "pm" : "75000",
+    "ps" : "10000"
   },
   {
-    "ps" : "2500",
+    "bp" : "DMG 191",
+    "name" : "Ring of Jumping",
     "pa" : "1375",
     "pm" : "250",
-    "bp" : "DMG 191",
-    "name" : "Ring of Jumping"
+    "ps" : "2500"
   },
   {
-    "pm" : "600",
-    "pa" : "600",
-    "ps" : "0",
+    "bp" : "PUN",
     "name" : "Ring of Mind Shielding",
-    "bp" : "PUN"
+    "pa" : "600",
+    "pm" : "600",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 191",
     "name" : "Ring of Protection",
     "pa" : "3250",
-    "ps" : "3500",
+    "pm" : "3000",
+    "ps" : "3500"
+  },
+  {
     "bp" : "DMG 191",
-    "pm" : "3000"
-  },
-  {
     "name" : "Ring of Regeneration",
-    "ps" : "12000",
-    "pm" : "40000",
     "pa" : "26000",
-    "bp" : "DMG 191"
+    "pm" : "40000",
+    "ps" : "12000"
   },
   {
+    "bp" : "DMG 192",
     "name" : "Ring of Resistance",
-    "pm" : "3500",
-    "ps" : "6000",
     "pa" : "4750",
-    "bp" : "DMG 192"
+    "pm" : "3500",
+    "ps" : "6000"
   },
   {
     "bp" : "DMG 192",
-    "pa" : "17000",
     "name" : "Ring of Shooting Stars",
-    "ps" : "14000",
-    "pm" : "20000"
+    "pa" : "17000",
+    "pm" : "20000",
+    "ps" : "14000"
   },
   {
-    "pm" : "3600",
-    "name" : "Ring of Spell Storing",
     "bp" : "DMG 192",
+    "name" : "Ring of Spell Storing",
     "pa" : "13800",
+    "pm" : "3600",
     "ps" : "24000"
   },
   {
-    "ps" : "30000",
-    "pm" : "66000",
+    "bp" : "DMG 193",
     "name" : "Ring of Spell Turning",
     "pa" : "48000",
-    "bp" : "DMG 193"
+    "pm" : "66000",
+    "ps" : "30000"
   },
   {
-    "pm" : "300",
     "bp" : "DMG 193",
-    "ps" : "3000",
     "name" : "Ring of Swimming",
-    "pa" : "1650"
+    "pa" : "1650",
+    "pm" : "300",
+    "ps" : "3000"
   },
   {
-    "ps" : "80000",
+    "bp" : "DMG 193",
     "name" : "Ring of Telekinesis",
-    "pm" : "25000",
     "pa" : "52500",
-    "bp" : "DMG 193"
+    "pm" : "25000",
+    "ps" : "80000"
   },
   {
-    "pa" : "97950",
+    "bp" : "DMG 193",
     "name" : "Ring of Three Wishes",
+    "pa" : "97950",
     "pm" : "97950",
-    "ps" : "0",
-    "bp" : "DMG 193"
+    "ps" : "0"
   },
   {
     "bp" : "WDH 192",
-    "pm" : "150",
-    "ps" : "0",
+    "name" : "Ring of Truth Telling",
     "pa" : "150",
-    "name" : "Ring of Truth Telling"
+    "pm" : "150",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 193",
-    "pm" : "480",
-    "ps" : "1000",
     "name" : "Ring of Warmth",
-    "pa" : "740"
+    "pa" : "740",
+    "pm" : "480",
+    "ps" : "1000"
   },
   {
-    "bp" : "191",
+    "bp" : "DMG 191",
     "name" : "Ring of Water Elemental Command",
     "pa" : "25000",
     "pm" : "0",
     "ps" : "25000"
   },
   {
+    "bp" : "DMG 193",
     "name" : "Ring of Water Walking",
+    "pa" : "1000",
     "pm" : "500",
-    "bp" : "DMG 193",
-    "ps" : "1500",
-    "pa" : "1000"
+    "ps" : "1500"
   },
   {
     "bp" : "DMG 193",
-    "ps" : "6000",
-    "pm" : "3500",
     "name" : "Ring of X-Ray Vision",
-    "pa" : "4750"
+    "pa" : "4750",
+    "pm" : "3500",
+    "ps" : "6000"
   },
   {
-    "pm" : "4000",
-    "ps" : "5000",
     "bp" : "DMG 193",
+    "name" : "Ring of the Ram",
     "pa" : "4500",
-    "name" : "Ring of the Ram"
+    "pm" : "4000",
+    "ps" : "5000"
   },
   {
-    "pm" : "5000",
-    "ps" : "30000",
     "bp" : "DMG 193-194",
     "name" : "Robe of Eyes",
-    "pa" : "17500"
+    "pa" : "17500",
+    "pm" : "5000",
+    "ps" : "30000"
   },
   {
+    "bp" : "DMG 194",
     "name" : "Robe of Scintillating Colors",
     "pa" : "16500",
-    "bp" : "DMG 194",
-    "ps" : "6000",
-    "pm" : "27000"
+    "pm" : "27000",
+    "ps" : "6000"
   },
   {
-    "pm" : "375",
+    "bp" : "SKT 236",
     "name" : "Robe of Serpents",
     "pa" : "375",
-    "bp" : "SKT 236",
+    "pm" : "375",
     "ps" : "0"
   },
   {
-    "pm" : "45000",
-    "ps" : "60000",
     "bp" : "DMG 194",
     "name" : "Robe of Stars",
-    "pa" : "52500"
+    "pa" : "52500",
+    "pm" : "45000",
+    "ps" : "60000"
   },
   {
-    "name" : "Robe of Summer",
-    "ps" : "0",
-    "pa" : "2900",
     "bp" : "TYP 229",
-    "pm" : "2900"
+    "name" : "Robe of Summer",
+    "pa" : "2900",
+    "pm" : "2900",
+    "ps" : "0"
   },
   {
-    "ps" : "Items * 5",
-    "pm" : "400",
+    "bp" : "DMG 195",
     "name" : "Robe of Useful Items",
     "pa" : "200",
-    "bp" : "DMG 195"
+    "pm" : "400",
+    "ps" : "Items * 5"
   },
   {
-    "pa" : "54500",
     "bp" : "DMG 194",
-    "ps" : "34000",
     "name" : "Robe of the Archmagi",
-    "pm" : "75000"
+    "pa" : "54500",
+    "pm" : "75000",
+    "ps" : "34000"
   },
   {
-    "ps" : "50000",
-    "pm" : "48000",
-    "name" : "Rod of Absorption",
     "bp" : "DMG 195",
-    "pa" : "49000"
+    "name" : "Rod of Absorption",
+    "pa" : "49000",
+    "pm" : "48000",
+    "ps" : "50000"
   },
   {
+    "bp" : "DMG 196",
     "name" : "Rod of Alertness",
-    "bp" : "DMG 196",
+    "pa" : "18000",
     "pm" : "11000",
-    "ps" : "25000",
-    "pa" : "18000"
+    "ps" : "25000"
   },
   {
     "bp" : "DMG 196",
-    "pm" : "70000",
-    "ps" : "28000",
     "name" : "Rod of Lordly Might",
-    "pa" : "49000"
+    "pa" : "49000",
+    "pm" : "70000",
+    "ps" : "28000"
   },
   {
     "bp" : "DMG 197",
     "name" : "Rod of Resurrection",
-    "ps" : "0",
+    "pa" : "125000",
     "pm" : "125000",
-    "pa" : "125000"
-  },
-  {
-    "ps" : "16000",
-    "pm" : "3600",
-    "pa" : "9800",
-    "bp" : "DMG 197",
-    "name" : "Rod of Rulership"
-  },
-  {
-    "ps" : "90000",
-    "name" : "Rod of Security",
-    "pm" : "45000",
-    "bp" : "DMG 197",
-    "pa" : "67500"
-  },
-  {
-    "pa" : "500",
-    "bp" : "DMG 197",
-    "pm" : "500",
-    "ps" : "0",
-    "name" : "Rod of the Pact Keeper (+1)"
-  },
-  {
-    "pa" : "4000",
-    "pm" : "4000",
-    "name" : "Rod of the Pact Keeper (+2)",
-    "bp" : "DMG 197",
     "ps" : "0"
   },
   {
-    "pa" : "17000",
-    "ps" : "0",
-    "pm" : "17000",
     "bp" : "DMG 197",
-    "name" : "Rod of the Pact Keeper (+3)"
+    "name" : "Rod of Rulership",
+    "pa" : "9800",
+    "pm" : "3600",
+    "ps" : "16000"
   },
   {
-    "ps" : "12000",
+    "bp" : "DMG 197",
+    "name" : "Rod of Security",
+    "pa" : "67500",
+    "pm" : "45000",
+    "ps" : "90000"
+  },
+  {
+    "bp" : "DMG 197",
     "name" : "Rod of the Pact Keeper +1",
-    "pm" : "0",
-    "bp" : "197",
-    "pa" : "12000"
+    "pa" : "6250",
+    "pm" : "500",
+    "ps" : "12000"
   },
   {
-    "pa" : "16000",
-    "ps" : "16000",
-    "pm" : "0",
+    "bp" : "DMG 197",
     "name" : "Rod of the Pact Keeper +2",
-    "bp" : "197"
+    "pa" : "10000",
+    "pm" : "4000",
+    "ps" : "16000"
   },
   {
+    "bp" : "DMG 197",
     "name" : "Rod of the Pact Keeper +3",
-    "pm" : "0",
-    "pa" : "28000",
-    "bp" : "197",
+    "pa" : "22500",
+    "pm" : "17000",
     "ps" : "28000"
   },
   {
-    "name" : "Rod of the Vonindod",
-    "ps" : "0",
-    "pa" : "3400",
     "bp" : "SKT 236",
-    "pm" : "3400"
+    "name" : "Rod of the Vonindod",
+    "pa" : "3400",
+    "pm" : "3400",
+    "ps" : "0"
   },
   {
-    "name" : "Rope of Climbing",
     "bp" : "DMG 197",
+    "name" : "Rope of Climbing",
     "pa" : "1175",
     "pm" : "350",
     "ps" : "2000"
   },
   {
-    "name" : "Rope of Entanglement",
     "bp" : "DMG 197-199",
-    "ps" : "4000",
+    "name" : "Rope of Entanglement",
+    "pa" : "2500",
     "pm" : "1000",
-    "pa" : "2500"
+    "ps" : "4000"
   },
   {
+    "bp" : "XGE 138",
     "name" : "Rope of Mending",
-    "pm" : "50",
     "pa" : "50",
-    "ps" : "0",
-    "bp" : "XGE 138"
+    "pm" : "50",
+    "ps" : "0"
   },
   {
-    "pa" : "30000",
-    "name" : "Ruby Weave Gem",
     "bp" : "FTD 24",
+    "name" : "Ruby Weave Gem",
+    "pa" : "30000",
     "pm" : "30000",
     "ps" : "0"
   },
   {
-    "name" : "Ruby of the War Mage",
     "bp" : "XGE 138",
+    "name" : "Ruby of the War Mage",
     "pa" : "100",
     "pm" : "100",
     "ps" : "0"
   },
   {
-    "pm" : "17000",
     "bp" : "IMR 95",
     "name" : "Ruinblade (greatsword)",
-    "ps" : "0",
-    "pa" : "17000"
+    "pa" : "17000",
+    "pm" : "17000",
+    "ps" : "0"
   },
   {
-    "name" : "Saddle of the Cavalier",
-    "ps" : "2000",
-    "pa" : "1125",
     "bp" : "DMG 199",
-    "pm" : "250"
+    "name" : "Saddle of the Cavalier",
+    "pa" : "1125",
+    "pm" : "250",
+    "ps" : "2000"
   },
   {
-    "name" : "Sapphire Buckler",
-    "pm" : "9000",
     "bp" : "FTD 24",
-    "ps" : "0",
-    "pa" : "9000"
+    "name" : "Sapphire Buckler",
+    "pa" : "9000",
+    "pm" : "9000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "FTD 27",
+    "name" : "Scaled Ornament (Ascendant)",
     "pa" : "20000",
     "pm" : "20000",
-    "name" : "Scaled Ornament (Ascendant)"
+    "ps" : "0"
   },
   {
     "bp" : "FTD 27",
     "name" : "Scaled Ornament (Slumbering)",
-    "pm" : "200",
     "pa" : "200",
+    "pm" : "200",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "4000",
     "bp" : "FTD 27",
+    "name" : "Scaled Ornament (Stirring)",
     "pa" : "4000",
-    "name" : "Scaled Ornament (Stirring)"
-  },
-  {
-    "pa" : "8000",
-    "bp" : "FTD 27",
-    "ps" : "0",
-    "pm" : "8000",
-    "name" : "Scaled Ornament (Wakened)"
-  },
-  {
-    "pm" : "58000",
-    "name" : "Scarab of Protection",
-    "bp" : "DMG 199",
-    "ps" : "36000",
-    "pa" : "47000"
-  },
-  {
-    "ps" : "6000",
-    "bp" : "DMG 199",
-    "pa" : "6750",
-    "name" : "Scimitar of Speed",
-    "pm" : "7500"
-  },
-  {
-    "name" : "Scissors of Shadow Snipping",
-    "pm" : "750",
-    "pa" : "750",
-    "bp" : "WBW 213",
+    "pm" : "4000",
     "ps" : "0"
   },
   {
-    "name" : "Scorpion Armor (plate)",
+    "bp" : "FTD 27",
+    "name" : "Scaled Ornament (Wakened)",
+    "pa" : "8000",
+    "pm" : "8000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 199",
+    "name" : "Scarab of Protection",
+    "pa" : "47000",
+    "pm" : "58000",
+    "ps" : "36000"
+  },
+  {
+    "bp" : "DMG 199",
+    "name" : "Scimitar of Speed",
+    "pa" : "6750",
+    "pm" : "7500",
+    "ps" : "6000"
+  },
+  {
+    "bp" : "WBW 213",
+    "name" : "Scissors of Shadow Snipping",
+    "pa" : "750",
+    "pm" : "750",
+    "ps" : "0"
+  },
+  {
     "bp" : "TA 208",
+    "name" : "Scorpion Armor (plate)",
     "pa" : "2100",
     "pm" : "2100",
     "ps" : "0"
   },
   {
-    "name" : "Scribe's Pen",
     "bp" : "ERLW 278-279",
+    "name" : "Scribe's Pen",
     "pa" : "60",
-    "ps" : "0",
-    "pm" : "60"
+    "pm" : "60",
+    "ps" : "0"
   },
   {
-    "pa" : "1840",
-    "ps" : "180",
     "bp" : "DMG 199",
     "name" : "Scroll of Protection",
-    "pm" : "3500"
+    "pa" : "1840",
+    "pm" : "3500",
+    "ps" : "180"
   },
   {
-    "ps" : "0",
-    "pm" : "150000",
+    "bp" : "IDRF 315",
     "name" : "Scroll of Tarrasque Summoning",
     "pa" : "150000",
-    "bp" : "IDRF 315"
+    "pm" : "150000",
+    "ps" : "0"
   },
   {
+    "bp" : "IDRF 315-316",
     "name" : "Scroll of the Comet",
-    "pm" : "250000",
-    "ps" : "0",
     "pa" : "250000",
-    "bp" : "IDRF 315-316"
+    "pm" : "250000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "PA 223",
     "name" : "Seeker Dart",
+    "pa" : "100",
     "pm" : "100",
-    "pa" : "100"
+    "ps" : "0"
   },
   {
-    "pa" : "50",
     "bp" : "GS 229",
+    "name" : "Sekolahian Worshipping Statuette",
+    "pa" : "50",
     "pm" : "50",
-    "ps" : "0",
-    "name" : "Sekolahian Worshipping Statuette"
+    "ps" : "0"
   },
   {
     "bp" : "GGR 178",
-    "ps" : "0",
     "name" : "Selesnya Keyrune",
+    "pa" : "1500",
     "pm" : "1500",
-    "pa" : "1500"
+    "ps" : "0"
   },
   {
-    "pa" : "1250",
-    "ps" : "2000",
     "bp" : "DMG 199",
     "name" : "Sending Stones",
-    "pm" : "500"
+    "pa" : "1250",
+    "pm" : "500",
+    "ps" : "2000"
   },
   {
-    "pm" : "300",
+    "bp" : "DMG 199",
     "name" : "Sentinel Shield",
     "pa" : "10150",
-    "bp" : "DMG 199",
+    "pm" : "300",
     "ps" : "20000"
   },
   {
-    "ps" : "8000",
-    "bp" : "170",
-    "pm" : "0",
+    "bp" : "DMG 170",
     "name" : "Serpentine Owl",
-    "pa" : "8000"
+    "pa" : "8000",
+    "pm" : "0",
+    "ps" : "8000"
   },
   {
     "bp" : "TCE 134-135",
-    "ps" : "0",
     "name" : "Shadowfell Brand Tattoo",
+    "pa" : "1100",
     "pm" : "1100",
-    "pa" : "1100"
-  },
-  {
-    "pa" : "600",
-    "name" : "Shadowfell Shard",
-    "pm" : "600",
-    "bp" : "TCE 135",
     "ps" : "0"
   },
   {
-    "name" : "Shard of the Ise Rune",
-    "bp" : "SKT 236",
-    "ps" : "0",
-    "pm" : "9000",
-    "pa" : "9000"
+    "bp" : "TCE 135",
+    "name" : "Shadowfell Shard",
+    "pa" : "600",
+    "pm" : "600",
+    "ps" : "0"
   },
   {
+    "bp" : "SKT 236",
+    "name" : "Shard of the Ise Rune",
+    "pa" : "9000",
+    "pm" : "9000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
     "name" : "Shatterspike (longsword)",
     "pa" : "550",
-    "ps" : "0",
-    "bp" : "TYP 229",
-    "pm" : "550"
+    "pm" : "550",
+    "ps" : "0"
   },
   {
-    "pm" : "50",
-    "ps" : "0",
+    "bp" : "XGE 139",
     "name" : "Shield of Expression",
     "pa" : "50",
-    "bp" : "XGE 139"
+    "pm" : "50",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "VGM 81",
     "name" : "Shield of Far Sight",
     "pa" : "750",
-    "bp" : "VGM 81",
-    "pm" : "750"
+    "pm" : "750",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 200",
-    "ps" : "6000",
     "name" : "Shield of Missile Attraction",
     "pa" : "3500",
-    "pm" : "1000"
+    "pm" : "1000",
+    "ps" : "6000"
   },
   {
-    "pm" : "86000",
-    "pa" : "86000",
-    "ps" : "0",
+    "bp" : "BGDA 225",
     "name" : "Shield of the Hidden Lord",
-    "bp" : "BGDA 225"
+    "pa" : "86000",
+    "pm" : "86000",
+    "ps" : "0"
   },
   {
-    "pa" : "11000",
     "bp" : "WDMM 299",
     "name" : "Shield of the Uven Rune",
-    "ps" : "0",
-    "pm" : "11000"
+    "pa" : "11000",
+    "pm" : "11000",
+    "ps" : "0"
   },
   {
-    "pa" : "100",
-    "ps" : "0",
-    "pm" : "100",
     "bp" : "ERLW 279",
-    "name" : "Shiftweave"
+    "name" : "Shiftweave",
+    "pa" : "100",
+    "pm" : "100",
+    "ps" : "0"
   },
   {
-    "ps" : "5600",
-    "pa" : "5600",
+    "bp" : "DMG 175",
     "name" : "Silver Horn of Valhalla",
-    "bp" : "175",
-    "pm" : "0"
-  },
-  {
+    "pa" : "5600",
     "pm" : "0",
-    "ps" : "5000",
+    "ps" : "5600"
+  },
+  {
+    "bp" : "DMG 170",
     "name" : "Silver Raven",
-    "bp" : "170",
-    "pa" : "5000"
+    "pa" : "5000",
+    "pm" : "0",
+    "ps" : "5000"
   },
   {
-    "pa" : "16000",
     "bp" : "MTF 89",
+    "name" : "Silver Sword (greatsword)",
+    "pa" : "16000",
     "pm" : "16000",
-    "ps" : "0",
-    "name" : "Silver Sword (greatsword)"
+    "ps" : "0"
   },
   {
-    "pm" : "300",
-    "ps" : "0",
-    "name" : "Silverquill Primer",
     "bp" : "SCC 39",
-    "pa" : "300"
+    "name" : "Silverquill Primer",
+    "pa" : "300",
+    "pm" : "300",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "500",
-    "pa" : "500",
+    "bp" : "GGR 178",
     "name" : "Simic Keyrune",
-    "bp" : "GGR 178"
-  },
-  {
-    "name" : "Siren Song Lyre",
-    "pm" : "650",
-    "bp" : "MOT 198",
-    "pa" : "650",
-    "ps" : "0"
-  },
-  {
-    "bp" : "SKT 234",
-    "pm" : "2600",
-    "ps" : "0",
-    "pa" : "2600",
-    "name" : "Skold Rune Shield"
-  },
-  {
-    "pm" : "500",
-    "name" : "Skold Rune Weapon (any two-handed melee weapon)",
-    "bp" : "SKT 234",
     "pa" : "500",
+    "pm" : "500",
     "ps" : "0"
   },
   {
-    "name" : "Skyblinder Staff",
+    "bp" : "MOT 198",
+    "name" : "Siren Song Lyre",
+    "pa" : "650",
+    "pm" : "650",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 234",
+    "name" : "Skold Rune Shield",
+    "pa" : "2600",
+    "pm" : "2600",
+    "ps" : "0"
+  },
+  {
+    "bp" : "SKT 234",
+    "name" : "Skold Rune Weapon (any two-handed melee weapon)",
+    "pa" : "500",
+    "pm" : "500",
+    "ps" : "0"
+  },
+  {
     "bp" : "GGR 181",
-    "ps" : "0",
+    "name" : "Skyblinder Staff",
+    "pa" : "375",
     "pm" : "375",
-    "pa" : "375"
+    "ps" : "0"
   },
   {
-    "pm" : "5500",
-    "pa" : "5500",
-    "ps" : "0",
+    "bp" : "MOT 198",
     "name" : "Sling Bullets of Althemone ",
-    "bp" : "MOT 198"
+    "pa" : "5500",
+    "pm" : "5500",
+    "ps" : "0"
   },
   {
-    "name" : "Slippers of Spider Climbing",
     "bp" : "DMG 200",
+    "name" : "Slippers of Spider Climbing",
     "pa" : "2750",
     "pm" : "500",
     "ps" : "5000"
   },
   {
+    "bp" : "WDH 192",
     "name" : "Smokepowder",
     "pa" : "325",
-    "ps" : "0",
     "pm" : "325",
-    "bp" : "WDH 192"
-  },
-  {
-    "bp" : "XGE 139",
-    "pa" : "75",
-    "pm" : "75",
-    "ps" : "0",
-    "name" : "Smoldering Armor (light medium or heavy)"
-  },
-  {
-    "pm" : "80000",
-    "name" : "Snicker-Snack (greatsword)",
-    "pa" : "80000",
-    "ps" : "0",
-    "bp" : "WBW 213"
-  },
-  {
-    "bp" : "BGDA 225",
-    "pa" : "250",
-    "ps" : "0",
-    "pm" : "250",
-    "name" : "Soul Coin"
-  },
-  {
-    "name" : "Sovereign Glue",
-    "pa" : "2700",
-    "bp" : "DMG 200",
-    "ps" : "400",
-    "pm" : "5000"
-  },
-  {
-    "ps" : "0",
-    "bp" : "ERLW 279",
-    "pa" : "5000",
-    "pm" : "5000",
-    "name" : "Speaking Stone"
-  },
-  {
-    "pa" : "6500",
-    "bp" : "TYP 229",
-    "pm" : "6500",
-    "name" : "Spear of Backbiting (spear or javelin)",
     "ps" : "0"
   },
   {
-    "pm" : "350",
-    "bp" : "OA 223; IMR 95",
-    "ps" : "0",
-    "name" : "Spell Gem (1st Level)",
-    "pa" : "350"
+    "bp" : "XGE 139",
+    "name" : "Smoldering Armor (light medium or heavy)",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
   },
   {
-    "pm" : "1500",
-    "ps" : "0",
+    "bp" : "WBW 213",
+    "name" : "Snicker-Snack (greatsword)",
+    "pa" : "80000",
+    "pm" : "80000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "BGDA 225",
+    "name" : "Soul Coin",
+    "pa" : "250",
+    "pm" : "250",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 200",
+    "name" : "Sovereign Glue",
+    "pa" : "2700",
+    "pm" : "5000",
+    "ps" : "400"
+  },
+  {
+    "bp" : "ERLW 279",
+    "name" : "Speaking Stone",
+    "pa" : "5000",
+    "pm" : "5000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
+    "name" : "Spear of Backbiting (spear or javelin)",
+    "pa" : "6500",
+    "pm" : "6500",
+    "ps" : "0"
+  },
+  {
+    "bp" : "OA 223; IMR 95",
+    "name" : "Spell Gem (1st Level)",
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
+  },
+  {
+    "bp" : "OA 223; IMR 95",
     "name" : "Spell Gem (2nd Level)",
     "pa" : "1500",
-    "bp" : "OA 223; IMR 95"
+    "pm" : "1500",
+    "ps" : "0"
   },
   {
+    "bp" : "OA 223; IMR 95",
     "name" : "Spell Gem (3rd Level)",
     "pa" : "4000",
-    "bp" : "OA 223; IMR 95",
-    "ps" : "0",
-    "pm" : "4000"
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "8000",
+    "bp" : "OA 223; IMR 95",
+    "name" : "Spell Gem (4th Level)",
     "pa" : "8000",
-    "bp" : "OA 223; IMR 95",
-    "name" : "Spell Gem (4th Level)"
+    "pm" : "8000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "OA 223; IMR 95",
-    "pm" : "15000",
     "name" : "Spell Gem (5th Level)",
-    "pa" : "15000"
+    "pa" : "15000",
+    "pm" : "15000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "20000",
+    "bp" : "OA 223; IMR 95",
     "name" : "Spell Gem (6th Level)",
+    "pa" : "20000",
     "pm" : "20000",
-    "bp" : "OA 223; IMR 95"
+    "ps" : "0"
   },
   {
     "bp" : "OA 223; IMR 95",
-    "pm" : "35000",
-    "ps" : "0",
+    "name" : "Spell Gem (7th Level)",
     "pa" : "35000",
-    "name" : "Spell Gem (7th Level)"
+    "pm" : "35000",
+    "ps" : "0"
   },
   {
     "bp" : "OA 223; IMR 95",
-    "pm" : "51000",
-    "ps" : "0",
     "name" : "Spell Gem (8th Level)",
-    "pa" : "51000"
+    "pa" : "51000",
+    "pm" : "51000",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
+    "bp" : "OA 223; IMR 95",
     "name" : "Spell Gem (9th Level)",
     "pa" : "78000",
-    "bp" : "OA 223; IMR 95",
-    "pm" : "78000"
+    "pm" : "78000",
+    "ps" : "0"
   },
   {
     "bp" : "OA 223; IMR 95",
-    "ps" : "0",
-    "pm" : "150",
+    "name" : "Spell Gem (Cantrip)",
     "pa" : "150",
-    "name" : "Spell Gem (Cantrip)"
+    "pm" : "150",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 0",
     "pa" : "12",
-    "bp" : "DMG 200",
-    "ps" : "10",
-    "pm" : "15"
+    "pm" : "15",
+    "ps" : "10"
   },
   {
-    "ps" : "60",
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 1",
     "pa" : "42",
-    "bp" : "DMG 200",
-    "pm" : "25"
+    "pm" : "25",
+    "ps" : "60"
   },
   {
-    "ps" : "120",
-    "pm" : "150",
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 2",
     "pa" : "135",
-    "bp" : "DMG 200"
+    "pm" : "150",
+    "ps" : "120"
   },
   {
-    "ps" : "200",
-    "pa" : "300",
     "bp" : "DMG 200",
     "name" : "Spell Scroll Level 3",
-    "pm" : "400"
+    "pa" : "300",
+    "pm" : "400",
+    "ps" : "200"
   },
   {
+    "bp" : "DMG 200",
+    "name" : "Spell Scroll Level 4",
     "pa" : "560",
-    "ps" : "320",
-    "bp" : "DMG 200",
     "pm" : "800",
-    "name" : "Spell Scroll Level 4"
+    "ps" : "320"
   },
   {
-    "name" : "Spell Scroll Level 5",
-    "pm" : "1500",
-    "pa" : "1070",
     "bp" : "DMG 200",
+    "name" : "Spell Scroll Level 5",
+    "pa" : "1070",
+    "pm" : "1500",
     "ps" : "640"
   },
   {
-    "pm" : "2000",
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 6",
-    "ps" : "1280",
     "pa" : "1640",
-    "bp" : "DMG 200"
+    "pm" : "2000",
+    "ps" : "1280"
   },
   {
-    "pa" : "3030",
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 7",
-    "ps" : "2560",
-    "bp" : "DMG 200",
-    "pm" : "3500"
+    "pa" : "3030",
+    "pm" : "3500",
+    "ps" : "2560"
   },
   {
+    "bp" : "DMG 200",
     "name" : "Spell Scroll Level 8",
-    "bp" : "DMG 200",
+    "pa" : "5060",
     "pm" : "5000",
-    "ps" : "5120",
-    "pa" : "5060"
+    "ps" : "5120"
   },
   {
     "bp" : "DMG 200",
-    "pa" : "15120",
     "name" : "Spell Scroll Level 9",
+    "pa" : "15120",
     "pm" : "20000",
     "ps" : "10240"
   },
   {
     "bp" : "DMG 201",
-    "pm" : "36000",
     "name" : "Spellguard Shield",
     "pa" : "43000",
+    "pm" : "36000",
     "ps" : "50000"
   },
   {
-    "ps" : "0",
-    "name" : "Spellshard",
-    "pm" : "100",
     "bp" : "ERLW 279",
-    "pa" : "100"
-  },
-  {
-    "name" : "Spellwrought Tattoo Level 0",
-    "pm" : "20",
-    "pa" : "20",
-    "bp" : "TCE 135",
+    "name" : "Spellshard",
+    "pa" : "100",
+    "pm" : "100",
     "ps" : "0"
   },
   {
-    "pa" : "35",
-    "ps" : "0",
-    "pm" : "35",
+    "bp" : "TCE 135",
+    "name" : "Spellwrought Tattoo Level 0",
+    "pa" : "20",
+    "pm" : "20",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TCE 135",
     "name" : "Spellwrought Tattoo Level 1",
-    "bp" : "TCE 135"
+    "pa" : "35",
+    "pm" : "35",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "225",
+    "bp" : "TCE 135",
     "name" : "Spellwrought Tattoo Level 2",
-    "bp" : "TCE 135",
-    "pm" : "225"
+    "pa" : "225",
+    "pm" : "225",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "TCE 135",
-    "pm" : "500",
+    "name" : "Spellwrought Tattoo Level 3",
     "pa" : "500",
-    "name" : "Spellwrought Tattoo Level 3"
+    "pm" : "500",
+    "ps" : "0"
   },
   {
-    "pm" : "1200",
     "bp" : "TCE 135",
-    "ps" : "0",
     "name" : "Spellwrought Tattoo Level 4",
-    "pa" : "1200"
+    "pa" : "1200",
+    "pm" : "1200",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pm" : "2100",
-    "pa" : "2100",
+    "bp" : "TCE 135",
     "name" : "Spellwrought Tattoo Level 5",
-    "bp" : "TCE 135"
+    "pa" : "2100",
+    "pm" : "2100",
+    "ps" : "0"
   },
   {
-    "pm" : "200000",
     "bp" : "DMG 201",
-    "ps" : "15000",
+    "name" : "Sphere of Annihilation",
     "pa" : "107500",
-    "name" : "Sphere of Annihilation"
+    "pm" : "200000",
+    "ps" : "15000"
   },
   {
+    "bp" : "LMP 53",
     "name" : "Spider Staff",
-    "ps" : "0",
     "pa" : "1750",
-    "bp" : "LMP 53",
-    "pm" : "1750"
+    "pm" : "1750",
+    "ps" : "0"
   },
   {
-    "pa" : "475",
     "bp" : "GGR 181",
+    "name" : "Spies' Murmur",
+    "pa" : "475",
     "pm" : "475",
-    "ps" : "0",
-    "name" : "Spies' Murmur"
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "XGE 139",
-    "pm" : "50",
     "name" : "Staff of Adornment",
-    "pa" : "50"
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
   },
   {
     "bp" : "XGE 139",
-    "pm" : "70",
+    "name" : "Staff of Birdcalls",
     "pa" : "70",
-    "ps" : "0",
-    "name" : "Staff of Birdcalls"
+    "pm" : "70",
+    "ps" : "0"
   },
   {
-    "ps" : "12000",
-    "name" : "Staff of Charming",
-    "pm" : "3750",
     "bp" : "DMG 201",
-    "pa" : "7875"
+    "name" : "Staff of Charming",
+    "pa" : "7875",
+    "pm" : "3750",
+    "ps" : "12000"
   },
   {
-    "ps" : "0",
-    "name" : "Staff of Defense",
     "bp" : "LMP 53",
+    "name" : "Staff of Defense",
     "pa" : "3400",
-    "pm" : "3400"
+    "pm" : "3400",
+    "ps" : "0"
   },
   {
-    "ps" : "16000",
+    "bp" : "DMG 201",
     "name" : "Staff of Fire",
     "pa" : "17000",
     "pm" : "18000",
-    "bp" : "DMG 201"
+    "ps" : "16000"
   },
   {
-    "ps" : "0",
-    "pm" : "50",
-    "pa" : "50",
+    "bp" : "XGE 139",
     "name" : "Staff of Flowers",
-    "bp" : "XGE 139"
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
   },
   {
-    "pm" : "18000",
     "bp" : "DMG 202",
     "name" : "Staff of Frost",
-    "ps" : "26000",
-    "pa" : "22000"
+    "pa" : "22000",
+    "pm" : "18000",
+    "ps" : "26000"
   },
   {
-    "ps" : "13000",
-    "name" : "Staff of Healing",
     "bp" : "DMG 202",
+    "name" : "Staff of Healing",
     "pa" : "8900",
-    "pm" : "4800"
+    "pm" : "4800",
+    "ps" : "13000"
   },
   {
     "bp" : "DMG 202",
     "name" : "Staff of Power",
-    "pm" : "46000",
     "pa" : "70750",
+    "pm" : "46000",
     "ps" : "95500"
   },
   {
     "bp" : "DMG 203",
+    "name" : "Staff of Striking",
     "pa" : "28500",
-    "ps" : "21000",
     "pm" : "36000",
-    "name" : "Staff of Striking"
+    "ps" : "21000"
   },
   {
-    "pa" : "10250",
+    "bp" : "DMG 203",
     "name" : "Staff of Swarming Insects",
+    "pa" : "10250",
     "pm" : "4500",
-    "ps" : "16000",
-    "bp" : "DMG 203"
+    "ps" : "16000"
   },
   {
-    "pm" : "30000",
+    "bp" : "DMG 204-205",
     "name" : "Staff of Thunder and Lightning",
-    "ps" : "10000",
     "pa" : "20000",
-    "bp" : "DMG 204-205"
+    "pm" : "30000",
+    "ps" : "10000"
   },
   {
-    "pa" : "2550",
-    "ps" : "3000",
     "bp" : "DMG 205",
     "name" : "Staff of Withering",
-    "pm" : "2100"
+    "pa" : "2550",
+    "pm" : "2100",
+    "ps" : "3000"
   },
   {
-    "name" : "Staff of the Adder",
     "bp" : "DMG 203",
+    "name" : "Staff of the Adder",
     "pa" : "1075",
     "pm" : "350",
     "ps" : "1800"
   },
   {
-    "ps" : "0",
+    "bp" : "DMG 203",
+    "name" : "Staff of the Magi",
     "pa" : "98000",
     "pm" : "98000",
-    "name" : "Staff of the Magi",
-    "bp" : "DMG 203"
+    "ps" : "0"
   },
   {
-    "pm" : "250",
     "bp" : "DMG 204",
-    "pa" : "1125",
     "name" : "Staff of the Python",
+    "pa" : "1125",
+    "pm" : "250",
     "ps" : "2000"
   },
   {
-    "pm" : "4500",
-    "ps" : "44000",
+    "bp" : "DMG 204",
     "name" : "Staff of the Woodlands",
     "pa" : "24250",
-    "bp" : "DMG 204"
+    "pm" : "4500",
+    "ps" : "44000"
   },
   {
     "bp" : "WBW 214",
-    "ps" : "0",
-    "pm" : "6500",
     "name" : "Steel (longsword)",
-    "pa" : "6500"
+    "pa" : "6500",
+    "pm" : "6500",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "350",
     "bp" : "SKT 235",
+    "name" : "Stein Rune Boots",
+    "pa" : "350",
     "pm" : "350",
-    "name" : "Stein Rune Boots"
+    "ps" : "0"
   },
   {
-    "pa" : "4600",
-    "pm" : "4600",
+    "bp" : "SKT 235",
     "name" : "Stein Rune Shield",
-    "ps" : "0",
-    "bp" : "SKT 235"
-  },
-  {
-    "ps" : "8000",
-    "name" : "Stone of Controlling Earth Elementals",
-    "pm" : "4700",
-    "bp" : "DMG 205",
-    "pa" : "6350"
-  },
-  {
-    "pm" : "400",
-    "ps" : "0",
-    "pa" : "400",
-    "bp" : "DMG 205",
-    "name" : "Stone of Good Luck"
-  },
-  {
-    "ps" : "0",
-    "pa" : "400",
-    "pm" : "400",
-    "name" : "Stone of Ill Luck",
-    "bp" : "TYP 229"
-  },
-  {
-    "pm" : "4600",
     "pa" : "4600",
-    "name" : "Stonespeaker Crystal",
+    "pm" : "4600",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 205",
+    "name" : "Stone of Controlling Earth Elementals",
+    "pa" : "6350",
+    "pm" : "4700",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 205",
+    "name" : "Stone of Good Luck",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
+  },
+  {
+    "bp" : "TYP 229",
+    "name" : "Stone of Ill Luck",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
+  },
+  {
     "bp" : "OA 223",
+    "name" : "Stonespeaker Crystal",
+    "pa" : "4600",
+    "pm" : "4600",
     "ps" : "0"
   },
   {
     "bp" : "PA 223",
-    "ps" : "0",
     "name" : "Storm Boomerang",
+    "pa" : "150",
     "pm" : "150",
-    "pa" : "150"
+    "ps" : "0"
   },
   {
-    "pa" : "50",
     "bp" : "SCC 39",
-    "ps" : "0",
     "name" : "Strixhaven Pennant",
-    "pm" : "50"
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "pa" : "3500",
     "bp" : "DMG 205",
     "name" : "Sun Blade (longsword)",
-    "pm" : "3500"
+    "pa" : "3500",
+    "pm" : "3500",
+    "ps" : "0"
   },
   {
-    "pm" : "0",
-    "ps" : "12000",
+    "bp" : "DMG 205",
+    "name" : "Sunblade",
     "pa" : "12000",
-    "bp" : "205",
-    "name" : "Sunblade"
+    "pm" : "0",
+    "ps" : "12000"
   },
   {
-    "ps" : "0",
+    "bp" : "GGR 181",
     "name" : "Sunforger (warhammer)",
     "pa" : "4600",
     "pm" : "4600",
-    "bp" : "GGR 181"
+    "ps" : "0"
   },
   {
+    "bp" : "CS 223",
     "name" : "Sunsword (longsword)",
-    "ps" : "0",
     "pa" : "55000",
     "pm" : "55000",
-    "bp" : "CS 223"
+    "ps" : "0"
   },
   {
-    "pa" : "43500",
-    "name" : "Sword of Answering (longsword)",
     "bp" : "51000",
+    "name" : "Sword of Answering (longsword)",
+    "pa" : "43500",
     "pm" : "51000",
     "ps" : "36000"
   },
   {
-    "name" : "Sword of Life Stealing (any sword)",
-    "ps" : "0",
-    "pa" : "2200",
     "bp" : "DMG 206",
-    "pm" : "2200"
+    "name" : "Sword of Life Stealing (any sword)",
+    "pa" : "2200",
+    "pm" : "2200",
+    "ps" : "0"
   },
   {
-    "pm" : "0",
+    "bp" : "DMG 206",
     "name" : "Sword of Life-Stealing",
-    "bp" : "206",
     "pa" : "1000",
+    "pm" : "0",
     "ps" : "1000"
   },
   {
-    "pm" : "42000",
-    "ps" : "1700",
-    "pa" : "21850",
+    "bp" : "DMG 206",
     "name" : "Sword of Sharpness (slashing swords)",
-    "bp" : "DMG 206"
+    "pa" : "21850",
+    "pm" : "42000",
+    "ps" : "1700"
   },
   {
-    "pa" : "400",
-    "ps" : "0",
-    "name" : "Sword of Vengeance (any sword)",
     "bp" : "DMG 206",
-    "pm" : "400"
+    "name" : "Sword of Vengeance (any sword)",
+    "pa" : "400",
+    "pm" : "400",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 207",
-    "pm" : "2000",
-    "ps" : "0",
     "name" : "Sword of Wounding (any sword)",
-    "pa" : "2000"
+    "pa" : "2000",
+    "pm" : "2000",
+    "ps" : "0"
   },
   {
     "bp" : "GGR 181",
-    "pa" : "16000",
-    "ps" : "0",
     "name" : "Sword of the Paruns (longsword)",
-    "pm" : "16000"
+    "pa" : "16000",
+    "pm" : "16000",
+    "ps" : "0"
   },
   {
-    "pm" : "125000",
-    "name" : "Talisman of Pure Good",
     "bp" : "DMG 207",
+    "name" : "Talisman of Pure Good",
     "pa" : "98340",
+    "pm" : "125000",
     "ps" : "71680"
   },
   {
-    "pm" : "125000",
     "bp" : "DMG 207",
-    "pa" : "93220",
     "name" : "Talisman of Ultimate Evil",
+    "pa" : "93220",
+    "pm" : "125000",
     "ps" : "61440"
   },
   {
-    "pm" : "75000",
-    "ps" : "20000",
     "bp" : "DMG 207",
+    "name" : "Talisman of the Sphere",
     "pa" : "47500",
-    "name" : "Talisman of the Sphere"
+    "pm" : "75000",
+    "ps" : "20000"
   },
   {
     "bp" : "XGE 139; WBW 214",
-    "pm" : "75",
     "name" : "Talking Doll",
-    "ps" : "0",
-    "pa" : "75"
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "HDQ 74",
-    "pa" : "25",
     "name" : "Tankard of Plenty",
-    "pm" : "25"
+    "pa" : "25",
+    "pm" : "25",
+    "ps" : "0"
   },
   {
     "bp" : "XGE 139",
-    "pm" : "80",
-    "ps" : "0",
     "name" : "Tankard of Sobriety",
-    "pa" : "80"
+    "pa" : "80",
+    "pm" : "80",
+    "ps" : "0"
   },
   {
-    "pm" : "2000",
     "bp" : "DMG 208",
     "name" : "Tentacle Rod",
     "pa" : "3500",
+    "pm" : "2000",
     "ps" : "5000"
   },
   {
-    "pm" : "500",
-    "ps" : "0",
     "bp" : "IDRF 317",
+    "name" : "The Codicil of White",
     "pa" : "500",
-    "name" : "The Codicil of White"
+    "pm" : "500",
+    "ps" : "0"
   },
   {
     "bp" : "IDRF 317",
-    "pm" : "100000",
     "name" : "The Incantations of Iriolarthas",
-    "ps" : "0",
-    "pa" : "100000"
+    "pa" : "100000",
+    "pm" : "100000",
+    "ps" : "0"
   },
   {
-    "pm" : "50",
-    "ps" : "0",
     "bp" : "IDRF 316",
+    "name" : "Thermal Cube",
     "pa" : "50",
-    "name" : "Thermal Cube"
+    "pm" : "50",
+    "ps" : "0"
   },
   {
     "bp" : "IMR 95",
+    "name" : "Thessaltoxin Antidote",
     "pa" : "100",
-    "ps" : "0",
     "pm" : "100",
-    "name" : "Thessaltoxin Antidote"
+    "ps" : "0"
   },
   {
-    "pa" : "71000",
     "bp" : "PA 225",
-    "ps" : "0",
     "name" : "Tinderstrike (dagger)",
-    "pm" : "71000"
+    "pa" : "71000",
+    "pm" : "71000",
+    "ps" : "0"
   },
   {
-    "pa" : "36000",
     "bp" : "DMG 208",
     "name" : "Tome of Clear Thought",
-    "ps" : "0",
-    "pm" : "36000"
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
   },
   {
-    "pm" : "36000",
-    "ps" : "0",
-    "pa" : "36000",
     "bp" : "DMG 208",
-    "name" : "Tome of Leadership and Influence"
+    "name" : "Tome of Leadership and Influence",
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
   },
   {
     "bp" : "DMG 209",
-    "pm" : "36000",
-    "ps" : "0",
     "name" : "Tome of Understanding",
-    "pa" : "36000"
+    "pa" : "36000",
+    "pm" : "36000",
+    "ps" : "0"
   },
   {
-    "name" : "Tome of the Stilled Tongue",
-    "pm" : "60000",
     "bp" : "DMG 208",
-    "ps" : "0",
-    "pa" : "60000"
+    "name" : "Tome of the Stilled Tongue",
+    "pa" : "60000",
+    "pm" : "60000",
+    "ps" : "0"
   },
   {
     "bp" : "FTD 24",
     "name" : "Topaz Annihilator (firearm)",
-    "ps" : "0",
     "pa" : "12000",
-    "pm" : "12000"
+    "pm" : "12000",
+    "ps" : "0"
   },
   {
-    "pm" : "300",
-    "pa" : "550",
+    "bp" : "DMG 209",
     "name" : "Trident of Fish Command",
-    "ps" : "800",
-    "bp" : "DMG 209"
+    "pa" : "550",
+    "pm" : "300",
+    "ps" : "800"
   },
   {
-    "pm" : "4000",
-    "pa" : "4000",
     "bp" : "MOT 198",
-    "ps" : "0",
-    "name" : "Two-Birds Sling"
+    "name" : "Two-Birds Sling",
+    "pa" : "4000",
+    "pm" : "4000",
+    "ps" : "0"
   },
   {
-    "pa" : "25",
-    "ps" : "0",
     "bp" : "XGE 139",
     "name" : "Unbreakable Arrow (arrow) ",
-    "pm" : "25"
+    "pa" : "25",
+    "pm" : "25",
+    "ps" : "0"
   },
   {
-    "pm" : "5000",
-    "ps" : "300",
-    "pa" : "2650",
     "bp" : "DMG 209",
-    "name" : "Universal Solvent"
+    "name" : "Universal Solvent",
+    "pa" : "2650",
+    "pm" : "5000",
+    "ps" : "300"
   },
   {
     "bp" : "ERLW 279",
     "name" : "Ventilating Lungs",
+    "pa" : "1000",
     "pm" : "1000",
-    "ps" : "0",
-    "pa" : "1000"
-  },
-  {
-    "name" : "Veteran's Cane",
-    "pm" : "50",
-    "pa" : "50",
-    "bp" : "XGE 139",
     "ps" : "0"
   },
   {
-    "ps" : "350",
+    "bp" : "XGE 139",
+    "name" : "Veteran's Cane",
+    "pa" : "50",
+    "pm" : "50",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 209",
     "name" : "Vicious Weapon (any weapon)",
     "pa" : "775",
-    "bp" : "DMG 209",
-    "pm" : "1200"
-  },
-  {
-    "pa" : "775",
-    "bp" : "DMG 209",
     "pm" : "1200",
-    "ps" : "350",
-    "name" : "Vicious Weapon (any)"
+    "ps" : "350"
   },
   {
-    "ps" : "0",
-    "pm" : "300",
+    "bp" : "DMG 209",
+    "name" : "Vicious Weapon (any)",
+    "pa" : "775",
+    "pm" : "1200",
+    "ps" : "350"
+  },
+  {
+    "bp" : "SKT 236",
     "name" : "Vind Rune Armor (light medium or heavy)",
     "pa" : "300",
-    "bp" : "SKT 236"
+    "pm" : "300",
+    "ps" : "0"
   },
   {
     "bp" : "SKT 236",
@@ -5327,311 +5327,269 @@
     "ps" : "0"
   },
   {
-    "pm" : "650",
+    "bp" : "SKT 236",
     "name" : "Vind Rune Cloak",
     "pa" : "650",
-    "bp" : "SKT 236",
+    "pm" : "650",
     "ps" : "0"
   },
   {
-    "pa" : "49500",
     "bp" : "DMG 209",
+    "name" : "Vorpal Sword (slashing swords)",
+    "pa" : "49500",
     "pm" : "75000",
-    "ps" : "24000",
-    "name" : "Vorpal Sword (slashing swords)"
+    "ps" : "24000"
   },
   {
-    "pa" : "10500",
-    "ps" : "0",
     "bp" : "GGR 181",
+    "name" : "Voyager Staff",
+    "pa" : "10500",
     "pm" : "10500",
-    "name" : "Voyager Staff"
-  },
-  {
-    "pm" : "30",
-    "name" : "Walloping Ammunition (any) ",
-    "bp" : "XGE 139",
-    "pa" : "30",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "bp" : "ERLW 279",
-    "pa" : "75",
-    "name" : "Wand Sheath",
-    "pm" : "75"
+    "bp" : "XGE 139",
+    "name" : "Walloping Ammunition (any) ",
+    "pa" : "30",
+    "pm" : "30",
+    "ps" : "0"
   },
   {
-    "pm" : "2500",
+    "bp" : "ERLW 279",
+    "name" : "Wand Sheath",
+    "pa" : "75",
+    "pm" : "75",
+    "ps" : "0"
+  },
+  {
     "bp" : "DMG 209",
     "name" : "Wand of Binding",
-    "ps" : "10000",
-    "pa" : "6250"
+    "pa" : "6250",
+    "pm" : "2500",
+    "ps" : "10000"
   },
   {
-    "ps" : "0",
+    "bp" : "XGE 140",
     "name" : "Wand of Conducting",
     "pa" : "90",
-    "bp" : "XGE 140",
-    "pm" : "90"
+    "pm" : "90",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 210",
     "name" : "Wand of Enemy Detection",
     "pa" : "3875",
     "pm" : "3750",
-    "ps" : "4000",
-    "bp" : "DMG 210"
+    "ps" : "4000"
   },
   {
+    "bp" : "TYP 229",
     "name" : "Wand of Entangle(spellcaster) ",
     "pa" : "300",
-    "ps" : "0",
-    "bp" : "TYP 229",
-    "pm" : "300"
+    "pm" : "300",
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 210",
     "name" : "Wand of Fear",
-    "ps" : "10000",
-    "pm" : "3250",
     "pa" : "6625",
-    "bp" : "DMG 210"
+    "pm" : "3250",
+    "ps" : "10000"
   },
   {
-    "pm" : "4800",
+    "bp" : "DMG 210",
     "name" : "Wand of Fireballs",
-    "ps" : "32000",
     "pa" : "18400",
-    "bp" : "DMG 210"
+    "pm" : "4800",
+    "ps" : "32000"
   },
   {
-    "pm" : "4800",
+    "bp" : "DMG 211",
     "name" : "Wand of Lightning Bolts",
     "pa" : "18400",
-    "ps" : "32000",
-    "bp" : "DMG 211"
+    "pm" : "4800",
+    "ps" : "32000"
   },
   {
-    "ps" : "1500",
+    "bp" : "DMG 211",
     "name" : "Wand of Magic Detection",
     "pa" : "825",
     "pm" : "150",
-    "bp" : "DMG 211"
+    "ps" : "1500"
   },
   {
+    "bp" : "DMG 211",
     "name" : "Wand of Magic Missiles",
     "pa" : "4150",
-    "bp" : "DMG 211",
-    "ps" : "8000",
-    "pm" : "300"
+    "pm" : "300",
+    "ps" : "8000"
   },
   {
     "bp" : "DMG 211",
-    "pm" : "4250",
-    "ps" : "16000",
+    "name" : "Wand of Paralysis",
     "pa" : "10125",
-    "name" : "Wand of Paralysis"
+    "pm" : "4250",
+    "ps" : "16000"
   },
   {
-    "ps" : "32000",
+    "bp" : "DMG 211",
     "name" : "Wand of Polymorph",
     "pa" : "26500",
     "pm" : "21000",
-    "bp" : "DMG 211"
+    "ps" : "32000"
   },
   {
-    "pm" : "65",
     "bp" : "XGE 140",
     "name" : "Wand of Pyrotechnics",
-    "ps" : "0",
-    "pa" : "65"
+    "pa" : "65",
+    "pm" : "65",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
-    "name" : "Wand of Scowls",
     "bp" : "XGE 140; WBW 214",
-    "pm" : "60",
-    "pa" : "60"
-  },
-  {
-    "pa" : "812",
-    "ps" : "1500",
-    "pm" : "125",
-    "bp" : "DMG 211",
-    "name" : "Wand of Secrets"
-  },
-  {
+    "name" : "Wand of Scowls",
     "pa" : "60",
     "pm" : "60",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 211",
+    "name" : "Wand of Secrets",
+    "pa" : "812",
+    "pm" : "125",
+    "ps" : "1500"
+  },
+  {
     "bp" : "XGE 140; WBW 214",
-    "ps" : "0",
-    "name" : "Wand of Smiles"
+    "name" : "Wand of Smiles",
+    "pa" : "60",
+    "pm" : "60",
+    "ps" : "0"
   },
   {
     "bp" : "OA 223",
+    "name" : "Wand of Viscid Globs",
     "pa" : "900",
     "pm" : "900",
-    "ps" : "0",
-    "name" : "Wand of Viscid Globs"
+    "ps" : "0"
   },
   {
+    "bp" : "DMG 212",
     "name" : "Wand of Web",
     "pa" : "4125",
     "pm" : "250",
-    "ps" : "8000",
-    "bp" : "DMG 212"
+    "ps" : "8000"
   },
   {
-    "pa" : "4100",
     "bp" : "HDQ 94",
-    "pm" : "4100",
     "name" : "Wand of Winter",
+    "pa" : "4100",
+    "pm" : "4100",
     "ps" : "0"
   },
   {
     "bp" : "DMG 212",
     "name" : "Wand of Wonder",
     "pa" : "2250",
-    "ps" : "0",
-    "pm" : "2250"
+    "pm" : "2250",
+    "ps" : "0"
   },
   {
-    "pm" : "0",
-    "pa" : "1200",
-    "ps" : "1200",
-    "name" : "Wand of the War Mage +1",
-    "bp" : "212"
-  },
-  {
-    "pa" : "4800",
-    "name" : "Wand of the War Mage +2",
-    "bp" : "212",
-    "pm" : "0",
-    "ps" : "4800"
-  },
-  {
-    "bp" : "212",
-    "ps" : "19200",
-    "pm" : "0",
-    "name" : "Wand of the War Mage +3",
-    "pa" : "19200"
-  },
-  {
-    "pm" : "62000",
-    "ps" : "0",
-    "pa" : "62000",
     "bp" : "TYP 229",
-    "name" : "Waythe (greatsword)"
+    "name" : "Waythe (greatsword)",
+    "pa" : "62000",
+    "pm" : "62000",
+    "ps" : "0"
   },
   {
-    "name" : "Weapon of Warning (any)",
     "bp" : "DMG 213",
-    "pm" : "400",
+    "name" : "Weapon of Warning (any)",
     "pa" : "30200",
+    "pm" : "400",
     "ps" : "60000"
   },
   {
+    "bp" : "WDMM 299",
     "name" : "Weapon of the Uven Rune (any)",
     "pa" : "2000",
-    "bp" : "WDMM 299",
     "pm" : "2000",
     "ps" : "0"
   },
   {
-    "ps" : "0",
-    "name" : "Weird Tank",
     "bp" : "PA 223",
+    "name" : "Weird Tank",
     "pa" : "2200",
-    "pm" : "2200"
-  },
-  {
-    "ps" : "0",
-    "pa" : "90000",
-    "name" : "Well of Many Worlds",
-    "bp" : "DMG 213",
-    "pm" : "90000"
-  },
-  {
-    "ps" : "0",
-    "name" : "Wheel of Wind and Water",
-    "bp" : "ERLW 280",
-    "pm" : "350",
-    "pa" : "350"
-  },
-  {
-    "ps" : "1500",
-    "name" : "Wind Fan",
-    "pm" : "150",
-    "pa" : "825",
-    "bp" : "DMG 213"
-  },
-  {
-    "bp" : "PA 225",
-    "pm" : "68000",
-    "pa" : "68000",
-    "name" : "Windvane (spear)",
+    "pm" : "2200",
     "ps" : "0"
   },
   {
-    "ps" : "8000",
-    "bp" : "DMG 214",
-    "pm" : "5000",
-    "name" : "Winged Boots",
-    "pa" : "6500"
+    "bp" : "DMG 213",
+    "name" : "Well of Many Worlds",
+    "pa" : "90000",
+    "pm" : "90000",
+    "ps" : "0"
   },
   {
-    "pm" : "3600",
-    "ps" : "5000",
+    "bp" : "ERLW 280",
+    "name" : "Wheel of Wind and Water",
+    "pa" : "350",
+    "pm" : "350",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 213",
+    "name" : "Wind Fan",
+    "pa" : "825",
+    "pm" : "150",
+    "ps" : "1500"
+  },
+  {
+    "bp" : "PA 225",
+    "name" : "Windvane (spear)",
+    "pa" : "68000",
+    "pm" : "68000",
+    "ps" : "0"
+  },
+  {
+    "bp" : "DMG 214",
+    "name" : "Winged Boots",
+    "pa" : "6500",
+    "pm" : "5000",
+    "ps" : "8000"
+  },
+  {
+    "bp" : "DMG 214",
     "name" : "Wings of Flying",
     "pa" : "4300",
-    "bp" : "DMG 214"
+    "pm" : "3600",
+    "ps" : "5000"
   },
   {
-    "ps" : "0",
-    "pa" : "300",
     "bp" : "PA 223",
     "name" : "Wingwear",
-    "pm" : "300"
+    "pa" : "300",
+    "pm" : "300",
+    "ps" : "0"
   },
   {
-    "ps" : "0",
     "bp" : "SCC 39",
     "name" : "Witherbloom Primer",
     "pa" : "300",
-    "pm" : "300"
+    "pm" : "300",
+    "ps" : "0"
   },
   {
     "bp" : "WBW 214",
     "name" : "Woodcutter's Axe (greataxe)",
+    "pa" : "1500",
     "pm" : "1500",
-    "ps" : "0",
-    "pa" : "1500"
+    "ps" : "0"
   },
   {
     "bp" : "IDRF 316",
+    "name" : "Ythryn Mythallar",
     "pa" : "200000",
     "pm" : "200000",
-    "ps" : "0",
-    "name" : "Ythryn Mythallar"
-  },
-  {
-    "pm" : "3250",
-    "name" : "adge of the Watch",
-    "pa" : "3250",
-    "bp" : "WDH 189",
     "ps" : "0"
-  },
-  {
-    "pm" : "4200",
-    "name" : "stral Shard",
-    "pa" : "4200",
-    "bp" : "TCE 120",
-    "ps" : "0"
-  },
-  {
-    "bp" : "GGR 177",
-    "pm" : "1000",
-    "name" : "zorius Keyrune",
-    "ps" : "0",
-    "pa" : "1000"
   }
 ]
