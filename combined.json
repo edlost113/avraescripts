@@ -539,13 +539,6 @@
     "ps" : "0"
   },
   {
-    "bp" : "",
-    "name" : "Barrier Tattoo",
-    "pa" : "200",
-    "pm" : "200",
-    "ps" : "0"
-  },
-  {
     "bp" : "BGDA 223",
     "name" : "Battle Standard of Infernal Power",
     "pa" : "6000",
