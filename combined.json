@@ -8,10 +8,10 @@
   },
   {
     "bp" : "DMG 150",
-    "name" : "+1 Ammunition (any) ",
-    "pa" : "50",
+    "name" : "+1 Ammunition (any)",
+    "pa" : "38",
     "pm" : "50",
-    "ps" : "0"
+    "ps" : "25"
   },
   {
     "bp" : "TCE 119",
@@ -92,10 +92,10 @@
   },
   {
     "bp" : "DMG 150",
-    "name" : "+2 Ammunition (any) ",
-    "pa" : "250",
+    "name" : "+2 Ammunition (any)",
+    "pa" : "175",
     "pm" : "250",
-    "ps" : "0"
+    "ps" : "100"
   },
   {
     "bp" : "TCE 119",
@@ -176,10 +176,10 @@
   },
   {
     "bp" : "DMG 150",
-    "name" : "+3 Ammunition (any) ",
-    "pa" : "1250",
+    "name" : "+3 Ammunition (any)",
+    "pa" : "825",
     "pm" : "1250",
-    "ps" : "0"
+    "ps" : "400"
   },
   {
     "bp" : "TCE 119",
@@ -306,27 +306,6 @@
     "pa" : "20000",
     "pm" : "20000",
     "ps" : "0"
-  },
-  {
-    "bp" : "DMG 150",
-    "name" : "Ammunition +1 (each)",
-    "pa" : "25",
-    "pm" : "0",
-    "ps" : "25"
-  },
-  {
-    "bp" : "DMG 150",
-    "name" : "Ammunition +2 (ea)",
-    "pa" : "100",
-    "pm" : "0",
-    "ps" : "100"
-  },
-  {
-    "bp" : "DMG 150",
-    "name" : "Ammunition +3 (ea)",
-    "pa" : "400",
-    "pm" : "0",
-    "ps" : "400"
   },
   {
     "bp" : "DMG 150",

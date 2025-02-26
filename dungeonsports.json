@@ -1008,7 +1008,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Slumbering Dragon Vessel",
+    "name" : "Dragon Vessel (Wakened)",
     "page" : "FTD",
     "price" : "800",
     "rarity" : "?"
@@ -1020,13 +1020,13 @@
     "rarity" : "?"
   },
   {
-    "name" : "Slumbering Dragon Touched Focus",
+    "name" : "Dragon-Touched Focus (Wakened)",
     "page" : "FTD",
     "price" : "250",
     "rarity" : "?"
   },
   {
-    "name" : "Stirring Dragon Touched Focus",
+    "name" : "Dragon-Touched Focus (Stirring)",
     "page" : "FTD",
     "price" : "1250",
     "rarity" : "?"
@@ -1038,7 +1038,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Ascendant Dragon Touched Focus",
+    "name" : "Dragon-Touched Focus (Ascendant)",
     "page" : "FTD",
     "price" : "20000",
     "rarity" : "?"
@@ -1092,7 +1092,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Stirring Scaled Ornament",
+    "name" : "Scaled Ornament (Stirring)",
     "page" : "FTD",
     "price" : "2000",
     "rarity" : "?"
@@ -1104,7 +1104,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Ascendant Scaled Ornament",
+    "name" : "Scaled Ornament (Ascendant)",
     "page" : "FTD",
     "price" : "12000",
     "rarity" : "?"
@@ -1116,7 +1116,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Stirring Dragon Vessel",
+    "name" : "Dragon Vessel (Stirring)",
     "page" : "FTD",
     "price" : "2500",
     "rarity" : "?"
@@ -1128,7 +1128,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Ascendant Dragon Vessel",
+    "name" : "Dragon Vessel (Ascendant)",
     "page" : "FTD",
     "price" : "23000",
     "rarity" : "?"
@@ -1140,13 +1140,13 @@
     "rarity" : "?"
   },
   {
-    "name" : "Slumbering Dragon's Wrath Weapon",
+    "name" : "Dragon's Wrath Weapon (Wakened) (any)",
     "page" : "FTD",
     "price" : "1500",
     "rarity" : "?"
   },
   {
-    "name" : "Stirring Dragon's Wrath Weapon",
+    "name" : "Dragon's Wrath Weapon (Stirring) (any)",
     "page" : "FTD",
     "price" : "30000",
     "rarity" : "?"
@@ -1158,7 +1158,7 @@
     "rarity" : "?"
   },
   {
-    "name" : "Ascendant Dragon's Wrath Weapon",
+    "name" : "Dragon's Wrath Weapon (Ascendant) (any)",
     "page" : "FTD",
     "price" : "40000",
     "rarity" : "?"
