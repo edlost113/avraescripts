@@ -407,16 +407,9 @@
   },
   {
     "bp" : "DMG 152",
-    "name" : "Arrow of Slaying (any) ",
-    "pa" : "1000",
-    "pm" : "1000",
-    "ps" : "0"
-  },
-  {
-    "bp" : "DMG 152",
     "name" : "Arrow of Slaying (ea)",
-    "pa" : "600",
-    "pm" : "0",
+    "pa" : "800",
+    "pm" : "1000",
     "ps" : "600"
   },
   {
@@ -2394,137 +2387,39 @@
     "ps" : "125000"
   },
   {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Absorption",
-    "pa" : "2400",
-    "pm" : "0",
-    "ps" : "2400"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Agility",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Awareness",
-    "pa" : "12000",
-    "pm" : "0",
-    "ps" : "12000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Fortitude",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Greater Absorption",
-    "pa" : "31000",
-    "pm" : "0",
-    "ps" : "31000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Insight",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Intellect",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Leadership",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Mastery",
-    "pa" : "15000",
-    "pm" : "0",
-    "ps" : "15000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Protection",
-    "pa" : "1200",
-    "pm" : "0",
-    "ps" : "1200"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Regeneration",
-    "pa" : "4000",
-    "pm" : "0",
-    "ps" : "4000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Reserve",
-    "pa" : "6000",
-    "pm" : "0",
-    "ps" : "6000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Strength",
-    "pa" : "3000",
-    "pm" : "0",
-    "ps" : "3000"
-  },
-  {
-    "bp" : "DMG 177",
-    "name" : "Ioun Stone Sustenance",
-    "pa" : "1000",
-    "pm" : "0",
-    "ps" : "1000"
-  },
-  {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Absorption",
-    "pa" : "20000",
+    "pa" : "11200",
     "pm" : "20000",
-    "ps" : "0"
+    "ps" : "2400"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Agility",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Awareness",
-    "pa" : "4000",
+    "pa" : "8000",
     "pm" : "4000",
-    "ps" : "0"
+    "ps" : "12000"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Fortitude",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Greater Absorption",
-    "pa" : "60000",
+    "pa" : "45500",
     "pm" : "60000",
-    "ps" : "0"
+    "ps" : "31000"
   },
   {
     "bp" : "LLK 55",
@@ -2536,16 +2431,16 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Insight",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Intellect",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "LLK 55",
@@ -2557,16 +2452,16 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Leadership",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Mastery",
-    "pa" : "60000",
+    "pa" : "37500",
     "pm" : "60000",
-    "ps" : "0"
+    "ps" : "15000"
   },
   {
     "bp" : "LLK 55",
@@ -2578,16 +2473,16 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Protection",
-    "pa" : "3600",
+    "pa" : "2400",
     "pm" : "3600",
-    "ps" : "0"
+    "ps" : "1200"
   },
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Regeneration",
-    "pa" : "55000",
+    "pa" : "29500",
     "pm" : "55000",
-    "ps" : "0"
+    "ps" : "4000"
   },
   {
     "bp" : "LLK 55",
@@ -2599,9 +2494,9 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Reserve",
-    "pa" : "4500",
+    "pa" : "5250",
     "pm" : "4500",
-    "ps" : "0"
+    "ps" : "6000"
   },
   {
     "bp" : "LLK 55",
@@ -2613,9 +2508,9 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Strength",
-    "pa" : "8000",
+    "pa" : "5500",
     "pm" : "8000",
-    "ps" : "0"
+    "ps" : "3000"
   },
   {
     "bp" : "LLK 55",
@@ -2627,9 +2522,9 @@
   {
     "bp" : "DMG 176-177",
     "name" : "Ioun Stone: Sustenance",
-    "pa" : "3000",
+    "pa" : "2000",
     "pm" : "3000",
-    "ps" : "0"
+    "ps" : "1000"
   },
   {
     "bp" : "IMR 94",
