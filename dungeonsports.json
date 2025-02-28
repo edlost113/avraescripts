@@ -1,4682 +1,7742 @@
 [
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "2000",
-    "name" : "Alchemical Compendium"
+    "name" : "Alchemical Compendium",
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1500",
-    "b" : "TCE",
-    "name" : "All-Purpose Tool +1"
+    "name" : "+1 All-Purpose Tool",
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "name" : "All-Purpose Tool +2",
-    "b" : "TCE",
-    "r" : "?"
+    "name" : "+2 All-Purpose Tool",
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
-    "r" : "?",
-    "b" : "TCE",
-    "name" : "All-Purpose Tool +3"
+    "name" : "+3 All-Purpose Tool",
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "1500",
-    "name" : "Amulet of the Devout +1"
+    "name" : "+1 Amulet of the Devout",
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "5000",
-    "name" : "Amulet of the Devout +2",
-    "r" : "?"
+    "name" : "+2 Amulet of the Devout",
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
-    "name" : "Amulet of the Devout +3",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "+3 Amulet of the Devout",
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1500",
-    "name" : "Arcane Grimoire +1",
-    "b" : "TCE"
+    "name" : "+1 Arcane Grimoire",
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "name" : "Arcane Grimoire +2",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "+2 Arcane Grimoire",
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "name" : "Arcane Grimoire +3",
-    "p" : "20000",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "+3 Arcane Grimoire",
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "r" : "?",
-    "b" : "TCE",
-    "name" : "Astral Shard"
+    "name" : "Astral Shard",
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "2000",
-    "r" : "?",
-    "name" : "Astromancy Archive"
+    "name" : "Astromancy Archive",
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Atlas of Endless Horizons",
-    "r" : "?",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "2000",
-    "name" : "Bell Branch"
+    "name" : "Bell Branch",
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
-    "name" : "Bloodwell Vial +1",
-    "b" : "TCE",
-    "r" : "?"
+    "name" : "+1 Bloodwell Vial",
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "name" : "Bloodwell Vial +2",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "+2 Bloodwell Vial",
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "name" : "Bloodwell Vial +3",
-    "r" : "?",
-    "p" : "20000"
+    "name" : "+3 Bloodwell Vial",
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Cauldron of Rebirth",
-    "p" : "100000",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "25000",
-    "name" : "Crystalline Chronicle"
+    "name" : "Crystalline Chronicle",
+    "page" : "TCE",
+    "price" : "25000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "50000",
-    "name" : "Demonomicon of Iggwilv"
+    "name" : "Demonomicon of Iggwilv",
+    "page" : "TCE",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
     "name" : "Devotee's Censer",
-    "p" : "4000",
-    "r" : "?",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "b" : "TCE",
-    "r" : "?",
-    "name" : "Elementale Essence Shard"
+    "name" : "Elementale Essence Shard",
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "4000",
-    "r" : "?",
-    "name" : "Feywild Shard"
+    "name" : "Feywild Shard",
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "b" : "TCE",
     "name" : "Fulminating Treatise",
-    "r" : "?"
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TCE",
     "name" : "Guardian Emblem",
-    "p" : "2000"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
     "name" : "Heart Weaver's Primer",
-    "p" : "2000"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Libram of Lost Souls",
-    "b" : "TCE",
-    "p" : "2000"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "name" : "Magic Tattoo - Absorbing",
-    "p" : "24000"
+    "name" : "Absorbing Tattoo",
+    "page" : "TCE",
+    "price" : "24000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TCE",
     "name" : "Magic Tattoo - Barrier - Rare",
-    "p" : "12000"
+    "page" : "TCE",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
     "name" : "Magic Tattoo - Barrier - Uncommon",
-    "r" : "?",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
     "name" : "Magic Tattoo - Barrier - Very Rare",
-    "r" : "?",
-    "p" : "24000",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "24000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "3000",
-    "b" : "TCE",
-    "name" : "Magic Tattoo - Blood Fury"
+    "name" : "Blood Fury Tattoo",
+    "page" : "TCE",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "3000",
-    "name" : "Magic Tattoo - Coiling Grasp"
+    "name" : "Coiling Grasp Tattoo",
+    "page" : "TCE",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "name" : "Magic Tattoo - Eldritch Claw",
-    "p" : "500",
-    "r" : "?"
+    "name" : "Eldritch Claw Tattoo",
+    "page" : "TCE",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "name" : "Magic Tattoo - Ghost Step",
-    "r" : "?",
-    "b" : "TCE",
-    "p" : "3000"
+    "name" : "Ghost Step Tattoo",
+    "page" : "TCE",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "name" : "Magic Tattoo - Illuminator's",
-    "r" : "?",
-    "b" : "TCE",
-    "p" : "500"
+    "name" : "Illuminator's Tattoo",
+    "page" : "TCE",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "name" : "Magic Tattoo - Lifewell",
-    "r" : "?",
-    "p" : "2000"
+    "name" : "Lifewell Tattoo",
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "500",
-    "name" : "Magic Tattoo - Masquerade"
+    "name" : "Masquerade Tattoo",
+    "page" : "TCE",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "2000",
-    "name" : "Magic Tattoo - Shadowfell Brand",
-    "r" : "?"
+    "name" : "Shadowfell Brand Tattoo",
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "300",
-    "name" : "Magic Tattoo - Spellwrought - 1st Level",
-    "r" : "?"
+    "name" : "Spellwrought Tattoo Level 1",
+    "page" : "TCE",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "600",
-    "name" : "Magic Tattoo - Spellwrought - 2nd Level"
+    "name" : "Spellwrought Tattoo Level 2",
+    "page" : "TCE",
+    "price" : "600",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "name" : "Magic Tattoo - Spellwrought - 3rd Level",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "Spellwrought Tattoo Level 3",
+    "page" : "TCE",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "name" : "Magic Tattoo - Spellwrought - 4th Level",
-    "p" : "1600",
-    "r" : "?"
+    "name" : "Spellwrought Tattoo Level 4",
+    "page" : "TCE",
+    "price" : "1600",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "3200",
-    "name" : "Magic Tattoo - Spellwrought - 5th Level",
-    "b" : "TCE"
+    "name" : "Spellwrought Tattoo Level 5",
+    "page" : "TCE",
+    "price" : "3200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50",
-    "name" : "Magic Tattoo - Spellwrought - Cantrip",
-    "b" : "TCE"
+    "name" : "Spellwrought Tattoo Level 0",
+    "page" : "TCE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Mighty Servant of Leuk-0",
-    "r" : "?",
-    "p" : "80000",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
     "name" : "Moon Sickle + 1",
-    "p" : "1500",
-    "r" : "?"
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Moon Sickle + 2",
-    "p" : "5000",
-    "b" : "TCE",
-    "r" : "?"
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TCE",
     "name" : "Moon Sickle + 3",
-    "p" : "20000"
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
     "name" : "Nature's Mantle",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
     "name" : "Outer Essence Shard",
-    "r" : "?",
-    "b" : "TCE"
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
     "name" : "Planecaller's Codex",
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "TCE",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
     "name" : "Prosthetic Limb",
-    "p" : "100",
-    "r" : "?"
+    "page" : "TCE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "name" : "Rhythm-Maker's Drum +1",
-    "b" : "TCE",
-    "r" : "?",
-    "p" : "1500"
+    "name" : "+1 Rhythm-Maker's Drum",
+    "page" : "TCE",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "name" : "Rhythm-Maker's Drum +2",
-    "p" : "5000",
-    "r" : "?",
-    "b" : "TCE"
+    "name" : "+2 Rhythm-Maker's Drum",
+    "page" : "TCE",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
-    "r" : "?",
-    "name" : "Rhythm-Maker's Drum +3",
-    "b" : "TCE"
+    "name" : "+3 Rhythm-Maker's Drum",
+    "page" : "TCE",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "TCE",
-    "p" : "4000",
     "name" : "Shadowfell Shard",
-    "r" : "?"
+    "page" : "TCE",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "name" : "Keyrune - Azorius",
-    "r" : "?",
-    "p" : "5000",
-    "b" : "GGR"
+    "name" : "Azorius Keyrune",
+    "page" : "GGR",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "name" : "Keyrune - Boros",
-    "r" : "?",
-    "b" : "GGR",
-    "p" : "6000"
+    "name" : "Boros Keyrune",
+    "page" : "GGR",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "name" : "Keyrune - Dimir",
-    "r" : "?",
-    "p" : "10000",
-    "b" : "GGR"
+    "name" : "Dimir Keyrune",
+    "page" : "GGR",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
-    "name" : "Keyrune - Golgari",
-    "r" : "?",
-    "b" : "GGR"
+    "name" : "Golgari Keyrune",
+    "page" : "GGR",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "name" : "Keyrune - Gruul",
-    "p" : "4000",
-    "b" : "GGR",
-    "r" : "?"
+    "name" : "Gruul Keyrune",
+    "page" : "GGR",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "name" : "Keyrune - Izzet",
-    "p" : "4000",
-    "b" : "GGR"
+    "name" : "Izzet Keyrune",
+    "page" : "GGR",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
-    "b" : "GGR",
-    "name" : "Keyrune - Orzhov"
+    "name" : "Orzhov Keyrune",
+    "page" : "GGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
-    "b" : "GGR",
-    "name" : "Keyrune - Rakdos"
+    "name" : "Rakdos Keyrune",
+    "page" : "GGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "GGR",
-    "p" : "2000",
-    "r" : "?",
-    "name" : "Keyrune - Selesnya"
+    "name" : "Selesnya Keyrune",
+    "page" : "GGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "name" : "Keyrune - Simic",
-    "p" : "2000",
-    "r" : "?",
-    "b" : "GGR"
+    "name" : "Simic Keyrune",
+    "page" : "GGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
-    "r" : "?",
-    "b" : "GGR",
-    "name" : "Guild Signet"
+    "name" : "Guild Signet",
+    "page" : "GGR",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Illusionist's Bracers",
-    "b" : "GGR",
-    "p" : "15000",
-    "r" : "?"
+    "page" : "GGR",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
     "name" : "Mizzium Apparatus",
-    "p" : "1300",
-    "r" : "?",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "1300",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
     "name" : "Mizzium Armor",
-    "r" : "?",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
     "name" : "Mizium Mortar",
-    "b" : "GGR",
-    "r" : "?"
+    "page" : "GGR",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "5",
-    "r" : "?",
     "name" : "Moodmark Paint",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
     "name" : "Pariah's Shield",
-    "b" : "GGR",
-    "p" : "10000",
-    "r" : "?"
+    "page" : "GGR",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "12000",
     "name" : "Peregrine's Mask",
-    "r" : "?",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "GGR",
-    "p" : "50",
-    "name" : "Pyroconverger"
+    "name" : "Pyroconverger",
+    "page" : "GGR",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "18000",
     "name" : "Rakdos Riteknife",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "18000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "b" : "GGR",
     "name" : "Skyblinder Staff",
-    "r" : "?"
+    "page" : "GGR",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Spies' Murmur",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Sunforger",
-    "b" : "GGR",
-    "p" : "3000",
-    "r" : "?"
+    "page" : "GGR",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Sword of the Paruns",
-    "r" : "?",
-    "b" : "GGR",
-    "p" : "6000"
+    "page" : "GGR",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
     "name" : "Voyager Staff",
-    "p" : "90000",
-    "r" : "?",
-    "b" : "GGR"
+    "page" : "GGR",
+    "price" : "90000",
+    "rarity" : "?"
   },
   {
     "name" : "Armor of Gleaming",
-    "b" : "XGE",
-    "p" : "200",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "p" : "1",
-    "r" : "?",
     "name" : "Bead of Nourishment",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
     "name" : "Bead of Refreshment",
-    "p" : "1",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
-    "p" : "200",
     "name" : "Boots of False Tracks",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "200",
-    "name" : "Candle of the Deep"
+    "name" : "Candle of the Deep",
+    "page" : "XGE",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
     "name" : "Cast-Off Armor",
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "200"
+    "page" : "XGE",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Charlatan's Die",
-    "p" : "1000",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Cloak of Billowing",
-    "p" : "100",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "100",
-    "name" : "Cloak of Many Fashions"
+    "name" : "Cloak of Many Fashions",
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Clockwork Amulet",
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "500"
+    "page" : "XGE",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Clothes of Mending",
-    "p" : "100",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "300",
     "name" : "Dark Shard Amulet",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
     "name" : "Dread Helm",
-    "p" : "100"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Ear Horn of Hearing",
-    "b" : "XGE",
-    "p" : "200"
+    "page" : "XGE",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
     "name" : "Enduring Spellbook",
-    "p" : "100"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Ersatz Eye",
-    "p" : "100",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Hat of Vermin",
-    "b" : "XGE",
-    "p" : "150"
+    "page" : "XGE",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
     "name" : "Hat of Wizardry",
-    "r" : "?",
-    "p" : "300",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
-    "r" : "?",
     "name" : "Heward's Handy Spice Pouch",
-    "p" : "50"
+    "page" : "XGE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "100",
-    "name" : "Horn of Silent Alarm"
+    "name" : "Horn of Silent Alarm",
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "r" : "?",
-    "b" : "XGE",
-    "name" : "Instrument of Illusions"
+    "name" : "Instrument of Illusions",
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Instrument of Scribing",
-    "p" : "100",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "r" : "?",
     "name" : "Lock of Trickery",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "r" : "?",
-    "b" : "XGE",
-    "name" : "Moon-Touched Sword"
+    "name" : "Moon-Touched Sword",
+    "page" : "XGE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "5",
-    "name" : "Mystery Key"
+    "name" : "Mystery Key",
+    "page" : "XGE",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "20",
-    "name" : "Orb of Direction"
+    "name" : "Orb of Direction",
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "p" : "20",
-    "r" : "?",
-    "b" : "XGE",
-    "name" : "Orb of Time"
+    "name" : "Orb of Time",
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Perfume of Bewitching",
-    "p" : "10",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "r" : "?",
-    "b" : "XGE",
-    "name" : "Pipe of Smoke Monsters"
+    "name" : "Pipe of Smoke Monsters",
+    "page" : "XGE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "20",
     "name" : "Pole of Angling",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "10",
     "name" : "Pole of Collapsing",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Pot of Awakening",
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "30"
+    "page" : "XGE",
+    "price" : "30",
+    "rarity" : "?"
   },
   {
     "name" : "Rope of Mending",
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "15"
+    "page" : "XGE",
+    "price" : "15",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "50",
-    "name" : "Ruby of the War Mage"
+    "name" : "Ruby of the War Mage",
+    "page" : "XGE",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Shield of Expression",
-    "r" : "?",
-    "p" : "100",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "100",
-    "name" : "Smoldering Armor"
+    "name" : "Smoldering Armor",
+    "page" : "XGE",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Staff of Adornment",
-    "p" : "20",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Staff of Birdcalls",
-    "r" : "?",
-    "p" : "20"
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
     "name" : "Staff of Flowers",
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "20"
+    "page" : "XGE",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
     "name" : "Talking Doll",
-    "p" : "30",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "30",
+    "rarity" : "?"
   },
   {
-    "p" : "10",
-    "b" : "XGE",
-    "r" : "?",
-    "name" : "Tankard of Sobriety"
+    "name" : "Tankard of Sobriety",
+    "page" : "XGE",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "XGE",
     "name" : "Unbreakable Arrow",
-    "p" : "1"
+    "page" : "XGE",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
     "name" : "Veteran's Cane",
-    "p" : "45",
-    "b" : "XGE",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "45",
+    "rarity" : "?"
   },
   {
-    "p" : "5",
     "name" : "Walloping Ammunition",
-    "r" : "?",
-    "b" : "XGE"
+    "page" : "XGE",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "25",
-    "b" : "XGE",
-    "name" : "Wand of Conducting"
+    "name" : "Wand of Conducting",
+    "page" : "XGE",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
     "name" : "Wand of Pyrotechnics",
-    "b" : "XGE",
-    "r" : "?",
-    "p" : "25"
+    "page" : "XGE",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
     "name" : "Wand of Scowls",
-    "r" : "?",
-    "b" : "XGE",
-    "p" : "25"
+    "page" : "XGE",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
-    "b" : "XGE",
     "name" : "Wand of Smiles",
-    "p" : "25",
-    "r" : "?"
+    "page" : "XGE",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
     "name" : "Akmon, Hammer of Purphoros",
-    "r" : "?",
-    "p" : "80000"
+    "page" : "MOT",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
-    "r" : "?",
     "name" : "Dekella, Bident of Thassa",
-    "p" : "80000"
+    "page" : "MOT",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
-    "p" : "80000",
-    "r" : "?",
     "name" : "Ephixis, Bow of Nylea",
-    "b" : "MOT"
+    "page" : "MOT",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
     "name" : "Flying Chariot",
-    "p" : "12000",
-    "r" : "?",
-    "b" : "MOT"
+    "page" : "MOT",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
     "name" : "Helm of the Gods",
-    "p" : "7500",
-    "r" : "?"
+    "page" : "MOT",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
-    "r" : "?",
-    "p" : "80000",
-    "name" : "Khrusor, Spear of Heliod"
+    "name" : "Khrusor, Spear of Heliod",
+    "page" : "MOT",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
     "name" : "Mastix, Whip of Erebos",
-    "b" : "MOT",
-    "r" : "?",
-    "p" : "80000"
+    "page" : "MOT",
+    "price" : "80000",
+    "rarity" : "?"
   },
   {
     "name" : "Molten Bronze Skin (Breastplate)",
-    "r" : "?",
-    "b" : "MOT",
-    "p" : "7000"
+    "page" : "MOT",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
     "name" : "Molten Bronze Skin (Half Plate)",
-    "p" : "7350",
-    "r" : "?",
-    "b" : "MOT"
+    "page" : "MOT",
+    "price" : "7350",
+    "rarity" : "?"
   },
   {
     "name" : "Molten Bronze Skin (Plate)",
-    "r" : "?",
-    "b" : "MOT",
-    "p" : "8100"
+    "page" : "MOT",
+    "price" : "8100",
+    "rarity" : "?"
   },
   {
     "name" : "Potion of Aqueous Form",
-    "p" : "300",
-    "b" : "MOT",
-    "r" : "?"
+    "page" : "MOT",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
     "name" : "Pyxis of Pandemonium",
-    "p" : "10000",
-    "b" : "MOT",
-    "r" : "?"
+    "page" : "MOT",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1000",
-    "b" : "MOT",
-    "name" : "Siren Song Lyre"
+    "name" : "Siren Song Lyre",
+    "page" : "MOT",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "p" : "15000",
-    "r" : "?",
     "name" : "Sling Bullets of Althemone",
-    "b" : "MOT"
+    "page" : "MOT",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
     "name" : "Two-Birds Sling",
-    "r" : "?",
-    "b" : "MOT",
-    "p" : "1500"
+    "page" : "MOT",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
-    "r" : "?",
     "name" : "Piety 1",
-    "p" : "100"
+    "page" : "MOT",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "MOT",
     "name" : "Piety 3",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "MOT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Piety 10",
-    "p" : "15000",
-    "b" : "MOT",
-    "r" : "?"
+    "page" : "MOT",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50000",
-    "b" : "MOT",
-    "name" : "Piety 25"
+    "name" : "Piety 25",
+    "page" : "MOT",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "200000",
     "name" : "Piety 50",
-    "b" : "MOT"
+    "page" : "MOT",
+    "price" : "200000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
-    "r" : "?",
-    "b" : "WDW",
-    "name" : "Bobbing Lily Pad"
+    "name" : "Bobbing Lily Pad",
+    "page" : "WDW",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "b" : "WDW",
     "name" : "Chromatic Rose",
-    "r" : "?"
+    "page" : "WDW",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "WDW",
-    "p" : "500",
     "name" : "Dust of Corrosion",
-    "r" : "?"
+    "page" : "WDW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "20000",
     "name" : "Eldritch Staff",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDW",
-    "p" : "100000",
-    "r" : "?",
-    "name" : "Iggwilv's Cauldron"
+    "name" : "Iggwilv's Cauldron",
+    "page" : "WDW",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
     "name" : "Ornithopter of Flying",
-    "p" : "7000",
-    "r" : "?",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDW",
-    "r" : "?",
     "name" : "Pixie Dust",
-    "p" : "250"
+    "page" : "WDW",
+    "price" : "250",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "100",
     "name" : "Potion of Advantage",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
-    "b" : "WDW",
-    "name" : "Scissors of Shadow Snipping"
+    "name" : "Scissors of Shadow Snipping",
+    "page" : "WDW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "24000",
     "name" : "Snicker-Snack",
-    "r" : "?",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "24000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDW",
     "name" : "Steel",
-    "r" : "?",
-    "p" : "6000"
+    "page" : "WDW",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "18000",
     "name" : "Witchlight Vane",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "18000",
+    "rarity" : "?"
   },
   {
-    "p" : "18000",
     "name" : "Witchlight Watch",
-    "r" : "?",
-    "b" : "WDW"
+    "page" : "WDW",
+    "price" : "18000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDW",
     "name" : "Woodcutters Axe",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "WDW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
     "name" : "+1 Dragonhide Belt",
-    "b" : "FTD",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "+2 Dragonhide Belt",
-    "b" : "FTD",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
-    "b" : "FTD",
     "name" : "+3 Dragonhide Belt",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "Amethyst Lodestone",
-    "r" : "?",
-    "b" : "FTD",
-    "p" : "10000"
+    "page" : "FTD",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "name" : "Slumbering Dragon Vessel",
-    "r" : "?",
-    "b" : "FTD",
-    "p" : "800"
+    "name" : "Dragon Vessel (Wakened)",
+    "page" : "FTD",
+    "price" : "800",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Dragon Wing Bow",
-    "b" : "FTD",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "250",
-    "name" : "Slumbering Dragon Touched Focus",
-    "r" : "?",
-    "b" : "FTD"
+    "name" : "Dragon-Touched Focus (Wakened)",
+    "page" : "FTD",
+    "price" : "250",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "FTD",
-    "p" : "1250",
-    "name" : "Stirring Dragon Touched Focus"
+    "name" : "Dragon-Touched Focus (Stirring)",
+    "page" : "FTD",
+    "price" : "1250",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Wakened Dragon Touched Focus",
-    "b" : "FTD",
-    "p" : "5000"
+    "page" : "FTD",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "name" : "Ascendant Dragon Touched Focus",
-    "p" : "20000",
-    "b" : "FTD",
-    "r" : "?"
+    "name" : "Dragon-Touched Focus (Ascendant)",
+    "page" : "FTD",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "Dragonlance",
-    "r" : "?",
-    "b" : "FTD",
-    "p" : "18000"
+    "page" : "FTD",
+    "price" : "18000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
     "name" : "Emerald Pen",
-    "r" : "?",
-    "b" : "FTD"
+    "page" : "FTD",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "40000",
-    "b" : "FTD",
-    "name" : "Flail of Tiamat"
+    "name" : "Flail of Tiamat",
+    "page" : "FTD",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "FTD",
-    "p" : "13000",
-    "name" : "Gold Canary Figurine"
+    "name" : "Gold Canary Figurine",
+    "page" : "FTD",
+    "price" : "13000",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
-    "r" : "?",
     "name" : "Platinum Scarf",
-    "b" : "FTD"
+    "page" : "FTD",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "p" : "50000",
-    "b" : "FTD",
     "name" : "Ruby Weave Gem",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "p" : "24000",
     "name" : "Sapphire Buckler",
-    "b" : "FTD",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "24000",
+    "rarity" : "?"
   },
   {
-    "p" : "250",
     "name" : "Slumbering Scaled Oranment",
-    "r" : "?",
-    "b" : "FTD"
+    "page" : "FTD",
+    "price" : "250",
+    "rarity" : "?"
   },
   {
-    "b" : "FTD",
-    "name" : "Stirring Scaled Ornament",
-    "p" : "2000",
-    "r" : "?"
+    "name" : "Scaled Ornament (Stirring)",
+    "page" : "FTD",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Wakened Scaled Ornament",
-    "p" : "6000",
-    "b" : "FTD"
+    "page" : "FTD",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "b" : "FTD",
-    "name" : "Ascendant Scaled Ornament",
-    "p" : "12000",
-    "r" : "?"
+    "name" : "Scaled Ornament (Ascendant)",
+    "page" : "FTD",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Topaz Annihilator",
-    "b" : "FTD",
-    "p" : "10000"
+    "page" : "FTD",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "name" : "Stirring Dragon Vessel",
-    "b" : "FTD",
-    "p" : "2500"
+    "name" : "Dragon Vessel (Stirring)",
+    "page" : "FTD",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "FTD",
-    "p" : "7500",
     "name" : "Wakened Dragon Vessel",
-    "r" : "?"
+    "page" : "FTD",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "23000",
-    "name" : "Ascendant Dragon Vessel",
-    "b" : "FTD"
+    "name" : "Dragon Vessel (Ascendant)",
+    "page" : "FTD",
+    "price" : "23000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "FTD",
     "name" : "Potion of Dragon's Majesty",
-    "p" : "10000"
+    "page" : "FTD",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "b" : "FTD",
-    "p" : "1500",
-    "name" : "Slumbering Dragon's Wrath Weapon",
-    "r" : "?"
+    "name" : "Dragon's Wrath Weapon (Wakened) (any)",
+    "page" : "FTD",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "30000",
-    "name" : "Stirring Dragon's Wrath Weapon",
-    "b" : "FTD"
+    "name" : "Dragon's Wrath Weapon (Stirring) (any)",
+    "page" : "FTD",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "b" : "FTD",
     "name" : "Wakened Dragon's Wrath Weapon",
-    "r" : "?",
-    "p" : "12000"
+    "page" : "FTD",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "name" : "Ascendant Dragon's Wrath Weapon",
-    "p" : "40000",
-    "r" : "?",
-    "b" : "FTD"
+    "name" : "Dragon's Wrath Weapon (Ascendant) (any)",
+    "page" : "FTD",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
     "name" : "Alchemy Jug (Blue)",
-    "r" : "?",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
     "name" : "Alchemy Jug (Orange)",
-    "b" : "CM",
-    "p" : "6000",
-    "r" : "?"
+    "page" : "CM",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Cracked Driftglobe",
-    "p" : "10",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Gloves of Soul Catching",
-    "b" : "CM",
-    "p" : "25000",
-    "r" : "?"
+    "page" : "CM",
+    "price" : "25000",
+    "rarity" : "?"
   },
   {
-    "b" : "CM",
     "name" : "Nether Scroll of Azumar",
-    "r" : "?",
-    "p" : "200000"
+    "page" : "CM",
+    "price" : "200000",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "r" : "?",
     "name" : "Orcus Figurine",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Radiance",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Serpent Scale Armor",
-    "r" : "?",
-    "p" : "10000",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "4500",
-    "r" : "?",
-    "b" : "CM",
-    "name" : "Serpent's Fang"
+    "name" : "Serpent's Fang",
+    "page" : "CM",
+    "price" : "4500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "17000",
-    "b" : "CM",
-    "name" : "Staff of Fate"
+    "name" : "Staff of Fate",
+    "page" : "CM",
+    "price" : "17000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "b" : "CM",
     "name" : "Stonky's Ring",
-    "r" : "?"
+    "page" : "CM",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Watchful Helm",
-    "r" : "?",
-    "p" : "2500",
-    "b" : "CM"
+    "page" : "CM",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
     "name" : "Fargab",
-    "b" : "DSDQ",
-    "r" : "?"
+    "page" : "DSDQ",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Flying Citadel Helm",
-    "r" : "?",
-    "p" : "6000",
-    "b" : "DSDQ"
+    "page" : "DSDQ",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "DSDQ",
-    "p" : "1",
-    "name" : "Hoopak"
+    "name" : "Hoopak",
+    "page" : "DSDQ",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Kagonesti Forest Shroud",
-    "b" : "DSDQ",
-    "p" : "50000"
+    "page" : "DSDQ",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
     "name" : "Mirror of Reflected Pasts",
-    "r" : "?",
-    "b" : "DSDQ",
-    "p" : "4000"
+    "page" : "DSDQ",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
     "name" : "Narycrash",
-    "r" : "?",
-    "b" : "DSDQ",
-    "p" : "1500"
+    "page" : "DSDQ",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Acheron Blade",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
     "name" : "Amulet of the Drunkard",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Arcane Cannon",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "5000"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
     "name" : "Battering Shield",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "p" : "2000",
-    "r" : "?",
-    "name" : "Blade of Broken Mirrors (Dormant)"
+    "name" : "Blade of Broken Mirrors (Dormant)",
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "p" : "8000",
-    "r" : "?",
-    "name" : "Blade of Broken Mirrors (Awakened)"
+    "name" : "Blade of Broken Mirrors (Awakened)",
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "30000",
-    "name" : "Blade of Broken Mirrors (Exalted)"
+    "name" : "Blade of Broken Mirrors (Exalted)",
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
     "name" : "Blasting Powder",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "1"
+    "page" : "EGW",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "p" : "1",
     "name" : "Explosive Seed",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
     "name" : "Bloodaxe",
-    "p" : "5000",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Breathing Bubble",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "500"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Brooch of Living Essence",
-    "b" : "EGW",
-    "r" : "?",
-    "p" : "50"
+    "page" : "EGW",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "1500",
-    "name" : "Butcher's Bib"
+    "name" : "Butcher's Bib",
+    "page" : "EGW",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "p" : "5",
     "name" : "Coin of Delving",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Corpse Slayer",
-    "b" : "EGW",
-    "p" : "5000"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "2000",
     "name" : "Danoth's Visor (Dormant)",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Danoth's Visor (Awakened)",
-    "p" : "5000",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "10000",
     "name" : "Danoth's Visor (Exalted)",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "b" : "EGW",
     "name" : "Dispelling Stone",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "10000",
-    "name" : "Duskcrusher"
+    "name" : "Duskcrusher",
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Dust of Deliciousness",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "10"
+    "page" : "EGW",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "p" : "100",
-    "r" : "?",
-    "name" : "Goggles of Object Reading"
+    "name" : "Goggles of Object Reading",
+    "page" : "EGW",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Grimoire Infinitus (Dormant)",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "500"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Grimoire Infinitus (Awakened)",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "r" : "?",
     "name" : "Grimoire Infinitus (Exalted)",
-    "p" : "5000"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Grovelthrash (Dormant)",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
     "name" : "Grovelthrash (Awakened)",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
-    "r" : "?",
-    "b" : "EGW",
-    "name" : "Grovelthrash (Exalted)"
+    "name" : "Grovelthrash (Exalted)",
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "3000",
     "name" : "Hide of the Feral Guardian (Dormant)",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Hide of the Feral Guardian (Awakened)",
-    "p" : "10000",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
     "name" : "Hide of the Feral Guardian (Exalted)",
-    "p" : "40000"
+    "page" : "EGW",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
     "name" : "Hunter's Coat",
-    "p" : "3000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "b" : "EGW",
     "name" : "Infiltrator's Key (Dormant)",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Infiltrator's Key (Awakened)",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "3000"
+    "page" : "EGW",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "15000",
-    "r" : "?",
     "name" : "Infiltrator's Key (Exalted)",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "2000",
-    "name" : "Lash of Shadows (Dormant)"
+    "name" : "Lash of Shadows (Dormant)",
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "8000",
-    "b" : "EGW",
-    "name" : "Lash of Shadows (Awakened)"
+    "name" : "Lash of Shadows (Awakened)",
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "30000",
-    "name" : "Lash of Shadows (Exalted)"
+    "name" : "Lash of Shadows (Exalted)",
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "p" : "2500",
-    "r" : "?",
     "name" : "Last Stand Armor",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "r" : "?",
-    "p" : "2000",
-    "name" : "Luxon Beacon"
+    "name" : "Luxon Beacon",
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Mace of the Black Crown (Dormant)",
-    "b" : "EGW",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Mace of the Black Crown (Awakened)",
-    "p" : "8000",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "p" : "30000",
-    "r" : "?",
-    "name" : "Mace of the Black Crown (Exalted)"
+    "name" : "Mace of the Black Crown (Exalted)",
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1500",
     "name" : "Needle of Mending",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
-    "r" : "?",
     "name" : "Orb of the Veil",
-    "p" : "4000"
+    "page" : "EGW",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "b" : "EGW",
-    "r" : "?",
-    "name" : "Potion of Maximum Power"
+    "name" : "Potion of Maximum Power",
+    "page" : "EGW",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Potion of Possibility",
-    "b" : "EGW",
-    "r" : "?",
-    "p" : "200"
+    "page" : "EGW",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
     "name" : "Reincarnation Dust",
-    "p" : "1000",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Ring of Obscuring",
-    "r" : "?",
-    "p" : "1800",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "1800",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
     "name" : "Ring of Temporal Salvation",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "r" : "?",
-    "b" : "EGW",
-    "name" : "Rod of Retribution"
+    "name" : "Rod of Retribution",
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Ruin's Wake (Dormant)",
-    "p" : "2000",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
     "name" : "Ruin's Wake (Awakened)",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
     "name" : "Ruin's Wake (Exalted)",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
     "name" : "Silken Spite (Dormant)",
-    "b" : "EGW",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
     "name" : "Silken Spite (Awakened)",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
-    "b" : "EGW",
     "name" : "Silken Spite (Exalted)",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
     "name" : "Spell Bottle",
-    "b" : "EGW",
-    "p" : "10000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Staff of Dunamancy",
-    "p" : "10000",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "2000",
-    "name" : "Staff of the Ivory Claw"
+    "name" : "Staff of the Ivory Claw",
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Stormgirdle (Dormant)",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
-    "b" : "EGW",
     "name" : "Stormgirdle (Awakened)",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
     "name" : "Stormgirdle (Exalted)",
-    "b" : "EGW",
-    "p" : "30000",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "The Bloody End (Dormant)",
-    "b" : "EGW",
-    "p" : "2000"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
     "name" : "The Bloody End (Awakened)",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
-    "b" : "EGW",
     "name" : "The Bloody End (Exalted)",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Verminshroud (Dormant)",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Verminshroud (Awakened)",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "5000"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "10000",
-    "b" : "EGW",
-    "r" : "?",
-    "name" : "Verminshroud (Exalted)"
+    "name" : "Verminshroud (Exalted)",
+    "page" : "EGW",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Vox Seeker",
-    "r" : "?",
-    "b" : "EGW",
-    "p" : "500"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Weapon of Certain Death",
-    "r" : "?",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "EGW",
     "name" : "Will of the Talon (Dormant)",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "EGW",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "r" : "?",
     "name" : "Will of the Talon (Awakened)",
-    "b" : "EGW"
+    "page" : "EGW",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Will of the Talon (Exalted)",
-    "p" : "30000",
-    "b" : "EGW",
-    "r" : "?"
+    "page" : "EGW",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Biza's Breath",
-    "b" : "JttRC",
-    "p" : "150"
+    "page" : "JttRC",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
     "name" : "Black Ghost Orchid Seed",
-    "p" : "300",
-    "r" : "?",
-    "b" : "JttRC"
+    "page" : "JttRC",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1000",
     "name" : "White Ghost Orchid Seed",
-    "b" : "JttRC"
+    "page" : "JttRC",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Hammock of Worlds",
-    "b" : "JttRC",
-    "r" : "?",
-    "p" : "10000"
+    "page" : "JttRC",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Lesser Hammock of Worlds",
-    "r" : "?",
-    "b" : "JttRC",
-    "p" : "75000"
+    "page" : "JttRC",
+    "price" : "75000",
+    "rarity" : "?"
   },
   {
-    "b" : "SCC",
-    "p" : "150",
     "name" : "Alchemist's Doom",
-    "r" : "?"
+    "page" : "SCC",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
-    "p" : "10",
     "name" : "Catapult Munition",
-    "r" : "?",
-    "b" : "SCC"
+    "page" : "SCC",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Murgaxor's Elixir of Life",
-    "p" : "50",
-    "b" : "SCC"
+    "page" : "SCC",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "SCC",
     "name" : "Bottle of Boundless Coffee",
-    "p" : "10"
+    "page" : "SCC",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Cuddly Strixhaven Mascot",
-    "b" : "SCC",
-    "p" : "5",
-    "r" : "?"
+    "page" : "SCC",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "b" : "SCC",
-    "r" : "?",
-    "p" : "500",
-    "name" : "Lorehold Primer"
+    "name" : "Lorehold Primer",
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "SCC",
-    "p" : "200",
-    "name" : "Masque Charm"
+    "name" : "Masque Charm",
+    "page" : "SCC",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Murgaxor's Orb",
-    "b" : "SCC",
-    "r" : "?"
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Prismari Primer",
-    "b" : "SCC",
-    "p" : "500"
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "r" : "?",
-    "b" : "SCC",
-    "name" : "Quandrix Primer"
+    "name" : "Quandrix Primer",
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "500",
-    "b" : "SCC",
-    "name" : "Silverquill Primer"
+    "name" : "Silverquill Primer",
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "SCC",
     "name" : "Strixhaven Primer",
-    "r" : "?",
-    "p" : "500"
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "SCC",
-    "r" : "?",
     "name" : "Witherbloom Primer",
-    "p" : "500"
+    "page" : "SCC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "100000",
     "name" : "Book of Vile Darkness (Preset Properties)",
-    "b" : "KGV"
+    "page" : "KGV",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "p" : "15000",
-    "r" : "?",
-    "b" : "KGV",
-    "name" : "Shard of Xeluan"
+    "name" : "Shard of Xeluan",
+    "page" : "KGV",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
     "name" : "Shard Solitaire - Black Sapphire",
-    "p" : "6000",
-    "b" : "KGV",
-    "r" : "?"
+    "page" : "KGV",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "b" : "KGV",
-    "r" : "?",
     "name" : "Shard Solitaire - Diamond",
-    "p" : "6000"
+    "page" : "KGV",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "KGV",
-    "p" : "5500",
-    "name" : "Shard Solitaire - Jacinth"
+    "name" : "Shard Solitaire - Jacinth",
+    "page" : "KGV",
+    "price" : "5500",
+    "rarity" : "?"
   },
   {
-    "b" : "KGV",
-    "p" : "5000",
     "name" : "Shard Solitaire - Rainbow Pearl",
-    "r" : "?"
+    "page" : "KGV",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "KGV",
     "name" : "Shard Solitaire - Ruby",
-    "r" : "?",
-    "p" : "5500"
+    "page" : "KGV",
+    "price" : "5500",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "r" : "?",
     "name" : "Tangler Grenade",
-    "p" : "50"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "p" : "700",
     "name" : "Vial of Stardust",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "700",
+    "rarity" : "?"
   },
   {
-    "p" : "2500",
-    "b" : "WDMM",
-    "r" : "?",
-    "name" : "Black Crystal Tablet"
+    "name" : "Black Crystal Tablet",
+    "page" : "WDMM",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "p" : "5000",
-    "r" : "?",
-    "name" : "Blast Scepter"
+    "name" : "Blast Scepter",
+    "page" : "WDMM",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Chest of Preserving",
-    "b" : "WDMM",
-    "p" : "100"
+    "page" : "WDMM",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
     "name" : "Circlet of Human Perfection",
-    "r" : "?",
-    "b" : "WDMM"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Dagger of Blind Sight",
-    "b" : "WDMM",
-    "r" : "?",
-    "p" : "250"
+    "page" : "WDMM",
+    "price" : "250",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Dagger of Guitar Solos",
-    "b" : "WDMM",
-    "p" : "50"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Dodecahedron of Doom",
-    "b" : "WDMM",
-    "r" : "?",
-    "p" : "1000"
+    "page" : "WDMM",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Falkir's Helm of Pigheadedness",
-    "p" : "1",
-    "b" : "WDMM",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
     "name" : "Helm of the Scavenger",
-    "b" : "WDMM",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "b" : "WDMM",
     "name" : "Horn of the Endless Maze",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50",
     "name" : "Horned Ring",
-    "b" : "WDMM"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Jade Serpent Staff",
-    "r" : "?",
-    "p" : "200",
-    "b" : "WDMM"
+    "page" : "WDMM",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "p" : "1",
     "name" : "Maddgoth's Helm",
-    "b" : "WDMM",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "r" : "?",
     "name" : "Mind Flayer Skull",
-    "p" : "100"
+    "page" : "WDMM",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "r" : "?",
-    "b" : "WDMM",
-    "name" : "Orb of Gonging"
+    "name" : "Orb of Gonging",
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
     "name" : "Pearl of Undead Detection",
-    "r" : "?",
-    "b" : "WDMM"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "p" : "70",
     "name" : "Potion of Comprehension",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "70",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "r" : "?",
-    "p" : "50",
-    "name" : "Potion of Watchful Rest"
+    "name" : "Potion of Watchful Rest",
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Professor Orb",
-    "r" : "?",
-    "b" : "WDMM",
-    "p" : "50"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
     "name" : "Propeller Helm",
-    "p" : "750",
-    "r" : "?"
+    "page" : "WDMM",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
     "name" : "Shield of the Uven Rune",
-    "r" : "?",
-    "b" : "WDMM"
+    "page" : "WDMM",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "r" : "?",
     "name" : "Tearulai",
-    "p" : "2000"
+    "page" : "WDMM",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDMM",
-    "r" : "?",
-    "p" : "1000",
-    "name" : "Vanrak's Mithril Shirt"
+    "name" : "Vanrak's Mithril Shirt",
+    "page" : "WDMM",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "WDMM",
     "name" : "Wyllow's Staff of Flowers",
-    "p" : "50"
+    "page" : "WDMM",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Earring of Message",
-    "b" : "CRCotN",
-    "r" : "?"
+    "page" : "CRCotN",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "CRCotN",
     "name" : "Jewel of Three Prayers (Dormant)",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "CRCotN",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "CRCotN",
-    "p" : "8000",
     "name" : "Jewel of Three Prayers (Awakened)",
-    "r" : "?"
+    "page" : "CRCotN",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "30000",
     "name" : "Jewel of Three Prayers (Exalted)",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
     "name" : "Medal of Muscle",
-    "b" : "CRCotN",
-    "r" : "?",
-    "p" : "50"
+    "page" : "CRCotN",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "CRCotN",
     "name" : "Medal of the Conch",
-    "p" : "20",
-    "r" : "?"
+    "page" : "CRCotN",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Medal of the Horizonback",
-    "b" : "CRCotN",
-    "p" : "50"
+    "page" : "CRCotN",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "CRCotN",
     "name" : "Medal of the Maze",
-    "p" : "50",
-    "r" : "?"
+    "page" : "CRCotN",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "40",
     "name" : "Medal of the Meat Pie",
-    "r" : "?",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "40",
+    "rarity" : "?"
   },
   {
     "name" : "Medal of the Wetlands",
-    "p" : "20",
-    "r" : "?",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "CRCotN",
     "name" : "Medal of Wit",
-    "p" : "50"
+    "page" : "CRCotN",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "15000",
     "name" : "Ring of Red Fury",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
     "name" : "Ruidium Armor",
-    "b" : "CRCotN",
-    "r" : "?",
-    "p" : "5000"
+    "page" : "CRCotN",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
     "name" : "Ruidium Shield",
-    "r" : "?",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "r" : "?",
-    "b" : "CRCotN",
-    "name" : "Riudium Weapon"
+    "name" : "Riudium Weapon",
+    "page" : "CRCotN",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Teleportation Tablet",
-    "r" : "?",
-    "b" : "CRCotN"
+    "page" : "CRCotN",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Helm of Disjunction",
-    "r" : "?",
-    "b" : "D&D Beyond",
-    "p" : "100000"
+    "page" : "D&D Beyond",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "p" : "2500",
-    "b" : "D&D Beyond",
-    "r" : "?",
-    "name" : "Hither-Tither Staff"
+    "name" : "Hither-Tither Staff",
+    "page" : "D&D Beyond",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "D&D Beyond",
     "name" : "Horn of Beckoning Death",
-    "p" : "500",
-    "r" : "?"
+    "page" : "D&D Beyond",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "D&D Beyond",
     "name" : "Red Wizard Blade",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "D&D Beyond",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "D&D Beyond",
-    "p" : "10240",
     "name" : "Tablet of Reawakening",
-    "r" : "?"
+    "page" : "D&D Beyond",
+    "price" : "10240",
+    "rarity" : "?"
   },
   {
     "name" : "Hooked Shortspear",
-    "r" : "?",
-    "b" : "OoTA",
-    "p" : "1"
+    "page" : "OoTA",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50",
-    "b" : "OoTA",
-    "name" : "Light Repeating Crossbow"
+    "name" : "Light Repeating Crossbow",
+    "page" : "OoTA",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "OoTA",
     "name" : "Dawnbringer",
-    "r" : "?",
-    "p" : "10000"
+    "page" : "OoTA",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Gravenhollow Compas Ring",
-    "p" : "50",
-    "r" : "?",
-    "b" : "OoTA"
+    "page" : "OoTA",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "OoTA",
-    "p" : "3500",
     "name" : "Piwafwi",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "3500",
+    "rarity" : "?"
   },
   {
     "name" : "Piwafwi of Fire Resistance",
-    "p" : "6000",
-    "r" : "?",
-    "b" : "OoTA"
+    "page" : "OoTA",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Spell Gem (Amber)",
-    "b" : "OoTA",
-    "p" : "3200"
+    "page" : "OoTA",
+    "price" : "3200",
+    "rarity" : "?"
   },
   {
     "name" : "Spell Gem (Bloodstone)",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "OoTA"
+    "page" : "OoTA",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "OoTA",
-    "p" : "102400",
     "name" : "Spell Gem (Diamond)",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "102400",
+    "rarity" : "?"
   },
   {
     "name" : "Spell Gem (Jade)",
-    "p" : "6400",
-    "r" : "?",
-    "b" : "OoTA"
+    "page" : "OoTA",
+    "price" : "6400",
+    "rarity" : "?"
   },
   {
-    "b" : "OoTA",
-    "p" : "600",
     "name" : "Spell Gem (Lapis Lazuli)",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "600",
+    "rarity" : "?"
   },
   {
     "name" : "Spell Gem (Obsidian)",
-    "b" : "OoTA",
-    "p" : "100",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "OoTA",
-    "p" : "1200",
     "name" : "Spell Gem (Quartz)",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "1200",
+    "rarity" : "?"
   },
   {
-    "p" : "51200",
-    "r" : "?",
-    "b" : "OoTA",
-    "name" : "Spell Gem (Ruby)"
+    "name" : "Spell Gem (Ruby)",
+    "page" : "OoTA",
+    "price" : "51200",
+    "rarity" : "?"
   },
   {
     "name" : "Spell Gem (Star Ruby)",
-    "p" : "25600",
-    "b" : "OoTA",
-    "r" : "?"
+    "page" : "OoTA",
+    "price" : "25600",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "OoTA",
-    "p" : "12800",
-    "name" : "Spell Gem (Topaz)"
+    "name" : "Spell Gem (Topaz)",
+    "page" : "OoTA",
+    "price" : "12800",
+    "rarity" : "?"
   },
   {
-    "p" : "100000",
     "name" : "Black Dragon Mask",
-    "r" : "?",
-    "b" : "HotDQ"
+    "page" : "HotDQ",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "p" : "100000",
-    "r" : "?",
     "name" : "Blue Dragon Mask",
-    "b" : "RoTOS"
+    "page" : "RoTOS",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "b" : "RoT",
     "name" : "Draakhorn",
-    "r" : "?",
-    "p" : "20000"
+    "page" : "RoT",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "HotDQ",
-    "p" : "500",
-    "r" : "?",
-    "name" : "Dragongleam"
+    "name" : "Dragongleam",
+    "page" : "HotDQ",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Dragontooth Dagger",
-    "p" : "8000",
-    "b" : "RoT"
+    "page" : "RoT",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "100000",
     "name" : "Green Dragon Mask",
-    "b" : "RoTOS"
+    "page" : "RoTOS",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "HotDQ",
-    "p" : "10000",
-    "name" : "Hazirawn"
+    "name" : "Hazirawn",
+    "page" : "HotDQ",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Insignia of Claws",
-    "r" : "?",
-    "b" : "HotDQ",
-    "p" : "1000"
+    "page" : "HotDQ",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Mask of the Dragon Queen",
-    "r" : "?",
-    "p" : "175000",
-    "b" : "RoT"
+    "page" : "RoT",
+    "price" : "175000",
+    "rarity" : "?"
   },
   {
     "name" : "Red Dragon Mask",
-    "r" : "?",
-    "p" : "100000",
-    "b" : "RoTOS"
+    "page" : "RoTOS",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "b" : "HotDQ",
-    "p" : "10",
     "name" : "Tankard of Plenty",
-    "r" : "?"
+    "page" : "HotDQ",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "2000",
     "name" : "Wand of Winter",
-    "b" : "HotDQ"
+    "page" : "HotDQ",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "White Dragon Mask",
-    "r" : "?",
-    "p" : "100000",
-    "b" : "RoTOS"
+    "page" : "RoTOS",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "b" : "BGDIA",
-    "p" : "4000",
     "name" : "Battle Standard of Infernal Power",
-    "r" : "?"
+    "page" : "BGDIA",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "BGDIA",
-    "p" : "50000",
-    "r" : "?",
-    "name" : "Blade of Avernus"
+    "name" : "Blade of Avernus",
+    "page" : "BGDIA",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "p" : "1100",
     "name" : "Candle Mace",
-    "r" : "?",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "1100",
+    "rarity" : "?"
   },
   {
-    "p" : "40000",
-    "r" : "?",
     "name" : "Fane-Eater",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BGDIA",
-    "p" : "20000",
-    "name" : "Gauntlets of Flaming Fury"
+    "name" : "Gauntlets of Flaming Fury",
+    "page" : "BGDIA",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "BGDIA",
     "name" : "Hellfire Weapon",
-    "p" : "50",
-    "r" : "?"
+    "page" : "BGDIA",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "BGDIA",
-    "p" : "5000",
-    "r" : "?",
-    "name" : "Helm of Devil Command"
+    "name" : "Helm of Devil Command",
+    "page" : "BGDIA",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "r" : "?",
     "name" : "Infernal Puzzle Box",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "30000",
-    "r" : "?",
     "name" : "Matalotok",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "8000",
     "name" : "Obsidian Flint Dragon Plate",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BGDIA",
     "name" : "Shatterstick",
-    "p" : "50"
+    "page" : "BGDIA",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Shield of the Hidden Lord",
-    "p" : "23000",
-    "b" : "BGDIA",
-    "r" : "?"
+    "page" : "BGDIA",
+    "price" : "23000",
+    "rarity" : "?"
   },
   {
-    "b" : "BGDIA",
-    "p" : "2000",
-    "r" : "?",
-    "name" : "Soul Coin"
+    "name" : "Soul Coin",
+    "page" : "BGDIA",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "200000",
     "name" : "Sword of Zariel",
-    "r" : "?",
-    "b" : "BGDIA"
+    "page" : "BGDIA",
+    "price" : "200000",
+    "rarity" : "?"
   },
   {
-    "b" : "DC",
     "name" : "Gnomengarde Grenade",
-    "r" : "?",
-    "p" : "450"
+    "page" : "DC",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "p" : "5000 (Banned)",
-    "r" : "?",
     "name" : "Ruinstone",
-    "b" : "DC"
+    "page" : "DC",
+    "price" : "5000 (Banned)",
+    "rarity" : "?"
   },
   {
     "name" : "Winter's Dark Bit",
-    "b" : "HftT",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "HftT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Abracadabrus",
-    "b" : "IDRotF",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "IDRotF",
     "name" : "Cauldron of Plenty",
-    "p" : "50"
+    "page" : "IDRotF",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Hook of Fisher's Delight",
-    "p" : "500",
-    "b" : "IDRotF",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "IDRotF",
-    "p" : "1",
-    "r" : "?",
-    "name" : "Iron Ball"
+    "name" : "Iron Ball",
+    "page" : "IDRotF",
+    "price" : "1",
+    "rarity" : "?"
   },
   {
     "name" : "Lantern of Tracking",
-    "b" : "IDRotF",
-    "p" : "25",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
-    "b" : "IDRotF",
     "name" : "Orc Stone",
-    "p" : "1000",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Professor Skant",
-    "p" : "50",
-    "b" : "IDRotF"
+    "page" : "IDRotF",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "IDRotF",
     "name" : "Psi Crystal",
-    "p" : "800",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "800",
+    "rarity" : "?"
   },
   {
-    "b" : "IDRotF",
     "name" : "Scroll of Tarrasque Summoning",
-    "p" : "20000",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "IDRotF",
-    "p" : "50000",
-    "name" : "Scroll of the Comet"
+    "name" : "Scroll of the Comet",
+    "page" : "IDRotF",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Shield Guardian Amulet",
-    "r" : "?",
-    "b" : "IDRotF"
+    "page" : "IDRotF",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "IDRotF",
-    "p" : "500",
     "name" : "The Codicil of White",
-    "r" : "?"
+    "page" : "IDRotF",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "The Incantations of Iriolarthas",
-    "r" : "?",
-    "b" : "IDRotF",
-    "p" : "500"
+    "page" : "IDRotF",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Thermal Cube",
-    "r" : "?",
-    "b" : "IDRotF",
-    "p" : "100"
+    "page" : "IDRotF",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "20000",
     "name" : "Ythryn Mythallar",
-    "b" : "IDRotF"
+    "page" : "IDRotF",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
-    "b" : "LMoP",
-    "name" : "Dragonguard"
+    "name" : "Dragonguard",
+    "page" : "LMoP",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "LMoP",
     "name" : "Hew",
-    "p" : "2000"
+    "page" : "LMoP",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "LMoP",
-    "r" : "?",
-    "p" : "2000",
-    "name" : "Lightbringer"
+    "name" : "Lightbringer",
+    "page" : "LMoP",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
     "name" : "Spider Staff",
-    "r" : "?",
-    "b" : "LMoP"
+    "page" : "LMoP",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
     "name" : "Staff of Defense",
-    "r" : "?",
-    "b" : "LMoP",
-    "p" : "2000"
+    "page" : "LMoP",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Amulet of the Black Skull",
-    "p" : "500",
-    "r" : "?",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Arcanaloth's Music Box",
-    "p" : "100",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Bob",
-    "b" : "ToA",
-    "p" : "1500",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
     "name" : "Bookmark",
-    "b" : "ToA",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "750",
     "name" : "Dancing Monkey Fruit",
-    "r" : "?",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
-    "p" : "21000",
-    "r" : "?",
     "name" : "Devlin's Staff of Striking",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "21000",
+    "rarity" : "?"
   },
   {
-    "b" : "ToA",
-    "p" : "100",
-    "r" : "?",
-    "name" : "Draconic Long Sword"
+    "name" : "Draconic Long Sword",
+    "page" : "ToA",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "ToA",
-    "p" : "1000",
     "name" : "Ghost Lantern",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "b" : "ToA",
-    "p" : "800",
     "name" : "Mask of the Beast",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "800",
+    "rarity" : "?"
   },
   {
     "name" : "Petrified Grung Egg",
-    "b" : "ToA",
-    "p" : "1000",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "b" : "ToA",
     "name" : "Ring of Winter",
-    "p" : "15000",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
-    "b" : "ToA",
     "name" : "Scorpion Armor",
-    "r" : "?"
+    "page" : "ToA",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "100",
     "name" : "Shield of Shouting",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "75000",
     "name" : "Staff of the Forgotten One",
-    "r" : "?",
-    "b" : "ToA"
+    "page" : "ToA",
+    "price" : "75000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "VRGR",
-    "p" : "100",
-    "name" : "Ivana's Whisper"
+    "name" : "Ivana's Whisper",
+    "page" : "VRGR",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Harkon's Bite",
-    "b" : "VRGR",
-    "p" : "2000"
+    "page" : "VRGR",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "VRGR",
     "name" : "Nepenthe",
-    "r" : "?",
-    "p" : "22000"
+    "page" : "VRGR",
+    "price" : "22000",
+    "rarity" : "?"
   },
   {
     "name" : "Blood Spear",
-    "p" : "8000",
-    "r" : "?",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Green Copper Ewer",
-    "b" : "CoS",
-    "r" : "?"
+    "page" : "CoS",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
     "name" : "Gulthias Staff",
-    "r" : "?",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Holy Symbol of Ravenkind",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "CoS",
     "name" : "Icon of Ravenloft",
-    "r" : "?",
-    "p" : "10000"
+    "page" : "CoS",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "5000",
-    "b" : "CoS",
-    "name" : "Jakarion's Staff of Frost"
+    "name" : "Jakarion's Staff of Frost",
+    "page" : "CoS",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Lost Sword",
-    "b" : "CoS",
-    "p" : "3000",
-    "r" : "?"
+    "page" : "CoS",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "b" : "CoS",
     "name" : "Order of the Silver Dragon +2 Shield",
-    "p" : "6500",
-    "r" : "?"
+    "page" : "CoS",
+    "price" : "6500",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
     "name" : "Saint Markovia's Thighbone",
-    "r" : "?",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Statuette of Saint Markovia",
-    "r" : "?",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Sunsword",
-    "b" : "CoS",
-    "p" : "12000"
+    "page" : "CoS",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Treebane",
-    "p" : "400",
-    "b" : "CoS"
+    "page" : "CoS",
+    "price" : "400",
+    "rarity" : "?"
   },
   {
-    "p" : "5",
     "name" : "Adjustable Stilts",
-    "r" : "?",
-    "b" : "WDH"
+    "page" : "WDH",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
     "name" : "Backpack Parachute",
-    "b" : "WDH",
-    "r" : "?",
-    "p" : "10"
+    "page" : "WDH",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
-    "p" : "5",
     "name" : "Matchless Pipe",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Nimblewright Detector",
-    "b" : "WDH",
-    "p" : "10"
+    "page" : "WDH",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "WDH",
-    "p" : "100",
-    "name" : "Overzied Longbow"
+    "name" : "Overzied Longbow",
+    "page" : "WDH",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
     "name" : "Azuredge",
-    "r" : "?",
-    "p" : "50000"
+    "page" : "WDH",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
     "name" : "Badge of the Watch",
-    "r" : "?",
-    "p" : "6000"
+    "page" : "WDH",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Blackstaff",
-    "b" : "WDH",
-    "p" : "95500"
+    "page" : "WDH",
+    "price" : "95500",
+    "rarity" : "?"
   },
   {
     "name" : "Bracer of Flying Daggers",
-    "b" : "WDH",
-    "p" : "500",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Charred Wand of Magic Missiles",
-    "r" : "?",
-    "p" : "3000",
-    "b" : "WDH"
+    "page" : "WDH",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Dragonstaff of Ahghairon",
-    "b" : "WDH",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Feather of Diatryma Summoning",
-    "b" : "WDH",
-    "r" : "?",
-    "p" : "500"
+    "page" : "WDH",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
-    "r" : "?",
     "name" : "Knave's Eye Patch",
-    "p" : "500"
+    "page" : "WDH",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
     "name" : "Lord's Ensemble",
-    "b" : "WDH",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "25",
-    "r" : "?",
-    "b" : "WDH",
-    "name" : "Paper Bird"
+    "name" : "Paper Bird",
+    "page" : "WDH",
+    "price" : "25",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "b" : "WDH",
     "name" : "Ring of Truth Telling",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
     "name" : "Smokepowder",
-    "p" : "10",
-    "r" : "?"
+    "page" : "WDH",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Stone of Golorr",
-    "p" : "5000",
-    "r" : "?",
-    "b" : "WDH"
+    "page" : "WDH",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "WDH",
-    "r" : "?",
     "name" : "Teleporter Ring",
-    "p" : "1000"
+    "page" : "WDH",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Barking Box",
-    "p" : "5",
-    "r" : "?",
-    "b" : "WDH"
+    "page" : "WDH",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
     "name" : "Elder Cartograher's Glossography",
-    "p" : "50",
-    "r" : "?"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
     "name" : "Cartographer's Map Case",
-    "p" : "50",
-    "r" : "?"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
     "name" : "Chronolometer",
-    "r" : "?",
-    "b" : "AI"
+    "page" : "AI",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "AI",
-    "p" : "50",
-    "name" : "Coin of Decisionry"
+    "name" : "Coin of Decisionry",
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Dimensional Loop",
-    "r" : "?",
-    "b" : "AI",
-    "p" : "7000"
+    "page" : "AI",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
     "name" : "Documancy Satchel",
-    "p" : "50",
-    "r" : "?"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "AI",
     "name" : "Failed Experiment Wand",
-    "p" : "2000"
+    "page" : "AI",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
-    "p" : "25600",
     "name" : "Far Gear",
-    "r" : "?"
+    "page" : "AI",
+    "price" : "25600",
+    "rarity" : "?"
   },
   {
-    "p" : "10",
     "name" : "Living Loot Satchel",
-    "r" : "?",
-    "b" : "AI"
+    "page" : "AI",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Mithral +1 Armor",
-    "p" : "2000",
-    "r" : "?",
-    "b" : "AI"
+    "page" : "AI",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Obviator's Lense",
-    "r" : "?",
-    "b" : "AI",
-    "p" : "50"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
     "name" : "Occultant Abacus",
-    "r" : "?",
-    "p" : "50"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
+    "name" : "Orrery of the Wanderer",
+    "page" : "AI",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
     "name" : "Piercer",
-    "r" : "?",
-    "b" : "AI"
+    "page" : "AI",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Portfolio Keeper",
-    "p" : "50",
-    "r" : "?",
-    "b" : "AI"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Rotor of Return",
-    "r" : "?",
-    "b" : "AI",
-    "p" : "5000"
+    "page" : "AI",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "b" : "AI",
-    "r" : "?",
-    "name" : "Sending Stone"
+    "name" : "Sending Stone",
+    "page" : "AI",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "AI",
-    "p" : "50",
-    "name" : "Spyglass of Clairvoyance"
+    "name" : "Spyglass of Clairvoyance",
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Timepiece of Travel",
-    "b" : "AI",
-    "p" : "10000"
+    "page" : "AI",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Travel Alchemical Kit",
-    "b" : "AI",
-    "p" : "50"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
-    "b" : "AI",
     "name" : "Vicious +1 Weapon",
-    "r" : "?"
+    "page" : "AI",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Voting Kit",
-    "r" : "?",
-    "b" : "AI",
-    "p" : "50"
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "AI",
-    "p" : "5000",
-    "r" : "?",
-    "name" : "Wheel of Stars"
+    "name" : "Wheel of Stars",
+    "page" : "AI",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "b" : "AI",
-    "r" : "?",
-    "name" : "Whipser Jar"
+    "name" : "Whipser Jar",
+    "page" : "AI",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Acquisitions Incorporated Franchisee Rank 1",
-    "b" : "DSC",
-    "r" : "?",
-    "p" : "100"
+    "page" : "DSC",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Acquisitions Incorporated Franchisee Rank 2",
-    "b" : "DSC",
-    "p" : "500"
+    "page" : "DSC",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "DSC",
-    "p" : "1000",
     "name" : "Acquisitions Incorporated Franchisee Rank 3",
-    "r" : "?"
+    "page" : "DSC",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Acquisitions Incorporated Franchisee Rank 4",
-    "p" : "2000",
-    "r" : "?",
-    "b" : "DSC"
+    "page" : "DSC",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Adze of Annam",
-    "b" : "BP:GotG",
-    "r" : "?",
-    "p" : "150000"
+    "page" : "BP:GotG",
+    "price" : "150000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "3000",
-    "b" : "BP:GotG",
-    "name" : "Armor of Safeguarding"
+    "name" : "Armor of Safeguarding",
+    "page" : "BP:GotG",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "125000",
     "name" : "Bigby's Benificent Bracelent",
-    "b" : "BP:GotG",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "125000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Bloodshed Blade",
-    "r" : "?",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Crown of the Wrath Bringer",
-    "b" : "BP:GotG",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "BP:GotG",
-    "p" : "4000",
     "name" : "Delver's Claws",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "2000",
-    "b" : "BP:GotG",
-    "name" : "Glowrune Pigment"
+    "name" : "Glowrune Pigment",
+    "page" : "BP:GotG",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "100000",
     "name" : "Harp of Gilded Plenty",
-    "r" : "?",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "125",
     "name" : "Helm of Perfect Potential",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "125",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "10000",
     "name" : "Lash Immolation",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BP:GotG",
-    "p" : "50000",
-    "name" : "Longbow of the Healing Hearth"
+    "name" : "Longbow of the Healing Hearth",
+    "page" : "BP:GotG",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "b" : "BP:GotG",
-    "r" : "?",
-    "p" : "10000",
-    "name" : "Lucent Destroyer"
+    "name" : "Lucent Destroyer",
+    "page" : "BP:GotG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Mistral Mantle",
-    "p" : "10000",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Nimbus Coronet",
-    "b" : "BP:GotG",
-    "p" : "15000",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "p" : "10000",
-    "r" : "?",
     "name" : "Orb of Skoraeus",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Carnelian Triceratops",
-    "p" : "15000",
-    "b" : "BP:GotG",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BP:GotG",
-    "p" : "20000",
-    "name" : "Jasper Tyrranosaurus Rex"
+    "name" : "Jasper Tyrranosaurus Rex",
+    "page" : "BP:GotG",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "b" : "BP:GotG",
-    "p" : "14000",
     "name" : "Kyanite Pteranodon",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "14000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BP:GotG",
     "name" : "Pyrite Plesiosaur",
-    "p" : "12000"
+    "page" : "BP:GotG",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "30000",
-    "b" : "BP:GotG",
-    "name" : "Reaper's Scream"
+    "name" : "Reaper's Scream",
+    "page" : "BP:GotG",
+    "price" : "30000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "4000",
-    "b" : "BP:GotG",
-    "name" : "Ring of Amity"
+    "name" : "Ring of Amity",
+    "page" : "BP:GotG",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "r" : "?",
     "name" : "Sanctum Amulet",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Shield of the Blazing Dreadnought",
-    "r" : "?",
-    "b" : "BP:GotG",
-    "p" : "20000"
+    "page" : "BP:GotG",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "r" : "?",
     "name" : "Staff of the Rooted Hills",
-    "b" : "BP:GotG"
+    "page" : "BP:GotG",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
     "name" : "Stonebreaker's Breastplate",
-    "b" : "BP:GotG",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "Thunderbuss",
-    "b" : "BP:GotG",
-    "r" : "?",
-    "p" : "7000"
+    "page" : "BP:GotG",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "War Horn of Valor",
-    "b" : "BP:GotG",
-    "p" : "5000"
+    "page" : "BP:GotG",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "BP:GotG",
     "name" : "Wayfarer's Boots",
-    "p" : "6000",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
     "name" : "Wyrmreaver's Gauntlets",
-    "b" : "BP:GotG",
-    "r" : "?",
-    "p" : "10000"
+    "page" : "BP:GotG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
     "name" : "Zephyr Armor",
-    "b" : "BP:GotG",
-    "r" : "?"
+    "page" : "BP:GotG",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "PaBTSO",
-    "p" : "1000",
-    "name" : "Bracers of Celerity"
+    "name" : "Bracers of Celerity",
+    "page" : "PaBTSO",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "PaBTSO",
     "name" : "Cape of Enlargement",
-    "p" : "1500"
+    "page" : "PaBTSO",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "p" : "2500",
-    "b" : "PaBTSO",
     "name" : "Flayer Slayer",
-    "r" : "?"
+    "page" : "PaBTSO",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "PaBTSO",
-    "r" : "?",
-    "p" : "2000",
-    "name" : "Luminous War Pick"
+    "name" : "Luminous War Pick",
+    "page" : "PaBTSO",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "PaBTSO",
-    "r" : "?",
-    "p" : "100",
-    "name" : "Mind Crystal (Careful)"
+    "name" : "Mind Crystal (Careful)",
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "b" : "PaBTSO",
     "name" : "Mind Crystal (Distant)",
-    "p" : "100",
-    "r" : "?"
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Mind Crystal (Empowered)",
-    "r" : "?",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Mind Crystal (Extended)",
-    "r" : "?",
-    "b" : "PaBTSO",
-    "p" : "100"
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "150",
     "name" : "Mind Crystal (Heightened)",
-    "r" : "?",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
     "name" : "Mind Crystal (Quickened)",
-    "r" : "?",
-    "p" : "150",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Mind Crystal (Subtle)",
-    "p" : "50",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "5000",
     "name" : "Mindblasting Cap",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Mindguard Crown",
-    "b" : "PaBTSO",
-    "p" : "5000"
+    "page" : "PaBTSO",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
+    "name" : "Mudslick Tower",
+    "page" : "PaBTSO",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
     "name" : "Netherese Ring of Protection",
-    "b" : "PaBTSO",
-    "p" : "4500"
+    "page" : "PaBTSO",
+    "price" : "4500",
+    "rarity" : "?"
   },
   {
-    "b" : "PaBTSO",
-    "r" : "?",
-    "p" : "100",
-    "name" : "Potion of Psionic Fortitude"
+    "name" : "Potion of Psionic Fortitude",
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "150",
-    "r" : "?",
     "name" : "Ring of the Orator",
-    "b" : "PaBTSO"
+    "page" : "PaBTSO",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Statuette of Augury",
-    "b" : "PaBTSO",
-    "r" : "?"
+    "page" : "PaBTSO",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Mimir",
-    "p" : "6000",
-    "r" : "?",
-    "b" : "PAitM"
+    "page" : "PAitM",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Portal Compass",
-    "r" : "?",
-    "b" : "PAitM"
+    "page" : "PAitM",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Sensory Stone",
-    "r" : "?",
-    "p" : "100",
-    "b" : "PAitM"
+    "page" : "PAitM",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "50000",
     "name" : "Antimagic Armor",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
     "name" : "Armor of Fungal Spores",
-    "b" : "BMT",
-    "p" : "500",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "3000",
     "name" : "Armor of The Fallen",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Armor of Weightlessness",
-    "r" : "?",
-    "b" : "BMT",
-    "p" : "2000"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
-    "r" : "?",
     "name" : "Baleful Talon",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Blasted Goggles",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Bloodrage Greataxe",
-    "b" : "BMT",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "10",
     "name" : "Bloodseeker Ammunition",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Boomerang Shield",
-    "p" : "50",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Bow of Conflagration",
-    "p" : "1000",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "10000",
     "name" : "Bow of Melodies",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Breastplate of Balance",
-    "r" : "?",
-    "p" : "1200",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "1200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "1500",
     "name" : "Card Sharp's Deck",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "2000",
-    "r" : "?",
-    "name" : "Clockwork Armor"
+    "name" : "Clockwork Armor",
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Crown of Whirling Comets",
-    "b" : "BMT",
-    "p" : "7500",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
     "name" : "Deck of Dimensions",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
     "name" : "Deck of Many More Things",
-    "r" : "?",
-    "b" : "BMT",
-    "p" : "N\/A"
+    "page" : "BMT",
+    "price" : "N\/A",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "r" : "?",
-    "b" : "BMT",
-    "name" : "Deck of Miscellany"
+    "name" : "Deck of Miscellany",
+    "page" : "BMT",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "4000",
     "name" : "Deck of Oracles",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
     "name" : "Deck of Wild Cards",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Deck of Wonders",
-    "p" : "500",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "b" : "BMT",
-    "r" : "?",
-    "name" : "Donjon's Sundering Sphere"
+    "name" : "Donjon's Sundering Sphere",
+    "page" : "BMT",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Dried Leech",
-    "b" : "BMT",
-    "p" : "5",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Euryale's Aegis",
-    "r" : "?",
-    "p" : "15000"
+    "page" : "BMT",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "b" : "BMT",
     "name" : "Fabulist Gem",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "b" : "BMT",
     "name" : "Fate Cutter Shears",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Feywrought Armor",
-    "p" : "4000",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Fool's Blade",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Forcebreaker Weapon",
-    "r" : "?",
-    "p" : "5000",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "6000",
     "name" : "Glimmering Moonbow",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BMT",
     "name" : "Gloomwrought Armor",
-    "p" : "2000"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Grasping Whip",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Fate Dealer's Deck +1",
-    "b" : "BMT",
-    "r" : "?",
-    "p" : "1500"
+    "page" : "BMT",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Fate Dealer's Deck +2",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Fate Dealer's Deck +3",
-    "b" : "BMT",
-    "r" : "?",
-    "p" : "20000"
+    "page" : "BMT",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "House of Cards",
-    "p" : "1000",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "r" : "?",
     "name" : "Sword of the Planes",
-    "p" : "50000"
+    "page" : "BMT",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BMT",
     "name" : "Wraps of Unarmed Prowess +1",
-    "p" : "1000"
+    "page" : "BMT",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Wraps of Unarmed Prowess +2",
-    "r" : "?",
-    "b" : "BMT",
-    "p" : "4000"
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "2000",
+    "name" : "Wraps of Unarmed Prowess +3",
+    "page" : "BMT",
+    "price" : "16000",
+    "rarity" : "?"
+  },
+  {
     "name" : "Plate of Knight's Fellowship",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Jester's Mask",
-    "p" : "20000",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "Ring of Puzzler's Wit",
-    "p" : "100",
-    "b" : "BMT",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Rod of Hellish Flames",
-    "b" : "BMT",
-    "p" : "5000",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BMT",
     "name" : "Rogue's Mantle",
-    "p" : "5000"
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Ruinous Flail",
-    "b" : "BMT",
-    "p" : "750",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
     "name" : "Sage's Signet (Bear)",
-    "b" : "BMT",
-    "p" : "4400",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "4400",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Sage's Signet (Hart)",
-    "r" : "?",
-    "p" : "8000"
+    "page" : "BMT",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
     "name" : "Sage's Signet (Lion)",
-    "p" : "4000",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "2600",
     "name" : "Sage's Signet (Serpent)",
-    "r" : "?",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "2600",
+    "rarity" : "?"
   },
   {
-    "p" : "2600",
-    "r" : "?",
     "name" : "Sage's Signet (Songbird)",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "2600",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "4000",
-    "r" : "?",
-    "name" : "Sage's Signet (Wolf)"
+    "name" : "Sage's Signet (Wolf)",
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "r" : "?",
-    "p" : "50",
-    "name" : "Shield of the Tortoise"
+    "name" : "Shield of the Tortoise",
+    "page" : "BMT",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "p" : "5000",
-    "r" : "?",
-    "name" : "Shrieking Greaves"
+    "name" : "Shrieking Greaves",
+    "page" : "BMT",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Skull Helm",
-    "p" : "6000",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
-    "r" : "?",
-    "p" : "75",
-    "name" : "Sling of Giant Felling"
+    "name" : "Sling of Giant Felling",
+    "page" : "BMT",
+    "price" : "75",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Spindle of Fate",
-    "r" : "?",
-    "p" : "4000"
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Starshot Crossbow",
-    "p" : "6000",
-    "b" : "BMT"
+    "page" : "BMT",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "7000",
-    "b" : "BMT",
-    "name" : "Stonemaker War Pick"
+    "name" : "Stonemaker War Pick",
+    "page" : "BMT",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "4000",
-    "b" : "BMT",
-    "name" : "Sun Staff"
+    "name" : "Sun Staff",
+    "page" : "BMT",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "b" : "BMT",
+    "name" : "Telescopic Transporter",
+    "page" : "BMT",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
     "name" : "Voidwalker Armor",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "BMT",
     "name" : "Warrior's Passkey",
-    "p" : "3000",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "BMT",
     "name" : "Weapon of Throne's Command",
-    "p" : "8000"
+    "page" : "BMT",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
     "name" : "Winged Ammunition",
-    "b" : "BMT",
-    "p" : "5",
-    "r" : "?"
+    "page" : "BMT",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
-    "p" : "8000",
-    "r" : "?",
-    "b" : "BMT",
-    "name" : "Hammer of Runic Focus"
+    "name" : "Hammer of Runic Focus",
+    "page" : "BMT",
+    "price" : "8000",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "r" : "?",
     "name" : "Arcane Oil",
-    "b" : "Lairs of Etharis"
+    "page" : "Lairs of Etharis",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
     "name" : "Brazen Armor",
-    "r" : "?",
-    "b" : "Lairs of Etharis"
+    "page" : "Lairs of Etharis",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Coat of Lies",
-    "b" : "Lairs of Etharis",
-    "r" : "?",
-    "p" : "2000"
+    "page" : "Lairs of Etharis",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "Lairs of Etharis",
     "name" : "Glass-Studded Armor",
-    "r" : "?",
-    "p" : "200"
+    "page" : "Lairs of Etharis",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
     "name" : "Knifewing Cape",
-    "r" : "?",
-    "b" : "Lairs of Etharis",
-    "p" : "4000"
+    "page" : "Lairs of Etharis",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
     "name" : "Lindwyrm Venom",
-    "r" : "?",
-    "b" : "Lairs of Etharis",
-    "p" : "750"
+    "page" : "Lairs of Etharis",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
-    "b" : "Lairs of Etharis",
-    "p" : "4500",
     "name" : "Lycan Weapon",
-    "r" : "?"
+    "page" : "Lairs of Etharis",
+    "price" : "4500",
+    "rarity" : "?"
   },
   {
-    "b" : "Lairs of Etharis",
     "name" : "Lycanthropy Antidote",
-    "p" : "100",
-    "r" : "?"
+    "page" : "Lairs of Etharis",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Lairs of Etharis",
-    "p" : "300",
-    "name" : "Ready Gunk"
+    "name" : "Ready Gunk",
+    "page" : "Lairs of Etharis",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "p" : "12000",
     "name" : "Wand of Silence",
-    "r" : "?",
-    "b" : "Lairs of Etharis"
+    "page" : "Lairs of Etharis",
+    "price" : "12000",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "500",
     "name" : "Aqua Delerium",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Aqua Expurgo",
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "50"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
     "name" : "Bottled Comet",
-    "b" : "Dungesons of Drakkenheim",
-    "r" : "?",
-    "p" : "600"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "600",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "24000",
-    "name" : "Comet Smasher"
+    "name" : "Comet Smasher",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "24000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
     "name" : "Delerium Crystal Focus",
-    "p" : "15000"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
     "name" : "Delerium-Forged Blade",
-    "r" : "?",
-    "p" : "15000",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "3000",
-    "b" : "Dungesons of Drakkenheim",
-    "name" : "Flame Lance"
+    "name" : "Flame Lance",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
     "name" : "Hardened Delerium-tipped Arrows",
-    "p" : "20",
-    "r" : "?",
-    "b" : "Dungeons of Drakkenheim"
+    "page" : "Dungeons of Drakkenheim",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "p" : "10000",
-    "b" : "Dungesons of Drakkenheim",
     "name" : "Hazewalker Plate",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50",
     "name" : "Purging Rod",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "r" : "?",
     "name" : "Refined Delerium Dust",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
     "name" : "Skymetal Shield",
-    "p" : "2000",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Skymetal Staff",
-    "p" : "10000",
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "name" : "Spellpiercing Wand"
+    "name" : "Spellpiercing Wand",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Staff of Contaminated Power",
-    "p" : "26000",
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "26000",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "7500",
     "name" : "Starcrossed Bow",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
     "name" : "Chancellor's Crest",
-    "b" : "Dungesons of Drakkenheim",
-    "r" : "?",
-    "p" : "7000"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "7000",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
     "name" : "Inscrutable Staff",
-    "p" : "55000",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "55000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "500",
-    "name" : "Lord Commander's Badge"
+    "name" : "Lord Commander's Badge",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
-    "r" : "?",
-    "p" : "1000",
-    "name" : "Spymaster's Signet"
+    "name" : "Spymaster's Signet",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Steward's Seal",
-    "r" : "?",
-    "p" : "6500",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "6500",
+    "rarity" : "?"
   },
   {
     "name" : "Crown of Westemär",
-    "b" : "Dungesons of Drakkenheim",
-    "r" : "?",
-    "p" : "100000"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "100000",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
     "name" : "Ignacious, Sword of Burning Truth",
-    "p" : "60000",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "60000",
+    "rarity" : "?"
   },
   {
-    "p" : "6500",
-    "r" : "?",
     "name" : "Sceptre of Saint Vitruvio",
-    "b" : "Dungesons of Drakkenheim"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "6500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "5000",
-    "name" : "Helm of Patron Saints"
+    "name" : "Helm of Patron Saints",
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "10000",
     "name" : "The Shield of Sacred Flame",
-    "r" : "?"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Saint Vitruvio's Phylactery",
-    "r" : "?",
-    "b" : "Dungesons of Drakkenheim",
-    "p" : "6500"
+    "page" : "Dungesons of Drakkenheim",
+    "price" : "6500",
+    "rarity" : "?"
   },
   {
     "name" : "Blade of the Wood",
-    "b" : "Humblewood Campaign Setting",
-    "p" : "1500",
-    "r" : "?"
+    "page" : "Humblewood Campaign Setting",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Borealus",
-    "b" : "Humblewood Campaign Setting",
-    "r" : "?",
-    "p" : "5000"
+    "page" : "Humblewood Campaign Setting",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Feathered Helm",
-    "r" : "?",
-    "b" : "Humblewood Campaign Setting"
+    "page" : "Humblewood Campaign Setting",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Humblewood Campaign Setting",
-    "p" : "150000",
-    "name" : "Necronomicon Ex Corvus"
+    "name" : "Necronomicon Ex Corvus",
+    "page" : "Humblewood Campaign Setting",
+    "price" : "150000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
     "name" : "Nest Charm",
-    "r" : "?",
-    "b" : "Humblewood Campaign Setting"
+    "page" : "Humblewood Campaign Setting",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
-    "r" : "?",
-    "b" : "Humblewood Campaign Setting",
-    "name" : "Red-Feather Bow"
+    "name" : "Red-Feather Bow",
+    "page" : "Humblewood Campaign Setting",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Wing Crest Shield",
-    "r" : "?",
-    "b" : "Humblewood Campaign Setting",
-    "p" : "16000"
+    "page" : "Humblewood Campaign Setting",
+    "price" : "16000",
+    "rarity" : "?"
   },
   {
-    "p" : "25000",
     "name" : "Accounting and the Valuation of All Things",
-    "r" : "?",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "25000",
+    "rarity" : "?"
   },
   {
-    "b" : "Chains of Asmodeus",
     "name" : "Amulet of Appearance",
-    "r" : "?",
-    "p" : "7500"
+    "page" : "Chains of Asmodeus",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
     "name" : "Amulet of Betrayal",
-    "b" : "Chains of Asmodeus",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Amulet of Duplicity",
-    "b" : "Chains of Asmodeus",
-    "p" : "10000",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Amulet of the Inferno",
-    "r" : "?",
-    "b" : "Chains of Asmodeus",
-    "p" : "40000"
+    "page" : "Chains of Asmodeus",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "p" : "5000",
-    "b" : "Chains of Asmodeus",
-    "r" : "?",
-    "name" : "Bracers of Asmodeus"
+    "name" : "Bracers of Asmodeus",
+    "page" : "Chains of Asmodeus",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
     "name" : "Canian Fork",
-    "r" : "?",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "200",
     "name" : "Condensed Order",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "2000",
     "name" : "Demonbone Polarm",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Gauntlets of Rage",
-    "p" : "3000",
-    "b" : "Chains of Asmodeus",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "3000",
-    "b" : "Chains of Asmodeus",
-    "r" : "?",
-    "name" : "Infernal Amulet"
+    "name" : "Infernal Amulet",
+    "page" : "Chains of Asmodeus",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "4200",
-    "b" : "Chains of Asmodeus",
-    "name" : "Infernal Plate Armor"
+    "name" : "Infernal Plate Armor",
+    "page" : "Chains of Asmodeus",
+    "price" : "4200",
+    "rarity" : "?"
   },
   {
-    "p" : "2500",
-    "r" : "?",
-    "b" : "Chains of Asmodeus",
-    "name" : "Knife of Stolen Resistance"
+    "name" : "Knife of Stolen Resistance",
+    "page" : "Chains of Asmodeus",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "p" : "40000",
-    "r" : "?",
     "name" : "Ranseur of Torture",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Ring of Collection",
-    "b" : "Chains of Asmodeus",
-    "p" : "2000"
+    "page" : "Chains of Asmodeus",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "6500",
-    "b" : "Chains of Asmodeus",
     "name" : "Ring of the Copycat",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "6500",
+    "rarity" : "?"
   },
   {
-    "p" : "4000",
-    "r" : "?",
     "name" : "Ring of Treachery",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "50000",
-    "r" : "?",
-    "b" : "Chains of Asmodeus",
-    "name" : "Ruby Rod of Asmodeus"
+    "name" : "Ruby Rod of Asmodeus",
+    "page" : "Chains of Asmodeus",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "p" : "32000",
-    "b" : "Chains of Asmodeus",
     "name" : "Scourge of Shadow",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "32000",
+    "rarity" : "?"
   },
   {
-    "b" : "Chains of Asmodeus",
-    "p" : "13000",
     "name" : "Sage's Mirror",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "13000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Skull of Selfish Knowledg",
-    "p" : "500",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "b" : "Chains of Asmodeus",
-    "p" : "100",
-    "r" : "?",
-    "name" : "Soul Coins"
+    "name" : "Soul Coins",
+    "page" : "Chains of Asmodeus",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
     "name" : "Stygian Spear",
-    "b" : "Chains of Asmodeus",
-    "p" : "4000",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Sword of Retribution",
-    "b" : "Chains of Asmodeus",
-    "p" : "16000"
+    "page" : "Chains of Asmodeus",
+    "price" : "16000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "True-Ice Shards",
-    "p" : "50000",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Vial of Greed",
-    "p" : "500",
-    "b" : "Chains of Asmodeus"
+    "page" : "Chains of Asmodeus",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "Chains of Asmodeus",
     "name" : "Weapon of Agonizing Paralysis",
-    "p" : "20000"
+    "page" : "Chains of Asmodeus",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "35000",
     "name" : "Wrought-Iron Tower",
-    "b" : "Chains of Asmodeus",
-    "r" : "?"
+    "page" : "Chains of Asmodeus",
+    "price" : "35000",
+    "rarity" : "?"
   },
   {
     "name" : "Demon Skin",
-    "b" : "DILCT",
-    "p" : "8100",
-    "r" : "?"
+    "page" : "DILCT",
+    "price" : "8100",
+    "rarity" : "?"
   },
   {
     "name" : "Iggwilv's Horn",
-    "b" : "DILCT",
-    "p" : "1200",
-    "r" : "?"
+    "page" : "DILCT",
+    "price" : "1200",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "200",
     "name" : "Potion of Polychromy",
-    "b" : "DILCT"
+    "page" : "DILCT",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "p" : "15000",
     "name" : "Tasha's Creeping Keelboat",
-    "b" : "DILCT",
-    "r" : "?"
+    "page" : "DILCT",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "p" : "7500",
-    "r" : "?",
-    "b" : "Vecna: Eve of Ruin",
-    "name" : "Chime of Exile"
+    "name" : "Chime of Exile",
+    "page" : "Vecna: Eve of Ruin",
+    "price" : "7500",
+    "rarity" : "?"
   },
   {
     "name" : "Crown of Lies",
-    "p" : "15000",
-    "b" : "Vecna: Eve of Ruin",
-    "r" : "?"
+    "page" : "Vecna: Eve of Ruin",
+    "price" : "15000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "70000",
-    "b" : "Vecna: Eve of Ruin",
-    "name" : "Rod of Seven Parts"
+    "name" : "Rod of Seven Parts",
+    "page" : "Vecna: Eve of Ruin",
+    "price" : "70000",
+    "rarity" : "?"
   },
   {
-    "p" : "50",
-    "b" : "QftIS",
-    "r" : "?",
-    "name" : "Antigravity Belt"
+    "name" : "Antigravity Belt",
+    "page" : "QftIS",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "p" : "200",
-    "r" : "?",
-    "b" : "QftIS",
-    "name" : "Concussion Grenade"
+    "name" : "Concussion Grenade",
+    "page" : "QftIS",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
     "name" : "Needler Pistol",
-    "r" : "?",
-    "p" : "500",
-    "b" : "QftIS"
+    "page" : "QftIS",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Paralysis Pistol",
-    "p" : "1000",
-    "b" : "QftIS"
+    "page" : "QftIS",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Powered Armor",
-    "r" : "?",
-    "p" : "10000",
-    "b" : "QftIS"
+    "page" : "QftIS",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Robot Controller",
-    "b" : "QftIS",
-    "r" : "?",
-    "p" : "500"
+    "page" : "QftIS",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Sleep Grenade",
-    "b" : "QftIS",
-    "p" : "500",
-    "r" : "?"
+    "page" : "QftIS",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "QftIS",
-    "p" : "10",
-    "name" : "Spaceship Trinket"
+    "name" : "Spaceship Trinket",
+    "page" : "QftIS",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
     "name" : "Daoud's Wondrous Lanthorn",
-    "b" : "QftIS",
-    "r" : "?",
-    "p" : "10000"
+    "page" : "QftIS",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "p" : "40000",
-    "r" : "?",
     "name" : "Heretic",
-    "b" : "QftIS"
+    "page" : "QftIS",
+    "price" : "40000",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "r" : "?",
     "name" : "Staff of Ruling",
-    "b" : "QftIS"
+    "page" : "QftIS",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Abjurer's Bangle (Rare)",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
-    "r" : "?",
     "name" : "Abjurer's Bangle (Uncommon)",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "10000",
-    "name" : "Abjurer's Bangle (Very Rare)"
+    "name" : "Abjurer's Bangle (Very Rare)",
+    "page" : "TGS2",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "2000",
-    "name" : "Aciurgist's Blade"
+    "name" : "Aciurgist's Blade",
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
-    "b" : "TGS2",
-    "r" : "?",
-    "name" : "Acorn Charm"
+    "name" : "Acorn Charm",
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "3000",
-    "name" : "Adventurer's Overcoat"
+    "name" : "Adventurer's Overcoat",
+    "page" : "TGS2",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "200",
-    "b" : "TGS2",
     "name" : "Aged Goodberry Wine",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
     "name" : "Air Render",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TGS2",
     "name" : "Alchemist's Potion Belt",
-    "r" : "?",
-    "p" : "5"
+    "page" : "TGS2",
+    "price" : "5",
+    "rarity" : "?"
   },
   {
     "name" : "Ambitious Medic's Box",
-    "p" : "100",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "r" : "?",
     "name" : "Amulet of Buoyancy",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
     "name" : "Amulet of Immutability",
-    "p" : "750"
+    "page" : "TGS2",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Amulet of the Lycanthrope",
-    "p" : "500",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Amulet of the Sentinel",
-    "p" : "5000",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "50000",
-    "b" : "TGS2",
-    "r" : "?",
-    "name" : "Amulet of the Spirit Naga"
+    "name" : "Amulet of the Spirit Naga",
+    "page" : "TGS2",
+    "price" : "50000",
+    "rarity" : "?"
   },
   {
     "name" : "Angler's Armor",
-    "r" : "?",
-    "p" : "2000",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "50",
     "name" : "Angler's Worldly Fisher",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "50",
+    "rarity" : "?"
   },
   {
-    "b" : "TGS2",
-    "r" : "?",
-    "p" : "35000",
-    "name" : "Ao Hai's Fang"
+    "name" : "Ao Hai's Fang",
+    "page" : "TGS2",
+    "price" : "35000",
+    "rarity" : "?"
   },
   {
     "name" : "Appraiser's Eye",
-    "p" : "5000",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
     "name" : "Arborguard Shield",
-    "r" : "?",
-    "p" : "4000",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "4000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
     "name" : "Arc of the Alicorn",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "3000",
-    "name" : "Arcanist Gauntlets"
+    "name" : "Arcanist Gauntlets",
+    "page" : "TGS2",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "100",
     "name" : "Arcanist's Magnificent Magnifier",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
-    "b" : "TGS2",
-    "r" : "?",
-    "name" : "Arcanist's Scribing Wand"
+    "name" : "Arcanist's Scribing Wand",
+    "page" : "TGS2",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Archivist's Key",
-    "p" : "25600",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "25600",
+    "rarity" : "?"
   },
   {
     "name" : "Arista, Wand of the Spire",
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "10000"
+    "page" : "TGS2",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
     "name" : "Armor of Icarus",
-    "p" : "2000",
-    "b" : "TGS2",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Arrow of Anchoring",
-    "p" : "20",
-    "b" : "TGS2",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "p" : "2000",
-    "b" : "TGS2",
     "name" : "Astral Caltrops",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
-    "b" : "TGS2",
-    "r" : "?",
-    "p" : "100",
-    "name" : "Astronomer's Boon"
+    "name" : "Astronomer's Boon",
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "10",
-    "name" : "Aurora Dust"
+    "name" : "Aurora Dust",
+    "page" : "TGS2",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "450",
     "name" : "Badge of the Savant (Abjuration)",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
     "name" : "Badge of the Savant (Conjuration)",
-    "p" : "450"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Badge of the Savant (Divination)",
-    "p" : "450",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "b" : "TGS2",
-    "p" : "450",
     "name" : "Badge of the Savant (Enchantment)",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Badge of the Savant (Evocation)",
-    "p" : "450",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "450",
     "name" : "Badge of the Savant (Illusion)",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
     "name" : "Badge of the Savant (Necromancy)",
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "450"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
     "name" : "Badge of the Savant (Transmutation)",
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "450"
+    "page" : "TGS2",
+    "price" : "450",
+    "rarity" : "?"
   },
   {
-    "p" : "20000",
     "name" : "Badge of the Wayfarer",
-    "b" : "TGS2",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
     "name" : "Bag of Bellstones",
-    "r" : "?",
-    "p" : "20",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Ball of Wild Earth",
-    "p" : "100",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "1000",
     "name" : "Ballista Prosthesis",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
     "name" : "Bandolier of the Elements",
-    "p" : "2500"
+    "page" : "TGS2",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "b" : "TGS2",
     "name" : "Bane Shield",
-    "r" : "?",
-    "p" : "100"
+    "page" : "TGS2",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "p" : "500",
     "name" : "Bartender's Armistice",
-    "b" : "TGS2",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
     "name" : "Battlechef Field Dresser",
-    "r" : "?",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
     "name" : "Beads of Meditation",
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "1000"
+    "page" : "TGS2",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
     "name" : "Beard Cannon",
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "2500"
+    "page" : "TGS2",
+    "price" : "2500",
+    "rarity" : "?"
   },
   {
-    "p" : "10",
-    "r" : "?",
     "name" : "Bell of Alarm",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Bellhop Topper",
-    "p" : "600",
-    "b" : "TGS2"
+    "page" : "TGS2",
+    "price" : "600",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "TGS2",
-    "p" : "2000",
-    "name" : "Belt of the Hell Hound"
+    "name" : "Belt of the Hell Hound",
+    "page" : "TGS2",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Bird's-Eye Bolt",
-    "p" : "30",
-    "b" : "TGS2",
-    "r" : "?"
+    "page" : "TGS2",
+    "price" : "30",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Blackthorn Spear of the Moonless Hunter",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Blood Moon Blade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodhound Amulet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodmire Phiale",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodmire Rod of the Witch Doctor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodmire Soulflame Lantern",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodshard Trident",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodthirster Scimitar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloodthirsty Bistoury",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloody Marilith",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloody Marilith (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bloody Marilith (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bonfire Charm",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Book of Clothier's Croquis",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Book of Instant Copying",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bounder's Ball",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bow of the Cobra",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bow of the Eldritch Archer",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bow of the Spelldrinker",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bow of the Twilight Valkyrie",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bracers of the Iron Octopus",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bramble Buckler",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Brawler's Ring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Brutal Macuahuitl",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bulette Bulwark",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bulette Torpedo",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bullfrog Totem",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Burrage's Collegiate Case",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Caduceus Flail",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Camilla's Quicksilver Mirror",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Camper's Crutch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Camper's Respite",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Candleflame Bow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Candleflame Helm",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Candy Xorn",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Canister of Vreyval's Soothing Tea",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Captain's Pride",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Carrion Shroud",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Celestial Sunrise",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Celestial Sunrise (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Celestial Sunrise (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chain Devil Gloves",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Champion's Greatbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Charged Rapier",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chi-Balancing Tea",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chimeric Collar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chromatic Obsidian Greataxe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chronal Sphere",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chronomancer's Eyepiece",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Circlet of the Sharpened Mind",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Claymore of the Great Badger",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cleaning Cube",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloche of Surprise Treats",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Clockwork Colony Toolbox",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Clockwork Earwig",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Clockwork Mend-A-Pillar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Club of Dancing",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Club of the Forest Drake",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Club of the Rook",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Coldfire Anvil",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Comet Ballista",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Conspirator's Coat",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Contingency Band",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cottage Chest",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Courtesan's Fanblade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Covolt Dagger",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Covolt Scythe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crown of Storms",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crown of the Mindmaster Matriarch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cube of Teleportation",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cuff of Captions",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dagger of First Light",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dark Mantle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Davy Jones's Key",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dawn and Dusk",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Death's Shadow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Deathloop Watch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Deathly Diadem",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Detective's Notebook",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Direstone Dwarven Key",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Direstone Runic Wand",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Diviner's Dice",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Djinn and Tonic",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Djinn and Tonic (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Djinn and Tonic (Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dominic's Field Guide to Language",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Doom Bloom",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Doubloon Diver's Goggles",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragon Horn Pauldron",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragon Turtle Barding",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tack and Harness",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragonband",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragonbreath Ammunition",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dramus's Dancing Shoes",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dream Saber",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dress of Defense",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dress of Many Pockets",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Drowner's Pearl",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dune Cowl",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dusk Cleaver",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dusk Dagger",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dusk Dagger (Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dusk Dagger (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dusk Dagger (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dwarven Boozehound's Backpack",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ear Cuff of the Climber",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eclipse Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Egg of Primal Water",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ehagan's Moving Ladder",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Elder Sequoia Scale Mail",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eldritch Bident",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enzymatic Gastrostaff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Staff, Simple Weapon, Melee Weapon, Spellcasting Focus",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eternal Slayer",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Everglacier Prosthesis",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Evoker's Exchange",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eyedrops of Clarity",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eyes of the Beheld",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Faeflame Torch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Failed Purity Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Fell-Rider Chariot",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wondrous Item, Vehicle (Land)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Felling Greataxe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Feywatch Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Feywood Ivy",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Fists of the Guiding Star",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Flamebreather Staff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Flood Pauldron",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Focus Breaker",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Focus Circlet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Fool's Lamp",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Forecaster's Cloak",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Forgekeeper's Spark",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Forgework Dragon Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Fortune's Flower",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Foxfire Charm",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Freerunner's Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Frostburn Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Furious Flail",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Fused Chimeric Hide",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gateway Ring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gauntlets of Deliverance",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gauntlets of Eldritch Ferocity",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gelatinous Whip",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gentleman's Saber",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gi of Shifting Seasons",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Giantcraft Ambusher",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gladius of the Everfighter",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Glaive of the Revenant King",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Glass Carver",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Amphibios",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Healing",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Mimicry",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of the Great Badger",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gnashing Key",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Godsteel Warplate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heavy Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Godsteel Worldcarver",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Golem Sapper",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gorget of the Holy Soldier",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Grasping Staff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Great Owl's Shroud",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Green Knight's Vow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Griffon Coinpouch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Griffon Component Pack",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Griffon Key Loop",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Guardian's Reliquary",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gusting Blowgun",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "H'rethi Soul Scepter",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hadiya's Handy Quill",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Half Plate of the Blind Martyr",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Harbinger's Flail",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Harvest",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hat of Osnomnosis",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hat of the Sanguine Coven",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hatred, the Wrathful Edge",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Headband of the Sweatless",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Headdress of the Serpent King",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Headhunter's Bullseye Lantern",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heart of Damned Intervention",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heartless Cage Pendant",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heaven's Edge",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heaven's Gavel",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heavenly Chalice",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heavy Golem Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hedgewitch's Gardening Cane",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hedonic Motivator",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of the Broken Dragon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of the Chromatic Dragon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of the Justicars",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of the Platinum Dragon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of the Ruby Dragon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hideaway Vase",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hoarder's Haul",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hoarder's Haul (Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hoarder's Haul (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hoarder's Haul (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Homeroot",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Homeward Boots",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horatio's Impossible Ship in a Bottle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of the Wild Hunt",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hour and Minute",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Melee Weapon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hourglass of Slumber",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hushed Ring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hydra Charm",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hydra Flail",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Impact Plate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Indigo Stray's Conviction",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Infernal Chain",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Inker's Armband",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Insatiable Tome",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Inspector's Silverware",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Instrument of Roses and Thorns",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ironleaf Impaler",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Jo'Catian Denier",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Jo'Catian Rebuker",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Kestra's Bent Spoon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ki Blade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Kinetic Bowstring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Kraken Band",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lady Phantasma's Material Anchor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lamian Facestealer",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lash of the Spelldrinker",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Leatherbeard",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Life Tether Ankh",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Life Turner",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Life's Flower Restorative",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Light Sling",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lightning Khopesh",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lightscreen Hover Boots",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lightseer's Gaze",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Locket of the Stolen Heart",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Luckleaf",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Luna Moth Cape",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Lupine Mask",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mace of the Priest",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mace of the Pumpkin King",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mage Eater Scythe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Magebane Poison",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Adventuring Gear, Poison",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Magentan Sun-Saw",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Magentan Sun-Saw (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Magentan Sun-Saw (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mageplate Ring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Magnificent Pocket Vanity",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mandible Bident",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mantle of Security",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Marlin Lunger",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts (Crocodile)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts (Hawk)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts (Jackal)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts (Lion)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Masks of the Sacred Beasts (Mule)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Matron's Mug",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Medusan Lavalier",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Medusan Signet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Medzo's Crossbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Meta Mantle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Meta Medallion",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mimicloak",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mindmaster's Monocle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mistwalker Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Light Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Monarch Mantle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Monster Tamer's Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Monster Tamer's Sword",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Moonstone Bracers",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Morath, Scepter of the Soul Vortex",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mosshide Troll Belt",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mourningsteel Demi-Gauntlets",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mourningsteel Ghost Candle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mourningsteel Half Plate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Mourningsteel War Banner",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Murk Blowgun",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Myceliaweave Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Night Owl's Half-Moon Spectacles",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Nightmare Flask",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Nightstalker's Armor of the Northeastern Wind",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Nightstalker's Mask",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Nimbus, First Staff of the Thunderbirds",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "No-Stones",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Novanite Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Oaken Candle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Oathkeeper's Resolve",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Octavius's Saber",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ogramau's Graveyard",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ol' Stumpy",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orb of Remembrance",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orelia's Tome of Beast Familiars",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orner's Venomous Crossbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orostead Iced Tea",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orostead Iced Tea (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Orostead Iced Tea (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Overseer's Spade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Owlbear Leather Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pack of Revisibility Bombs",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pegasus Quill",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pennypuncher Slingshot",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Peregrine Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Performer's Puppet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Periscope Rod",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Phantom Walkers",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Phasing Bow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Phoenix Breastplate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Phoenix Rocket Sword",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pick and Pocket",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pisces Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Poison Armor of Amphibios",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pollinator Carapace",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pollinator Pants",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Pollinator Visor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Poltergeist Candle Holder",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Power Collar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Prism Glasses",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Prototype Thunderberd",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Prying Mace",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Quick Change Ring",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Quiver of Elemental Chaos",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Radiant War Pick",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Realmswarden Greataxe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Red Queen's Burden",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Redeemer's Regards",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Redsmith Crucible Set",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Redsmith Hammer",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rejuvenating Draft",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rejuvenating Draft (Legendary)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rejuvenating Draft (Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rejuvenating Draft (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rejuvenating Draft (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Reliquary of Holy Memories",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Simple Weapon, Rod",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Reliquary of Holy Memories (Legendary)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Reliquary of Holy Memories (Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Reliquary of Holy Memories (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Reliquary of Holy Memories (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Riff's Dimensional Ripper",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rift Sheath",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Changing Shapes",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Healer's Heroism",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Lunar Might",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Misdirection",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Rituals",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Solar's Sight",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Stolen Alacrity",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of the Arcane Berserker",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of the Assassin Lord",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of the Mute Mage",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of the Split Mind",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ring of Volleys",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rings of the True Companions",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Riptide Crossbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Roaring Whip",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Endless Light",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Refstophobia",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Reverberation",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Storms",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of the Magicycle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Thought Projection",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rod of Water Absorption",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rope Caster",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rose Quartz Koi",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Royal Blade of Amphibios",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Royal Incinerator",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Staff, Simple Weapon, Melee Weapon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Rust Arrow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Ammunition",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sagittarian Vestments",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Salamander Flame Gauntlets",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sash of Sorcerous Synergy",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Satchel of Beast Chow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scarlet Scourge",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scepter of Faith",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scorned Heart Breastplate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scorpio Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scorpion Lasher",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scroll of Mapping",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scroll of Mapping (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scroll of Mapping (Very Rare)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scroll of Nightmares",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Scroll of the Jester",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Second Fiddle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Seeker's Compass",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Seer's Starlight Cloak",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Seraphim's Stiletto",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shadow Tag",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shadow Weaver's Guise",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shadowscale Shroud",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shield of the Justicars",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shifter's Shine",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shifter's Shine (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shifter's Shine (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shimmering Spectacles",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shipwright's Watch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Shooting Star",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Siege Staff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Silver Coin of Duvra",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Silver Eagle Studded Cuirass",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Silver Star Cane",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Silverwind, the Cleansing Breeze",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sir Varion's Helm",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sir Varion's Lance",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sir Varion's Mantle",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sir Varion's Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sky Anchor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Skyglider Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Skylit Greaves",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Slaying Longbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sleepytime Sheep Stuffy",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Snake Charmer's Flute",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Snow Rider's Sleigh",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Soul Pendant",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Soul-Searing Scythe",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sovereignseed Satchel",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spellfire Bow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spellsword",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spellwriter's Brace",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spirit Cleaver",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spirit Sheath",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Spiritwalker Breastplate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Splinterguard",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Sream's Stoppered Oasis",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Staff of Cubic Cultivation",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Staff of the Dream Shepherd",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Staff of the Vineyard",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stalagmight Geode",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stalwart Staff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Starmetal Nova Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Starmetal Shard Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Starmetal Sliver",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Status Signets",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Steam Harpoon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stonemason's Companion",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wondrous Item, Artisan's Tools",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Storm Seer Lamp",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Storm's Eye Shield",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stormbrewer Bracers",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Storyteller's Stein",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stuffy Familiar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Stylist's Circlet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tarrasque Plate",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tea Weird",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tempest Griffon Bracers",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Thalamus Thread",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "The Griffon's Saddlebag",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Thomas's Dimensional Trousers",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tide Turner",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Titan Cricket Greaves",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Titan's Tooth Claymore",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tome of Advanced Fighting Styles",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tome of Lost Knowledge",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Torrdok's Magnificent Forgery",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Traitor's Gauntlet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Trampling Crossbow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tremor Spike",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Turtle Brooch",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Tyrannosaurus Rax",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Underworld Asphodel Regalia",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Urnblade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Vain Virtuoso's Violin",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Verax Weapon",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Violet King's Promise",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Viper Khopesh",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Voyage Collar",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Vyra's Broken Path",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Dowsing",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Gilding",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Merriment",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Necrosis",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Puppetry",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of Stars",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of the Alicorn",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wand of the Frostrose",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "War's Wager",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wardancer's Spear",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Warding Staff",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Warhammer of Eruptions",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Warp Anchor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Waterskin of Voices",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wavecutter",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wayfinder Sphere",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Weapon of Verdict",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Weaving Wasp Needles",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Webgrip Bow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Whirling Weapons",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Whirlpool Dart",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Whispergust Mote",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Widemouth Bucket",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Widow's Tea",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wildfire Ammunition",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wildskin Armor",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Williwig's Time Stopper",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wind and Whirl",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wind Riders",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wind-Up Merchant",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wisp Cloak",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wispy Sour",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wispy Sour (Common)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wispy Sour (Uncommon)",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wraps of the Restless",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wyrmling Wristlet",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Wyrmshide Bow",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Xibalban Blade",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Xorn-Sole Boots",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Yellow Harbinger's Path",
+    "page" : "TGS2",
+    "price" : "0",
+    "rarity" : "?"
   },
   {
     "name" : "Bomb",
-    "p" : "150",
-    "b" : "DMG",
-    "r" : "?"
+    "page" : "DMG",
+    "price" : "150",
+    "rarity" : "?"
   },
   {
-    "b" : "DMG",
-    "p" : "250",
     "name" : "Gunpowder, keg",
-    "r" : "?"
+    "page" : "DMG",
+    "price" : "250",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "DMG",
-    "p" : "35",
-    "name" : "Gunpowder, horn"
+    "name" : "Gunpowder, horn",
+    "page" : "DMG",
+    "price" : "35",
+    "rarity" : "?"
   },
   {
-    "b" : "DMG",
     "name" : "Dynamite (stick)",
-    "r" : "?",
-    "p" : "60"
+    "page" : "DMG",
+    "price" : "60",
+    "rarity" : "?"
   },
   {
-    "b" : "DMG",
     "name" : "Grenade, fragmentation",
-    "r" : "?",
-    "p" : "100"
+    "page" : "DMG",
+    "price" : "100",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Grenade, smoke",
-    "p" : "20",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "20",
+    "rarity" : "?"
   },
   {
-    "p" : "300",
     "name" : "Grenade launcher",
-    "b" : "DMG",
-    "r" : "?"
+    "page" : "DMG",
+    "price" : "300",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "200",
-    "b" : "DMG",
-    "name" : "Pistol, smoothbore"
+    "name" : "Pistol, smoothbore",
+    "page" : "DMG",
+    "price" : "200",
+    "rarity" : "?"
   },
   {
-    "b" : "DMG",
-    "p" : "500",
-    "r" : "?",
-    "name" : "Musket, smoothbore"
+    "name" : "Musket, smoothbore",
+    "page" : "DMG",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
     "name" : "Rennaisance Bullets",
-    "r" : "?",
-    "p" : "3",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "3",
+    "rarity" : "?"
   },
   {
     "name" : "Pistol, automatic",
-    "p" : "1000",
-    "r" : "?",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "1000",
+    "rarity" : "?"
   },
   {
-    "p" : "750",
-    "r" : "?",
-    "b" : "DMG",
-    "name" : "Revolver"
+    "name" : "Revolver",
+    "page" : "DMG",
+    "price" : "750",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "2000",
     "name" : "Rifle, hunting",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "2000",
+    "rarity" : "?"
   },
   {
     "name" : "Rifle, Automatic",
-    "r" : "?",
-    "p" : "3000",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "3000",
+    "rarity" : "?"
   },
   {
-    "p" : "1500",
-    "r" : "?",
-    "b" : "DMG",
-    "name" : "Shotgun"
+    "name" : "Shotgun",
+    "page" : "DMG",
+    "price" : "1500",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "b" : "DMG",
-    "p" : "6000",
-    "name" : "Laser Pistol"
+    "name" : "Laser Pistol",
+    "page" : "DMG",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
     "name" : "Antimatter Rifle",
-    "p" : "20000",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "20000",
+    "rarity" : "?"
   },
   {
-    "p" : "10000",
     "name" : "Laser Rifle",
-    "r" : "?",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "10000",
+    "rarity" : "?"
   },
   {
-    "b" : "DMG",
     "name" : "Energy Cell (1)",
-    "p" : "500",
-    "r" : "?"
+    "page" : "DMG",
+    "price" : "500",
+    "rarity" : "?"
   },
   {
-    "p" : "10",
     "name" : "Modern Bullets (10)",
-    "r" : "?",
-    "b" : "DMG"
+    "page" : "DMG",
+    "price" : "10",
+    "rarity" : "?"
   },
   {
-    "r" : "?",
-    "p" : "5000",
     "name" : "Fish Suit",
-    "b" : "AAG"
+    "page" : "AAG",
+    "price" : "5000",
+    "rarity" : "?"
   },
   {
-    "p" : "6000",
-    "b" : "AAG",
     "name" : "Spelljamming Helm",
-    "r" : "?"
+    "page" : "AAG",
+    "price" : "6000",
+    "rarity" : "?"
   },
   {
     "name" : "Wildspace Orrery",
-    "p" : "100",
-    "r" : "?",
-    "b" : "AAG"
+    "page" : "AAG",
+    "price" : "100",
+    "rarity" : "?"
   }
 ]

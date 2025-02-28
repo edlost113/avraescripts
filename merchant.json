@@ -2694,12 +2694,6 @@
     "price" : " 75 "
   },
   {
-    "name" : "Barrier Tattoo",
-    "price" : "200",
-    "rarity" : "Uncommon",
-    "page" : ""
-  },
-  {
     "price" : " 500 ",
     "rarity" : "Uncommon",
     "page" : " TCE 123",
@@ -3510,7 +3504,7 @@
     "name" : "+2 Bloodwell Vial"
   },
   {
-    "name" : "stral Shard",
+    "name" : "Astral Shard",
     "price" : " 4200 ",
     "rarity" : "Rare",
     "page" : " TCE 120"
@@ -3519,13 +3513,13 @@
     "price" : " 1000 ",
     "rarity" : "Rare",
     "page" : " GGR 177",
-    "name" : "zorius Keyrune"
+    "name" : "Azorius Keyrune"
   },
   {
     "price" : " 3250 ",
     "rarity" : "Rare",
     "page" : " WDH 189",
-    "name" : "adge of the Watch"
+    "name" : "Badge of the Watch"
   },
   {
     "rarity" : "Rare",
