@@ -1,16 +1,18 @@
-!servalias commands embed
--title "Server Commands"
--desc "List of server commands"
--f "**!inspcreate**: used after character creation to create inspiration and  level inspiration counters"
--f "**!wheel**: rolls a d20, on odd you get -1 to your rolls, on even +1 something special may happen on a 1 or 20"
--f "**!archon**: used with archon sorc boon to roll the dice for you"
--f "**!recap**: used before session to roll to see who does recap"
--f "**!sane**: used with item name to determine dmg price average with **!price**"
--f "**!price**: used with item name to determine price average with **!sane**"
--f "**!avgprice**: used with item name to determine price combination of sane and price"
--f "**!boon**: used to look up various boons, can either do a search or get the text of a specific boon"
--f "**!inspo**: add or subtract from inspiration counter (+x/-x)"
--f "**!lev**: add or subtract from level inspiration counter (+x/-x)"
--f "**!statgen**: used to roll stats"
--f "**!gatcha**: roll for random magic item"
--f "**!lvlup**: rolls hit points for next level for specific class"
+<drac2>
+arr=[]
+arr.append("**!inspcreate**: used after character creation to create inspiration and  level inspiration counters")
+arr.append("**!wheel**: rolls a d20, on odd you get -1 to your rolls, on even +1 something special may happen on a 1 or 20")
+arr.append("**!archon**: used with archon sorc boon to roll the dice for you")
+arr.append("**!recap**: used before session to roll to see who does recap")
+arr.append("**!sane**: used with item name to determine dmg price average with **!price**")
+arr.append("**!price**: used with item name to determine price average with **!sane**")
+arr.append("**!avgprice**: used with item name to determine price combination of sane and price")
+arr.append("**!boon**: used to look up various boons, can either do a search or get the text of a specific boon")
+arr.append("**!inspo**: add or subtract from inspiration counter (+x/-x)")
+arr.append("**!lev**: add or subtract from level inspiration counter (+x/-x)")
+arr.append("**!statgen**: used to roll stats")
+arr.append("**!gatcha**: roll for random magic item")
+arr.append("**!lvlup**: rolls hit points for next level for specific class")
+return (f'embed -title "Commands" -desc "Here are the commands available in the Pun\'s DnD server" -f "{arr}" -footer "{footer}" -thumb "{ch.image}"')
+
+</drac2>
