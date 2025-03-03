@@ -956,7 +956,7 @@
   {
     "name" : "Orcsplitter (greataxe)",
     "rarity" : "Legendary",
-    "page" : " 60000 ",
+    "page" : " POTA",
     "price" : "60000"
   },
   {
@@ -984,7 +984,7 @@
     "price" : " 55000 "
   },
   {
-    "page" : " 51000 ",
+    "page" : "DMG",
     "name" : "Sword of Answering (longsword)",
     "price" : "51000",
     "rarity" : "Legendary"
