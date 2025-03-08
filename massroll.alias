@@ -41,18 +41,20 @@ arr = arr[0:len(arr)]
 arr = '\n'.join(arr)
 
 fline2 = f"skillc can monitor total successes for you, but the channel needs to be in combat mode"
+fline3 = f"if you want to track total successes, type !i begin"
 if combat():
     countSuccess = int(combat().get_metadata(extratext, default=0))
+    totalCount = int(combat().get_metadata("Total", default=0))
+    totalSuccesses = int(combat().get_metadata("TotalSuccess", default=0))
+    totalCount = int(totalCount) + int(rerolls)
+    totalSuccesses = int(totalSuccesses) + int(success)
+    combat().set_metadata("TotalSuccess", totalSuccesses)
+    combat().set_metadata("Total", totalCount)
     countSuccess = int(countSuccess) + (success)
     combat().set_metadata(extratext, countSuccess)
     fline2 = f"so far **{extratext}** has **{countSuccess}** total successes"
-    for person in combat().combatants:
-        if person.name == extratext:
-            person.set_note(countSuccess)
-            break
-            
 
 desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success} successes**"
 footer = "!skillc skill [adv/dis] [-mc #] [-rr #] [-b #]  [-dc #] [-f 'whatever you want'] - made by edlost"
-return (f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -footer "{footer}" -thumb "{ch.image}"')
+return (f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -f "{fline3}" -footer "{footer}" -thumb "{ch.image}"')
 </drac2>
