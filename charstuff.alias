@@ -1,0 +1,15 @@
+!servalias assign multiline
+<drac2> 
+name = "&1&".lower()
+return f"!char channel {name}"
+</drac2>
+
+
+!servalias newchar multiline
+<drac2> 
+url = "&1&".lower()
+return f"""!beyond {url}
+!cc create "Inspiration Point" -reset 'none' -max 3 -min 0 -value 1 -type 'bubble'
+!cc create "Level Inspiration Point" -reset 'none' -max 1 -min 0 -value 0 -type 'bubble'
+!cc create "Scire Inspiration" -reset 'none' -max 1 -min 0 -value 0 -type 'bubble'   """
+</drac2>
