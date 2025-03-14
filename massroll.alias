@@ -92,6 +92,5 @@ embed1 = f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}"
 
 return (f"""multiline 
 {ctx.prefix}{embedPre}
-{ctx.prefix}{embed1}
-{ctx.prefix}{gvarLine} """)
+{ctx.prefix}{embed1} """)
 </drac2>
