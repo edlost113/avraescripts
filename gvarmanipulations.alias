@@ -1,0 +1,21 @@
+<drac2>
+categoryInfo = ctx.channel.category.name
+#68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
+catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
+gvarSkillC = catlist.get(categoryInfo)
+catData = load_json(get_gvar(gvarSkillC))
+totalC = catData.get('totalCount')
+if not totalC:
+    totalC = 0
+else:
+    totalC = int(totalC)
+totalC = totalC + 1
+
+catData['totalCount'] = totalC
+jsonDump = dump_json(catData)
+embed1 = f'embed -title "Gvar Info " -desc "Here is the gvar for {categoryInfo}" -f "{gvarSkillC}" -f "{catlist}"'
+embed2 = f'embed -title "Gvar Data" -desc "{catData}" -f "{totalC}"'
+embed3 = f'embed -title "Gvar Save" -desc "{jsonDump}"'
+return f"""multiline {ctx.prefix}{embed3} 
+{ctx.prefix}gvar edit {gvarSkillC} {jsonDump}"""
+</drac2>
