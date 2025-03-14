@@ -7,6 +7,7 @@ bonus = args.last('b',default="0")
 extratext = args.last('f',default="idk")
 rerolls = args.last('rr', default=8)
 dc = get_svar('skill_dc',default=0)
+showGvar = get_svar('skillc_gvar',default=0)
 showdc = False
 if dc == 0:
     dc = args.last('dc', default=0)
@@ -41,40 +42,56 @@ arr = arr[0:len(arr)]
 arr = '\n'.join(arr)
 fline2 = f""
 fline3 = f""
-gvarLine = f"char"
-categoryInfo = ctx.channel.category.name
-#68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
-catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
-gvarSkillC = catlist.get(categoryInfo)
-catData = load_json(get_gvar(gvarSkillC))
+gvarLine = f"embed -title 'future update' -desc 'some statistics will go here'"
+if showGvar:
+    categoryInfo = ctx.channel.category.name
+  #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
+    catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
+    gvarSkillC = catlist.get(categoryInfo)
+    catData = load_json(get_gvar(gvarSkillC))
 
-totalCount = catData.get('totalCount')
-totalSuccess = catData.get('totalSuccess')
-totalExtraText = catData.get(extratext)
-if totalCount is None:
-    totalCount = 0
-else:
-    totalCount = int(totalCount)
-if totalSuccess is None:
-    totalSuccess = 0
-else:
-    totalSuccess = int(totalSuccess)
-if totalExtraText is None:
-    totalExtraText = 0
-else:
-    totalExtraText = int(totalExtraText)
+    totalCount = catData.get('totalCount')
+    totalSuccess = catData.get('totalSuccess')
+    totalExtraText = catData.get(extratext)
+    if totalCount is None:
+        totalCount = 0
+    else:
+        totalCount = int(totalCount)
+    if totalSuccess is None:
+        totalSuccess = 0
+    else:
+        totalSuccess = int(totalSuccess)
+    if totalExtraText is None:
+        totalExtraText = 0
+    else:
+        totalExtraText = int(totalExtraText)
 
-catData['totalCount'] = totalC + rerolls
-catData['totalSuccess'] = totalSuccess + success
-catData[extratext] = totalExtraText + success
-jsonDump = dump_json(catData)
-gvarLine = f"gvar edit {gvarSkillC} {jsonDump} "
+    catData['totalCount'] = totalC + rerolls
+    catData['totalSuccess'] = totalSuccess + success
+    catData[extratext] = totalExtraText + success
+    jsonDump = dump_json(catData)
+    gvarLine = f"gvar edit {gvarSkillC} {jsonDump} "
+
+tTimeWas = ch.get_cvar("updateTime")
+if tTimeWas is None:
+    tTimeWas = 0
+else:
+    tTimeWas = float(tTimeWas)
+
+embedPre = "embed -title 'No Update Needed' -desc 'No update needed at this time'"
+ttime = time()
+isItTime = tTimeWas + 14400
+
+if ttime > isItTime:
+    embedPre = f'update'
+    ch.set_cvar("updateTime", ttime)
 
 desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success} successes**"
 footer = "!skillc skill [adv/dis] [-mc #] [-rr #] [-b #]  [-dc #] [-f 'whatever you want'] - made by edlost"
 embed1 = f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -f "{fline3}" -footer "{footer}" -thumb "{ch.image}"'
 
 return (f"""multiline 
+{ctx.prefix}{embedPre}
 {ctx.prefix}{embed1}
 {ctx.prefix}{gvarLine} """)
 </drac2>
