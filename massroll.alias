@@ -43,6 +43,7 @@ arr = '\n'.join(arr)
 fline2 = f""
 fline3 = f""
 gvarLine = f"embed -title 'future update' -desc 'some statistics will go here'"
+output = f"multiline\n"
 if showGvar:
     categoryInfo = ctx.channel.category.name
   #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
@@ -78,20 +79,22 @@ if tTimeWas is None:
 else:
     tTimeWas = float(tTimeWas)
 
-embedPre = "embed -title 'No Update Needed' -desc 'No update needed at this time'"
+
 ttime = time()
 isItTime = tTimeWas + 14400
 
 if ttime > isItTime:
     embedPre = f'update'
     ch.set_cvar("updateTime", ttime)
+    output = output + f"{ctx.prefix}{embedPre}\n"
 
 desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success} successes**"
 footer = "!skillc skill [adv/dis] [-mc #] [-rr #] [-b #]  [-dc #] [-f 'whatever you want'] - made by edlost"
 embed1 = f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -f "{fline3}" -footer "{footer}" -thumb "{ch.image}"'
+output = output + f"{ctx.prefix}{embed1}\n"
 
-return (f"""multiline 
-{ctx.prefix}{embedPre}
-{ctx.prefix}{embed1}
-{ctx.prefix}{gvarLine} """)
+if showGvar:
+    output = output + f"{ctx.prefix}{gvarLine}\n"
+    
+return output
 </drac2>
