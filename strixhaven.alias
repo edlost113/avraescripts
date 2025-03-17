@@ -20,9 +20,36 @@ activity = "&2&".lower()
 gvar = load_json(get_gvar('a8287661-1cb8-4b84-8013-1a79895405fe'))
 perfectMatch = [item for item in gvar if activity == item['extracurricular'].lower()]
 match = [item for item in gvar if activity in item['extracurricular'].lower()]
+title = f"{ch.name} is changing their extracurricular activities"
 
 if not &ARGS&:
-    desc="no args provided, can be add, remove or lookup followed by the extracurricular activity"
+    title = f"{ch.name}'s extracurricular activities"
+    extracurriculars = ch.get_cvar("extracurriculars")
+    extracurriculars2 = ch.get_cvar("extracurriculars2")
+    desc = f"{ch.name} is currently taking part in"
+    fline = "This gives them a potential bonus to"
+   
+    if extracurriculars:
+        desc = desc + f" **{extracurriculars}**"
+        perfectMatch = [item for item in gvar if extracurriculars == item['extracurricular']]
+        match = [item for item in gvar if extracurriculars in item['extracurricular']]
+        fline = fline + f" **{match[0]['skill1']}** and **{match[0]['skill2']}**"
+    if extracurriculars2:
+        if extracurriculars:    
+            desc = desc + " and"
+            desc = desc + f" **{extracurriculars2}**"
+            fline = fline + " and also "
+            perfectMatch2 = [item for item in gvar if extracurriculars2 == item['extracurricular']]
+            match2 = [item for item in gvar if extracurriculars2 in item['extracurricular']]
+            fline = fline + f" **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
+        else:
+            desc = desc + f" **{extracurriculars2}**"
+            perfectMatch2 = [item for item in gvar if extracurriculars2 == item['extracurricular']]
+            match2 = [item for item in gvar if extracurriculars2 in item['extracurricular']]
+            fline = fline + f" **{match2[0]['skill1']}** and **{match2[0]['skill2']}**"
+    if not extracurriculars and not extracurriculars2:
+        desc = f"{ch.name} is not taking part in any extracurricular activities"
+        fline = fline + " nothing"
 elif not match:
     desc = "No extracurricular found"
 elif not perfectMatch and len(match) > 1:
@@ -55,7 +82,7 @@ else:
         desc = f"**{match[0]['extracurricular']}** gives a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     else:
         desc = "Please provide add remove or lookup"
-return (f'embed -title "{ch.name} is changing their extracurricular activities" -desc "{desc}" -f "{fline}" -footer "!extrac add/remove/lookup \"activity\" 1or2 - made by edlost" -thumb "{ch.image}"')
+return (f'embed -title "{title}" -desc "{desc}" -f "{fline}" -footer "!extrac add/add2/remove/remove2/lookup \"activity\"  - made by edlost" -thumb "{ch.image}"')
 </drac2>
 
 
