@@ -76,5 +76,5 @@ else:
     arr = arr[0:len(arr)]
     arr = '\n'.join(arr)
 
-return (f'embed -title "{ch.name}" -desc "{desc}" -f "{arr}" -f "**Total Passes: {numPasses}**" -footer "!exam # skill skill skill - made by edlost" -thumb "{ch.image}"')
+return (f'embed -title "{ch.name}" -desc "{desc}" -f "{arr}" -f "**Total Passes: {numPasses}**" -footer "!exam # skill skill - made by edlost" -thumb "{ch.image}"')
 </drac2>
