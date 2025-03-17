@@ -51,7 +51,16 @@ if not &ARGS&:
         desc = f"{ch.name} is not taking part in any extracurricular activities"
         fline = fline + " nothing"
 elif not match:
-    desc = "No extracurricular found"
+    if input == "lookup":
+        desc = f"These are the extracurricular activities that are available"
+        clubs = [x['extracurricular'] for x in gvar]
+        sanePriceArray = "\n"
+        raw=sanePriceArray.join(clubs)
+        raw=raw[:1020]+'`...' if len(raw)>1024 else raw
+
+        fline = raw
+    else:
+        desc = "No extracurricular found"
 elif not perfectMatch and len(match) > 1:
     if input == "lookup":
         s=[i for i in gvar if i.extracurricular.lower==activity or all([x in i.extracurricular.lower() for x in activity.split(' ')])]
@@ -82,7 +91,7 @@ else:
         desc = f"**{match[0]['extracurricular']}** gives a bonus to **{match[0]['skill1']}** and **{match[0]['skill2']}**"
     else:
         desc = "Please provide add remove or lookup"
-return (f'embed -title "{title}" -desc "{desc}" -f "{fline}" -footer "!extrac add/add2/remove/remove2/lookup \"activity\"  - made by edlost" -thumb "{ch.image}"')
+return (f'embed -title "{title}" -desc "{desc}" -f "{fline}" -footer "!extrac add/add2/remove/remove2/lookup [activity]  - made by edlost" -thumb "{ch.image}"')
 </drac2>
 
 
