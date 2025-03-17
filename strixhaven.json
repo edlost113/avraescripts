@@ -76,111 +76,111 @@
     },
     {
       "extracurricular": "Silkball Club",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Historical Reenactment Club",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Tactics and Seige Studies Club",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Marksmanship Club",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Tabletop Gaming Association",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Improvised Musical Performance Club",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Starhold's Environmental Conservation Effort",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Starhold Junior Bakers Association",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Starhold Conservation and Environmental Society",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Support Association for Apex Predator Species",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Starhold's First-Contact Commitee",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Student Community Advisory Bureau",
-      "skill1": "Insight",
-      "skill2": "Religion"
+      "skill1": "None",
+      "skill2": "None"
     },
     {
       "extracurricular": "Platinum Ponys Productions",
-      "skill1": "Insight",
-      "skill2": "Religion"
-    },
-    {
-      "extracurricular": "Biblioplex - Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Pumpkin Patch - Job",
+      "extracurricular": "Biblioplex-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Campus Grounds - Job",
+      "extracurricular": "Pumpkin Patch-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Campus Magic Labs - Job",
+      "extracurricular": "Campus Grounds-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Dormitories - Job",
+      "extracurricular": "Campus Magic Labs-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Firejolt Café - Job",
+      "extracurricular": "Dormitories-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Intramural Fields - Job",
+      "extracurricular": "Firejolt Café-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Starholds Performing Arts Society - Job",
+      "extracurricular": "Intramural Fields-Job",
       "skill1": "None",
       "skill2": "None"
     },
     {
-      "extracurricular": "Barrow of Brairs - Job",
+      "extracurricular": "Starholds Performing Arts Society-Job",
+      "skill1": "None",
+      "skill2": "None"
+    },
+    {
+      "extracurricular": "Barrow of Brairs-Job",
       "skill1": "None",
       "skill2": "None"
     }
