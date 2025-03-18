@@ -4,35 +4,14 @@ categoryInfo = ctx.channel.category.name
 catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
 gvarSkillC = catlist.get(categoryInfo)
 catData = load_json(get_gvar(gvarSkillC))
-totalC = catData.get('totalCount')
+
 ch=character()
 tTimeWas = ch.get_cvar("updateTime")
-
-if not totalC:
-    totalC = 0
-else:
-    totalC = int(totalC)
-
-if tTimeWas is None:
-    tTimeWas = 0
-else:
-    tTimeWas = float(tTimeWas)
-
-totalC = totalC + 1
-ttime = time()
-isItTime = tTimeWas + 14400
-embed4 = "embed -title 'No Update Needed' -desc 'No update needed at this time'"
-
-if ttime > isItTime:
-    embed4 = f'update'
-    ch.set_cvar("updateTime", ttime)
-
-catData['totalCount'] = totalC
-jsonDump = dump_json(catData)
-embed1 = f'embed -title "Gvar Info " -desc "Here is the gvar for {categoryInfo}" -f "{gvarSkillC}" -f "{catlist}"'
-embed2 = f'embed -title "Gvar Data" -desc "{catData}" -f "{totalC}"'
-embed3 = f'embed -title "Gvar Save" -desc "{jsonDump}" -f "{ttime}"'
+arr = []
+for key, value in catData.items():
+    arr.append(f"**{key}**: {value}")
+data = '\n'.join(arr)
+embed3 = f'embed -title "Roll Statistics" -desc "{data}"'
 return f"""multiline {ctx.prefix}{embed3} 
-{ctx.prefix}gvar edit {gvarSkillC} {jsonDump}
-{ctx.prefix}{embed4}"""
+"""
 </drac2>
