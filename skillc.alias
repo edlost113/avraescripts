@@ -50,9 +50,10 @@ if showGvar:
     catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
     gvarSkillC = catlist.get(categoryInfo)
     catData = load_json(get_gvar(gvarSkillC))
-
+    cnameSuccesses = ch.name= '.successes'
     totalCount = catData.get('totalCount')
     totalSuccess = catData.get('totalSuccess')
+    totalSuccessChar = catData.get(cnameSuccesses)
     totalExtraText = catData.get(extratext)
     if totalCount is None:
         totalCount = 0
@@ -62,6 +63,10 @@ if showGvar:
         totalSuccess = 0
     else:
         totalSuccess = int(totalSuccess)
+    if totalSuccessChar is None:
+        totalSuccessChar = 0
+    else:
+        totalSuccessChar = int(totalSuccessChar)
     if totalExtraText is None:
         totalExtraText = 0
     else:
@@ -69,6 +74,7 @@ if showGvar:
 
     catData['totalCount'] = totalC + rerolls
     catData['totalSuccess'] = totalSuccess + success
+    catData[cnameSuccesses] = totalSuccessChar + success
     catData[extratext] = totalExtraText + success
     jsonDump = dump_json(catData)
     gvarLine = f"gvar edit {gvarSkillC} {jsonDump} "
