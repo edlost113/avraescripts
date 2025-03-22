@@ -4,14 +4,14 @@ charname =" ".join(&ARGS&).lower() if &ARGS& else ''
 command1 = f"{ctx.prefix}char {charname}\n"
 r= vroll('1d20')
 
-embed = f'embed -title "{name} tries to remember the last session:" -desc "{r}"'
+embed = f'tembed -title "<name> tries to remember the last session:" -desc "{r}"'
 if r.total == 1:
     embed += ' -f "You have to tell us what happened"'
 elif r.total == 20:
     embed += ' -f "You remember so perfectly, you know that ___ Knows what what happened, maybe they should tell us"'
 else:
     embed += ' -f "Did you remember enough or do you have to say it?"'
-embed += f' -thumb {image} -footer "!recap"'
+embed += f' -thumb <image> -footer "!recap"'
 output = ""
 if len(charname) > 0:
     output += command1
