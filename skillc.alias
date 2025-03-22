@@ -44,6 +44,7 @@ fline2 = f""
 fline3 = f""
 gvarLine = f"embed -title 'future update' -desc 'some statistics will go here'"
 output = f"multiline\n"
+newcombatline = f""
 if showGvar:
     categoryInfo = ctx.channel.category.name
   #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
@@ -78,7 +79,14 @@ if showGvar:
     catData[extratext] = totalExtraText + success
     jsonDump = dump_json(catData)
     gvarLine = f"gvar edit {gvarSkillC} {jsonDump} "
-
+cbt = combat()
+if cbt:
+    combatant = cbt.get_combatant(extratext)
+    if combatant is None:
+        newcombatline = f'i add 0 "{extratext}" -hp {success} -p 0'
+    else:
+        combatant.modify_hp(success, overflow=True)
+        newcombatline = f'i list'
 tTimeWas = ch.get_cvar("updateTime")
 if tTimeWas is None:
     tTimeWas = 0
@@ -98,7 +106,8 @@ desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success}
 footer = "!skillc skill [adv/dis] [-mc #] [-rr #] [-b #]  [-dc #] [-f 'whatever you want'] - made by edlost"
 embed1 = f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -f "{fline3}" -footer "{footer}" -thumb "{ch.image}"'
 output = output + f"{ctx.prefix}{embed1}\n"
-
+if cbt:
+    output = output + f"{ctx.prefix}{newcombatline}\n"
 if showGvar:
     output = output + f"{ctx.prefix}{gvarLine}\n"
     
