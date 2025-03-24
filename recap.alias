@@ -2,6 +2,7 @@
 <drac2> 
 charname =" ".join(&ARGS&).lower() if &ARGS& else ''
 command1 = f"{ctx.prefix}char {charname}\n"
+command2 = f"{ctx.prefix}update\n"
 r= vroll('1d20')
 
 embed = f'tembed -title "<name> tries to remember the last session:" -desc "{r}"'
@@ -15,6 +16,6 @@ embed += f' -thumb <image> -footer "!recap"'
 output = ""
 if len(charname) > 0:
     output += command1
-output += f"{ctx.prefix}{embed}"
+output += f"{ctx.prefix}{embed}\n{command2}"
 return f"""{output}"""
 </drac2>
