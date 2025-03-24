@@ -1,7 +1,7 @@
 <drac2>
 ch=character()
 args=argparse(&ARGS&)
-skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['perception'])[0]
+skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['Nothing'])[0]
 adv = args.adv(boolwise=True)
 bonus = args.last('b',default="0")
 extratext = args.last('f',default="idk")
