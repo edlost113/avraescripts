@@ -1,0 +1,18 @@
+!alias getbuffs multiline
+<drac2>
+categoryInfo = ctx.channel.category.name
+#68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
+catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
+gvarSkillC = catlist.get(categoryInfo)
+catData = load_json(get_gvar(gvarSkillC))
+
+ch=character()
+tTimeWas = ch.get_cvar("updateTime")
+arr = []
+for key, value in catData.items():
+    arr.append(f"**{key}**: {value}")
+data = '\n'.join(arr)
+embed3 = f'embed -title "Buffs given to players of {categoryInfo}" -desc "{data}"'
+return f"""{ctx.prefix}{embed3} 
+"""
+</drac2>
