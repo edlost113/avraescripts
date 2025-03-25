@@ -1,0 +1,1 @@
+!embed -title "!newchar  command" -desc "**usage**: !newchar 'url'" -f "imports the url into dndbeyond and creates the Inspiration counters" -f "same as !beyond url and !inspcreate"
