@@ -9,8 +9,9 @@ fline = ""
 boonNameExample = f"'Boon Name'"
 perfectMatch = [item for item in gvar if activity == item['name'].lower()]
 match = [item for item in gvar if activity in item['name'].lower()]
+myBoons = []
+myBoonsLoc = []
 if not &ARGS&:
-    myBoons = []
     currentBoons = ch.get_cvar("MyBoons")
     if currentBoons:
         myBoons.append(currentBoons)
@@ -22,35 +23,37 @@ if not &ARGS&:
     else:
         title = f"{ch.name} has no boons"
     #fix this later to show full list
-elif not match:
+elif not match and input != "custom":
     desc = f"These are the boons that are available:"
     clubs = [x['name'] for x in gvar]
     boonArray = "\n"
     raw=boonArray.join(clubs)
     raw=raw[:1020]+'`...' if len(raw)>1024 else raw
     fline = raw
-elif not perfectMatch and len(match) > 1:
+elif not perfectMatch and len(match) > 1 and input != "custom":
         s=[i for i in gvar if i.name.lower==activity or all([x in i.name.lower() for x in activity.split(' ')])]
         s=s[0] if s and (len(s)==1 or s[0].name.lower()==activity) else [x.name for x in gvar] if not activity else [x.name for x in s]
         boonArray = "\n"
         raw=boonArray.join(s)
         raw=raw[:1020]+'`...' if len(raw)>1024 else raw
-        desc = f"These are the boons that contain {activity}"
+        desc = f"These are the boons that contain **{activity}**"
         fline = raw
 else:
-    myBoons = []
     currentBoons = ch.get_cvar("MyBoons")
     if currentBoons:
         myBoons.append(currentBoons)
-
     if input == "add":
-        desc = f"{ch.name} is **getting** the power of the following boon: **{match[0]['name']}**"
+        desc = f"{ch.name} is getting the power of the following boon: **{match[0]['name']}**"
         fline = f"They will now gain the following benefit: **{match[0]['desc']}**"
-        if not myBoons:
-            myBoons.append(match[0]['name'])
-        else:
-            myBoons.append(match[0]['name'])
-        
+        myBoons.append(match[0]['name'])
+        myBoons = myBoons[0:len(myBoons)]
+        myBoons = '\n'.join(myBoons)
+        ch.set_cvar("MyBoons", myBoons)
+    elif input == "clear":
+        ch.delete_cvar("MyBoons")
+    elif input == "custom":
+        desc = f"{ch.name} is getting the power of the following boost: **{activity}**"
+        myBoons.append(activity)
         myBoons = myBoons[0:len(myBoons)]
         myBoons = '\n'.join(myBoons)
         ch.set_cvar("MyBoons", myBoons)
