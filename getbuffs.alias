@@ -3,11 +3,9 @@
 categoryInfo = ctx.channel.category.name
 #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
 catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
-gvarSkillC = catlist.get(categoryInfo)
-catData = load_json(get_gvar(gvarSkillC))
+gvarCategoryBuffs = catlist.get(categoryInfo)
+catData = load_json(get_gvar(gvarCategoryBuffs))
 
-ch=character()
-tTimeWas = ch.get_cvar("updateTime")
 arr = []
 for key, value in catData.items():
     arr.append(f"**{key}**: {value}")
