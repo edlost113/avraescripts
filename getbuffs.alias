@@ -1,6 +1,6 @@
-!alias getbuffs multiline
+!servalias getbuffs multiline
 <drac2>
-categoryInfo = ctx.channel.category.name
+categoryInfo = ctx.channel.category.name.lower()
 #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
 catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
 gvarCategoryBuffs = catlist.get(categoryInfo)
