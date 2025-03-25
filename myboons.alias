@@ -6,6 +6,7 @@ title = f"{ch.name}'s Boons"
 myBoons = ch.get_cvar("MyBoons")
 desc = ""
 fline = ""
+boonNameExample = f"'Boon Name'"
 if not &ARGS&:
     desc = f"{ch.name} has the following boons:"
 else:
@@ -15,5 +16,5 @@ else:
     elif input == "remove":
         desc = f"{ch.name} has lost the following boon:"
         fline= f"Here is what {ch.name} can no longer do: "
-return (f'embed -title "{title}" -desc "{desc}" -f "{fline}" -footer "!myboon add/remove [\"boon name\"]  - made by edlost" -thumb "{ch.image}"')
+return (f'embed -title "{title}" -desc "{desc}" -f "{fline}" -footer "!myboon add/remove [{boonNameExample}]  - made by edlost" -thumb "{ch.image}"')
 </drac2>
