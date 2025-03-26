@@ -3,7 +3,7 @@
 categoryInfo = ctx.channel.category.name.lower()
 #68aa81fa-e1fc-4666-a3d3-65b383a6f267 list of categories
 catlist = load_json(get_gvar('68aa81fa-e1fc-4666-a3d3-65b383a6f267'))
-gvarCategoryBuffs = catlist.get(categoryInfo)
+gvarCategoryBuffs = catlist.get(categoryInfo).lower()
 catData = load_json(get_gvar(gvarCategoryBuffs))
 
 arr = []

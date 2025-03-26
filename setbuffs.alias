@@ -8,7 +8,12 @@ catData = load_json(get_gvar(gvarCategoryBuffs))
 args=argparse(&ARGS&)
 key = args.last('key',default="0")
 keyData = args.last('data',default="0")
-catData[key] = keyData
+if key.lower() == "boon points" or key.lower() == "boonpoints" or key.lower() == "Boon Points":
+    currentBoonPoints = catData[key]
+    totalBoonPoints = int(currentBoonPoints) + int(keyData)
+    catData[key] = f"{totalBoonPoints}"
+else:
+    catData[key] = keyData
 jsonDump = dump_json(catData)
 
 gvarLine = f'gvar edit {gvarCategoryBuffs} {jsonDump}'
