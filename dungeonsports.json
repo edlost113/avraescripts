@@ -7602,45 +7602,1173 @@
     "rarity" : "?"
   },
   {
+    "name" : "+1 Armor",
+    "page" : "DMG 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+1 Shield",
+    "page" : "DMG 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+1 Weapon",
+    "page" : "DMG 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+2 Armor",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+2 Shield",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+2 Weapon",
+    "page" : "DMG 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+3 Armor",
+    "page" : "DMG 2024",
+    "price" : "24000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+3 Shield",
+    "page" : "DMG 2024",
+    "price" : "24000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "+3 Weapon",
+    "page" : "DMG 2024",
+    "price" : "16000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Adamantine Armor",
+    "page" : "Free Rules 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Adamantine Weapon",
+    "page" : "DMG 2024",
+    "price" : "500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Alchemy Jug",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Amunition of Slaying",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Amulet of Health",
+    "page" : "Free Rules 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Amulet of Proof Against Detection and Location",
+    "page" : "Free Rules 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Amulet of the Planes",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Animated Shield",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Antimatter Rifle",
+    "page" : "DMG 2024",
+    "price" : "11000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Apparatus of Kwalish",
+    "page" : "DMG 2024",
+    "price" : "10000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Armor of Invulnerability",
+    "page" : "Free Rules 2024",
+    "price" : "18000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Armor of Resistance",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Armor of Vulnerability",
+    "page" : "Free Rules 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Arrow of Slaying (each)",
+    "page" : "DMG 2024",
+    "price" : "600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Arrow-Catching Shield",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Axe of the Dwarvish Lords",
+    "page" : "DMG 2024",
+    "price" : "100000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Baba Yaga's Dancing Broom",
+    "page" : "DMG 2024",
+    "price" : "50",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bag of Beans",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bag of Devouring",
+    "page" : "Free Rules 2024",
+    "price" : "500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bag of Holding",
+    "page" : "Free Rules 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bag of Tricks",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bead of Force",
+    "page" : "DMG 2024",
+    "price" : "960",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Dwarvenkind",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Giant Strength (Cloud)",
+    "page" : "Free Rules 2024",
+    "price" : "40000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Giant Strength (Fire)",
+    "page" : "Free Rules 2024",
+    "price" : "30000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Giant Strength (Hill)",
+    "page" : "Free Rules 2024",
+    "price" : "10000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Giant Strength (Stone\/Frost)",
+    "page" : "Free Rules 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Belt of Giant Strength (Storm)",
+    "page" : "Free Rules 2024",
+    "price" : "50000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Berserker Axe",
+    "page" : "Free Rules 2024",
+    "price" : "750",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Blackrazor",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
     "name" : "Bomb",
-    "page" : "DMG",
+    "page" : "DMG 2024",
     "price" : "150",
     "rarity" : "?"
   },
   {
-    "name" : "Gunpowder, keg",
-    "page" : "DMG",
-    "price" : "250",
+    "name" : "Book of Exalted Deeds",
+    "page" : "DMG 2024",
+    "price" : "250000",
     "rarity" : "?"
   },
   {
-    "name" : "Gunpowder, horn",
-    "page" : "DMG",
-    "price" : "35",
+    "name" : "Book of Vile Darkness",
+    "page" : "DMG 2024",
+    "price" : "250000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Boots of Elvenkind",
+    "page" : "Free Rules 2024",
+    "price" : "2500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Boots of Levitation",
+    "page" : "Free Rules 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Boots of Speed",
+    "page" : "Free Rules 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Boots of Striding and Springing",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Boots of the Winterlands",
+    "page" : "Free Rules 2024",
+    "price" : "10000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bowl of Commanding Water Elementals",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bracers of Archery",
+    "page" : "DMG 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Bracers of Defense",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Brazier of Commanding Fire Elementals",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Brooch of Shielding",
+    "page" : "Free Rules 2024",
+    "price" : "7500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Broom of Flying",
+    "page" : "Free Rules 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Candle of Invocation",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cap of Water Breathing",
+    "page" : "DMG 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cape of the Mountebank",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Carpet of Flying",
+    "page" : "DMG 2024",
+    "price" : "12000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Censer of Controlling Air Elementals",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Chime of Opening",
+    "page" : "DMG 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Circlet of Blasting",
+    "page" : "Free Rules 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of Arachnida",
+    "page" : "Free Rules 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of Displacement",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of Elvenkind",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of Invisibility",
+    "page" : "Free Rules 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of Protection",
+    "page" : "Free Rules 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of the Bat",
+    "page" : "Free Rules 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cloak of the Manta Ray",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Club",
+    "page" : "PHB 2024",
+    "price" : "1",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crook of Rao",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crossbow, Hand",
+    "page" : "PHB 2024",
+    "price" : "75",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crossbow, Heavy",
+    "page" : "PHB 2024",
+    "price" : "50",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crossbow, Light",
+    "page" : "PHB 2024",
+    "price" : "25",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crystal Ball",
+    "page" : "Free Rules 2024",
+    "price" : "6400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crystal Ball of Mind Reading",
+    "page" : "Free Rules 2024",
+    "price" : "7600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crystal Ball of Telepathy",
+    "page" : "Free Rules 2024",
+    "price" : "7600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Crystal Ball of True Seeing",
+    "page" : "Free Rules 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cube of Force",
+    "page" : "DMG 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cube of Summoning",
+    "page" : "DMG 2024",
+    "price" : "6400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Cubic Gate",
+    "page" : "DMG 2024",
+    "price" : "100000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Daern's Instant Fortress",
+    "page" : "DMG 2024",
+    "price" : "200000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dagger",
+    "page" : "PHB 2024",
+    "price" : "2",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dagger of Venom",
+    "page" : "DMG 2024",
+    "price" : "2500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dancing Sword",
+    "page" : "Free Rules 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dart (10)",
+    "page" : "PHB 2024",
+    "price" : "1",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Decanter of Endless Water",
+    "page" : "DMG 2024",
+    "price" : "135000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Deck of Illusions",
+    "page" : "DMG 2024",
+    "price" : "6120",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Deck of Many Things",
+    "page" : "Free Rules 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Defender",
+    "page" : "DMG 2024",
+    "price" : "24000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Demon Armor",
+    "page" : "DMG 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dimensional Shackles",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragon Scale Mail",
+    "page" : "DMG 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dragon Slayer",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Driftglobe",
+    "page" : "DMG 2024",
+    "price" : "750",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dust of Disappearance",
+    "page" : "DMG 2024",
+    "price" : "300",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dust of Dryness (1 pellet)",
+    "page" : "DMG 2024",
+    "price" : "120",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dust of Sneezing and Choking",
+    "page" : "DMG 2024",
+    "price" : "480",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dwarven Plate",
+    "page" : "DMG 2024",
+    "price" : "9000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Dwarven Thrower",
+    "page" : "DMG 2024",
+    "price" : "20000",
     "rarity" : "?"
   },
   {
     "name" : "Dynamite (stick)",
-    "page" : "DMG",
-    "price" : "60",
+    "page" : "DMG 2024",
+    "price" : "200",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Efreeti Bottle",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Efreeti Chain",
+    "page" : "DMG 2024",
+    "price" : "40000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Elemental Gem",
+    "page" : "DMG 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Elixir of Health",
+    "page" : "DMG 2024",
+    "price" : "120",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Elven Chain",
+    "page" : "DMG 2024",
+    "price" : "4000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Energy Cell (1)",
+    "page" : "DMG 2024",
+    "price" : "500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Energy Bow",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Cantrip)",
+    "page" : "DMG 2024",
+    "price" : "300",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 1)",
+    "page" : "DMG 2024",
+    "price" : "1800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 2)",
+    "page" : "DMG 2024",
+    "price" : "3600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 3)",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 4)",
+    "page" : "DMG 2024",
+    "price" : "9600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 5)",
+    "page" : "DMG 2024",
+    "price" : "19200",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 6)",
+    "page" : "DMG 2024",
+    "price" : "38400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 7)",
+    "page" : "DMG 2024",
+    "price" : "76800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Armor (Level 8)",
+    "page" : "DMG 2024",
+    "price" : "153600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Cantrip)",
+    "page" : "DMG 2024",
+    "price" : "300",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 1)",
+    "page" : "DMG 2024",
+    "price" : "1800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 2)",
+    "page" : "DMG 2024",
+    "price" : "3600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 3)",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 4)",
+    "page" : "DMG 2024",
+    "price" : "9600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 5)",
+    "page" : "DMG 2024",
+    "price" : "19200",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 6)",
+    "page" : "DMG 2024",
+    "price" : "38400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 7)",
+    "page" : "DMG 2024",
+    "price" : "76800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Staff (Level 8)",
+    "page" : "DMG 2024",
+    "price" : "153600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Cantrip)",
+    "page" : "DMG 2024",
+    "price" : "300",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 1)",
+    "page" : "DMG 2024",
+    "price" : "1800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 2)",
+    "page" : "DMG 2024",
+    "price" : "3600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 3)",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 4)",
+    "page" : "DMG 2024",
+    "price" : "9600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 5)",
+    "page" : "DMG 2024",
+    "price" : "19200",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 6)",
+    "page" : "DMG 2024",
+    "price" : "38400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 7)",
+    "page" : "DMG 2024",
+    "price" : "76800",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Enspelled Weapon (Level 8)",
+    "page" : "DMG 2024",
+    "price" : "153600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eversmoking Bottle",
+    "page" : "DMG 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Executioner's Axe",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eye of Vecna",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hand of Vecna",
+    "page" : "DMG 2024",
+    "price" : "0",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eyes of Charming",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eyes of Minute Seeing",
+    "page" : "DMG 2024",
+    "price" : "2500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Eyes of the Eagle",
+    "page" : "DMG 2024",
+    "price" : "2500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Bronze Griffon",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Ebony Fly",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Golden Lion",
+    "page" : "DMG 2024",
+    "price" : "600",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Ivory Goat (Terror)",
+    "page" : "DMG 2024",
+    "price" : "20000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Ivory Goat (Travail)",
+    "page" : "DMG 2024",
+    "price" : "400",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Ivory Goat (Traveling)",
+    "page" : "DMG 2024",
+    "price" : "1000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Marble Elephant",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Obsidian Steed",
+    "page" : "DMG 2024",
+    "price" : "128000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Onyx Dog",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Serpentine Owl",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Figurine of Wondrous Power - Silver Raven",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Flail",
+    "page" : "PHB2024",
+    "price" : "10",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Flame Tongue",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Folding Boat",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Frost Brand",
+    "page" : "DMG 2024",
+    "price" : "2200",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gauntlets of Ogre Power",
+    "page" : "Free Rules 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gem of Brightness",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gem of Seeing",
+    "page" : "DMG 2024",
+    "price" : "32000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Giant Slayer",
+    "page" : "Free Rules 2024",
+    "price" : "7000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Glaive",
+    "page" : "DMG 2024",
+    "price" : "20",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Glamoured Studded Leather",
+    "page" : "Free Rules 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Missile Snaring",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Swimming and Climbing",
+    "page" : "Free Rules 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gloves of Thievery",
+    "page" : "Free Rules 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Goggles of Night",
+    "page" : "Free Rules 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Greataxe",
+    "page" : "PHB 2024",
+    "price" : "30",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Greatclub",
+    "page" : "PHB 2024",
+    "price" : "1",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Greatsword",
+    "page" : "PHB 2024",
+    "price" : "50",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Grenade launcher",
+    "page" : "DMG 2024",
+    "price" : "300",
     "rarity" : "?"
   },
   {
     "name" : "Grenade, fragmentation",
-    "page" : "DMG",
+    "page" : "DMG 2024",
     "price" : "100",
     "rarity" : "?"
   },
   {
     "name" : "Grenade, smoke",
-    "page" : "DMG",
+    "page" : "DMG 2024",
     "price" : "20",
     "rarity" : "?"
   },
   {
-    "name" : "Grenade launcher",
-    "page" : "DMG",
-    "price" : "300",
+    "name" : "Gunpowder, horn",
+    "page" : "DMG 2024",
+    "price" : "35",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Gunpowder, keg",
+    "page" : "DMG 2024",
+    "price" : "250",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hag Eye",
+    "page" : "DMG 2024",
+    "price" : "2000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Halberd",
+    "page" : "PHB 2024",
+    "price" : "20",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Half Plate",
+    "page" : "PHB 2024",
+    "price" : "750",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hammer of Thunderbolts",
+    "page" : "DMG 2024",
+    "price" : "16000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Handaxe",
+    "page" : "PHB 2024",
+    "price" : "2",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hat of Disguise",
+    "page" : "Free Rules 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Hat of Many Spells",
+    "page" : "Free Rules 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Headband of Intellect",
+    "page" : "Free Rules 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of Brilliance (Gems to be rolled for in-game)",
+    "page" : "DMG 2024",
+    "price" : "10000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of Comprehend Languages",
+    "page" : "DMG 2024",
+    "price" : "500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of Telepathy",
+    "page" : "DMG 2024",
+    "price" : "12000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Helm of Teleportation",
+    "page" : "DMG 2024",
+    "price" : "64000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Heward's Handy Haversack",
+    "page" : "DMG 2024",
+    "price" : "3000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Holy Avenger",
+    "page" : "DMG 2024",
+    "price" : "165000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of Blasting",
+    "page" : "DMG 2024",
+    "price" : "500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of Valhalla - Silver (Banned)",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of Valhalla - Brass (Banned)",
+    "page" : "DMG 2024",
+    "price" : "6000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of Valhalla - Bronze (Banned)",
+    "page" : "DMG 2024",
+    "price" : "7000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horn of Valhalla - Iron (Banned)",
+    "page" : "DMG 2024",
+    "price" : "8000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horseshoes of a Zephyr",
+    "page" : "DMG 2024",
+    "price" : "1500",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Horseshoes of Speed",
+    "page" : "DMG 2024",
+    "price" : "5000",
+    "rarity" : "?"
+  },
+  {
+    "name" : "Immovable Rod",
+    "page" : "DMG 2024",
+    "price" : "5000",
     "rarity" : "?"
   },
   {
@@ -7698,21 +8826,9 @@
     "rarity" : "?"
   },
   {
-    "name" : "Antimatter Rifle",
-    "page" : "DMG",
-    "price" : "20000",
-    "rarity" : "?"
-  },
-  {
     "name" : "Laser Rifle",
     "page" : "DMG",
     "price" : "10000",
-    "rarity" : "?"
-  },
-  {
-    "name" : "Energy Cell (1)",
-    "page" : "DMG",
-    "price" : "500",
     "rarity" : "?"
   },
   {
