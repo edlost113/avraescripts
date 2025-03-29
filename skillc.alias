@@ -83,7 +83,7 @@ cbt = combat()
 if cbt:
     combatant = cbt.get_combatant(extratext)
     if combatant is None:
-        newcombatline = f'i add 0 "{extratext}" -hp {success} -p 0'
+        newcombatline = f'i add 0 "{extratext}" -hp {success} -p 0\n{ctx.prefix}i hp max "{extratext}" 999'
     else:
         combatant.modify_hp(success, overflow=True)
         newcombatline = f'i list'
