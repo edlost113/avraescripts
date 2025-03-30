@@ -76,58 +76,63 @@
     },
     {
       "extracurricular": "Historical Reenactment Club",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Performance",
+      "skill2": "History"
     },
     {
       "extracurricular": "Tactics and Seige Studies Club",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Insight",
+      "skill2": "Deception"
+    },
+    {
+      "extracurricular":"Explosionists Club",
+      "skill1": "Arcana",
+      "skill2": "Sleight of Hand"
     },
     {
       "extracurricular": "Marksmanship Club",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Sleight of Hand",
+      "skill2": "Perception"
     },
     {
       "extracurricular": "Tabletop Gaming Association",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Persuassion",
+      "skill2": "Insight"
     },
     {
       "extracurricular": "Improvised Musical Performance Club",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Performance",
+      "skill2": "Insight"
     },
     {
       "extracurricular": "Starhold's Environmental Conservation Effort",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Nature",
+      "skill2": "Animal Handling"
     },
     {
       "extracurricular": "Starhold Junior Bakers Association",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Arcana",
+      "skill2": "Survival"
     },
     {
       "extracurricular": "Starhold Conservation and Environmental Society",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Nature",
+      "skill2": "Animal Handling"
     },
     {
       "extracurricular": "Support Association for Apex Predator Species",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Deception",
+      "skill2": "Medicine"
     },
     {
       "extracurricular": "Starhold's First-Contact Commitee",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Persuasion",
+      "skill2": "Nature"
     },
     {
       "extracurricular": "Student Community Advisory Bureau",
-      "skill1": "None",
-      "skill2": "None"
+      "skill1": "Deception",
+      "skill2": "Perception"
     },
     {
       "extracurricular": "Platinum Ponys Productions",
