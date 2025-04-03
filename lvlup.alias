@@ -1,11 +1,12 @@
 !servalias lvlup embed <drac2>
 gvar = load_json(get_gvar('aecef265-6a9c-43de-853a-3b257ca1590b'))
 input = "&1&".lower() 
-
+ch = character()
 perfectMatch = [item for item in gvar if input == item['class'].lower()]
 match = [item for item in gvar if input in item['class'].lower()]
 desc = ""
 fline = ""
+fline2 = ""
 if not &ARGS&:
     desc = "Please provide a class to level up"
 elif not match:
@@ -17,13 +18,17 @@ else:
     dieRollResult=vroll(f"{match.get('die')}")
     desc = f"{match.get('die')}= {dieRollResult.total}"
     fline = f"**{match.get('class')}** - {dieRollResult.total} HP"
-char = character()
+    cc1="Level Inspiration Point"
+    if (ch.cc_exists(cc1)):
+        ch.mod_cc(cc1,1)
+        fline2 = f"**{cc1}** - has been refreshed"
 </drac2>
 
 
 
--title "On Level Up for {{char.name}}"
+-title "On Level Up for {{ch.name}}"
 -desc "{{desc}}"
 -f "{{fline}}"
+-f "{{fline2}}"
 -footer "!lvlup  class     - made by edlost"
--thumb "{{char.image}}"
+-thumb "{{ch.image}}"
