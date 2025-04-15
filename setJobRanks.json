@@ -1,12 +1,29 @@
-[
-    {"Captain":{}},
-    {"Cook":{}},
-    {"Engineer":{}},
-    {"First Mate":{}},
-    {"Lookout":{}},
-    {"Navigator":{}},
-    {"Gunner":{}},
-    {"Security Officer":{}},
-    {"Medical Officer":{}},
-    {"Helmsman":{}} 
-]
+{
+    "Captain": [
+      {
+        "rank": 1,
+        "ability": "RABBLE RABBLE RABBLE"
+      },
+      {
+        "rank": 2,
+        "ability": "RABBLE RABBLE RABBLE"
+      },
+      {
+        "rank": 3,
+        "ability": "RABBLE RABBLE RABBLE"
+      },
+      {
+        "rank": 4,
+        "ability": "RABBLE RABBLE RABBLE"
+      }
+    ],
+    "Cook": [],
+    "Engineer": [],
+    "First Mate": [],
+    "Lookout": [],
+    "Navigator": [],
+    "Gunner": [],
+    "Security Officer": [],
+    "Medical Officer": [],
+    "Helmsman": []
+}
