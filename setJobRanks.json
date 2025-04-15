@@ -1,29 +1,182 @@
 {
-    "Captain": [
-      {
-        "rank": "test1",
-        "ability": "RABBLE RABBLE RABBLE"
-      },
-      {
-        "rank": "test2",
-        "ability": "RABBLE RABBLE RABBLE"
-      },
-      {
-        "rank": "test3",
-        "ability": "RABBLE RABBLE RABBLE"
-      },
-      {
-        "rank": "test4",
-        "ability": "RABBLE RABBLE RABBLE"
-      }
-    ],
-    "Cook": [],
-    "Engineer": [],
-    "First Mate": [],
-    "Lookout": [],
-    "Navigator": [],
-    "Gunner": [],
-    "Security Officer": [],
-    "Medical Officer": [],
-    "Helmsman": []
+  "Captain": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Cook": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Engineer": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "First Mate": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Lookout": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Navigator": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Gunner": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Security Officer": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Medical Officer": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ],
+  "Helmsman": [
+    {
+      "rank": "test1",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test2",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test3",
+      "ability": "RABBLE RABBLE RABBLE"
+    },
+    {
+      "rank": "test4",
+      "ability": "RABBLE RABBLE RABBLE"
+    }
+  ]
 }
