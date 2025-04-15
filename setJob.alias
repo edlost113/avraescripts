@@ -1,0 +1,40 @@
+!alias setjob embed
+<drac2>
+ch = character()
+# jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
+# ranks 7c668c2f-8053-4aa6-895e-b28f4077fcfe
+joblist = load_json(get_gvar('670e6213-91ad-42eb-9745-eac9b2ee4daf'))
+action = "&3&".lower()
+job = "&1&".lower() 
+rank = "&2&".lower() 
+output = ""
+jobInfo = ch.get_cvar("jobInfo")
+if not &ARGS&:
+    if not jobInfo:
+        joblist = joblist[0:11]
+        joblist = '\n'.join(joblist)
+        output = f"-title '{ch.name} is not skilled with any station' -desc 'you should pick a station and work on it! here are the possibilites' -f '{joblist}'"
+    else:
+        jobInfo = load_json(jobInfo)
+        arr = []
+        for item in jobInfo:
+            arr.append(f"**{item['job']}**: {item['rank']}")
+        data = '\n'.join(arr)
+        output = f"-title 'these are the ranks {ch.name} has learned in the various stations' -desc '{data}'"
+else:
+    if not rank:
+        output = f"-title '{ch.name} is attempting to rank up in **{match}**' -desc 'you need to include the rank you got'"
+    else:
+        match = [item for item in joblist if job in item.lower()][0]
+        if match:
+            if not jobInfo:
+                jobInfo =  []
+                jobInfo.append({'job': match, 'rank': rank})
+            else:
+                jobInfo = load_json(jobInfo)
+                jobInfo.append({'job': match, 'rank': rank})
+            jsonDump = dump_json(jobInfo)
+            ch.set_cvar("jobInfo",jsonDump)
+            output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**'"
+return f"{output}"
+</drac2>
