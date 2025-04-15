@@ -45,5 +45,6 @@ else:
             output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{rank}** is not a valid rank for the job: **{match}**'"
     else:
         output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{job}** is not a valid job'"
+output = output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
 return f"{output}"
 </drac2>
