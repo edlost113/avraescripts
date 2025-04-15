@@ -1,4 +1,3 @@
-!servalias setjob embed
 <drac2>
 ch = character()
 # jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
@@ -45,6 +44,6 @@ else:
             output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{rank}** is not a valid rank for the job: **{match}**'"
     else:
         output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{job}** is not a valid job'"
-output = output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
+output = "embed " + output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
 return f"{output}"
 </drac2>
