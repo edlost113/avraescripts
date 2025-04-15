@@ -1,4 +1,4 @@
-!alias setjob embed
+!servalias setjob embed
 <drac2>
 ch = character()
 # jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
@@ -22,11 +22,16 @@ if not &ARGS&:
         data = '\n'.join(arr)
         output = f"-title 'these are the ranks {ch.name} has learned in the various stations' -desc '{data}'"
 else:
-    if not rank:
-        output = f"-title '{ch.name} is attempting to rank up in **{match}**' -desc 'you need to include the rank you got'"
-    else:
-        match = [item for item in joblist if job in item.lower()][0]
-        if match:
+    match = [item for item in joblist if job in item.lower()]
+
+    if match:    
+        match = match[0]
+        ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
+        ranks = ranklist[match]
+        matchRank = [item for item in ranks if rank in item.lower()]
+        if matchRank:
+            matchRank = matchRank[0]
+        
             if not jobInfo:
                 jobInfo =  []
                 jobInfo.append({'job': match, 'rank': rank})
@@ -36,5 +41,9 @@ else:
             jsonDump = dump_json(jobInfo)
             ch.set_cvar("jobInfo",jsonDump)
             output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**'"
+        else:
+            output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{rank}** is not a valid rank for the job: **{match}**'"
+    else:
+        output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{job}** is not a valid job'"
 return f"{output}"
 </drac2>
