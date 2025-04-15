@@ -49,6 +49,7 @@ else:
                 else:
                     index += 1
             if matchRank:
+                jobInfo = load_json(jobInfo)
                 if not jobInfo:
                     jobInfo =  []
                     jobInfo.append({'job': match, 'rank': rank})
@@ -57,17 +58,19 @@ else:
                         index = 0
                         while index < len(jobInfo):
                             itemRemove = jobInfo[index]
-                            if itemRemove['job'] == match:
+                            if itemRemove.job == match and itemRemove.rank == rank:
                                 jobInfo.pop(index)
                                 break
                             else:
                                 index += 1
                     else:
-                        jobInfo = load_json(jobInfo)
                         jobInfo.append({'job': match, 'rank': rank})
                 jsonDump = dump_json(jobInfo)
                 ch.set_cvar("jobInfo",jsonDump)
-                output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**'"
+                if action == "remove":
+                    output = f"-title '{ch.name} is removing a rank from a job!' -desc 'removed the rank: **{rank}** from the job: **{match}**'"
+                else:
+                    output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**'"
             else:
                 output = f"-title '{ch.name} is trying to rank up in a job!' -desc '**{rank}** is not a valid rank for the job: **{match}**'"
         else:
