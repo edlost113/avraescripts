@@ -1,19 +1,19 @@
 {
     "Captain": [
       {
-        "rank": 1,
+        "rank": "test1",
         "ability": "RABBLE RABBLE RABBLE"
       },
       {
-        "rank": 2,
+        "rank": "test2",
         "ability": "RABBLE RABBLE RABBLE"
       },
       {
-        "rank": 3,
+        "rank": "test3",
         "ability": "RABBLE RABBLE RABBLE"
       },
       {
-        "rank": 4,
+        "rank": "test4",
         "ability": "RABBLE RABBLE RABBLE"
       }
     ],

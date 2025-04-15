@@ -17,10 +17,19 @@ if not &ARGS&:
         jobInfo = load_json(jobInfo)
         arr = []
         ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
+        
         for item in jobInfo:
-            arr.append(f"**{item['job']}**: {item['rank']}")
+            ranks = ranklist['Captain']
+            index = 0
+            while index < len(ranks):
+                itemRank = ranks[index]
+                if itemRank['rank'] == item['rank']:
+                    arr.append(f"**{item['job']}**: rank: **{item['rank']}** and that gives the ability: **{itemRank['ability']}**")
+                    break
+                else:
+                    index += 1
         data = '\n'.join(arr)
-        output = f"-title 'these are the ranks {ch.name} has learned in the various stations' -desc '{data}'"
+        output = f"-title 'these are the ranks {ch.name} has learned in the various stations' -desc '{data}' "
 else:
     match = [item for item in joblist if job in item.lower()]
 
@@ -29,14 +38,9 @@ else:
         ranks = []
         ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
         index = 0
-        while index < len(ranklist):
-            item = ranklist[index]
-            if item['job'] == match:
-                ranks = item['ranks']
-                break
-            else:
-                index += 1
+        ranks = ranklist[match]
         if ranks:
+            matchRank = None
             while index < len(ranks):
                 item = ranks[index]
                 if item['rank'] == rank:
@@ -44,14 +48,23 @@ else:
                     break
                 else:
                     index += 1
-
             if matchRank:
                 if not jobInfo:
                     jobInfo =  []
                     jobInfo.append({'job': match, 'rank': rank})
                 else:
-                    jobInfo = load_json(jobInfo)
-                    jobInfo.append({'job': match, 'rank': rank})
+                    if action == "remove":
+                        index = 0
+                        while index < len(jobInfo):
+                            itemRemove = jobInfo[index]
+                            if itemRemove['job'] == match:
+                                jobInfo.pop(index)
+                                break
+                            else:
+                                index += 1
+                    else:
+                        jobInfo = load_json(jobInfo)
+                        jobInfo.append({'job': match, 'rank': rank})
                 jsonDump = dump_json(jobInfo)
                 ch.set_cvar("jobInfo",jsonDump)
                 output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**'"
