@@ -1,182 +1,66 @@
 {
-  "Captain": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Cook": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Engineer": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "First Mate": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Lookout": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Navigator": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Gunner": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Security Officer": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Medical Officer": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
-  ],
-  "Helmsman": [
-    {
-      "rank": "test1",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test2",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test3",
-      "ability": "RABBLE RABBLE RABBLE"
-    },
-    {
-      "rank": "test4",
-      "ability": "RABBLE RABBLE RABBLE"
-    }
+  "Cook":[
+      {
+        "ability":"Ships Cook",
+        "rank":1,
+        "rankName":"green",
+        "description":"When purchasing rations and supplies you can appropriately buy the necessary food to sustain the ships crew with a healthy and balanced diet. As long as you have adequate spices and flavorings you can make enjoyable meals out of magically created sustenance. You can prepare a meal for the entire crew in 30 minutes. If you do 1 hour of preparation the next 3 meals you make within 24 hours only take 5 minutes to prepare. A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared regains 1d10 hitpoints. A creature can only gain this benefit from your food once a day."
+      },
+      {
+        "ability":"",
+        "rank":2,
+        "rankName":"novice",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":3,
+        "rankName":"intermediate",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":5,
+        "rankName":"expert",
+        "description":""
+      }
   ]
+}
+
+
+{
+  "ability":"",
+  "rank":1,
+  "rankName":"green",
+  "description":""
+},
+{
+  "ability":"",
+  "rank":2,
+  "rankName":"novice",
+  "description":""
+},
+{
+  "ability":"",
+  "rank":3,
+  "rankName":"intermediate",
+  "description":""
+},
+{
+  "ability":"",
+  "rank":4,
+  "rankName":"advanced",
+  "description":""
+},
+{
+  "ability":"",
+  "rank":5,
+  "rankName":"expert",
+  "description":""
 }
