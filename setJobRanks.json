@@ -7,33 +7,95 @@
         "description":"When purchasing rations and supplies you can appropriately buy the necessary food to sustain the ships crew with a healthy and balanced diet. As long as you have adequate spices and flavorings you can make enjoyable meals out of magically created sustenance. You can prepare a meal for the entire crew in 30 minutes. If you do 1 hour of preparation the next 3 meals you make within 24 hours only take 5 minutes to prepare. A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared regains 1d10 hitpoints. A creature can only gain this benefit from your food once a day."
       },
       {
-        "ability":"",
+        "ability":"Restful Meal",
         "rank":2,
         "rankName":"novice",
-        "description":""
+        "description":"A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared gains the benefits of a short rest. A creature can only gain this benefit from your food once a day."
       },
       {
-        "ability":"",
+        "ability":"Pots and Pans (at least Novice in Gunner required)",
+        "rank":2,
+        "rankName":"novice",
+        "description":"You are proficient with your cooking implements when using them as improvised weapons. Your utensils deal 1d6 damage and are considered light. The damage type can be bludgeoning, piercing, or slashing damage based on the utensil type. A utensil can have other properties (finesse, thrown, etc.) depending on the utensil, ask your DM if you have an idea in mind."
+      },
+      {
+        "ability":"Antitoxin",
         "rank":3,
         "rankName":"intermediate",
-        "description":""
+        "description":"A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared is cured of one poison affecting it. A creature can only gain this benefit from your food once a day."
       },
       {
-        "ability":"",
+        "ability":"Bottled Antitoxin (at least Green in Engineer required)",
+        "rank":3,
+        "rankName":"intermediate",
+        "description":"You can create one dose of antitoxin during a long rest that can be drank to remove one poison affecting the creature. This dose remains potent until you create another dose this way."
+      },
+      {
+        "ability":"Local Cuisine (at least Novice in Navigator required)",
+        "rank":3,
+        "rankName":"intermediate",
+        "description":"You can prepare food similar to the local food at a destination if you know that place or places similar in culture."
+      },
+      {
+        "ability":"Hearty Meal",
         "rank":4,
         "rankName":"advanced",
-        "description":""
+        "description":"A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared can gain one of the following benefits: They gain the benefit of the spell Gift of Alacrity or they have advantage on Wisdom ability checks for the next 8 hours. You choose which of the two benefits come from the meal when you prepare it. A creature can only gain this benefit from your food once a day."
       },
       {
-        "ability":"",
+        "ability":"Consistent Cook",
+        "rank":4,
+        "rankName":"advanced",
+        "description":"While your ship is out of supplies you can create enough food and water to keep your crew alive as if by the spell Create Food and Water. You can only do this once per day."
+      },
+      {
+        "ability":"Fulfilling Meal",
         "rank":5,
         "rankName":"expert",
-        "description":""
+        "description":"A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared can increase their current and maximum hitpoints by 1d12 or regain a spent hit die. You choose which of the two benefits come from the meal when you prepare it. A creature who gains maximum hitpoints from this feature keeps that increase for the next 24 hours. A creature can only gain this benefit from your food once a day."
+      },
+      {
+        "ability":"Leader's Meal (Expert in First Mate required)",
+        "rank":5,
+        "rankName":"expert",
+        "description":"Once a day when you prepare a meal with at least 750 gp in food and drink used in the meal you can serve the meal while giving a rousing speech to the crew. A creature that spends at least 1 hour doing nothing but listening to you, eating, and enjoying the meal gains the benefits of the spell Heroes' Feast. A creature can only gain this benefit from your food once a day."
       }
-  ]
+  ],
+  "Engineer":[
+    {
+      "ability":"",
+      "rank":1,
+      "rankName":"green",
+      "description":""
+    },
+    {
+      "ability":"",
+      "rank":2,
+      "rankName":"novice",
+      "description":""
+    },
+    {
+      "ability":"",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":""
+    },
+    {
+      "ability":"",
+      "rank":4,
+      "rankName":"advanced",
+      "description":""
+    },
+    {
+      "ability":"",
+      "rank":5,
+      "rankName":"expert",
+      "description":""
+    }
+    ]
 }
 
-
+[
 {
   "ability":"",
   "rank":1,
@@ -64,3 +126,4 @@
   "rankName":"expert",
   "description":""
 }
+],
