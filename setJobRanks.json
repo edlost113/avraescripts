@@ -63,36 +63,176 @@
   ],
   "Engineer":[
     {
-      "ability":"",
+      "ability":"On-The-Go Repairs",
       "rank":1,
       "rankName":"green",
-      "description":""
+      "description":"You can spend time outside of combat to patch up the ship. For each hour you spend outside of combat repairing the ship it regains 1d4 temporary hitpoints. The ship keeps these temporary hitpoints as long as your repairs hold up (often repairs only last a few days to a few weeks without having to spend more time and materials to keep up the patchwork repairs)."
     },
     {
-      "ability":"",
+      "ability":"Ship Status (at least Green in Helmsman required)",
+      "rank":1,
+      "rankName":"green",
+      "description":"You can accurately tell when your ship drops below three-quarters, half, and one-quarter of its maximum hitpoints."
+    },
+    {
+      "ability":"Damage Control",
       "rank":2,
       "rankName":"novice",
-      "description":""
+      "description":"When you make a Survival check during combat to attempt to fix a functional portion of the ship or put out a spreading fire you have advantage on the check."
     },
     {
-      "ability":"",
+      "ability":"Exact Status (at least Intermediate in Helmsman required)",
+      "rank":2,
+      "rankName":"novice",
+      "description":"While attuned to the ship you know its exact hitpoints and statuses."
+    },
+    {
+      "ability":"Repairman",
       "rank":3,
       "rankName":"intermediate",
-      "description":""
+      "description":"Whenever you would give temporary hitpoints to the ship with On-The-Go Repairs you instead can properly repair the damage, restoring as many hitpoints as the temporary hitpoints you would have restored."
     },
     {
-      "ability":"",
+      "ability":"Hull Coating (at least Intermediate in Navigator required)",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":"You can refurbish the ship's hull to protect against the dangers of Wildspace Poison. When creatures are belowdecks they are not exposed to and do not need to save against Wildspace Poison."
+    },
+    {
+      "ability":"Lookout Post (at least Intermediate in Lookout required)",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":"You can create a lookout post to aid in watches. Lookouts using your post add +3 to their passive perception."
+    },
+    {
+      "ability":"Kitchen Overhaul (at least Intermediate in Cook required)",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":"You refurbish the ship's kitchen, allowing your cook more efficient and easier preparation of meals. Your cook can prepare a meal for the entire crew in 15 minutes. If your cook spends 1 hour of preparation, the next three meals they serve within the next 24 hours are fully prepared and you can they serve those meals directly to the crew when the time to eat comes up."
+    },
+    {
+      "ability":"Comfortable Helm (at least Intermediate in Helmsman required)",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":"You add a few nice features to the Helm in order to make it easier to stand watch on. Helmsmen on watch can now stand for a full 16 hours instead of 8 before incurring exhaustion."
+    },
+    {
+      "ability":"Mounted Artillery (at least Intermediate in Gunner required)",
+      "rank":3,
+      "rankName":"intermediate",
+      "description":"You can adjust and increase the effectiveness of mounted artillery. All artillery you adjust gains +1 to all attack rolls with that artillery."
+    },
+    {
+      "ability":"Efficient Repair",
       "rank":4,
       "rankName":"advanced",
-      "description":""
+      "description":"When you make a Survival check to attempt to fix a functional portion of the ship or put out a spreading fire you can do so as a bonus action instead of an action."
     },
     {
-      "ability":"",
+      "ability":"Lightning Repair (at least Advanced in First Mate required)",
+      "rank":4,
+      "rankName":"advanced",
+      "description":"The first time you make a Survival check to attempt to fix a functional portion of the ship or put out a spreading fire on your turn you can choose to use a free action to make the check instead of a bonus action."
+    },
+    {
+      "ability":"Marksman (at least Intermediate in Gunner required)",
+      "rank":4,
+      "rankName":"advanced",
+      "description":"Your knowledge of ships and their workings increases your ability to disable them. Your attacks using a ship's artillery against another ship critically strikes on a 19 or 20."
+    },
+    {
+      "ability":"Boatswain",
       "rank":5,
       "rankName":"expert",
-      "description":""
+      "description":" Whenever you perform or oversee On-The-Go Repairs for at least 8 hours in a single day you can repair one instance of Structural Damage. You can only repair one instance per day. Whenever you restore hitpoints to the ship, double the total number of hitpoints restored."
+    },
+    {
+      "ability":"Expert Marksman (Expert in Gunner required)",
+      "rank":5,
+      "rankName":"expert",
+      "description":"Your knowledge of ships and their workings further increases your ability to disable them. Once per long rest when you make an attack using a ship's artillery against another ship, you can replace the damage of the artillery you are using with the damage and effects of the spell Disintegrate."
     }
-    ]
+    ],
+    "First Mate":[
+      {
+        "ability":"",
+        "rank":1,
+        "rankName":"green",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":1,
+        "rankName":"green",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":2,
+        "rankName":"novice",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":3,
+        "rankName":"intermediate",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":3,
+        "rankName":"intermediate",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":4,
+        "rankName":"advanced",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":5,
+        "rankName":"expert",
+        "description":""
+      },
+      {
+        "ability":"",
+        "rank":5,
+        "rankName":"expert",
+        "description":""
+      }
+      ]
 }
 
 [
