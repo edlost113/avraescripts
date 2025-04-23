@@ -1,0 +1,33 @@
+!alias jobidk embed
+<drac2>
+ch = character()
+# jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
+# ranks 7c668c2f-8053-4aa6-895e-b28f4077fcfe
+joblist = load_json(get_gvar('670e6213-91ad-42eb-9745-eac9b2ee4daf'))
+action = "&3&".lower()
+job = "&1&".lower() 
+rank = "&2&".lower() 
+output = ""
+jobInfo = ch.get_cvar("jobInfo")
+if &ARGS&:
+    match = [item for item in joblist if job in item.lower()]
+    if match:    
+        match = match[0]
+        ranks = []
+        ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
+        index = 0
+        ranks = ranklist[match]
+        matchRanks = [item for item in ranks if int(rank) == item.rank]
+        if not jobInfo:
+            jobInfo = matchRanks
+        else:
+            jobInfo = load_json(jobInfo)
+            while index < len(matchRanks):
+                jobInfo.append(matchRanks[index])
+                index += 1
+        jsonDump = dump_json(jobInfo)
+        ch.set_cvar("jobInfo",jsonDump)
+        output = f"-title 'The job experience of {ch.name}' -desc '{jsonDump}' " 
+output = "embed " + output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
+return f"{output}"
+</drac2>

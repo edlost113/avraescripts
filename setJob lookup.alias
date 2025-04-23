@@ -1,0 +1,36 @@
+<drac2>
+ch = character()
+# jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
+# ranks 7c668c2f-8053-4aa6-895e-b28f4077fcfe
+joblist = load_json(get_gvar('670e6213-91ad-42eb-9745-eac9b2ee4daf'))
+action = "&3&".lower()
+job = "&1&".lower() 
+rank = "&2&".lower() 
+output = ""
+jobInfo = ch.get_cvar("jobInfo")
+if not &ARGS&:
+    if not jobInfo:
+        joblist = joblist[0:11]
+        joblist = '\n'.join(joblist)
+        output = f"-title '{ch.name} trained in any job' -desc 'you should pick a job and work on it! here are the possibilites:' -f '{joblist}'"
+    else:
+        jobInfo = load_json(jobInfo)
+        arr = []
+        ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
+        
+        for item in jobInfo:
+            ranks = ranklist['Captain']
+            index = 0
+            while index < len(ranks):
+                itemRank = ranks[index]
+                if itemRank['rank'] == item['rank']:
+                    arr.append(f"**{item['job']}** rank: **{item['rank']}** and that gives the ability: **{itemRank['ability']}**")
+                    break
+                else:
+                    index += 1
+        data = '\n'.join(arr)
+        output = f"-title 'The job experience of {ch.name}' -desc '{data}' "
+        
+output = "embed " + output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
+return f"{output}"
+</drac2>
