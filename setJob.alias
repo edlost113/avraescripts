@@ -42,9 +42,9 @@ else:
         jobInfo = load_json(jobInfo)
         arr = []
         for item in jobInfo:
-             arr.append(f"-f '**{item['job']}** rank: **{item['rank']}** and that gives the ability: **{item['ability']}** it does: **{item['description']}**'")
+            arr.append(f'-f "**{item.job}** rank: **{item.rank}** and that gives the ability: **{item.ability}** it does: **{item.description}**" ')
         data = '\n'.join(arr)
-        output = f"-title 'The job experience of {ch.name}' {data} "   
+        output = f'-title "The job experience of {ch.name}" -desc "These are the skills {ch.name} has learned" {data} '   
 output = "embed " + output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
 return f"{output}"
 </drac2>
