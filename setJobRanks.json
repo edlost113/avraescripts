@@ -383,97 +383,240 @@
   ],
   "Lookout": [
     {
-      "ability": "",
+      "ability": "Watchman",
       "rank": 1,
       "rankName": "green",
-      "description": ""
+      "description": "You can aptly stand watch and keep a proper lookout for a ship in transit."
     },
     {
-      "ability": "",
+      "ability": "Helmsman's Aid (at least Green in Helmsman required)",
       "rank": 1,
       "rankName": "green",
-      "description": ""
+      "description": "You can tell the the status of the ship's helm and other important elements of the ship like atmosphere and gravity while you are aboard the ship."
     },
     {
-      "ability": "",
+      "ability": "Bearings",
+      "rank": 2,
+      "rankName": "novice",
+      "description": "You can properly shoot a bearing to an object, determining its rough location (and sometimes distance) from the ship."
+    },
+    {
+      "ability": "Navigator's Aid (at least Green in Navigator required)",
+      "rank": 2,
+      "rankName": "novice",
+      "description": "You can properly chart and keep a running bearing of the ship's location based on current bearing to major landmarks."
+    },
+    {
+      "ability": "Accustomed Eyesight",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "The vast darkness of space and dim light doesn't impose disadvantage on your perception or investigation checks."
+    },
+    {
+      "ability": "Engineer's Aid (at least Green in Engineer required)",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "You can repair the ship while on watch: you can do On-The-Go Repairs while standing watch."
+    },
+    {
+      "ability": "Eagle Eyes",
+      "rank": 4,
+      "rankName": "advanced",
+      "description": "You have advantage on Perception checks while you are on watch."
+    },
+    {
+      "ability": "Gunner's Aid (at least Green in Gunner required)",
+      "rank": 4,
+      "rankName": "advanced",
+      "description": "You can gain advantage on an attack with ship's artillery. Once you use this ability you cant use it again until you finish a short or long rest."
+    },
+    {
+      "ability": "Versatile Watchman",
+      "rank": 5,
+      "rankName": "expert",
+      "description": "You can serve as a lookout while performing any other role on the ship."
+    },
+    {
+      "ability": "First Mate's Aid (at least Green in First Mate required)",
+      "rank": 5,
+      "rankName": "expert",
+      "description": "You can inspire other creatures that stand watch with you. Each creature that stands watch with you and listens to your tales for at least an hour can add +1 to their ability checks for the next 24 hours. This effect does not stack."
+    }
+  ],
+  "Navigator": [
+    {
+      "ability": "Route Planning",
+      "rank": 1,
+      "rankName": "green",
+      "description": "You know how to accurately read a celestial chart and plot a course through Wildspace to a given destination. You know how to use a sextant to calculate location based on known celestial objects. Depending on the accuracy of your charts and surroundings it can take you anywhere from 2 to 6 hours to properly calculate your location."
+    },
+    {
+      "ability": "Semaphore",
+      "rank": 2,
+      "rankName": "novice",
+      "description": "You know a system of flags and flashing lights in order to communicate over distance to other ships and watch stations. You know and recognize a number of signal flags that ships use to display statues, warnings, and other information despite any language barrier."
+    },
+    {
+      "ability": "Magical Semaphore (at least Novice in Helmsman required)",
+      "rank": 2,
+      "rankName": "novice",
+      "description": "You know and can cast the cantrip Dancing Lights."
+    },
+    {
+      "ability": "Celestial Navigation",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "You can change your route on the fly if problems arise. It takes you up to an hour to determine the rough changes necessary to the route. You can more accurately determine your location with a sextant. Depending on the accuracy of your charts and surroundings it can take you anywhere from 15 minutes to 1 hour to properly calculate your location."
+    },
+    {
+      "ability": "Elegant Semaphore (at least Novice in First Mate required)",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "When communicating via semaphore you know how to convey your point well despite your limited form of communication. You can make Intimidation and Persuasion checks via Semaphore communication."
+    },
+    {
+      "ability": "Calculated Trajectory (at least Advanced in Gunner required)",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "When attacking with the further distance when using ship's artillery you do not attack at disadvantage."
+    },
+    {
+      "ability": "Concealed Movement (at least Novice in Helmsman required)",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "Your knowledge of locating other celestial objects helps you hide yours. While you are the Helmsman or you are standing watch with your helmsman your ship gains +3 to its passive Stealth."
+    },
+    {
+      "ability": "Careful Planning",
+      "rank": 4,
+      "rankName": "advanced",
+      "description": "When you plan a route with charts that don't exactly match up you can map your route with some accuracy in uncharted territory. You can better infer the safest route based on the information present on your charts allowing your ship safer passage."
+    },
+    {
+      "ability": "Unhindered (at least Advanced in Engineer required)",
+      "rank": 4,
+      "rankName": "advanced",
+      "description": "You can cast the spell Freedom of Movement. You cannot cast this spell again in this way until you finish a long rest."
+    },
+    {
+      "ability": "Flow Charts",
+      "rank": 5,
+      "rankName": "expert",
+      "description": "You can, as accurately as possible, plan routes from one Crystal Sphere to another."
+    },
+    {
+      "ability": "Honing In (Expert in Lookout required)",
+      "rank": 5,
+      "rankName": "expert",
+      "description": "You know and can cast the spell Find the Path. When you cast the spell in this way you do not need any materials except the object from the location you wish to find. Once you cast this spell in this way you cannot cast it again for a week."
+    }
+  ],
+  "Captain": [
+    {
+      "ability": "Combat Captain",
+      "rank": 1,
+      "rankName": "green",
+      "description": "At the beginning of each round of combat you may swap your initative with another memember of the crew."
+    },
+    {
+      "ability": "Morale Manager (at least Green in First Mate required)",
+      "rank": 1,
+      "rankName": "green",
+      "description": "When your ship comes under attack you may cast the bless spell targeting any three crew members aboard the ship."
+    },
+    {
+      "ability": "Pilot",
       "rank": 2,
       "rankName": "novice",
       "description": ""
     },
     {
-      "ability": "",
+      "ability": "Speed Demon (at least Novice in Engineer required)",
       "rank": 2,
       "rankName": "novice",
-      "description": ""
+      "description": "As an action you can give an order to your helmsman to go full speed ahead. The ships movement increases by your proficiency bonus until the end of your next turn."
     },
     {
-      "ability": "",
+      "ability": "Sailor",
       "rank": 3,
       "rankName": "intermediate",
       "description": ""
     },
     {
-      "ability": "",
+      "ability": "Ships' Status (at least Green in Navigator required)",
       "rank": 3,
       "rankName": "intermediate",
       "description": ""
     },
     {
-      "ability": "",
+      "ability": "Jack of All Trades",
       "rank": 4,
       "rankName": "advanced",
       "description": ""
     },
     {
-      "ability": "",
+      "ability": "Swashbuckler (at least Intermediate in Gunner required)",
       "rank": 4,
       "rankName": "advanced",
       "description": ""
     },
     {
-      "ability": "",
+      "ability": "Old Salt",
       "rank": 5,
       "rankName": "expert",
+      "description": "You can fill any role on a ship in addition to any other crew members holding that role. You can do this even if that role is normally only held by a single crew member."
+    }
+  ],
+  "Medical Officer": [
+    {
+      "ability": "Practiced Hand",
+      "rank": 1,
+      "rankName": "green",
+      "description": "All healing done within your designated space is concidered to have rolled its maximum."
+    },
+    {
+      "ability": "Emboldening Medic (at least Green in Secruity Officer required)",
+      "rank": 1,
+      "rankName": "green",
+      "description": "When you heal a crew member in combat they gain temporary HP equal to you proficiency in the role plus your proficiency bonus. While a crew member has these Temporary HP they can not be frightened."
+    },
+    {
+      "ability": "Make Shift Mender (at least Green in First Mate required)",
+      "rank": 2,
+      "rankName": "novice",
+      "description": "Once per long rest you can cast the spell Revivify."
+    },
+    {
+      "ability": "Sailor",
+      "rank": 3,
+      "rankName": "intermediate",
       "description": ""
     },
     {
-      "ability": "",
-      "rank": 5,
-      "rankName": "expert",
+      "ability": "Stocked Doc (at least Green in Chef required)",
+      "rank": 3,
+      "rankName": "intermediate",
+      "description": "At the end of each long rest you may roll a medicine check to create a potion of healing. A DC 15 makes a general healing potion. For every 5 point of success beyond the DC the rarity of the potion is increased."
+    }
+  ],
+  "Secruity Officer": [
+    {
+      "ability": "Drill Runner",
+      "rank": 1,
+      "rankName": "green",
+      "description": "You can spend time outside of combat preparing your crew for person to person combat. As long as you spend one day every 4 long rests doing this training all crew memember start a convential combat with a d6 that they can add to one Attack Roll or Saving Throw."
+    },
+    {
+      "ability": "Entry Extpert (at least Green in Look Out required)",
+      "rank": 1,
+      "rankName": "green",
+      "description": "Should another vessel attempt to board your ship your knowledge of boarding prevents your crew from being suprised in boardings."
+    },
+    {
+      "ability": "Pilot",
+      "rank": 2,
+      "rankName": "novice",
       "description": ""
     }
   ]
 }
-
-"":[
-{
-  "ability":"",
-  "rank":1,
-  "rankName":"green",
-  "description":""
-},
-{
-  "ability":"",
-  "rank":2,
-  "rankName":"novice",
-  "description":""
-},
-{
-  "ability":"",
-  "rank":3,
-  "rankName":"intermediate",
-  "description":""
-},
-{
-  "ability":"",
-  "rank":4,
-  "rankName":"advanced",
-  "description":""
-},
-{
-  "ability":"",
-  "rank":5,
-  "rankName":"expert",
-  "description":""
-}
-],
