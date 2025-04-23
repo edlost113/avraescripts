@@ -17,18 +17,36 @@ if &ARGS&:
     if len(matchJobs):
         matchRanks = [item for item in matchJobs if rank == item.rank]
         if len(matchRanks):
-            if not jobInfo:
-                jobInfo =  matchRanks
+            if action == "remove":
+                if not jobInfo:
+                    output = f"-title 'The job experience of {ch.name} cannot change' -desc '{ch.name} does not have {job} rank {rank}' "
+                else:
+                    jobInfo = load_json(jobInfo)
+                    index = 0
+                    while index < len(matchRanks):
+                        item = matchRanks[index]
+                        indexJobs = 0
+                        while indexJobs < len(jobInfo):
+                            if jobInfo[indexJobs].job == item.job and jobInfo[indexJobs].rank == item.rank:
+                                jobInfo.pop(indexJobs)
+                            indexJobs += 1
+                        index += 1
+                    jsonDump = dump_json(jobInfo)
+                    ch.set_cvar("jobInfo",jsonDump)
+                    output = f"-title 'The job experience of {ch.name} has changed' -desc 'removed rank **{rank}** for job **{job}**' "
             else:
-                jobInfo = load_json(jobInfo)
-                index = 0
-                while index < len(matchRanks):
-                    item = matchRanks[index]
-                    jobInfo.append(item)
-                    index += 1
-            jsonDump = dump_json(jobInfo)
-            ch.set_cvar("jobInfo",jsonDump)
-            output = f"-title 'The job experience of {ch.name} has changed' -desc 'got rank **{rank}** for job **{job}**' " 
+                if not jobInfo:
+                    jobInfo =  matchRanks
+                else:
+                    jobInfo = load_json(jobInfo)
+                    index = 0
+                    while index < len(matchRanks):
+                        item = matchRanks[index]
+                        jobInfo.append(item)
+                        index += 1
+                jsonDump = dump_json(jobInfo)
+                ch.set_cvar("jobInfo",jsonDump)
+                output = f"-title 'The job experience of {ch.name} has changed' -desc 'got rank **{rank}** for job **{job}**' " 
         else:
             output = f"-title 'setJob ERROR ' -desc 'the rank **{rank}** does not exist for the job **{job}**' "
     else:
