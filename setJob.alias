@@ -1,82 +1,50 @@
 <drac2>
 ch = character()
-# jobs 670e6213-91ad-42eb-9745-eac9b2ee4daf
 # ranks 7c668c2f-8053-4aa6-895e-b28f4077fcfe
-joblist = load_json(get_gvar('670e6213-91ad-42eb-9745-eac9b2ee4daf'))
+joblistAll = load_json(get_gvar('670e6213-91ad-42eb-9745-eac9b2ee4daf'))
+joblist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
 action = "&3&".lower()
 job = "&1&".lower() 
-rank = "&2&".lower() 
+rank = "&2&".lower()
+
 output = ""
 jobInfo = ch.get_cvar("jobInfo")
-if not &ARGS&:
+if &ARGS&:
+    if len(rank):
+        rank = int(rank)
+
+    matchJobs = [item for item in joblist if job in item.job.lower()]
+    if len(matchJobs):
+        matchRanks = [item for item in matchJobs if rank == item.rank]
+        if len(matchRanks):
+            if not jobInfo:
+                jobInfo =  matchRanks
+            else:
+                jobInfo = load_json(jobInfo)
+                index = 0
+                while index < len(matchRanks):
+                    item = matchRanks[index]
+                    jobInfo.append(item)
+                    index += 1
+            jsonDump = dump_json(jobInfo)
+            ch.set_cvar("jobInfo",jsonDump)
+            output = f"-title 'The job experience of {ch.name} has changed' -desc 'got rank **{rank}** for job **{job}**' " 
+        else:
+            output = f"-title 'setJob ERROR ' -desc 'the rank **{rank}** does not exist for the job **{job}**' "
+    else:
+        output = f"-title 'setJob ERROR ' -desc 'the job **{job}** does not exist' " 
+else:
     if not jobInfo:
-        joblist = joblist[0:11]
-        joblist = '\n'.join(joblist)
-        output = f"-title '{ch.name} trained in any job' -desc 'you should pick a job and work on it! here are the possibilites:' -f '{joblist}'"
+        joblistAll = joblistAll[0:11]
+        joblistAll = '\n'.join(joblistAll)
+        output = f"-title '{ch.name} is not trained in any job' -desc 'you should pick a job and work on it! here are the possibilites:' -f '{joblistAll}'"
     else:
         jobInfo = load_json(jobInfo)
         arr = []
-        ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
-        
         for item in jobInfo:
-            ranks = ranklist['Captain']
-            index = 0
-            while index < len(ranks):
-                itemRank = ranks[index]
-                if itemRank['rank'] == item['rank']:
-                    arr.append(f"**{item['job']}** rank: **{item['rank']}** and that gives the ability: **{itemRank['ability']}**")
-                    break
-                else:
-                    index += 1
+             arr.append(f"-f '**{item['job']}** rank: **{item['rank']}** and that gives the ability: **{item['ability']}** it does: **{item['description']}**'")
         data = '\n'.join(arr)
-        output = f"-title 'The job experience of {ch.name}' -desc '{data}' "
-else:
-    match = [item for item in joblist if job in item.lower()]
-
-    if match:    
-        match = match[0]
-        ranks = []
-        ranklist = load_json(get_gvar('7c668c2f-8053-4aa6-895e-b28f4077fcfe'))
-        index = 0
-        ranks = ranklist[match]
-        if ranks:
-            matchRank = None
-            while index < len(ranks):
-                item = ranks[index]
-                if item['rank'] == rank:
-                    matchRank = item
-                    break
-                else:
-                    index += 1
-            if matchRank:
-                if not jobInfo:
-                    jobInfo =  []
-                    jobInfo.append({'job': match, 'rank': rank})
-                else:
-                    jobInfo = load_json(jobInfo)
-                    if action == "remove":
-                        index = 0
-                        while index < len(jobInfo):
-                            itemRemove = jobInfo[index]
-                            if itemRemove.job == match and itemRemove.rank == rank:
-                                jobInfo.pop(index)
-                                break
-                            else:
-                                index += 1
-                    else:
-                        jobInfo.append({'job': match, 'rank': rank})
-                jsonDump = dump_json(jobInfo)
-                ch.set_cvar("jobInfo",jsonDump)
-                if action == "remove":
-                    output = f"-title '{ch.name} has forgotten some of what they know' -desc 'removed the rank: **{rank}** from the job: **{match}**'"
-                else:                    
-                    output = f"-title '{ch.name} is ranking up in a job!' -desc 'got a new rank the job: **{match}**' -f 'New Rank: **{rank}**' -f 'New ability: **{matchRank['ability']}**'"
-            else:
-                output = f"-title '**setjob error**!' -desc '**{rank}** is not a valid rank for the job: **{match}**' -f 'Valid ranks: **{', '.join([item['rank'] for item in ranks])}**'"
-        else:
-            output = f"-title '**setjob error**!' -desc 'there are no valid ranks for the job: **{match}**'"
-    else:
-        output = f"-title '**setjob error**!' -desc '**{job}** is not a valid job'"
+        output = f"-title 'The job experience of {ch.name}' {data} "   
 output = "embed " + output + f' -footer "!setjob <job> <rank> - made by edlost" -thumb "{ch.image}"'
 return f"{output}"
 </drac2>
