@@ -20,13 +20,17 @@ else:
     fline = f"**{match.get('class')}** - {dieRollResult.total} HP"
     cc1="Level Inspiration Point"
     if (ch.cc_exists(cc1)):
-        ch.mod_cc(cc1,1)
-        fline2 = f"**{cc1}** - has been refreshed"
+        curCC = int(ch.get_cc(cc1))
+        if (curCC == 1):
+            fline2 = f"Hey dummy! You just not gonna give out your level inspo? What a waste."
+        else:
+            ch.mod_cc(cc1,1)
+            fline2 = f"**{cc1}** - has been refreshed"
 </drac2>
 
 
 
--title "On Level Up for {{ch.name}}"
+-title "On Level Up of {{ch.name}}"
 -desc "{{desc}}"
 -f "{{fline}}"
 -f "{{fline2}}"
