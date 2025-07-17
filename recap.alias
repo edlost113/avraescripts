@@ -1,5 +1,8 @@
 !alias recap multiline
 <drac2> 
+set_uvar('timezone',-5)
+using(dt='daeedde7-2ae9-4c92-9924-091d763ce6f3')
+
 charname =" ".join(&ARGS&).lower() if &ARGS& else ''
 command1 = f"{ctx.prefix}char {charname}\n"
 command2 = f"{ctx.prefix}update\n"
@@ -12,6 +15,19 @@ elif r.total == 20:
     embed += ' -f "You remember so perfectly, you know that ___ Knows what what happened, maybe they should tell us"'
 else:
     embed += ' -f "Did you remember enough or do you have to say it?"'
+
+categoryInfo = ctx.channel.category.name.lower()
+gamelist = load_json(get_gvar('f9214a47-2d29-4f68-87ef-e60ed4ba08ac'))
+gvarGetGameDay = gamelist.get(categoryInfo)
+
+dayString = dt.to_date()['day_in_week_s'] # this is name of the day of the week, like 'Wednesday'
+if dayString == gvarGetGameDay:
+    embed += f' -f "This command was run on a {dayString}"'
+elif gvarGetGameDay == '*':
+    embed += f' -f "This command was run on a {dayString}"'
+else:
+    embed += f' -f "**A little early to run this command dont you think? its only {dayString} and the game day is {gvarGetGameDay}**"'
+
 embed += f' -thumb <image> -footer "!recap"'
 output = ""
 if len(charname) > 0:
