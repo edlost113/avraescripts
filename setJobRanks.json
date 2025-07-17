@@ -652,7 +652,7 @@
   },
   {
     "job": "Medical Officer",
-    "ability": "Emboldening Medic (at least Green in Secruity Officer required)",
+    "ability": "Emboldening Medic (at least Green in Security Officer required)",
     "rank": 1,
     "rankName": "green",
     "description": "When you heal a crew member in combat they gain temporary HP equal to you proficiency in the role plus your proficiency bonus. While a crew member has these Temporary HP they can not be frightened."
@@ -679,21 +679,21 @@
     "description": "At the end of each long rest you may roll a medicine check to create a potion of healing. A DC 15 makes a general healing potion. For every 5 point of success beyond the DC the rarity of the potion is increased."
   },
   {
-    "job": "Secruity Officer",
+    "job": "Security Officer",
     "ability": "Drill Runner",
     "rank": 1,
     "rankName": "green",
     "description": "You can spend time outside of combat preparing your crew for person to person combat. As long as you spend one day every 4 long rests doing this training all crew memember start a convential combat with a d6 that they can add to one Attack Roll or Saving Throw."
   },
   {
-    "job": "Secruity Officer",
+    "job": "Security Officer",
     "ability": "Entry Extpert (at least Green in Look Out required)",
     "rank": 1,
     "rankName": "green",
     "description": "Should another vessel attempt to board your ship your knowledge of boarding prevents your crew from being suprised in boardings."
   },
   {
-    "job": "Secruity Officer",
+    "job": "Security Officer",
     "ability": "Pilot",
     "rank": 2,
     "rankName": "novice",
