@@ -1,37 +1,33 @@
-!alias recap multiline
-<drac2> 
-set_uvar('timezone',-5)
-using(dt='daeedde7-2ae9-4c92-9924-091d763ce6f3')
+    !servalias recap multiline
+    <drac2> 
+    channelInfo = ctx.channel.name.lower()
+    gamelist = load_json(get_gvar('148fab87-d69a-4396-8060-a95ca68e0acc'))
 
-charname =" ".join(&ARGS&).lower() if &ARGS& else ''
-command1 = f"{ctx.prefix}char {charname}\n"
-command2 = f"{ctx.prefix}update\n"
-r= vroll('1d20')
+    gvarGetGameChannel = gamelist.count(channelInfo)
 
-embed = f'tembed -title "<name> tries to remember the last session:" -desc "{r}"'
-if r.total == 1:
-    embed += ' -f "You have to tell us what happened"'
-elif r.total == 20:
-    embed += ' -f "You remember so perfectly, you know that ___ Knows what what happened, maybe they should tell us"'
-else:
-    embed += ' -f "Did you remember enough or do you have to say it?"'
+    output = ""
+    if gvarGetGameChannel:
+        charname =" ".join(&ARGS&).lower() if &ARGS& else ''
+        command1 = f"{ctx.prefix}char {charname}\n"
+        command2 = f"{ctx.prefix}update\n"
+        r= vroll('1d20')
 
-categoryInfo = ctx.channel.category.name.lower()
-gamelist = load_json(get_gvar('f9214a47-2d29-4f68-87ef-e60ed4ba08ac'))
-gvarGetGameDay = gamelist.get(categoryInfo)
+        embed = f'tembed -title "<name> tries to remember the last session:" -desc "{r}"'
+        if r.total == 1:
+            embed += ' -f "You have to tell us what happened"'
+        elif r.total == 20:
+            embed += ' -f "You remember so perfectly, you know that ___ Knows what what happened, maybe they should tell us"'
+        else:
+            embed += ' -f "Did you remember enough or do you have to say it?"'
 
-dayString = dt.to_date()['day_in_week_s'] # this is name of the day of the week, like 'Wednesday'
-if dayString == gvarGetGameDay:
-    embed += f' -f "This command was run on a {dayString}"'
-elif gvarGetGameDay == '*':
-    embed += f' -f "This command was run on a {dayString}"'
-else:
-    embed += f' -f "**A little early to run this command dont you think? its only {dayString} and the game day is {gvarGetGameDay}**"'
-
-embed += f' -thumb <image> -footer "!recap"'
-output = ""
-if len(charname) > 0:
-    output += command1
-output += f"{ctx.prefix}{embed}\n{command2}"
-return f"""{output}"""
-</drac2>
+        embed += f' -thumb <image> -footer "!recap"'
+        output = ""
+        if len(charname) > 0:
+            output += command1
+        output += f"{ctx.prefix}{embed}\n{command2}"
+    else:
+        embed = f'tembed -title "<name> attempted to do a !recap in the wrong channel" -desc "**you are not allowed to do a !recap in {channelInfo}**"'
+        embed += f' -thumb <image> -footer "!recap"'
+        output += f"{ctx.prefix}{embed}"
+    return f"""{output}"""
+    </drac2>
