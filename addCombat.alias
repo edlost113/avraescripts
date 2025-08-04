@@ -1,0 +1,6 @@
+!servalias add multiline
+<drac2>
+item = "&1&"
+return f"""!i add 0 "{item}" -p 10 -hp 999
+!i hp "{item}" set 0  """
+</drac2>
