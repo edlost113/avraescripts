@@ -13,3 +13,37 @@ return f"""!beyond {url}
 !cc create "Level Inspiration Point" -reset 'none' -max 1 -min 0 -value 0 -type 'bubble'
 !cc create "Scire Inspiration" -reset 'none' -max 1 -min 0 -value 0 -type 'bubble'   """
 </drac2>
+
+
+!servalias updatescire multiline
+<drac2>
+ch = character()
+ccLevel = "Inspiration Point"
+ccScire = "Scire Inspiration"
+
+if (ch.cc_exists(ccLevel)):
+    if (ch.cc_exists(ccScire)):
+        ccLevCount = int(ch.get_cc(ccLevel))
+        ccScireCount = int(ch.get_cc(ccScire))
+        if (ccLevCount == 3 and ccScireCount == 0):
+            ch.mod_cc(ccScire,1)
+            ch.set_cc(ccLevel,0)
+            fline = f"**{ccScire}** - has been added"
+        elif (ccLevCount < 3):
+            fline = f"**{ccLevel}** - is not at max, so no **{ccScire}** added"
+        else:
+            fline = f"**{ccScire}** - is already at max"
+    else:
+        fline = f"**{ccScire}** - does not exist"
+else:
+    fline = f"**{ccLevel}** - does not exist"
+desc = f"**{ch.name}** has earned a {ccLevel} checking to see if a {ccScire} can be added"
+title = f"{ch.name} has earned a Scire Inspiration?"
+footer = f"-footer !scireupdate  - made by edlost -thumb {ch.image}"
+
+
+return f"""!embed -title "{title}" -desc "{desc}" -f "{fline}" {footer}
+!cc
+"""
+</drac2>
+
