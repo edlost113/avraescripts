@@ -1,0 +1,70 @@
+!servalias mcook embed
+<drac2>
+ch=character()
+args=argparse(&ARGS&)
+skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['Nothing'])[0]
+adv = args.adv(boolwise=True)
+bonus = args.last('b',default="0")
+dc = args.last('dc',default=0)
+# grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
+minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
+numFlaws = 0
+numBoons = 0
+match int(dc):
+    case 12:
+        numBoons = 0
+    case 16:
+        numBoons = 1
+    case 20:
+        numBoons = 2
+    case 24:
+        numBoons = 3
+r = 0
+if bonus == "0":
+    r = vroll(f"1d20")
+else:
+    r = vroll(f"1d20"+"+"+bonus)
+total = r.total - int(dc)
+
+if total <= -13:
+    numFlaws = 4
+    numBoons = 0
+elif -12 <= total <= -9:
+    numFlaws = 3
+    numBoons = 0
+elif -8 <= total <= -5:
+    numFlaws = 2
+    numBoons = 0
+elif -4 <= total <= -1:
+    numFlaws = 1
+    numBoons = 0
+elif 0 <= total <= 4:
+    numFlaws = 0
+    numBoons = 0
+elif 5 <= total <= 8:
+    numFlaws = 0
+    numBoons += 1
+elif 9 <= total <= 12:
+    numFlaws = 0
+    numBoons += 2
+else:
+    numBoons += 3
+    numFlaws = 0
+rFlaws = 0
+rBoons = 0
+if numFlaws > 0:
+    rFlaws = vroll(numFlaws+f"d8")
+
+if numBoons > 0:
+    rBoons = vroll(numBoons+f"d8")
+
+</drac2>
+-title "{{ch.name}} is trying to cook a magical meal"
+-desc "{{ch.name}} attempted to cook a magical meal with **DC: {dc}**"
+-f "They rolled: {{r}} which has a difference of **{{total}}** from the DC"
+-f "**Total Boons**:{{numBoons}}"
+-f "**Total Flaws**:{{numFlaws}}"
+-f "Flaw Rolls: {{rFlaws}}"
+-f "Boon Rolls: {{rBoons}}"
+-footer "!mcook - made by edlost"
+-thumb "{{ch.image}}"
