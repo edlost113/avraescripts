@@ -1,5 +1,7 @@
     !servalias gatcha embed <drac2>
-    des=load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
+    #f2103e8c-c877-40ed-abdc-95ef877c0b77
+    #des=load_json(get_gvar('82dd0001-8aaf-4828-8ab4-523b52f30fe6'))
+    des=load_json(get_gvar('f2103e8c-c877-40ed-abdc-95ef877c0b77'))
     xx=len(des)
     table={"50":"Common","80":"Uncommon","90":"Rare","96":"Very Rare", "98":"Legendary", "100":"Artifact"} 
     highest=[x for x in table][-1]
@@ -9,12 +11,12 @@
     while True:
         dieroll=vroll(f"1d{xx}")
         item = des[dieroll.total-1]
-        if item.rarity == rarity:
+        if item.r == rarity:
             break
         else:
             continue
     </drac2>
 
     -title "Puns Magical Gatcha"
-    -f "You open a magical chest that contains Rarity: {{rarity}} \"{{item.name}}\""
+    -f "You open a magical chest that contains Rarity: {{rarity}} \"{{item.n}}\""
     -footer "!gatcha - made by edlost"
