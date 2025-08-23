@@ -52,11 +52,26 @@ else:
     numFlaws = 0
 rFlaws = 0
 rBoons = 0
-if numFlaws > 0:
-    rFlaws = vroll(numFlaws+f"d8")
+arrFlaws=[]
+arrBoons=[]
+listBoons = load_json(get_gvar('45b2f595-5c14-46ed-9166-d34fd2a017b2'))
+listFlaws = load_json(get_gvar('687c9885-0423-4d70-a7a9-91d4ce04005b'))
 
+if numFlaws > 0:
+    for i in range(int(numFlaws)):
+        rFlaws = vroll(f"1d8")
+        resultline = f"{i+1}: you rolled {rFlaws.result} and with a value of {rFlaws.total} this happens to you: {listFlaws[str(rFlaws.total)]}"
+        arrFlaws.append(resultline)
 if numBoons > 0:
-    rBoons = vroll(numBoons+f"d8")
+    for i in range(int(numBoons)):
+        rBoons = vroll(f"1d8")
+        resultline = f"{i+1}: you rolled {rBoons.result} and with a value of {rBoons.total} this happens to you: {listBoons[str(rBoons.total)]}"
+        arrBoons.append(resultline)
+
+arrFlaws = arrFlaws[0:len(arrFlaws)]
+arrFlaws = '\n'.join(arrFlaws)
+arrBoons = arrBoons[0:len(arrBoons)]
+arrBoons = '\n'.join(arrBoons)
 
 </drac2>
 -title "{{ch.name}} is trying to cook a magical meal"
@@ -64,7 +79,9 @@ if numBoons > 0:
 -f "They rolled: {{r}} which has a difference of **{{total}}** from the DC"
 -f "**Total Boons**:{{numBoons}}"
 -f "**Total Flaws**:{{numFlaws}}"
--f "Flaw Rolls: {{rFlaws}}"
--f "Boon Rolls: {{rBoons}}"
+-f "**Flaw Rolls**:"
+-f "{{arrFlaws}}"
+-f "**Boon Rolls**:"
+-f "{{arrBoons}}"
 -footer "!mcook - made by edlost"
 -thumb "{{ch.image}}"
