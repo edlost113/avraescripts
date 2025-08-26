@@ -2,10 +2,12 @@
 <drac2>
 ch=character()
 args=argparse(&ARGS&)
-skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['Nothing'])[0]
+skill = "survival"
 adv = args.adv(boolwise=True)
 bonus = args.last('b',default="0")
 dc = args.last('dc',default=0)
+
+extraBoons = args.last('boons',default=0)
 # grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
 minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
 numFlaws = 0
@@ -50,6 +52,10 @@ elif 9 <= total <= 12:
 else:
     numBoons += 3
     numFlaws = 0
+
+
+if int(extraBoons):
+    numBoons = numBoons + int(extraBoons)
 rFlaws = 0
 rBoons = 0
 arrFlaws=[]
@@ -67,12 +73,12 @@ if numBoons > 0:
         rBoons = vroll(f"1d8")
         resultline = f"{i+1}: you rolled {rBoons.result} and with a value of {rBoons.total} this happens to you: {listBoons[str(rBoons.total)]}"
         arrBoons.append(resultline)
-
 arrFlaws = arrFlaws[0:len(arrFlaws)]
-arrFlaws = '\n'.join(arrFlaws)
+arrFlaws = '\n\n'.join(arrFlaws)
 arrBoons = arrBoons[0:len(arrBoons)]
-arrBoons = '\n'.join(arrBoons)
-
+arrBoons = '\n\n'.join(arrBoons)
+arrFlaws=arrFlaws[:1020]+'`...' if len(arrFlaws)>1024 else arrFlaws
+arrBoons=arrBoons[:1020]+'`...' if len(arrBoons)>1024 else arrBoons
 </drac2>
 -title "{{ch.name}} is trying to cook a magical meal"
 -desc "{{ch.name}} attempted to cook a magical meal with **DC: {dc}**"
