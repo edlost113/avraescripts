@@ -1,0 +1,426 @@
+[
+    {
+        "name": "Afanc",
+        "description": "A dangerous breed of fish found in the oceans around Zakhara, the Land of Fate. These large fish averaged a length of 50 ft. (15 m). Their bodies were usually gray or blue-gray in color, providing natural camouflage with the ocean water."
+    },
+    {
+        "name": "Angler Fish",
+        "description": "The angler fish was a bloated-looking solitary species of fish, named for its dorsal fin's resemblance to a fishing line. Angler fish varied in size; most anglers were no larger than a human's fist, though they could rarely get as large as 8\u00e2\u20ac\u00affeet (2.4\u00e2\u20ac\u00afmeters) in length."
+    },
+    {
+        "name": "Archaues",
+        "description": "Archaeus were a variety of fish found in the Sea of Moving Ice, most often around Icecrag Island."
+    },
+    {
+        "name": "Ascallion",
+        "description": "Ascallions, also known as scallions, were nomadic predatory fish that inhabited the warm and temperate oceans of Faer\u00c3\u00bbn. Ascallions had a fearsome appearance, with prominent, sharp-edged, fang-like teeth. Adult female ascallions could grow up to 18\u00e2\u20ac\u00affeet (5.5\u00e2\u20ac\u00afmeters) long, while adult male ascallions grew to about 8\u00e2\u20ac\u00affeet (2.4\u00e2\u20ac\u00afmeters) in length. "
+    },
+    {
+        "name": "Barbfish",
+        "description": "A barbfish was a species of edible mud sharks that inhabited lower reaches of the River Specie in Amn. The species' name was inspired by the fleshy barbs that grew on the sides of the fishes' mouths. Their skin was mud-colored, tough, and covered in a constantly secreting foul rot-smelling slime. These creatures could grow to be as large a horse."
+    },
+    {
+        "name": "Barracuda",
+        "description": "Barracudas were a type of carnivorous fish that inhabited warm salt water. They were slender creatures with long jagged teeth poking out from a noticeable underbite. Their bodies were shaped like arrows, able to move very fast in water, the better to dart into range, bite their prey, then disappear just as suddenly."
+    },
+    {
+        "name": "Bichir",
+        "description": "Bichir were very large and had long, thick bodies. They had large jaws filled with razor-sharp teeth. Their scales were smooth and colored to allow camouflage with the murky water of swamps. Their eyes were black, set in a broad and flat head. They had fins that ran along their backs, ending in a broad tail."
+    },
+    {
+        "name": "Blackjaw",
+        "description": "Blackjaw was a species of predatory fish that inhabited the Lake Glorfindar in the Starmetal Hills and remined active through the winter months under the lake's ice. These somewhat uncommon creatures had long eel-like sinuous bodies and large heads with massive mouths. They had green scales."
+    },
+    {
+        "name": "Bloatfish",
+        "description": "The bloatfish was a species of fish found in the Great Glacier. The bloatfish resembled a white manta ray, featuring an inflated organ that protruded from its belly like a balloon. This organ's diameter matched or slightly exceeded the fish's length."
+    },
+    {
+        "name": "Boarfish",
+        "description": "Boarfish was a species of deadly poisonous fish, if consumed uncooked, found in the Nelanther Isles of the Sea of Swords. Boarfish received its name from the fact that its cooked flesh tasted a lot like bacon."
+    },
+    {
+        "name": "Bream",
+        "description": "Brown bream was a cold climate freshwater species of bream. They were small and flat bony brown animals with delicious flesh."
+    },
+    {
+        "name": "Brench",
+        "description": "Brench were a species of blue-scaled fish that inhabited Lake Miir."
+    },
+    {
+        "name": "Brownfin",
+        "description": "Brownfin was a species of freshwater fish found in streams and rivers of Cormyr, the King's Forest, and in the cold waters of Dathyl."
+    },
+    {
+        "name": "Candlefish",
+        "description": "Candlefish was a species of tiny fish that inhabited the Lake Glorfindar in the Starmetal Hills and remained active through the winter months under the lake's ice. Candlefish got their names from the fact that they were extremely oily. So much so when they were dried, candlefishes could be lit to burn like candles. They were edible and were a part of a winter's hero's feasts served during the annual Simril celebration in Twilight Tor. "
+    },
+    {
+        "name": "Carp",
+        "description": "A carp was a type of fish found on Toril."
+    },
+    {
+        "name": "Giant Carp",
+        "description": "The giant carp was covered in shiny gold scales. It had a large dorsal fin and a muscular tail fin. Often the pectoral and pelvic fins of a giant carp were tattered, due to chafing as the giant carp searched for food among rocks. It had a large mouth filled with sharp teeth."
+    },
+    {
+        "name": "Catfish",
+        "description": "Catfish, also called navalar in the Common tongue or barbjaws, were a carnivorous variety of game fish. They were among the most commonly eaten fish in Faer\u00c3\u00bbn."
+    },
+    {
+        "name": "Giant Catfish",
+        "description": "These giant fish were often of chalky-white coloration or grayish brown. Their sizes usually varied from 15\u00e2\u20ac\u00affeet (4.6\u00e2\u20ac\u00afmeters) for the white-colored breed to 24\u00e2\u20ac\u00affeet (7.3\u00e2\u20ac\u00afmeters) for the brown."
+    },
+    {
+        "name": "Cod",
+        "description": "Cod were a mundane species of fish found in the Realms."
+    },
+    {
+        "name": "Crimson Battan",
+        "description": "These fish were as long as a man's arm. Their scales were a deep crimson."
+    },
+    {
+        "name": "Crystal Nipper",
+        "description": "The crystal nipper, a distant relative of the rot grub, bore a resemblance to a miniature eel crafted from blue crystal."
+    },
+    {
+        "name": "Dartflash",
+        "description": "These fish had small, silver-scaled and bony bodies that were roughly the size of a human's hand. They were known to swim in short, very fast bursts.["
+    },
+    {
+        "name": "Deathminnow",
+        "description": "Death minnows were a deceptively dangerous species of deep sea, magically created fish, meant to act as guardians of undersea lairs and treasure troves."
+    },
+    {
+        "name": "Dinichthys",
+        "description": "A dinichthys was a type of gigantic marine fish that could swallow man-sized prey."
+    },
+    {
+        "name": "Dlurn",
+        "description": "Dlurn were a species of fish endemic to the Lake of Steam, most commonly found in large numbers in the harbor of Derlusk and other inlets in its proximity."
+    },
+    {
+        "name": "Dogfish",
+        "description": "Dogfish were a mundane species of fish in the Realms."
+    },
+    {
+        "name": "Dragonfish",
+        "description": "A dragonfish was a small spiked fish living in the waterways of Chult. A dragonfish was a 2-foot-long (60 centimeters) flatfish with a mottled brown coloration and a fringe of poisonous spikes that would break off into any victim that either stepped on or touched the back of the dragonfish. "
+    },
+    {
+        "name": "Dreel",
+        "description": "Dreels, or trollfingers, were river eel-like fish native to the River Reaching, particularly the area of the river between the Misty Stair waterfalls and Skull Gorge."
+    },
+    {
+        "name": "Dunchow",
+        "description": "The dunchow was a rare fish found only in the waters of Lake Esmel in Amn. Dunchow was served as a special dish at most inns in Esmeltaran and was a delicacy throughout Amn."
+    },
+    {
+        "name": "Durgrace",
+        "description": "Durgrace was a rare species of fish that inhabited the Lake Glorfindar in the Starmetal Hills and remained active through the winter months under the lake's ice. This fish was considered to be a lucky catch due to its growth. Durgrace could grow to a massive size, a lake monster and a fisher's dream."
+    },
+    {
+        "name": "Eel",
+        "description": "It's just a common eel."
+    },
+    {
+        "name": "Electric Catfish",
+        "description": "Catfish, also called navalar in the Common tongue or barbjaws, were a carnivorous variety of game fish. They were among the most commonly eaten fish in Faer\u00c3\u00bbn."
+    },
+    {
+        "name": "Electric Eel",
+        "description": "Electric eels were a rarely-sighted species of eel in Faer\u00c3\u00bbn that possessed the unique ability to discharge a field of electricity. Electric eels endemic to saltwater and ocean environments were sometimes called marine eels."
+    },
+    {
+        "name": "Enchodus",
+        "description": "Enchodus were a variety of fish found in the Sea of Moving Ice, most often around Icecrag Island, for which little was known about."
+    },
+    {
+        "name": "Flailfish",
+        "description": "Flailfish were a variety of fish found in the Sea of Moving Ice."
+    },
+    {
+        "name": "Floating Eye",
+        "description": "Floating eyes were a rare, small species of mono-eyed fish. These fish had a transparency to their body that made them practically invisible while in the water. The only visible portion of them while in water was their single, large eye"
+    },
+    {
+        "name": "Flounder",
+        "description": "Flounder was the name given to several species of flatfish,[1] commonly used as a food source.["
+    },
+    {
+        "name": "Giant Gar",
+        "description": "These creatures had long, sleek, and aerodynamic bodies that measured 21\u00e2\u20ac\u2039 to \u00e2\u20ac\u203930\u00e2\u20ac\u00affeet (6.4\u00e2\u20ac\u2039 to \u00e2\u20ac\u20399.1\u00e2\u20ac\u00afmeters) in length. They had small fins but were covered in large, hard, overlapping scales. Their mouths were similar to those of an alligator or crocodile and contained needle-sharp teeth."
+    },
+    {
+        "name": "Giant Tigerfish",
+        "description": "Giant tigerfish were a species of predatory fish that inhabited inland waterways of Chult in southwest Faer\u00c3\u00bbn. The name \"tigerfish\" was not a reference to the fish's appearance, but rather its behavior: it was said to have the ferocity of a tiger."
+    },
+    {
+        "name": "Golden Battan",
+        "description": "Golden battan had gold-colored scales and rounded snouts."
+    },
+    {
+        "name": "Golden Szorp",
+        "description": "Golden szorp was a species of tiny fish that inhabited the Lake Glorfindar in the Starmetal Hills. Golden szorp was a tiny creature not used in cooking. They were a rare baitfish beloved by other bigger species of fish consumed in the north."
+    },
+    {
+        "name": "Haddock",
+        "description": "Haddock was a species of edible saltwater fish that was often confused with a cheaper fish \u00e2\u20ac\u201c walleye pollock."
+    },
+    {
+        "name": "Hailbut",
+        "description": "Halibut was a species of brown-colored on top and white bottom flatfish that could reach relatively massive size. This fish was popular for its fresh taste and solid texture, especially palatable when grilled."
+    },
+    {
+        "name": "Hammerscale",
+        "description": "The hammerscale was a variety of fish whose eggs were a costly indulgence."
+    },
+    {
+        "name": "Herring",
+        "description": "Herring was a collective named given to several species of small schooling saltwater fish, most commonly dried, pickled, or smoked."
+    },
+    {
+        "name": "Hetfish",
+        "description": "Hetfish, sometimes called hotfish by sailors, were a species of rarely encountered somewhat intelligent fish, \"wonders of the undersea"
+    },
+    {
+        "name": "Hogfish",
+        "description": "Hogfish is a pantry staple. Dried hogfish could be found in the kitchen pantries of palaces"
+    },
+    {
+        "name": "Icetail",
+        "description": "At first glance, the icetail appeared more like skeletal remains than a living creature, with only fragments of bluish tissue hanging from its ribs. However, a closer examination revealed the presence of a complete body, including a transparent head, fins, and tail resembling glass. The touch of an icefish also emanated an intense coldness, so much so that if someone touches a live icefish with bare skin, they will suffer damage. Once an icefish died, it assumed the temperature of its surroundings"
+    },
+    {
+        "name": "Jewelfish",
+        "description": "Jewelfish were tiny, silvery fish with iridescent scales found in the rivers and lakes of Faer\u00c3\u00bbn."
+    },
+    {
+        "name": "Kapenta",
+        "description": "Kapenta was a species of edible sprat fish that inhabited most of the inland waterways of Chult in southwest Faer\u00c3\u00bbn."
+    },
+    {
+        "name": "Lamprey",
+        "description": "Lampreys were a species of parasitic, leech-like eels."
+    },
+    {
+        "name": "Lemon Fish",
+        "description": "Lemon fishes were a species of fish unique to subterranean pools and streams. (Poisonus)"
+    },
+    {
+        "name": "Longfin",
+        "description": "Longfin were a species of fish in the Realms."
+    },
+    {
+        "name": "Lout",
+        "description": "Lout were small brown fish found in Waterdeep. Some taverns were known to serve lout among the dishes proposed to their customers."
+    },
+    {
+        "name": "Mackerel",
+        "description": "Mackerel was a group of species of tiny schooling fish found throughout various climates across the Realms, often caught as a cheap source of food."
+    },
+    {
+        "name": "Mahi-Mahi",
+        "description": "Mahi-mahi was a species of saltwater fish inhabiting the Great Sea"
+    },
+    {
+        "name": "Mako Shark",
+        "description": "These aquatic predators averaged at 12\u00e2\u20ac\u00affeet (3.7\u00e2\u20ac\u00afmeters), with the smallest being at 9\u00e2\u20ac\u00affeet (2.7\u00e2\u20ac\u00afmeters) and longest reaching 13\u00e2\u20ac\u00affeet (4\u00e2\u20ac\u00afmeters). Their slick skin was of tan and blue-gray hues."
+    },
+    {
+        "name": "Manta Ray",
+        "description": "A manta ray looked like a giant flying wing. They were massive creatures, their mouth alone was up to 12\u00e2\u20ac\u00affeet (3.7\u00e2\u20ac\u00afmeters) in width."
+    },
+    {
+        "name": "Manyfins",
+        "description": "It was very small in size, characterized by its number of fins, and had a sharp taste."
+    },
+    {
+        "name": "Masher",
+        "description": "Mashers, also known as coral mashers, were an uncommon large species of fish. (Poisonus)"
+    },
+    {
+        "name": "Megalodon",
+        "description": "Megalodons, occasionally known as giant sharks, were an ancient monstrous species of white shark. These monstrous sharks were some of the largest predators in the ocean. They ranged in sizes of 20\u00e2\u20ac\u2039 to \u00e2\u20ac\u203965\u00e2\u20ac\u00affeet (6.1\u00e2\u20ac\u2039 to \u00e2\u20ac\u203920\u00e2\u20ac\u00afmeters) in length."
+    },
+    {
+        "name": "Nelma",
+        "description": "Nelma were a common variety of freshwater fish, often found in brackish waters and river deltas outside of spawning season. "
+    },
+    {
+        "name": "Northern Seahorse",
+        "description": "Unlike their tropical cousins that were never found further north than the Shining Sea, northern seahorses inhabited the warm waters in the vicinity of underwater thermal vents in the Sea of Moving Ice"
+    },
+    {
+        "name": "Pike",
+        "description": "Pikes were a species of resilient carnivorous freshwater fish, prized gamefish, and mundane housing of giant pikes."
+    },
+    {
+        "name": "Giant Pike",
+        "description": "Pikes were a species of resilient carnivorous freshwater fish, prized gamefish, and mundane housing of giant pikes."
+    },
+    {
+        "name": "Piranha",
+        "description": "Piranhas were small schooling predatory freshwater fish."
+    },
+    {
+        "name": "Pompano",
+        "description": "Pompano were a mundane species of fish that inhabited the Dragon Reach."
+    },
+    {
+        "name": "Pufferfish",
+        "description": "These creatures were covered in spines and, when threatened, they would inflate their bodies, making them difficult to catch. Most species also contained a potent toxin."
+    },
+    {
+        "name": "Pyrimo",
+        "description": "Pyrimo were predatory fish similar to piranha that lived in the rivers and lakes of the Underdark."
+    },
+    {
+        "name": "Queen's Knife",
+        "description": "These fish sported knife-like protrusions. Some say this fish is a throwing knife of a sea god"
+    },
+    {
+        "name": "Quipper",
+        "description": "A quipper was a general term for a wide variety of fish similar to piranhas that shared the trait of sharp teeth and gathering in large schools when hunting their unsuspecting prey."
+    },
+    {
+        "name": "Raik",
+        "description": "Raik were aggressive and carnivorous fish that dwelt in the depths of the Sea of Fallen Stars. Greater raiks, the bigger species, were the size of an adolescent human. They had fins splattered with white and blue colors. Their most notable feature was their hooked jaw. Lesser raiks were significantly smaller in size."
+    },
+    {
+        "name": "Rift Dragon",
+        "description": "Rift dragons were a variety of eel-like fish found near thermal vents. Might be draconic in nature? Very feared by saliors."
+    },
+    {
+        "name": "River Whale",
+        "description": "Native to the western continent. These are huge beasts that sometimes disrupt shipping ways."
+    },
+    {
+        "name": "Rockstinger",
+        "description": "Rockstingers were fish known for being highly poisonous. Very Ugly"
+    },
+    {
+        "name": "Rostfish",
+        "description": "A fish that lives in marshes"
+    },
+    {
+        "name": "S'Repic",
+        "description": "S'repic was a species of carnivorous and scavenging fish found in lakes. The fish were dangerous flesh-eating creatures that often schooled under the floating raft villages. "
+    },
+    {
+        "name": "Sailfish",
+        "description": "Sailfish were a variety of fast moving species of fish that all bore a resemblance to swordfish."
+    },
+    {
+        "name": "Salmon",
+        "description": "A common fish and great source of food"
+    },
+    {
+        "name": "Sardine",
+        "description": "Common sardines. They have taste that is comparable to that of silverlings."
+    },
+    {
+        "name": "Shalass",
+        "description": "The shalass bore a resemblance to trout, were covered in silver scales, and on average grew to be 2\u00e2\u20ac\u00affeet (0.61\u00e2\u20ac\u00afmeters) in length."
+    },
+    {
+        "name": "Shark",
+        "description": "Sharks were aggressive carnivorous fish. They could be found hunting alone or in groups and were known for attacking anyone approaching them without provocation."
+    },
+    {
+        "name": "Silverback",
+        "description": "Silverback fish were abundant in Imnestream's cold rushing waters, where it was a common catch during fishing seasons. Along with bluefins, silverbacks were fished via nets or spears. (From Knewts home)"
+    },
+    {
+        "name": "Silverfin",
+        "description": "A common white fish"
+    },
+    {
+        "name": "Silverling",
+        "description": "A cheap, simple source of food similair to sardines"
+    },
+    {
+        "name": "Singing Fish",
+        "description": "These fish were consumed in the coastal cities.  Considered a fanciful treat and was served in the palaces and festivals. "
+    },
+    {
+        "name": "Spiny Sleeper",
+        "description": "This plump fish was covered in tiny silver spines and had a white belly and long whiskers resembling a catfish. Handling the sleeper without proper care, such as not wearing gloves or protective gear, may result in one of the spines piercing the flesh and injecting a potent toxin. If the affected, they experienced effects similar to a temporal stasis spell, and their body would be covered in an ice-like glaze.  (poisonous)"
+    },
+    {
+        "name": "Splar",
+        "description": "Splars were a type of winged eel found in the rivers and oceans of Faer\u00c3\u00bbn."
+    },
+    {
+        "name": "Stalking catfish",
+        "description": "Stalking catfish were adaptable Underdark relatives of giant catfish."
+    },
+    {
+        "name": "Suckertail",
+        "description": "Suckertails were a variety of eel "
+    },
+    {
+        "name": "Sunfish",
+        "description": "Species of sunfish had a distinct flat and round shape, making them a popular decorative motif "
+    },
+    {
+        "name": "Sunsilver",
+        "description": "They were tiny and bright fish. Pretty pet fish similair to Betas"
+    },
+    {
+        "name": "Swamp Shark",
+        "description": "Swamp sharks were a species of shark that had been created by a Thunder Peaks cell of the Cult of the Dragon by magically modifying mundane sharks.[ These sharks had dirty gray skin with greenish-black markings that looked like patches of scum. Unlike natural sharks, their fins were specially adapted for crawling and they could survive short periods on land by breathing through a set of primitive lungs."
+    },
+    {
+        "name": "Swordfish",
+        "description": "Swordish were a peaceful species of predatory fish, named for their flat pointed bills that resembled swords."
+    },
+    {
+        "name": "Trouchlight Loosejaw",
+        "description": "Torchlight loosejaws were a variety of deepsea fish found in the underwater trenches of the Sea of Moving Ice. These creatures sported luminiferous organs directly below their eyes, giving off a green and red glow reminiscent of a torch."
+    },
+    {
+        "name": "Trout",
+        "description": "Usually brown in color, their white flesh was very tasty and was a staple food in Loudwater as well as a favored delicacy in the more opulent taverns of Waterdeep."
+    },
+    {
+        "name": "Tuna",
+        "description": "Tuna, also known as bluefin, were a common species of fish in the realms"
+    },
+    {
+        "name": "Valkur's Fish",
+        "description": "A common spined fish. Fishermen thought the sight of a Valkur's fish brought good luck."
+    },
+    {
+        "name": "Ventdiver",
+        "description": "Ventdivers were a variety of fish found in the Sea of Moving Ice, named for their uncanny ability to survive in both normal waters and the noxious waters near thermal vents."
+    },
+    {
+        "name": "Verme",
+        "description": "Verme largely resembled giant catfish, but were covered in large, thick scales coated in slime. Their heads in particular were heavily scaled, as well as very bony, with mouths full of hundreds of needle-like teeth. Their undersides were a pale shade of yellow, with the flanks shading from dark brown to a mottled green and brown back.\n\nOn average, a verme grew to be 50\u00e2\u20ac\u2039 to \u00e2\u20ac\u203980\u00e2\u20ac\u00affeet (15\u00e2\u20ac\u2039 to \u00e2\u20ac\u203924\u00e2\u20ac\u00afmeters) in length. Their bodies were flattish along the belly and wider than they were tall."
+    },
+    {
+        "name": "Viperfish",
+        "description": "Viperfish were an uncommon predatory species of deep sea fish"
+    },
+    {
+        "name": "Walleye Pollock",
+        "description": "Walleye pollock was believed to breed excessively after stormy summers. They were a common catch among the northern fishers. Fishmongers were well aware of the abundance and took advantage of the fact that many confused walleye pollock for the more expensive haddock fish."
+    },
+    {
+        "name": "Witch Fish",
+        "description": "Witch was a species of cold-water flounder. A popular northern fairytale stated that a witch coven used these flunders in some dark demonic ritual. These fish were said to have been bled by the witches. In reality, some fishers adamantly insisted that these founders were harmless and carried no foul magics in their blood. It was likely that the witches used them simply because the flounders were easily available, and not because of the fish's demonic magic affinity"
+    },
+    {
+        "name": "Wolf Eel",
+        "description": "Wolf eel, or akoak as it was known to the locals, was a species of cold-water eel that bore a resemblance to wolffish. "
+    },
+    {
+        "name": "Wolffish",
+        "description": "Wolffish was a species of cold-water fish that greatly resembled juvenile wolf eel. "
+    },
+    {
+        "name": "Yenth",
+        "description": "These fish had bronze scales, were about the size of a human palm, and resembled a smallmouth bass"
+    }
+]

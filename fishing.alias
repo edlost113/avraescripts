@@ -1,0 +1,34 @@
+!servalias fishing embed <drac2>
+#43f259ac-1de2-4e83-9314-03e18c5ec836
+fish = load_json(get_gvar('43f259ac-1de2-4e83-9314-03e18c5ec836'))
+
+luckRoll = vroll(f"1d100")
+
+if luckRoll.total > 75:
+    numFish = len(fish)
+    FishResultRoll=vroll(f"1d{numFish}")
+
+    skill = "survival"
+    adv = args.adv(boolwise=True)
+    bonus = args.last('b',default="0")
+
+    if bonus == "0":
+        r = vroll(ch.skills[skill].d20(adv, 0, minimum_check))
+    else:
+        r = vroll(ch.skills[skill].d20(adv, 0, minimum_check)+"+"+bonus)
+    if r.total > 20:
+        desc = f'You cast your line and reel in a \"**{fish[FishResultRoll.total-1].name}**\"'
+        fline = f"{fish[FishResultRoll.total-1].description}"
+    else:
+        desc = f'You almost caught a \"**{fish[FishResultRoll.total-1].name}**\", but it got away!'
+        fline = "maybe next time you'll have more luck"
+else:
+    desc = "You didn't catch anything this time, better luck next time!"
+    fline = "maybe next time you'll have more luck"
+</drac2>
+
+
+-title "Gone Fishing"
+-desc "{{desc}}"
+-f "{{fline}}"
+-footer "!fishing - made by edlost"
