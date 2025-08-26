@@ -23,9 +23,9 @@ match int(dc):
         numBoons = 3
 r = 0
 if bonus == "0":
-    r = vroll(f"1d20")
+    r = vroll(ch.skills[skill].d20(adv, 0, minimum_check))
 else:
-    r = vroll(f"1d20"+"+"+bonus)
+    r = vroll(ch.skills[skill].d20(adv, 0, minimum_check)+"+"+bonus)
 total = r.total - int(dc)
 
 if total <= -13:
@@ -60,6 +60,8 @@ rFlaws = 0
 rBoons = 0
 arrFlaws=[]
 arrBoons=[]
+arrRollsFlaws =[]
+arrRollsBoons =[]
 listBoons = load_json(get_gvar('45b2f595-5c14-46ed-9166-d34fd2a017b2'))
 listFlaws = load_json(get_gvar('687c9885-0423-4d70-a7a9-91d4ce04005b'))
 
@@ -68,15 +70,23 @@ if numFlaws > 0:
         rFlaws = vroll(f"1d8")
         resultline = f"{i+1}: you rolled {rFlaws.result} and with a value of {rFlaws.total} this happens to you: {listFlaws[str(rFlaws.total)]}"
         arrFlaws.append(resultline)
+        arrRollsFlaws.append(str(rFlaws.result))
 if numBoons > 0:
     for i in range(int(numBoons)):
         rBoons = vroll(f"1d8")
         resultline = f"{i+1}: you rolled {rBoons.result} and with a value of {rBoons.total} this happens to you: {listBoons[str(rBoons.total)]}"
         arrBoons.append(resultline)
+        arrRollsBoons.append(str(rBoons.result))
 arrFlaws = arrFlaws[0:len(arrFlaws)]
 arrFlaws = '\n\n'.join(arrFlaws)
 arrBoons = arrBoons[0:len(arrBoons)]
 arrBoons = '\n\n'.join(arrBoons)
+
+arrRollsFlaws = arrRollsFlaws[0:len(arrRollsFlaws)]
+arrRollsFlaws = '\n'.join(arrRollsFlaws)
+arrRollsBoons = arrRollsBoons[0:len(arrRollsBoons)]
+arrRollsBoons = '\n'.join(arrRollsBoons)
+
 arrFlaws=arrFlaws[:1020]+'`...' if len(arrFlaws)>1024 else arrFlaws
 arrBoons=arrBoons[:1020]+'`...' if len(arrBoons)>1024 else arrBoons
 </drac2>
@@ -87,7 +97,9 @@ arrBoons=arrBoons[:1020]+'`...' if len(arrBoons)>1024 else arrBoons
 -f "**Total Flaws**:{{numFlaws}}"
 -f "**Flaw Rolls**:"
 -f "{{arrFlaws}}"
+-f "{{arrRollsFlaws}}"
 -f "**Boon Rolls**:"
 -f "{{arrBoons}}"
+-f "{{arrRollsBoons}}"
 -footer "!mcook - made by edlost"
 -thumb "{{ch.image}}"
