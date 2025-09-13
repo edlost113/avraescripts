@@ -1,3 +1,20 @@
+
+!servalias fishing embed <drac2>
+#43f259ac-1de2-4e83-9314-03e18c5ec836
+fish = load_json(get_gvar('43f259ac-1de2-4e83-9314-03e18c5ec836'))
+numFish = len(fish)
+FishResultRoll=vroll(f"1d{numFish}")
+desc = f'You cast your line and reel in a \"**{fish[FishResultRoll.total-1].name}**\"'
+fline = f"{fish[FishResultRoll.total-1].description}"
+</drac2>
+
+
+-title "Gone Fishing"
+-desc "{{desc}}"
+-f "{{fline}}"
+-footer "!fishing - made by edlost"
+
+
 !servalias fishing embed <drac2>
 #43f259ac-1de2-4e83-9314-03e18c5ec836
 fish = load_json(get_gvar('43f259ac-1de2-4e83-9314-03e18c5ec836'))
@@ -25,6 +42,7 @@ if luckRoll.total > 75:
 else:
     desc = "You didn't catch anything this time, better luck next time!"
     fline = "maybe next time you'll have more luck"
+
 </drac2>
 
 
