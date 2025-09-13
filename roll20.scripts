@@ -1,0 +1,46 @@
+#just remove the newlines so that its all one line
+#in R1 and R2 you can add cs># to change the low crit number
+&{template:atkdmg} 
+{{mod=+17}} 
+{{rname=Giant Sized Shriek of the Shattered Choir}} 
+{{r1=[[1d20+17]]}} 
+{{?{Advantage?|normal,normal=1|advantage,advantage=1|disadvantage,disadvantage=1}}} 
+{{r2=[[1d20+17]]}} 
+{{attack=1}} 
+{{range=10 ft}} 
+{{damage=1}} 
+{{dmg1flag=1}} {{dmg1=[[({3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 ) +11]]}} {{dmg1type=Slashing}} 
+{{dmg2flag=1}} {{dmg2=[[{3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1]]}} {{dmg2type=Psychic}} 
+{{crit1=[[({3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 ) ]]}} 
+{{crit2=[[{3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1]]}}
+{{desc=Fenric Slashes with his giant greatsword}} 
+{{charname=Fenric}}
+
+&{template:default} {{radiant=[[3d6+1d8]]}}{{necrotic=[[3d6]]}}{{Healing=[[6d6]]}}
+
+
+
+&{template:atkdmg} {{mod=+17}} {{rname=Giant Sized Shriek of the Shattered Choir}} {{r1=[[1d20+17]]}} {{?{Advantage?|normal,normal=1|advantage,advantage=1|disadvantage,disadvantage=1}}} {{r2=[[1d20+17]]}} {{attack=1}} {{range=10 ft}} {{damage=1}} {{dmg1flag=1}} {{dmg1=[[({3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 ) +11]]}} {{dmg1type=Slashing}} {{dmg2flag=1}} {{dmg2=[[{3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1]]}} {{dmg2type=Psychic}} {{crit1=[[({3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 ) ]]}} {{crit2=[[{3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1 + {3d1, 1d6}KH1]]}} {{desc=Fenric Slashes with his giant greatsword}} {{charname=Fenric}} 
+&{template:default} {{radiant=[[3d6+1d8]]}}{{necrotic=[[3d6]]}}{{Healing=[[6d6]]}}
+
+
+
+
+
+#just remove the newlines so that its all one line
+#in R1 and R2 you can add cs># to change the low crit number
+&{template:atkdmg} 
+{{mod=+17}} #full attack modifier goes here
+{{rname=Giant Sized Shriek of the Shattered Choir}} #attack name goes here
+{{r1=[[1d20+17]]}} #roll 1
+{{?{Advantage?|normal,normal=1|advantage,advantage=1|disadvantage,disadvantage=1}}} #ask if advantage normal or disadvantage
+{{r2=[[1d20+17]]}} #roll 2
+{{attack=1}} #Whether or not the attack section of the template is shown.
+{{range=10 ft}} 
+{{damage=1}} 
+{{dmg1flag=1}} {{dmg1=[[(2d6) +11]]}} {{dmg1type=Slashing}} # damage for damage type 1
+{{dmg2flag=1}} {{dmg2=[[4d6]]}} {{dmg2type=Psychic}} # damage for damage type 2
+{{crit1=[[2d6]]}} # crit damage for damage type 1
+{{crit2=[[4d6]]}} # crit damage for damage type 2
+{{desc=Fenric Slashes with his giant greatsword}} # flavor text
+{{charname=Fenric}}
