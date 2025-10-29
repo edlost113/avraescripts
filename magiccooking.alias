@@ -101,5 +101,5 @@ arrBoons=arrBoons[:1020]+'`...' if len(arrBoons)>1024 else arrBoons
 -f "**Boon Rolls**:"
 -f "{{arrBoons}}"
 -f "{{arrRollsBoons}}"
--footer "!mcook - made by edlost"
+-footer "!mcook -boons # -dc # adv - made by edlost"
 -thumb "{{ch.image}}"
