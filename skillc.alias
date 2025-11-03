@@ -102,16 +102,15 @@ if ttime > isItTime:
     ch.set_cvar("updateTime", ttime)
     output = output + f"{ctx.prefix}{embedPre}\n"
 
-bonus = int(bonus) 
-
 desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success} successes**"
 footer = f"!skillc {skill} "
 if adv:
     footer = footer + " adv "
 elif adv == False:
     footer = footer + " dis "
-if int(bonus) != 0:
-    footer = footer + f" -b {bonus} "
+
+footer = footer + f" -b {bonus} "
+
 if int(rerolls) != 8:
     footer = footer + f" -rr {rerolls} "
 if extratext:
