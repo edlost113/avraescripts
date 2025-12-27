@@ -1,0 +1,18 @@
+!servalias extracredit embed
+<drac2>
+cc1="Extra Credit"
+ch=character()
+D= "Now Go Forth! And pass some tests"
+#create counter if it doesn't exist
+if (ch.cc_exists(cc1)) and (ch.cc_exists(cc2)) and (ch.cc_exists(cc3)):
+   T=f"You Already have the Counters ya goof!!"
+if not (ch.cc_exists(cc1)) :
+   ch.create_cc_nx(cc1, 0, 3, "none", "bubble", initial_value=2)
+   T=f"{cc1} created!"
+
+</drac2>
+-title "{{T}}"
+-desc "{{D}}"
+-color <color>
+-thumb <image>
+-footer "!extracredit"
