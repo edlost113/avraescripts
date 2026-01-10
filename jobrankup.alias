@@ -1,0 +1,97 @@
+<drac2>
+ch=character()
+args=argparse(&ARGS&)
+skill = ([x for x,y in ch.skills if '&1&'.lower().replace(' ','') in x.lower()]+['Nothing'])[0]
+adv = args.adv(boolwise=True)
+bonus = args.last('b',default="0")
+extratext = args.last('f',default="idk")
+rerolls = args.last('rr', default=8)
+dc = get_svar('job_skill_dc',default=0)
+showdc = False
+if dc == 0:
+    dc = args.last('dc', default=0)
+    if dc != 0:
+        showdc = True
+
+# grab the reroll number if the character has the csetting reroll or default to None
+reroll_number = ch.csettings.get("reroll", None)
+# grab a minimum from our args like a standard !check, (-mc #) or set it to 10 if the character has the csetting 'talent' set to True and has proficiency or expertise in the chosen skill.
+minimum_check = args.last('mc', None, int) or (10 if ch.csettings.get("talent", False) and ch.skills[skill].prof>=1 else None)
+arr=[]
+success = 0
+fline = f"they spent this time working on improving their skill as a **{extratext}**"
+if showdc:
+    fline = fline + f" with a DC of {dc}"
+for i in range(int(rerolls)):
+    if bonus == "0":
+        r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check))
+    else:
+        r = vroll(ch.skills[skill].d20(adv, reroll_number, minimum_check)+"+"+bonus)
+    resultline = f"{i+1}: you rolled {r.result}"
+    if r.total >= int(dc):
+        success = success + 1
+        if r.result.crit == 1:
+            success = success + 1
+            resultline = f"{i+1}: you rolled {r.result} YAY! CRIT!"
+    if r.result.crit == 2:
+        success = success - 1
+        resultline = f"{i+1}: you rolled {r.result} OH NO! CRIT FAIL!"
+    arr.append(resultline)
+arr = arr[0:len(arr)]
+arr = '\n'.join(arr)
+fline2 = f""
+fline3 = f""
+gvarLine = f"embed -title 'future update' -desc 'some statistics will go here'"
+output = f"multiline\n"
+newcombatline = f""
+if not (ch.cc_exists(extratext)) :
+    ch.create_cc_nx(extratext, 0, 1215, "none", "bubble", initial_value=success)
+else:
+    ch.mod_cc(extratext,success)
+
+total = ch.get_cc(extratext)
+fline2 = f"you are at {total} successes as a {extratext}"
+if int(total)>=1215:
+    fline3 = f"you're an Expert {extratext}"
+elif int(total)>=615:
+    fline3 = f"you're an Advanced {extratext}"
+elif int(total)>=240:
+    fline3 = f"you're an Intermediate {extratext}"
+elif int(total)>=90:
+    fline3 = f"you're an Novice {extratext}"
+elif int(total)>=30:
+    fline3 = f"you're an Green {extratext}"
+
+tTimeWas = ch.get_cvar("updateTime")
+if tTimeWas is None:
+    tTimeWas = 0
+else:
+    tTimeWas = float(tTimeWas)
+
+
+ttime = time()
+isItTime = tTimeWas + 14400
+
+if ttime > isItTime:
+    embedPre = f'update'
+    ch.set_cvar("updateTime", ttime)
+    output = output + f"{ctx.prefix}{embedPre}\n"
+
+desc = f"{ch.name} performed **{skill}** for {rerolls} hours and got **{success} successes**"
+footer = f"!jobrankup  {skill} "
+if adv:
+    footer = footer + " adv "
+elif adv == False:
+    footer = footer + " dis "
+
+footer = footer + f" -b {bonus} "
+
+if int(rerolls) != 8:
+    footer = footer + f" -rr {rerolls} "
+if extratext:
+    footer = footer + f" -f '{extratext}' "    
+embed1 = f'embed -title "Skill Challenge" -desc "{desc}" -f "{arr}" -f "{fline}" -f "{fline2}" -f "{fline3}" -footer "{footer}" -thumb "{ch.image}"'
+output = output + f"{ctx.prefix}{embed1}\n"
+    
+return output
+</drac2>
