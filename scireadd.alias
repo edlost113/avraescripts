@@ -1,48 +1,48 @@
-<drac2>
-ch = character()
-ccScire = "Scire Inspiration"
-categoryName = ctx.channel.category
-output = f"multiline\n"
-extratext = f"Total Scires from outside of table"
-fline2 = f""
-newcombatline2 = ""
-if (ch.cc_exists(ccScire)):
-    ccScireCount = int(ch.get_cc(ccScire))
-    fline = f"Thanks for the scire {ch.name}"
-    cbt = combat()
-    if not cbt:
-        err("This alias only works in initiative.")
-    else:
-        if ccScireCount == 1:
-            ch.set_cc(ccScire,0)
-            if cbt:
-                combatant = cbt.get_combatant(extratext)
-                if combatant is None:
-                    newcombatline = f'i add 0 "{extratext}" -hp 1 -p 0\n{ctx.prefix}i hp max "{extratext}" 15'
-                else:
-                    combatant.modify_hp(1, overflow=True)
-                    fline2 = f"the group has a total of {combatant.hp/3} extra {ccScire}"
-                    newcombatline = f'i list'
-                combatantChar = cbt.get_combatant(ch.name)
-                if combatantChar is None:
-                    newcombatline2 = f'i add 0 "{ch.name}" -hp 1 -p 0\n{ctx.prefix}i hp max "{ch.name}" 5'
-                else:
-                    combatantChar.modify_hp(1, overflow=True)
-                    newcombatline2 = f'i list'
+    <drac2>
+    ch = character()
+    ccScire = "Scire Inspiration"
+    categoryName = ctx.channel.category
+    output = f"multiline\n"
+    extratext = f"Total Scires from outside of table"
+    fline2 = f""
+    newcombatline2 = ""
+    if (ch.cc_exists(ccScire)):
+        ccScireCount = int(ch.get_cc(ccScire))
+        fline = f"Thanks for the scire {ch.name}"
+        cbt = combat()
+        if not cbt:
+            err("This alias only works in initiative.")
         else:
-            fline = f"you dont have enough **{ccScire}** to participate"
-            newcombatline = f'i list'
-else:
-    fline = f"**{ccScire}** - does not exist"
-desc = f"**{ch.name}** wants to donate {ccScire} to {categoryName}"
-title = f"{ch.name} wants to donate their hard earned scire"
-footer = f"!sciregift  - made by edlost "
+            if ccScireCount == 1:
+                ch.set_cc(ccScire,0)
+                if cbt:
+                    combatant = cbt.get_combatant(extratext)
+                    if combatant is None:
+                        newcombatline = f'i add 0 "{extratext}" -hp 1 -p 0\n{ctx.prefix}i hp max "{extratext}" 15'
+                    else:
+                        combatant.modify_hp(1, overflow=True)
+                        fline2 = f"the group has a total of {combatant.hp/3} extra {ccScire}"
+                        newcombatline = f'i list'
+                    combatantChar = cbt.get_combatant(ch.name)
+                    if combatantChar is None:
+                        newcombatline2 = f'i add 0 "{ch.name}" -hp 1 -p 0\n{ctx.prefix}i hp max "{ch.name}" 5'
+                    else:
+                        combatantChar.modify_hp(1, overflow=True)
+                        newcombatline2 = f'i list'
+            else:
+                fline = f"you dont have enough **{ccScire}** to participate"
+                newcombatline = f'i list'
+    else:
+        fline = f"**{ccScire}** - does not exist"
+    desc = f"**{ch.name}** wants to donate {ccScire} to {categoryName}"
+    title = f"{ch.name} wants to donate their hard earned scire"
+    footer = f"!sciregift  - made by edlost "
 
-embed1 = f'embed -title "{title}" -desc "{desc}" -f "{fline}" -f "{fline2}" -footer "{footer}" -thumb "{ch.image}"'
-output = output + f"{ctx.prefix}{embed1}\n"
-if cbt:
-    if newcombatline2:
-        output = output + f"{ctx.prefix}{newcombatline2}\n{ctx.prefix}{newcombatline}\n"
-return output
-</drac2>
+    embed1 = f'embed -title "{title}" -desc "{desc}" -f "{fline}" -f "{fline2}" -footer "{footer}" -thumb "{ch.image}"'
+    output = output + f"{ctx.prefix}{embed1}\n"
+    if cbt:
+        if newcombatline2:
+            output = output + f"{ctx.prefix}{newcombatline2}\n{ctx.prefix}{newcombatline}\n"
+    return output
+    </drac2>
 
