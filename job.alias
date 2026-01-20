@@ -1,0 +1,72 @@
+<drac2>
+def get_cc(c):
+    try:
+        return character().get_cc(c)
+    except:
+        return 0
+
+ch=character()
+jobs = ["Engineer","Helmsman", "Cook", "First Mate", "Gunner", "Lookout", "Navigator", "Captain", "Medical Officer", "Security Officer" ]
+abilities = load_json(get_gvar('bd3338e5-a40c-437e-9132-c985c724e5fe'))
+maxrank = 0
+arr = []
+arrStats = []
+arrAbilities = []
+arrRanks = []
+arrJobs = []
+for job in jobs:
+    total = get_cc(job)
+    if int(total) > 0:
+        arrJobs.append(job)
+        arrStats.append(f"you are at {total} successes as a {job}")
+        if int(total)>=1215:
+            fline3 = f"you're an Expert {job}"
+            arr.append(fline3)
+            maxrank = 5
+        elif int(total)>=615:
+            fline3 = f"you're an Advanced {job}"
+            arr.append(fline3)
+            maxrank = 4
+        elif int(total)>=240:
+            fline3 = f"you're an Intermediate {job}"
+            arr.append(fline3)
+            maxrank = 3
+        elif int(total)>=90:
+            fline3 = f"you're a Novice {job}"
+            arr.append(fline3)
+            maxrank = 2
+        elif int(total)>=30:
+            fline3 = f"you're a Green {job}"
+            arr.append(fline3)
+            maxrank = 1
+        
+        for ability in abilities:
+            if ability["Role"] in job:
+                if maxrank >= int(ability["Level"]):
+                    arrAbilities.append(ability)
+        data = '\n'.join(arr)
+        dataStats = '\n'.join(arrStats)
+extralines = ""
+extralines2 = ""
+count = 0
+for ability in arrAbilities:
+    if ability["Requirements"] == "None" or any(job in ability["Requirements"] for job in arrJobs):
+        count += 1
+        abilityText = ability["Effect"]
+        abilityText=abilityText[:1020]+'`...' if len(abilityText)>1024 else abilityText
+        if count > 24:
+            extralines2 = extralines2 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}\nRequirements: {ability["Requirements"]}|{abilityText}"'
+        else:
+            extralines = extralines + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}\nRequirements: {ability["Requirements"]}|{abilityText}"'
+
+desc = data+'\n'+dataStats
+desc=desc[:1020]+'`...' if len(desc)>1024 else desc
+
+footer = f"!jobinfo - made by edlost"
+embed1 = f'embed -title "Job Abilities" -desc "{desc}" -f "total abilities {count}" {extralines} -footer "{footer}" -thumb "{ch.image}"'
+embed2 = f'embed -title "Job Abilities" -desc "Continued" -f "total abilities {count}" {extralines2} -footer "{footer}" -thumb "{ch.image}"'
+output = f"{ctx.prefix}{embed1} "
+if count > 24:
+    output = output + f"\n{ctx.prefix}{embed2} "
+return f"""multiline {output}"""
+</drac2>

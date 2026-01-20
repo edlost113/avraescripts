@@ -1,0 +1,793 @@
+[
+  {
+    "Role": "Cook",
+    "Level": "1",
+    "Ability": "Ship’s Cook",
+    "Requirements": "None",
+    "Effect": "When purchasing rations and supplies you can appropriately buy the necessary food to sustain the ship’s crew with a healthy and balanced diet. As long as you have adequate spices and flavorings you can make enjoyable meals out of magically created sustenance. You can prepare a meal for the entire crew in 30 minutes. If you do 1 hour of preparation the next 3 meals you make within 24 hours only take 5 minutes to prepare. A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared regains 1d10 hit points. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "2",
+    "Ability": "Restful Meal",
+    "Requirements": "None",
+    "Effect": "A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared gains the benefits of a short rest. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "2",
+    "Ability": "Pots and Pans",
+    "Requirements": "At least Novice in Gunner required",
+    "Effect": "You are proficient with your cooking implements when using them as improvised weapons. Your utensils deal 1d6 damage and are considered light. The damage type can be bludgeoning, piercing, or slashing damage based on the utensil type. A utensil can have other properties (finesse, thrown, etc.) depending on the utensil, ask your DM if you have an idea in mind."
+  },
+  {
+    "Role": "Cook",
+    "Level": "3",
+    "Ability": "Antitoxin",
+    "Requirements": "None",
+    "Effect": "A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared is cured of one poison affecting it. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "3",
+    "Ability": "Bottled Antitoxin",
+    "Requirements": "At least Green in Engineer required",
+    "Effect": "You can create one dose of antitoxin during a long rest that can be drank to remove one poison affecting the creature. This dose remains potent until you create another dose this way."
+  },
+  {
+    "Role": "Cook",
+    "Level": "3",
+    "Ability": "Local Cuisine",
+    "Requirements": "At least Novice in Navigator required",
+    "Effect": "You can prepare food similar to the local food at a destination if you know that place or places similar in culture."
+  },
+  {
+    "Role": "Cook",
+    "Level": "4",
+    "Ability": "Hearty Meal",
+    "Requirements": "None",
+    "Effect": "A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared can gain one of the following benefits: they gain the benefit of the spell Gift of Alacrity or they have advantage on Wisdom ability checks for the next 8 hours. You choose which of the two benefits come from the meal when you prepare it. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "4",
+    "Ability": "Consistent Cook",
+    "Requirements": "None",
+    "Effect": "While your ship is out of supplies you can create enough food and water to keep your crew alive as if by the spell Create Food and Water. You can only do this once per day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "5",
+    "Ability": "Fulfilling Meal",
+    "Requirements": "None",
+    "Effect": "A creature that spends at least 10 minutes doing nothing but eating and enjoying a meal you prepared can increase their current and maximum hit points by 1d12 or regain a spent hit die. You choose which of the two benefits come from the meal when you prepare it. A creature who gains maximum hit points from this feature keeps that increase for the next 24 hours. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Cook",
+    "Level": "5",
+    "Ability": "Leader’s Meal",
+    "Requirements": "Expert in First Mate required",
+    "Effect": "Once a day when you prepare a meal with at least 750 gp in food and drink used in the meal you can serve the meal while giving a rousing speech to the crew. A creature that spends at least 1 hour doing nothing but listening to you, eating, and enjoying the meal gains the benefits of the spell Heroes’ Feast. A creature can only gain this benefit from your food once a day."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "1",
+    "Ability": "On-The-Go Repairs",
+    "Requirements": "None",
+    "Effect": "You can spend time outside of combat to patch up the ship. For each hour you spend outside of combat repairing the ship it regains 1d4 temporary hit points. The ship keeps these temporary hit points as long as your repairs hold up (often repairs only last a few days to a few weeks without having to spend more time and materials to keep up the patchwork repairs)."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "1",
+    "Ability": "Ship Status",
+    "Requirements": "At least Green in Helmsman required",
+    "Effect": "You can accurately tell when your ship drops below three-quarters, half, and one-quarter of its maximum hit points."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "2",
+    "Ability": "Damage Control",
+    "Requirements": "None",
+    "Effect": "When you make a Survival check during combat to attempt to fix a functional portion of the ship or put out a spreading fire you have advantage on the check."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "2",
+    "Ability": "Exact Status",
+    "Requirements": "At least Intermediate in Helmsman required",
+    "Effect": "While attuned to the ship you know its exact hit points and statuses."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Repairman",
+    "Requirements": "None",
+    "Effect": "Whenever you would give temporary hit points to the ship with On-The-Go Repairs you instead can properly repair the damage, restoring as many hit points as the temporary hit points you would have restored."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Hull Coating",
+    "Requirements": "At least Intermediate in Navigator required",
+    "Effect": "You can refurbish the ship’s hull to protect against the dangers of Wildspace Poison. When creatures are belowdecks they are not exposed to and do not need to save against Wildspace Poison."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Lookout Post",
+    "Requirements": "At least Intermediate in Lookout required",
+    "Effect": "You can create a lookout post to aid in watches. Lookouts using your post add +3 to their passive perception."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Kitchen Overhaul",
+    "Requirements": "At least Intermediate in Cook required",
+    "Effect": "You refurbish the ship’s kitchen, allowing your cook more efficient and easier preparation of meals. Your cook can prepare a meal for the entire crew in 15 minutes. If your cook spends 1 hour of preparation, the next three meals they serve within the next 24 hours are fully prepared and you can then serve those meals directly to the crew when the time to eat comes up."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Comfortable Helm",
+    "Requirements": "At least Intermediate in Helmsman required",
+    "Effect": "You add a few nice features to the Helm in order to make it easier to stand watch on. Helmsmen on watch can now stand for a full 16 hours instead of 8 before incurring exhaustion."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "3",
+    "Ability": "Mounted Artillery",
+    "Requirements": "At least Intermediate in Gunner required",
+    "Effect": "You can adjust and increase the effectiveness of mounted artillery. All artillery you adjust gains +1 to all attack rolls with that artillery."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "4",
+    "Ability": "Efficient Repair",
+    "Requirements": "None",
+    "Effect": "When you make a Survival check to attempt to fix a functional portion of the ship or put out a spreading fire you can do so as a bonus action instead of an action."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "4",
+    "Ability": "Lightning Repair",
+    "Requirements": "At least Advanced in First Mate required",
+    "Effect": "The first time you make a Survival check to attempt to fix a functional portion of the ship or put out a spreading fire on your turn you can choose to use a free action to make the check instead of a bonus action."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "4",
+    "Ability": "Marksman",
+    "Requirements": "At least Intermediate in Gunner required",
+    "Effect": "Your knowledge of ships and their workings increases your ability to disable them. Your attacks using a ship’s artillery against another ship critically strike on a 19 or 20."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "5",
+    "Ability": "Boatswain",
+    "Requirements": "None",
+    "Effect": "Whenever you perform or oversee On-The-Go Repairs for at least 8 hours in a single day you can repair one instance of Structural Damage. You can only repair one instance per day. Whenever you restore hit points to the ship, double the total number of hit points restored."
+  },
+  {
+    "Role": "Engineer",
+    "Level": "5",
+    "Ability": "Expert Marksman",
+    "Requirements": "Expert in Gunner required",
+    "Effect": "Once per long rest when you make an attack using a ship’s artillery against another ship, you can replace the damage of the artillery you are using with the damage and effects of the spell Disintegrate."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "1",
+    "Ability": "First Mate",
+    "Requirements": "None",
+    "Effect": "You know and can accurately recall the crew, roles of each crew member, passengers, cargo, watches stood, crew members on each watch, reported damage to the ship, dimensions of the ship, artillery equipped on the ship, average ship speed underway, anchor chain length, and type and number of ship’s elements."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "1",
+    "Ability": "Artillery Stock",
+    "Requirements": "At least Novice in Gunner required",
+    "Effect": "You know and can accurately recall the strengths and uses of the ship’s equipped artillery, the amount of ammunition and types of ammunition, and the intended target of each equipped artillery type (personnel, hull, rigging, etc.)."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "2",
+    "Ability": "Crew’s Keeper",
+    "Requirements": "None",
+    "Effect": "You can use the Help action to aid a crew member or aid a crew member’s attack against a target as a bonus action once per turn."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "3",
+    "Ability": "Mentor",
+    "Requirements": "None",
+    "Effect": "You can cast the spell Ceremony as a ritual as long as the effect targets one of your crew members or the body of a crew member. You can replace the Coming of Age option with a ceremony for celebrating a new crew member joining the crew or a novice crew member becoming adept at their role. A crew member can only undergo this ceremony once per ship."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "3",
+    "Ability": "Protector of the Ship",
+    "Requirements": "At least Intermediate in Engineer required",
+    "Effect": "You can cast the spell Warding Bond with your ship as the spell’s target once per long rest."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Cook required",
+    "Effect": "You can gather specific ingredients to give to your cook so they can incorporate those ingredients into their meals. Once a day your cook can prepare a single meal with one of your special ingredients. A crew member that spends at least 10 minutes eating and enjoying that meal gains resistance to a damage type based on the ingredient used. This resistance lasts 1 hour. Ingredients: black dragon bones (acid), yeti flesh (cold), fire salamander skin (fire), behir tail (lightning), wolf spider flesh (poison), beholder flesh (necrotic), mind flayer tentacles (psychic), unicorn horn (radiant), bronze dragon bones (thunder)."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "You can cast the spell Life Transference once per day targeting your ship or any of your crew. Once you target your ship or a crew member with this spell you cannot cast it on the same target again in this way until you finish a long rest."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Gunner required",
+    "Effect": "Once per round when one of your crew misses an attack you can use a reaction to allow them to reroll that attack. They must use the new roll."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Helmsman required",
+    "Effect": "Your helmsman can concentrate on a spell in addition to concentrating on controlling the helm."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Lookout required",
+    "Effect": "The entirety of your ship is under the effect of the spell Alarm with the audible effect active. Your crew and passengers known to you do not set off the spell’s effect."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "4",
+    "Ability": "Protector of the Crew",
+    "Requirements": "At least Advanced in Navigator required",
+    "Effect": "Your entire crew is under the effects of the spell Protection from Evil and Good, but you can only choose one creature type. You must maintain concentration to give your crew this benefit. If you lose concentration you cannot regain it on this effect again until you finish a short or long rest. You can change the chosen creature type once per week."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "5",
+    "Ability": "Inspirational Leader",
+    "Requirements": "None",
+    "Effect": "Whenever you spend a long rest with your crew you can give one of those crew members a point of inspiration. A point of inspiration allows that crew member to reroll an attack roll, ability check, or saving throw of their choice. After rerolling they must take the new roll."
+  },
+  {
+    "Role": "First Mate",
+    "Level": "5",
+    "Ability": "Ship’s Keeper",
+    "Requirements": "At least Intermediate in Engineer required",
+    "Effect": "Your ship is under the effect of the spell Death Ward. You can refresh this effect after a long rest on the ship."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "1",
+    "Ability": "Artillery Operator",
+    "Requirements": "None",
+    "Effect": "You are proficient in using and loading ships’ artillery. You can add your proficiency bonus to your attack roll when attacking with ships’ artillery."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "1",
+    "Ability": "Steady Shot",
+    "Requirements": "At least Intermediate in Lookout required",
+    "Effect": "You gain a +1 bonus to attack rolls with ship’s artillery whenever you have disadvantage on the attack."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "2",
+    "Ability": "Boarder",
+    "Requirements": "None",
+    "Effect": "You have advantage on Athletics or Acrobatics checks involved in boarding another ship."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "2",
+    "Ability": "Burn ’em Down",
+    "Requirements": "At least Novice in Cook required",
+    "Effect": "You know and can cast the cantrip Create Bonfire. If you do not have a spell save DC your spell save DC for this cantrip is 8 + your CON modifier + your proficiency bonus."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "3",
+    "Ability": "Artillery Expert",
+    "Requirements": "None",
+    "Effect": "You gain a +2 bonus to all damage dealt with ships’ artillery."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "3",
+    "Ability": "Protective Guard",
+    "Requirements": "At least Novice in Helmsman required",
+    "Effect": "You can cast the spell Shield. You cannot cast this spell again in this way until you finish a short or long rest."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "4",
+    "Ability": "Boarding Expert",
+    "Requirements": "None",
+    "Effect": "You have proficiency in your choice of Athletics or Acrobatics checks involved in boarding another ship. If you already have proficiency you double your proficiency for these checks."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "4",
+    "Ability": "Ship Breaker",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "Choose a ship as your mark. Whenever you deal damage to that ship add an additional 1d6 damage of the same type as your attack. You cannot mark a different ship in this manner until you finish a long rest."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "5",
+    "Ability": "Versatile Marksman",
+    "Requirements": "None",
+    "Effect": "You can add either your Strength or Dexterity modifier to your attack and damage when you make an attack with ships’ artillery. In addition you can cast the spell Searing Smite once per day. You cannot cast this spell again in this way until you finish a short or long rest. You can cast this spell with any kind of weapon attack or attack with ships’ artillery."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "5",
+    "Ability": "Ship’s Guardian",
+    "Requirements": "At least Intermediate in First Mate required",
+    "Effect": "You and your other crew members are under the effect of the spell Crusader’s Mantle while they are on the ship or within a 30 foot radius of you."
+  },
+  {
+    "Role": "Gunner",
+    "Level": "5",
+    "Ability": "Distance Boarding",
+    "Requirements": "At least Novice in Navigator required",
+    "Effect": "Whenever you leap from your ship to board another, triple your jump distance."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "1",
+    "Ability": "Helm’s Watch",
+    "Requirements": "None",
+    "Effect": "You can attune to a small or smaller Helm in order to control it."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "1",
+    "Ability": "Accustomed Eye",
+    "Requirements": "At least Green in First Mate required",
+    "Effect": "You can accurately guess the size and speed of another ship that you can see clearly."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "2",
+    "Ability": "Helm’s Watch",
+    "Requirements": "None",
+    "Effect": "You can attune to a medium or smaller Helm in order to control it."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "2",
+    "Ability": "Quick Maneuvers",
+    "Requirements": "None",
+    "Effect": "You increase the movement speed of your ship by 5 feet when you are the helmsman."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "2",
+    "Ability": "Guarded Helm",
+    "Requirements": "At least Intermediate in Gunner required",
+    "Effect": "Add +2 to your AC while you are at the helm."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "3",
+    "Ability": "Helm’s Watch",
+    "Requirements": "None",
+    "Effect": "You can attune to a large or smaller Helm in order to control it."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "3",
+    "Ability": "Resistant Helmsman",
+    "Requirements": "None",
+    "Effect": "You have resistance to any psychic damage you take from your Helm."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "3",
+    "Ability": "Quick Return",
+    "Requirements": "At least Intermediate in Navigator required",
+    "Effect": "You can cast the spell Dimension Door as long as your destination is your Helm. You cannot cast this spell again in this way until you finish a short or long rest."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "4",
+    "Ability": "Helm’s Watch",
+    "Requirements": "None",
+    "Effect": "You can attune to a huge or smaller Helm in order to control it."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "4",
+    "Ability": "Battle-Hardened",
+    "Requirements": "None",
+    "Effect": "You have advantage on saving throws against Helmsman’s Shock."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "5",
+    "Ability": "Helm’s Watch",
+    "Requirements": "None",
+    "Effect": "You can attune to a gargantuan or smaller Helm in order to control it."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "5",
+    "Ability": "Flexible Control",
+    "Requirements": "None",
+    "Effect": "You can control a Helm as long as you are physically touching the ship that Helm is attached to."
+  },
+  {
+    "Role": "Helmsman",
+    "Level": "5",
+    "Ability": "Controlled Destruction",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "Halve the damage your ship takes while ramming or crashing."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "1",
+    "Ability": "Watchman",
+    "Requirements": "None",
+    "Effect": "You can aptly stand watch and keep a proper lookout for a ship in transit."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "1",
+    "Ability": "Helmsman’s Aid",
+    "Requirements": "At least Green in Helmsman required",
+    "Effect": "You can tell the status of the ship’s helm and other important elements of the ship like atmosphere and gravity while you are aboard the ship."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "2",
+    "Ability": "Bearings",
+    "Requirements": "None",
+    "Effect": "You can properly shoot a bearing to an object, determining its rough location (and sometimes distance) from the ship."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "2",
+    "Ability": "Navigator’s Aid",
+    "Requirements": "At least Green in Navigator required",
+    "Effect": "You can properly chart and keep a running bearing of the ship’s location based on current bearing to major landmarks."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "3",
+    "Ability": "Accustomed Eyesight",
+    "Requirements": "None",
+    "Effect": "The vast darkness of space and dim light does not impose disadvantage on your Perception or Investigation checks."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "3",
+    "Ability": "Engineer’s Aid",
+    "Requirements": "At least Green in Engineer required",
+    "Effect": "You can repair the ship while on watch, you can do On-The-Go Repairs while standing watch."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "4",
+    "Ability": "Eagle Eyes",
+    "Requirements": "None",
+    "Effect": "You have advantage on Perception checks while you are on watch."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "4",
+    "Ability": "Gunner’s Aid",
+    "Requirements": "At least Green in Gunner required",
+    "Effect": "You can gain advantage on an attack with ship’s artillery. Once you use this ability you cannot use it again until you finish a short or long rest."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "5",
+    "Ability": "Versatile Watchman",
+    "Requirements": "None",
+    "Effect": "You can serve as a lookout while performing any other role on the ship."
+  },
+  {
+    "Role": "Lookout",
+    "Level": "5",
+    "Ability": "First Mate’s Aid",
+    "Requirements": "At least Green in First Mate required",
+    "Effect": "Each creature that stands watch with you and listens to your tales for at least an hour can add +1 to their ability checks for the next 24 hours. This effect does not stack."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "1",
+    "Ability": "Route Planning",
+    "Requirements": "None",
+    "Effect": "You know how to accurately read a celestial chart and plot a course through Wildspace to a given destination. You know how to use a sextant to calculate location based on known celestial objects. Depending on the accuracy of your charts and surroundings it can take you anywhere from 2 to 6 hours to properly calculate your location."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "2",
+    "Ability": "Semaphore",
+    "Requirements": "None",
+    "Effect": "You know a system of flags and flashing lights in order to communicate over distance to other ships and watch stations. You know and recognize a number of signal flags that ships use to display statuses, warnings, and other information despite any language barrier."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "2",
+    "Ability": "Magical Semaphore",
+    "Requirements": "At least Novice in Helmsman required",
+    "Effect": "You know and can cast the cantrip Dancing Lights."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "3",
+    "Ability": "Celestial Navigation",
+    "Requirements": "None",
+    "Effect": "You can change your route on the fly if problems arise. It takes you up to an hour to determine the rough changes necessary to the route. You can more accurately determine your location with a sextant. Depending on the accuracy of your charts and surroundings it can take you anywhere from 15 minutes to 1 hour to properly calculate your location."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "3",
+    "Ability": "Elegant Semaphore",
+    "Requirements": "At least Novice in First Mate required",
+    "Effect": "When communicating via semaphore you can make Intimidation and Persuasion checks via semaphore communication."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "3",
+    "Ability": "Calculated Trajectory",
+    "Requirements": "At least Advanced in Gunner required",
+    "Effect": "When attacking at the further distance when using ship’s artillery you do not attack at disadvantage."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "3",
+    "Ability": "Concealed Movement",
+    "Requirements": "At least Novice in Helmsman required",
+    "Effect": "While you are the Helmsman or you are standing watch with your helmsman your ship gains +3 to its passive Stealth."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "4",
+    "Ability": "Careful Planning",
+    "Requirements": "None",
+    "Effect": "When you plan a route with charts that do not exactly match up you can map your route with some accuracy in uncharted territory. You can better infer the safest route based on the information present on your charts allowing your ship safer passage."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "4",
+    "Ability": "Unhindered",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "You can cast the spell Freedom of Movement. You cannot cast this spell again in this way until you finish a long rest."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "5",
+    "Ability": "Flow Charts",
+    "Requirements": "None",
+    "Effect": "You can, as accurately as possible, plan routes from one Crystal Sphere to another."
+  },
+  {
+    "Role": "Navigator",
+    "Level": "5",
+    "Ability": "Honing In",
+    "Requirements": "Expert in Lookout required",
+    "Effect": "You know and can cast the spell Find the Path. When you cast the spell in this way you do not need any materials except the object from the location you wish to find. Once you cast the spell in this way you cannot cast it again for a week."
+  },
+  {
+    "Role": "Captain",
+    "Level": "1",
+    "Ability": "Combat Captain",
+    "Requirements": "None",
+    "Effect": "At the beginning of each round of combat you may swap your initiative with another member of the crew."
+  },
+  {
+    "Role": "Captain",
+    "Level": "1",
+    "Ability": "Morale Manager",
+    "Requirements": "At least Green in First Mate required",
+    "Effect": "When your ship comes under attack you may cast the spell Bless targeting any three crew members aboard the ship."
+  },
+  {
+    "Role": "Captain",
+    "Level": "2",
+    "Ability": "Pilot",
+    "Requirements": "None",
+    "Effect": "TBD (not defined in provided text)"
+  },
+  {
+    "Role": "Captain",
+    "Level": "2",
+    "Ability": "Speed Demon",
+    "Requirements": "At least Novice in Engineer required",
+    "Effect": "As an action you can give an order to your helmsman to go full speed ahead. The ship’s movement increases by your proficiency bonus until the end of your next turn."
+  },
+  {
+    "Role": "Captain",
+    "Level": "3",
+    "Ability": "Command Presence",
+    "Requirements": "None",
+    "Effect": "At the start of combat, choose one active ship role other than Captain. Until the end of the first round, all crew members acting in that role gain advantage on their first ability check, attack roll, or saving throw related to that role."
+  },
+  {
+    "Role": "Captain",
+    "Level": "3",
+    "Ability": "Ship’s Status",
+    "Requirements": "At least Green in Navigator required",
+    "Effect": "At the start of each of your turns, you may ask the DM one yes or no question about your ship’s current tactical condition. Examples include structural integrity, maneuverability, morale strain, or environmental danger." 
+  },
+  {
+    "Role": "Captain",
+    "Level": "4",
+    "Ability": "Decisive Order",
+    "Requirements": "None",
+    "Effect": "Once per round, when a crew member you can see fails an attack roll, ability check, or saving throw related to their ship role, you may use your reaction to allow them to immediately reroll the roll and add your proficiency bonus."
+  },
+  {
+    "Role": "Captain",
+    "Level": "4",
+    "Ability": "Swashbuckler",
+    "Requirements": "At least Intermediate in Gunner required",
+    "Effect": "When you are aboard a hostile ship or an enemy creature is aboard yours, you gain advantage on your first melee attack each round. In addition, opportunity attacks you make against creatures boarding or disengaging from your ship do not require your reaction."
+  },
+  {
+    "Role": "Captain",
+    "Level": "5",
+    "Ability": "Old Salt",
+    "Requirements": "None",
+    "Effect": "You can fill any role on a ship in addition to any other crew members holding that role. You can do this even if that role is normally only held by a single crew member. When you fill a role using Old Salt, you count as Green proficiency in that role if you do not already have proficiency in it."
+  },
+  {
+    "Role": "Captain",
+    "Level": "5",
+    "Ability": "Voice of Authority",
+    "Requirements": "None",
+    "Effect": "At the start of your turn, you may issue one command that affects the entire ship. Choose one effect, lasting until the start of your next turn: increase ship speed by 10 feet, or crew gains advantage on saves vs fear charm confusion, or the first successful attack made by each active role this round deals extra damage equal to your proficiency bonus, or the ship has resistance to one damage type of your choice. You may use this feature once per combat."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "1",
+    "Ability": "Practiced Hand",
+    "Requirements": "None",
+    "Effect": "All healing dice rolled within your designated medical space are treated as having rolled their maximum value. This applies to spells, potions, and abilities that restore hit points. Your designated space must be declared during a long rest and cannot be moved until your next long rest."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "1",
+    "Ability": "Emboldening Medic",
+    "Requirements": "At least Green in Security Officer required",
+    "Effect": "When you heal a crew member during combat, they gain temporary hit points equal to your Medical Officer proficiency plus your proficiency bonus. While a creature has these temporary hit points, it cannot be frightened."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "2",
+    "Ability": "Triage Under Fire",
+    "Requirements": "None",
+    "Effect": "When a creature within 30 feet of you drops to 0 hit points, you may use your reaction to immediately move up to your speed toward them without provoking opportunity attacks. If you reach them, they automatically stabilize and gain hit points equal to your Medical Officer proficiency. You can use this feature once per short rest."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "2",
+    "Ability": "Make Shift Mender",
+    "Requirements": "At least Green in First Mate required",
+    "Effect": "Once per long rest you can cast the spell Revivify."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "3",
+    "Ability": "Field Surgeon",
+    "Requirements": "None",
+    "Effect": "When you restore hit points to a creature that is below half its maximum hit points, you may also end one of the following conditions affecting it: blinded, deafened, poisoned, or stunned. You can use this feature a number of times equal to your proficiency bonus per long rest."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "3",
+    "Ability": "Stocked Doc",
+    "Requirements": "At least Green in Cook required",
+    "Effect": "At the end of each long rest you may roll a Medicine check to create a potion of healing. DC 15 makes a general healing potion. For every 5 points of success beyond the DC the rarity of the potion is increased."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "4",
+    "Ability": "Emergency Protocols",
+    "Requirements": "None",
+    "Effect": "As a bonus action, you may designate one creature you can see within 30 feet as a critical patient. If that creature is below half of its maximum hit points, it gains resistance to all damage, has advantage on death saving throws, and the first time it would be reduced to 0 hit points during this duration it is reduced to 1 hit point instead. You can use this feature a number of times equal to your proficiency bonus per long rest."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "4",
+    "Ability": "Sterile Discipline",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "Your designated medical space is fully reinforced, isolated, and maintained under strict procedural control. While inside your designated medical space: creatures are immune to disease, poison, and effects that would inflict exhaustion; creatures automatically succeed on death saving throws; when a creature regains hit points it also removes one level of exhaustion to a minimum of one remaining. In addition, hostile creatures treat your medical space as difficult terrain."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "5",
+    "Ability": "Combat Resuscitation",
+    "Requirements": "None",
+    "Effect": "You can cast Raise Dead once per long rest without material components, but only on a creature that died aboard your ship. A creature revived this way gains two levels of exhaustion instead of the normal penalty."
+  },
+  {
+    "Role": "Medical Officer",
+    "Level": "5",
+    "Ability": "Crewwide Triage Protocol",
+    "Requirements": "At least Intermediate in First Mate required",
+    "Effect": "When you finish a long rest aboard your ship, you may designate up to a number of crew members equal to your proficiency bonus. The first time each designated creature would drop to 0 hit points that day, it instead drops to 1 hit point and gains one level of exhaustion. A creature can only benefit from this feature once per long rest."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "1",
+    "Ability": "Drill Runner",
+    "Requirements": "None",
+    "Effect": "You can spend time outside of combat preparing your crew for person to person combat. As long as you spend one day every 4 long rests doing this training all crew members start a conventional combat with a d6 that they can add to one Attack Roll or Saving Throw."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "1",
+    "Ability": "Entry Expert",
+    "Requirements": "At least Green in Lookout required",
+    "Effect": "Should another vessel attempt to board your ship your knowledge of boarding prevents your crew from being surprised in boardings."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "2",
+    "Ability": "Hold the Line",
+    "Requirements": "None",
+    "Effect": "When a hostile creature enters your ship or emerges from hiding aboard it, you may use your reaction to immediately move up to your speed and make a single weapon attack against that creature. If the attack hits, the creature’s speed is reduced to 0 until the end of its turn. You can use this feature a number of times equal to your proficiency bonus per long rest."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "2",
+    "Ability": "Controlled Engagement",
+    "Requirements": "At least Novice in First Mate required",
+    "Effect": "When you use the Help action to aid a crew member’s attack against a hostile creature aboard your ship, the helped creature also has advantage on its next saving throw before the end of its next turn."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "3",
+    "Ability": "Lockdown Zones",
+    "Requirements": "At least Green in Engineer required",
+    "Effect": "At the start of combat aboard your ship, you may designate up to two areas or corridors you can see. Hostile creatures treat these areas as difficult terrain. In addition, the first time each hostile creature enters one of these areas, it must succeed on a Strength saving throw or be knocked prone."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "3",
+    "Ability": "Compartmentalize",
+    "Requirements": "At least Green in Engineer required",
+    "Effect": "When combat begins aboard your ship, you may use a bonus action to seal, barricade, or reroute access through internal passages you can see. Choose up to two corridors, hatches, stairs or rooms. Until the end of combat creatures that you have not designated must make a Strength save against your DC to pass through."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "4",
+    "Ability": "Boarding Suppression",
+    "Requirements": "None",
+    "Effect": "When a hostile creature aboard your ship makes an attack against a crew member, you may use your reaction to impose disadvantage on the attack. If the attack misses, the hostile creature’s speed is reduced to 0 until the start of its next turn."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "4",
+    "Ability": "Internal Kill Box",
+    "Requirements": "At least Advanced in Engineer required",
+    "Effect": "Choose one area aboard your ship. While you are conscious: hostile creatures have disadvantage on attack rolls in this area; opportunity attacks made by your crew in this area are made at advantage; hostile creatures cannot benefit from resistance to your attacks in this space."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "5",
+    "Ability": "Shipwide Readiness",
+    "Requirements": "At least Novice in Lookout required",
+    "Effect": "While you are conscious aboard your ship, crew members gain advantage on initiative rolls during boarding actions or internal combat. In addition, the first hostile creature to act each round aboard your ship has disadvantage on its first attack roll."
+  },
+  {
+    "Role": "Security Officer",
+    "Level": "5",
+    "Ability": "Zero Breach Doctrine",
+    "Requirements": "Expert in Engineer required",
+    "Effect": "When a hostile creature would open a new breach, destroy a bulkhead, or create a new access point aboard your ship, you may use your reaction to negate the effect. The hostile creature instead takes force damage equal to twice your proficiency bonus and is knocked prone. Once you use this feature, you cannot use it again until you finish a long rest."
+  }
+]
