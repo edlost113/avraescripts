@@ -1,0 +1,10 @@
+!alias alljobs embed
+<drac2>
+ch=character()
+jobs = ["Engineer","Helmsman", "Cook", "First Mate", "Gunner", "Lookout", "Navigator", "Captain", "Medical Officer", "Security Officer" ]
+for job in jobs:
+    ch.create_cc_nx(job, 1215, 1215, "none", "bubble", initial_value=1215)
+</drac2>
+-title "Cheater now has all jobs"
+-desc "break multiline now"
+-footer "!alljobs - made by edlost"

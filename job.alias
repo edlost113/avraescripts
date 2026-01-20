@@ -6,17 +6,21 @@ def get_cc(c):
         return 0
 
 ch=character()
+arg = "&1&"
 jobs = ["Engineer","Helmsman", "Cook", "First Mate", "Gunner", "Lookout", "Navigator", "Captain", "Medical Officer", "Security Officer" ]
+
 abilities = load_json(get_gvar('bd3338e5-a40c-437e-9132-c985c724e5fe'))
 maxrank = 0
 arr = []
 arrAbilities = []
 arrRanks = []
 arrJobs = []
+arrJobsLower = []
 for job in jobs:
     total = get_cc(job)+get_cc(job.lower())
     if int(total) > 0:
         arrJobs.append(job)
+        arrJobsLower.append(job.lower)
         if int(total)>=1215:
             fline3 = f"you're an Expert {job}"
             arr.append(fline3)
@@ -43,42 +47,121 @@ for job in jobs:
                 if maxrank >= int(ability["Level"]):
                     arrAbilities.append(ability)
         data = '\n'.join(arr)
+
 extralines = ""
 extralines2 = ""
 extralines3 = ""
 extralines4 = ""
+extralines5 = ""
+extralines6 = ""
+extralines7 = ""
+extralines8 = ""
+extralines9 = ""
+extralines10 = ""
+
 count = 0
 for ability in arrAbilities:
     if ability["Requirements"] == "None" or any(job in ability["Requirements"] for job in arrJobs):
         count += 1
         abilityText = ability["Effect"]
         abilityText=abilityText[:1020]+'`...' if len(abilityText)>1024 else abilityText
-        if count >=63:
+        if count >= 135:
+            extralines10 = extralines10 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 120:
+            extralines9 = extralines9 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 105:
+            extralines8 = extralines8 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 90:
+            extralines7 = extralines7 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 75:
+            extralines6 = extralines6 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 60:
+            extralines5 = extralines5 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
+        elif count >= 45:
             extralines4 = extralines4 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
-        if count >=42:
+        elif count >=30:
             extralines3 = extralines3 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
-        elif count >= 21:
+        elif count >= 15:
             extralines2 = extralines2 + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
         else:
             extralines = extralines + f' -f "Role: {ability["Role"]}\nAbility: {ability["Ability"]}\nRank {int(ability["Level"])}|{abilityText}"'
 
-desc = data
+desc = data + "\n" + f"Count {count}"
 desc=desc[:1020]+'`...' if len(desc)>1024 else desc
 
 footer = f"!jobinfo - made by edlost"
 embed1 = f'embed -title "Job Abilities" -desc "{desc}" {extralines} -footer "{footer}" -thumb "{ch.image}"'
-embed2 = f'embed -title "Job Abilities" -desc "Continued" {extralines2} -footer "{footer}" -thumb "{ch.image}"'
-embed3 = f'embed -title "Job Abilities" -desc "Continued" {extralines3} -footer "{footer}" -thumb "{ch.image}"'
-embed4 = f'embed -title "Job Abilities" -desc "Continued" {extralines4} -footer "{footer}" -thumb "{ch.image}"'
+embed2 = f'embed -title "Job Abilities" -desc "embed2" {extralines2} -footer "{footer}" -thumb "{ch.image}"'
+embed3 = f'embed -title "Job Abilities" -desc "embed3" {extralines3} -footer "{footer}" -thumb "{ch.image}"'
+embed4 = f'embed -title "Job Abilities" -desc "embed4" {extralines4} -footer "{footer}" -thumb "{ch.image}"'
+embed5 = f'embed -title "Job Abilities" -desc "embed5" {extralines5} -footer "{footer}" -thumb "{ch.image}"'
+embed6 = f'embed -title "Job Abilities" -desc "embed6" {extralines6} -footer "{footer}" -thumb "{ch.image}"'
+embed7 = f'embed -title "Job Abilities" -desc "embed7" {extralines7} -footer "{footer}" -thumb "{ch.image}"'
+embed8 = f'embed -title "Job Abilities" -desc "embed8" {extralines8} -footer "{footer}" -thumb "{ch.image}"'
+embed9 = f'embed -title "Job Abilities" -desc "embed9" {extralines9} -footer "{footer}" -thumb "{ch.image}"'
+embed10 = f'embed -title "Job Abilities" -desc "embed10" {extralines10} -footer "{footer}" -thumb "{ch.image}"'
+descfinal = ""
 output = f"{ctx.prefix}{embed1} "
-if count >= 63:
+if count >= 135:
     output = output + f"\n{ctx.prefix}{embed2} "
     output = output + f"\n{ctx.prefix}{embed3} "
     output = output + f"\n{ctx.prefix}{embed4} "
-if count >=42:
+    output = output + f"\n{ctx.prefix}{embed5} "
+    output = output + f"\n{ctx.prefix}{embed6} "
+    output = output + f"\n{ctx.prefix}{embed7} "
+    output = output + f"\n{ctx.prefix}{embed8} "
+    output = output + f"\n{ctx.prefix}{embed9} "
+    output = output + f"\n{ctx.prefix}{embed10} "
+elif count >= 120:
     output = output + f"\n{ctx.prefix}{embed2} "
     output = output + f"\n{ctx.prefix}{embed3} "
-elif count >= 21:
+    output = output + f"\n{ctx.prefix}{embed4} "
+    output = output + f"\n{ctx.prefix}{embed5} "
+    output = output + f"\n{ctx.prefix}{embed6} "
+    output = output + f"\n{ctx.prefix}{embed7} "
+    output = output + f"\n{ctx.prefix}{embed8} "
+    output = output + f"\n{ctx.prefix}{embed9} "
+elif count >= 105:
     output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+    output = output + f"\n{ctx.prefix}{embed4} "
+    output = output + f"\n{ctx.prefix}{embed5} "
+    output = output + f"\n{ctx.prefix}{embed6} "
+    output = output + f"\n{ctx.prefix}{embed7} "
+    output = output + f"\n{ctx.prefix}{embed8} "
+elif count >= 90:
+    output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+    output = output + f"\n{ctx.prefix}{embed4} "
+    output = output + f"\n{ctx.prefix}{embed5} "
+    output = output + f"\n{ctx.prefix}{embed6} "
+    output = output + f"\n{ctx.prefix}{embed7} "
+elif count >= 75:
+    output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+    output = output + f"\n{ctx.prefix}{embed4} "
+    output = output + f"\n{ctx.prefix}{embed5} "
+    output = output + f"\n{ctx.prefix}{embed6} "
+elif count >= 60:
+    output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+    output = output + f"\n{ctx.prefix}{embed4} "
+    output = output + f"\n{ctx.prefix}{embed5} "
+elif count >= 45:
+    output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+    output = output + f"\n{ctx.prefix}{embed4} "
+elif count >=30:
+    output = output + f"\n{ctx.prefix}{embed2} "
+    output = output + f"\n{ctx.prefix}{embed3} "
+elif count >= 15:
+    output = output + f"\n{ctx.prefix}{embed2} "
+
+if arg.lower() == "debug":
+    descfinal = f"Embed1={len(embed1)}\nEmbed2={len(embed2)}\nEmbed3={len(embed3)}\nEmbed4={len(embed4)}\nEmbed5={len(embed5)}\nEmbed6={len(embed6)}\nEmbed7={len(embed7)}\nEmbed8={len(embed8)}\nEmbed9={len(embed9)}\nEmbed10={len(embed10)}\n"
+    embed11 = f'embed -title "Debug" -desc "{descfinal}" -footer "{footer}" -thumb "{ch.image}"'
+    output = output + f"\n{ctx.prefix}{embed11} "
+
+
 return f"""multiline {output}"""
 </drac2>
