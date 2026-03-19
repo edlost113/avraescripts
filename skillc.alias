@@ -109,7 +109,10 @@ if adv:
 elif adv == False:
     footer = footer + " dis "
 
-footer = footer + f" -b {bonus} "
+bonusNum = int(bonus)
+
+if bonusNum > 0:
+    footer = footer + f" -b {bonus} "
 
 if int(rerolls) != 8:
     footer = footer + f" -rr {rerolls} "
