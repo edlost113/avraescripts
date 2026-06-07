@@ -1,0 +1,44 @@
+<drac2>
+d6_roll = vroll("1d6")
+
+if d6_roll.total == 1:
+    d100_roll = vroll("1d100")
+    t = d100_roll.total
+
+    hauntings = {
+        "Cursed Hireling": "One of your Bastion's hirelings is cursed. As long as the hireling remains cursed, it won't leave the special facility it manages, and any work conducted in that facility takes twice as long to complete.",
+        "Free-Roaming Spirit": "A random special facility in your Bastion becomes Haunted. If all the special facilities in the Bastion are already Haunted, the DM rolls again on the Bastion Hauntings table.",
+        "Friendly Ghost": "A benevolent spirit possesses a hireling of the DM's choice. If the special facility where the hireling works produces items or Gold Pieces, it produces twice as much as usual as long as the hireling remains possessed. The spirit departs after 14 days.",
+        "Hidden Room": "The spirits reveal a hidden closet within your Bastion. Add a 5-foot-square space to your Bastion. Something might lie inside, at the DM's discretion.",
+        "Lightning Storm": "Trade orders issued this turn have no effect (including one that triggered this haunting, if applicable). If you have a Lightning Generator special facility, this Bastion Haunting has no effect.",
+        "Living Dead": "A group of mindless undead shamble from the Mists. The Attack Bastion event occurs, but roll 3d6 for that event rather than 6d6.",
+        "Mist Wanderers": "The Mists rise and 1d4 strangers emerge, seeking shelter. If there is room in your Bastion, they join as hirelings. Otherwise, they linger for 1d4 days before vanishing into the Mists.",
+        "Mysterious Priest": "A hooded priest appears at the Bastion, attracted by its haunting. Roll any die. One of the following occurs based on whether you rolled an even or an odd number:\n**Inquisitor (Even):** The priest is a witch hunter. If you have an Ancient Altar, Arcane Study, Cabinet of Curiosities, or Séance Parlor in your Bastion, the priest destroys it and you must replace it with a different special facility. If your Bastion has none of these, the Extraordinary Opportunity Bastion event occurs.\n**Exorcist (Odd):** The priest is an exorcist. If you have a Reliquary, Sacristy, Sanctuary, or Sanctum in your Bastion, the priest offers to remove a haunting from one facility. If you agree, choose one Haunted facility; that facility is no longer Haunted.",
+        "Ill Luck": "Accidents and bad luck plague your Bastion. Harvest orders issued this turn have no effect (including one that triggered this haunting, if applicable).",
+        "Poltergeist": "Disruptive happenings plague the Bastion. Empower and Research orders issued this turn have no effect (including one that triggered this haunting, if applicable).",
+        "Spatial Warp": "The nature of a Bastion special facility changes. Roll 1d4. On a 4, replace one of your Bastion's special facilities with another for which you qualify; otherwise, increase the size of a Cramped special facility in your Bastion to Roomy or a Roomy one to Vast, at no cost.",
+        "Spectral Vision": "A ghostly vision of a past event plays out. You gain some insight into the spirits that haunt your Bastion or the history of the surrounding land, as though affected by the Legend Lore spell.",
+        "Vistani Visitors": "Vistani travelers visit your Bastion, drawn by tales of the spirits that inhabit it. In return for a night's shelter, they offer to reveal your fate via a casting of the Augury spell or through a tarokka reading. If you turn them away, they depart, but the highest-level special facility in your Bastion that isn't already Haunted becomes Haunted.",
+    }
+
+    if t <= 7: haunting = "Cursed Hireling"
+    elif t <= 15: haunting = "Free-Roaming Spirit"
+    elif t <= 22: haunting = "Friendly Ghost"
+    elif t <= 29: haunting = "Hidden Room"
+    elif t <= 38: haunting = "Lightning Storm"
+    elif t <= 47: haunting = "Living Dead"
+    elif t <= 55: haunting = "Mist Wanderers"
+    elif t <= 63: haunting = "Mysterious Priest"
+    elif t <= 71: haunting = "Ill Luck"
+    elif t <= 79: haunting = "Poltergeist"
+    elif t <= 86: haunting = "Spatial Warp"
+    elif t <= 93: haunting = "Spectral Vision"
+    else: haunting = "Vistani Visitors"
+
+    desc = f"Rolled a **{d6_roll}** on the d6 — something stirs...\nRolled a **{d100_roll}** on the d100: **{haunting}**!"
+    haunting_desc = hauntings[haunting]
+    return (f'embed -title "Haunted Roll" -desc "{desc}" -f "{haunting}|{haunting_desc}" -footer "!haunted - made by edlost"')
+else:
+    desc = f"Rolled a **{d6_roll}** on the d6 — nothing happens."
+    return (f'embed -title "Haunted Roll" -desc "{desc}" -footer "!haunted - made by edlost"')
+</drac2>
